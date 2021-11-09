@@ -1,0 +1,57 @@
+I;B;47;47b;06;Durante;Verónica Haydeé;24224393;Mouse;Mickey;33333333
+I;B;22;22c;14;Ibarra;Norma Beatriz;20258023;Mouse;Mickey;33333333
+I;C;108;108d;14;Albarengue;Gabriela Karina;25112730;Gastiarena;José Luis;17971439
+I;C;108;108f;03;Piñeiro;Yesica Analia;28528783;Arriola;Armando Damián;28297349
+I;C;108;108f;04;Quilindro;Melina Elizabeth;32172964;Mouse;Mickey;33333333
+I;C;108;108f;12;Romera;Adriana Karina;28792330;Mouse;Mickey;33333333
+I;B;22;22b;01;Estigarribia;Nora Edelmira;14913223;Mouse;Mickey;33333333
+I;B;22;22a;09;Lora;Graciela Liliana;18336596;Mouse;Mickey;33333333
+I;B;22;22b;04;Arque;Adelina Angélica;16344416;Montovia;Julio César;20492358
+I;B;47;47b;13;Montenegro;Marisa Elisabel;20039532;Mouse;Mickey;33333333
+I;B;22;22b;14;García;Marta René;13612908;Mouse;Mickey;33333333
+I;B;22;22b;17;Rivero;Romina Yésica;31729963;Mouse;Mickey;33333333
+I;B;22;22b;18;Barroca;Norma Graciela;14914845;Mouse;Mickey;33333333
+I;B;22;22c;01;Guzman;Zulema Noemí;13102626;Mouse;Mickey;33333333
+I;B;22;22c;07;Madrid;Cintia Pamela;32172933;Mouse;Mickey;33333333
+I;B;22;22c;12;Rincon;Mariela Elisabeth;31729882;Mouse;Mickey;33333333
+I;B;22;22g;04;Ganduglia;María Cristina;20756016;Mouse;Mickey;33333333
+I;C;108;108a;11;Otaso;Natalia Belén;40741674;Mouse;Mickey;33333333
+I;C;108;108a;04;Pellegrino;Daiana Xiomara;34043807;Mouse;Mickey;33333333
+I;B;22;22d;12;Lopez;Sandra Mabel;23013486;Mouse;Mickey;33333333
+I;B;22;22d;09;Peralta;Margarita Felisa;18559004;Mouse;Mickey;33333333
+I;B;22;22d;01;Basualdo;Justa Teresa;6168387;Mouse;Mickey;33333333
+I;B;22;22d;02;Diaz;Nancy María;14114653;Mouse;Mickey;33333333
+I;B;22;22d;04;Estigarribia;Zulema Natividad;16102143;Mouse;Mickey;33333333
+I;B;22;22d;05;Mansilla;María Manuela;10586899;Medina;Oscar Alberto;10836513
+I;B;22;22d;08;Baca;Silvia Marina;22630824;Alvarengo;Martin;18608664
+I;B;22;22c;04;Palavecino;María Julia;16638693;Mouse;Mickey;33333333
+I;B;22;22b;16;Zemborain;Silvia Graciela;10836646;Mouse;Mickey;33333333
+I;B;22;22b;12;Albarengo;Ana Maria;21550853;Mouse;Mickey;33333333
+I;B;22;22b;11;Cabrera;Marta Ceferina;23818751;Ruiz;Ricardo Ernesto;20755815
+I;B;22;22b;08;Durand;Blanca Susana;17510526;Mouse;Mickey;33333333
+I;B;22;22b;03;Roldan;Maria Teresa;14114696;Mouse;Mickey;33333333
+I;B;47;47b;16;Saldaño;Beatriz Isabel;11363643;Mouse;Mickey;33333333
+I;B;47;47d;10;Etchgoin;Hilda Beatriz;14527432;Erreguerna;Hector Ismael;12143620
+I;C;108;108c;05;Tochi;Daniel Oscar;29849049;Mouse;Mickey;33333333
+I;C;108;108d;08;Diaz;María EugeniaMarta;21808236;Mouse;Mickey;33333333
+I;C;108;108d;12;Ludueña;Mónica Patricia;18634551;Mouse;Mickey;33333333
+I;B;22;22f;07;Obando Zuñiga;Sandra Elizabeth;92723433;Mouse;Mickey;33333333
+I;B;22;22f;03;Obredor;Nora Beatriz;21550898;Palavecino;Julio César;11662990
+I;B;22;22e;08;Godoy;María del Carmen;13907771;Mouse;Mickey;33333333
+I;B;22;22e;02;Sosa;Mónica Graciela;18556523;Manrique;Marcelo Orlando;18539554
+I;B;22;22e;01;Garis;Graciela Karina;23393861;Lucero;Ramón Enrique;24224317
+I;B;22;22d;17;Pierrestegui;Marta del Carmen;4460349;Mouse;Mickey;33333333
+I;B;22;22d;14;Mamondi;Olga Esther;16845294;Correra;Santos Aquiles;16355555
+I;B;47;47d;14;Castro;María Gimena;34850916;Melcon;Rafael Guillermo;27171018
+I;B;47;47b;03;Mellado;Beatriz Liliana;14527333;Mouse;Mickey;33333333
+I;B;22;22h;18;Huenalaf;Nilda Noemí;22124107;Mouse;Mickey;33333333
+I;B;22;22h;03;Lopez;María Araceli;17013696;Mouse;Mickey;33333333
+I;B;22;22h;01;Bonavitta;Nelly Edith;16102353;Cesar;Francisco Abel;8701988
+I;B;22;22g;10;Peyrano;Gabriela Belén;36537951;Mouse;Mickey;33333333
+I;B;47;47d;05;Cañete;María verónics;24224773;Dujmovic;Francisco  Rubén;27302481
+I;B;47;47b;26;Bustamante;Luciana Ximena;25041264;Mouse;Mickey;33333333
+I;B;47;47b;25;Bonastre;Pablo;10736161;Mouse;Mickey;33333333
+I;B;47;47b;24;Bustamante;María Belén;29849263;Mouse;Mickey;33333333
+I;B;47;47b;22;Remeicos Cemborain;Estela Nancy;17013712;Leon;Oscar Alejandro;16102246
+I;B;47;47b;19;Vidal;Alicia Noemí;23013435;Mouse;Mickey;33333333
+I;B;47;47b;14;Erreguerna;Elsa Joaquina;13810301;Tolosa;Oscar Aníbal;10396873

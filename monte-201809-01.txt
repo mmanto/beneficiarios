@@ -1,0 +1,2 @@
+VALENZUELA;Pablo Ariel;32560953;argentina;12/10/1986;Carlos Silvero;Blanca Rosa Valenzuela;1;Mouse;Mickey;33333333;Arg.;01/01/1911;Padre;Madre;10;Roque Pérez Nro. 305;71;01;;95000;30;I;C;Chacra 68;73-8-2015;06/04/2015;52/97
+SOTUYO;Marcelo Ezequiel;36509973;argentina;23/09/1992;Marcelo Sotuyo;Leonida Gonsalez;1;Mouse;Mickey;33333333;Arg.;01/01/1911;Padre;Madre;10;Giagnocovo Nro. 1379;71;02;;87000;30;I;C;Chacra 68;73-8-2015;06/04/2015;52/97

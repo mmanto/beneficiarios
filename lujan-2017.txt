@@ -1,0 +1,45 @@
+LIZARRAGA;María Cristina;17883986;argentina;17/10/1966;Micaela Aguirre;Pablo Lizarraga;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes y Storni;2f;1b;IV;C;2;64-34-2013
+VELIZ;Clara del Carmen;31489471;argentina;22/11/1983;Luis Rodolfo Veliz;Julia Estela Coronel;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones e/ Storni y Darwin;2f;10a;IV;C;2;64-34-2013
+FERNANDEZ MOLINA;Elena;92494403;chilena;10/02/1936;…………………………….;Rosa Molina Britos;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin y Corrientes;2f;19a;IV;C;2;64-34-2013
+NIEVAS;Mónica Beatriz;18557979;argentina;04/01/1966;Antonio Amalio Nievas;Mirta Aurora Villavicencio;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur Nº 3105;2g;22;IV;C;2;64-34-2013
+ORTIZ;Vanesa;28740945;argentina;……………..;……………………………..;…………………………………...;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;…………………………..;2g;18;IV;C;2;64-34-2013
+MELO;Josefa Antonia;14965473;argentina;11/09/1962;Antonio Isidoro Melo;María Asunción Fernández;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes E/ Darwin y Storni S/N;2f;24a;IV;C;2;64-34-2013
+MOSCOBI;Rosa María de los Ángeles;31269881;argentina;30/08/1984;……;Zulma Noemí Moscobi;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes Nº 2575;2f;26a;IV;C;2;64-34-2013
+SERSING;Norma Isabel;21301290;argentina;02/04/1970;Alberto Sersing;Ubalda Rivas;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur  Nº 3174;2g;14;IV;C;2;64-34-2013
+CAMPOS;Ana Betsabe;92584118;chilena;……………..;…………………………;Elena Fernández Molina;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin e/ Corrientes y Misiones;2f;18a;IV;C;2;64-34-2013
+LEIVA;Juana;14490159;argentina;19/08/1961;Crispin Leiva;Asunción Edulfa Cabral;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes Nº 2509;2f;22a;IV;C;2;64-34-2013
+MONTES;Benita;21435727;argentina;12/01/1970;Florentino Montes;Mari Estela Coronel;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur Nº 3114;2g;19;IV;C;2;64-34-2013
+VALENZUELA;Ester Miriam;21314602;argentina;11/12/1969;…………………………….;Ernestina del Valle Valenzuela;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;A. Storni Nº 3117;2f;2a;IV;C;2;64-34-2013
+CAMPOS;Gloria Argentina;26013627;argentina;31/07/1977;Antonio Segundo Campos;Rosa Clara Sánchez;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Mosconi Nº 5550;2f;5a;IV;C;2;64-34-2013
+BASES;Marisol;35532690;argentina;21/08/1988;Hugo Bases;Alba Legal;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Capitán Lujan S/N;2f;9a;IV;C;2;64-34-2013
+GALLARDO;Carla Lilian;32850216;argentina;30/07/1986;Ramón Domingo Gallardo;Luisa Raquel Bermúdez;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones Nº 2556;2f;11a;IV;C;2;64-34-2013
+OJEDA;Beatriz Gisela;24500141;argentina;25/03/1975;Estanislao Víctor Ojeda;Dora Noemí Maidana;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones Nº 2542;2f;12a;IV;C;2;64-34-2013
+GALLARDO;Sabrina Jaqueline;38697918;argentina;19/04/1995;Ricardo David Gallardo;Juana Leiva;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin esq. Corrientes S/N;2f;13a;IV;C;2;64-34-2013
+BALANTE;Mónica Micaela;43656364;argentina;31/01/1988;Miguel Ángel Balante;Mercedes Bernabela López;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin Nº 3179;2f;15a;IV;C;2;64-34-2013
+DE LUCA AQUINO ;Rocío Elvira;34406044;argentina;14/01/1989;Juan Andrés De Luca;Ángela Aquino;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin Nº 3131;2f;16a;IV;C;2;64-34-2013
+BRANCATTO;María Fernanda;22647397;argentina;29/05/1972;Carlos Vicente Brancatto;Nélida Beatriz Cárdenas;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin Nº 3160;2f;17a;IV;C;2;64-34-2013
+BARRAZA;Silvia Susana;31245548;argentina;16/08/1984;José Antonio Barraza;Azucena Jacinta Ferreira;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin N° 3126;2f;21a;IV;C;2;64-34-2013
+FORCINITI;Claudia Cristina;16548665;argentina;03/12/1963;Pedro Domingo Forciniti;Celina Aide Delmas;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes y Darwin s/n;2g;1;IV;C;2;64-34-2013
+ITTNER;Rosa Marly;18239792;argentina;04/05/1967;Bilmut Ittner;Elsa Olbach;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin Nº 3143;2g;4;IV;C;2;64-34-2013
+CASCO;Nancy Jorgelina;29037013;argentina;18/10/1981;Hugo Oscar Casco;María de los Ángeles Di Franco;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin Nº 3161;2g;6;IV;C;2;64-34-2013
+FERNANDEZ;Blanca Norma;16444680;argentina;19/05/1963;Gines Fernández;Lina Ester Zabala ;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin e/ Corrientes y Misiones;2g;8;IV;C;2;64-34-2013
+PEREZ;María Elena;22702755;argentina;13/06/1972;Francisco Gregorio Pérez;Julia Elena Chilichino;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones Nº 2462;2g;11;IV;C;2;64-34-2013
+NAVARRO ;Elizabeth Beatriz;37681102;argentina;22/05/1993;Luis Ángel Navarro;Adriana Patricia Brancatto;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur Nº 3181;2g;12;IV;C;2;64-34-2013
+PALACIOS;María del Carmen;22748467;argentina;08/03/1972;Miguel Palacios;Selva Argentina Aguirre;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur Nº 3161;2g;15;IV;C;2;64-34-2013
+SANTO;Yésica Carla Gabriela;33905070;argentina;16/04/1984;Daniel Guillermo Santo;Claudia Graciela Viola;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur Nº 3154;2g;16;IV;C;2;64-34-2013
+PEDRAZA;Fabiana Marcela;18663008;argentina;23/08/1967;Juan Tomás Pedraza;Teresa Izzes;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur Nº 3153;2g;17;IV;C;2;64-34-2013
+FERNANDEZ;Yolanda Ana;11713861;argentina;19/11/1954;Gines Fernández;Lina Ester Zabala ;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes e/ Pasteur y Darwin;2g;23;IV;C;2;64-34-2013
+PAPESCHI;Gabriela Alejandra;26167455;argentina;23/12/1977;Francisco Papeschi;Marcela Liliana Gagno;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Fleming y Entre Ríos;2f;3a;IV;C;2;64-34-2013
+LUZARDO COIMBRA;Jacqueline Rosana;18853989;argentina;30/04/1972;Leoncio Luzardo;Ana María Coimbra;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Dr. Lupi y Pasteur S/N;2f;25a;IV;C;2;64-34-2013
+PAPESCHI;Jorge Luis;29970282;argentina;04/01/1983;Francisco Papeschi;Marcela Liliana Gagno;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Storni Nº 3190;2f;6a;IV;C;2;64-34-2013
+PALACIOS;Walter Ezequiel;40290110;argentina;17/12/1991;;Cristina Isabel Palacios;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Storni e/ Corrientes y Misiones;2f;8a;IV;C;2;64-34-2013
+DEL VALLE;Antonio Dionisio;24236584;argentina;21/03/1975;Antonio Fermín Del Valle;Leonor Gregoria Almeyda;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones Nº 2512;2f;14a;IV;C;2;64-34-2013
+HERNANDEZ;Fernando Gabriel;25778049;argentina;20/07/1976;Liborio Oscar Hernández;Victoriana Flores;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin e/ Corrientes y Misiones;2g;3;IV;C;2;64-34-2013
+PIRIS;Arturo Roberto;11936653;argentina;13/05/1958;………………………………………….;Ana Fernández;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Darwin Nº 3169;2g;7;IV;C;2;64-34-2013
+VELARDEZ;Jorge Oscar;16377892;argentina;04/11/1963;Domingo  Velardez;Facunda González;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones N° 2492;2g;9;IV;C;2;64-34-2013
+GALLARDO;David Ricardo;20431220;argentina;19/09/1968;Oscar Pedro Gallardo;María Ramona Lutte;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones N° 2468;2g;10;IV;C;2;64-34-2013
+ZAPATA;Raúl Damián;31245564;argentina;29/07/1984;Raúl Alberto Zapata;Graciela Noemí Navarro;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Misiones Nº 3182;2g;13;IV;C;2;64-34-2013
+RODRIGUEZ;Jonatan Marcelo;29651632;argentina;18/08/1982;Jorge Marcelo Rodríguez;Yolanda Ana Fernández;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Pasteur e/ Corrientes y Misiones;2g;21;IV;C;2;64-34-2013
+PAPESCHI;Roberto Agustín;28740648;argentino;06/04/1980;Francisco Papeschi;Marcela Liliana Gagno;Mouse;Mickey;33333333;argentina;05/05/2001;Padre;Madre;Corrientes S/N;2g;24;IV;C;2;64-34-2013
+WOLOCHI;Mónica Lorena;25778471;argentina;27/12/1976;Ramón Antonio Wolochi;María Inés Viola;GALLARDO;Marcelo Alejandro;30647468;argentina;05/04/1984;Ramón Domingo Gallardo;Luisa Raquel Bermúdez;Alfonsina Storni y Misiones S/N;2f;7a;IV;C;2;64-34-2013
+CURCIO;Pablo;28179445;argentina;………….;…………….;……………….;LUBO;Soledad;30647236;……;……;…..;……;Pasteur N° 3124;2g;20;IV;C;2;64-34-2013

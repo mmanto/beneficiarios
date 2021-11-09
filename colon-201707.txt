@@ -1,0 +1,78 @@
+CRUCIANELLI;José Oscar;17053545;argentina;20/03/1965;Elsio Oscar Crucianelli;Nilda Yolanda Giacometti;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 Y 127 N° 707;94a;12;I;F;94;21-2-97
+SANCHEZ;Héctor Osvaldo;17471567;argentina;01/01/1966;Estirlo Valerio Sanchez;Zulema Delicia Caceres;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 bis e/ 128 y 129;94b;14;I;F;94;21-2-97
+MORRO;Alfredo Miguel;18200227;argentina;10/10/1967;Miguel Morro;Rita Aurelia Piaggio;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;129 N° 762;94c;03;I;F;94;21-2-97
+CAMPAGNO;Heber Atilio;23407302;argentina;06/06/1973;Atilio Hipolito Campagno;Graciela Ramona Perez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;49 N° 1386;94c;16;I;F;94;21-2-97
+ADVINCULO;Ezequiel Daniel;38290869;argentina;30/09/1994;Carlos Advinculo;Analia Roganovich;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;50 bis e/ 127 y 128;94h;09;I;F;94;21-2-97
+HEREDIA;Ines Carolina ;24789426;argentina;28/11/1975;Eduardo Arturo Heredia;Maria Esther Monte;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;128 e/ 48 bis y 49 N° 742;94f;03;I;F;94;21-2-97
+OLIVERA ;Estela Luján;27379845;argentina;02/05/1979;Salvador Enrique Olivera;Roberta Paniagua;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 e/ 47 y 47 bis N° 657;91b;14;I;F;91;21-13-02
+GARCIA;Nilda;23895796;argentina;10/09/1974;Marcelino Garcia;Marcelina Barreto;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 N° 3068;94a;15;I;F;94;21-2-97
+MOJICA;María de Los Angeles;23646057;argentina;20/05/1974;;Dora Manuela Mojica;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 bis e/ 128 y 129 N° 1379;94a;06;I;F;94;21-2-97
+PIÑEIRO;Marcela Viviana;16748257;argentina;25/03/1964;José Manuel Piñeiro;Otilia Elisa Foglia;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;131 e/ 47 y 47 bis N° 646;91b;04;I;F;91;21-13-02
+LIZASOAIN;Mónica Ester;23443579;argentina;16/04/1974;Jorge Bienvenido Lizasoain;Melchora Gladys Sabadini;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;128 N° 713;94a;11;I;F;94;21-2-97
+NOGUERA;Claudia Alejandra;26456811;argentina;29/08/1978;Miguel Santos Garcia;Margarita Nogueira;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;calle 47 y 131 N° 640;91b;01;I;F;91;21-13-02
+BRUNO;Julieta Noemi;24291750;argentina;04/07/1975;Raul Ismael Bruno;Sara Noemi Galeano;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;49 bis e/ 127 y 128 N° 1313;94g;06;I;F;……..;21-2-97
+KLAS;Mabel Zulema;17187321;argentina;05/01/1965;Daniel Klas;Maria Abrelux;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;131 e/ 46 y 47;91a;04;I;F;91;21-13-02
+MORENO;Liliana Beatriz;17731227;argentina;27/04/1966;Mariano Cervando Moreno;Maria Etelvina Décima;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 N° 1469 e/ 130 y 131;91a;12;I;F;91;21-13-02
+MORRI;Nancy Mabel;18434991;argentina;19/03/1967;José Morri;Sara Rafael;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;46 e/ 130 y 131 N° 1484;91a;26;I;F;91;21-13-02
+ROCCA;María Mercedes;22258529;argentina;28/11/1971;Rocca Carlos Enrique;Teresa Sara Biffano;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;46 e/ 130 y 131 N° 1480;91a;25;I;F;91;21-13-02
+ALCARAZ;Olga Ester;14716359;argentina;21/06/1962;Alejandro Alcaraz;Ramona Benitez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 e/128 y 129 N° 1362;94a;14;I;F;94;21-2-97
+CASTRO;Mónica Rosana;23646075;argentina;10/07/1974;Omar Artemio Castro;Susana Beatriz Lizarralde;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;131 y 47bis N° 674;91c;01;I;F;91;21-13-02
+JAIME;Nelida Edit;12179639;argentina;02/08/1956;Honorio Urban Jaime;Maria Concepcion Gomez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 N° 1330;94e;17;I;F;94;21-2-97
+GONZALEZ AGUILAR;Juana Bautista;95242332;paraguaya;24/07/1974;Alejandro Gonzalez;Cristina Aguilar;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 bis e/ 130 y 131 N° 1473;91b;08;I;F;91;21-13-02
+OLGUIN;Nora Adriana;14725935;argentina;24/02/1963;Oscar Mario Olguin;Blanca Zulema Aguirre;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 y 47 bis ;91b;11;I;F;91;21-13-02
+MARTINEZ;Gabriela Elisabet;37238675;argentina;19/02/1993;Victor Ramón Martinez;María Del Carmen Durán;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 E/ 130 Y 131 n° 1468;91b;17;I;F;91;21-13-02
+LUBO;Emilce Marcela;18391550;argentina;19/02/1967;Osmar Felix Lubo;Ester Nelida Garcia;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 bis E/ 129 y 130 casa 11;91e;06;I;F;91;21-13-02
+ARDIT;Yanina Pamela;32190916;argentina;07/05/1986;Ardit Evaristo Manuel;Ramona Dolorez Ortiz;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 e/ 47 bis N° 695;91c;11;I;F;91;21-13-02
+DI FONZO;María Laura;26912973;argentina;10/07/1979;Horacio Victor Di Fonzo;Stella Maris Biondi;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 e/ 129 y 130 N° 1423; 91f;07;I;F;91;21-13-02
+RODRIGUEZ;Andrea Karina;23807314;argentina;28/04/1974;Alberto Ruben Rodriguez;Marta Beatriz Bege;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 bis e/ 128 y 129 N° 1373;94a;07;I;F;94;21-2-97
+HAESLER;Vanina Yesica;27379892;argentina;09/07/1979;Sernado Haesler;Maria del Carmen Herrera;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 bis y 128 N° 717;94a;10;I;F;94;21-2-97
+NUÑEZ;Mónica Jeanette;25747772;argentina;11/03/1977;Gerardo Alberto Nuñez;Ramona Ester Ramirez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 e/ 128 y 129 ;94a;16;I;F;94;21-2-97
+CALABRO;Melina Wanda;35172503;argentina;08/12/1989;Juan Carlos Calabro;Mirian Patricia Herrero;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 N° 1380;94a;17;I;F;94;21-2-97
+ACOSTA;Andrea Alejandra;24476526;argentina;01/05/1975;Andres Antonio;Mirta Beatriz Gigenia;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 e/ 47 bis y 48;94d;13;I;F;94;21-2-97
+ARCE ;Lidia Viviana;23699061;argentina;12/11/1973;Adan Arce;America Diaz;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 bis N° 1335;94e;05;I;F;94;21-2-97
+BLANCO;Paula Andrea;24723002;argentina;17/01/1977;Manuel Blanco;Flavia Julia Ale;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;128 y 49 N° 748;94f;04;I;F;94;21-2-97
+MEZA;Jesica Maricel;39094820;argentina;24/06/1995;Abrahan Meza;Rosmari Acosta;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;49 bis e/127 y 128;94g;03;I;F;94;21-2-97
+CARBONE;Carolina Mariel;24834047;argentina;14/10/1975;Luis Horacio Carbone;Hilde Irene Ctoccetton;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;49 bis e/ 127 y 128 N| 1323;94g;04;I;F;94;21-2-97
+MARQUEZ;Mariela Griselda;23007011;argentina;23/09/1972;Camilo Saturnino Bail;Angelica Aurora Marquez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 y 128;94a;13;I;F;……..;21-2-97
+LEONE;Andrea Fabiana;23646094;argentina;24/07/1974;Manuel Rodolfo Leone;Carmen Alicia Molina;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;56 e/ 25 y 26;153g;04;I;H;153;21-5-97
+TISSERA;Maria Del Carmen;22258484;argentina;20/10/1971;Ramon Tissera;Libertad Caballé;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 e/ 130 y 131;91a;11;I;F;91;21-13-02
+FARIAS;Laura andrea;29598670;argentina;21/07/1982;Ricardo Omar Pereyra;Maria Esther Farias;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 y 130;91a;14;I;F;91;21-13-02
+FARIAS;Claudia Valeria;26916208;argentina;22/09/1978;;Mirta Graciela;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 e/ 46 y 47;91a;15;I;F;91;21-13-02
+BILICICH;Margarita Eugenia;26457499;argentina;23/08/1978;Juan Rogelio Bilicich;Eugenia Velazquez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 esq. 462 N° 603;……..;……..;I;F;……..;21-13-02
+SILVA;Cecilia Alejandra;29598615;argentina;16/06/1982;Ernesto Eusebio Silva;Maria del Carmen Obregon;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;130 N° 627;……..;……..;I;F;……..;21-13-02
+DIAZ;Monica Elizabeth;23195447;argentina;18/02/1973;Jesus Leonardo Diaz;Angela del Milagro Mascheroni;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;46 e/ 130 y 131 N° 1464;91a;22;I;F;91;21-13-02
+BARRIOS;Julieta Yesica;36117837;argentina;09/11/1991;Pedro Ramón Barrios;Maria Susana Veloz;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 e/ 129 y 130 N° 1428;91e;15;I;F;91;21-13-02
+TITO;María Soledad;26018698;argentina;07/09/1977;Rafael Ponciano Tito;Maria Ceferina Morales;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 bis e/ 129 y 130;91f;18;I;F;91;21-13-02
+MONDI;Maria Eva;10639511;argentina;25/08/1952;Jose Mondi;Sista Gomez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;128 y 49 bis N° 767;94c;10;I;F;94;21-2-97
+GALLARDO;Maria Rosa;14725826;argentina;01/08/1961;;Rosa Ester Gallardo;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;50 N° 1333;94h;06;I;F;94;21-2-97
+SCIARROTTA;Nora Maria;6430659;argentina;01/11/1950;Sciarrotta Francisco;Maria Olga Dacagnone;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;131 e/ 46 y 47 N° 612;91a;03;I;F;91;21-13-02
+BOCA;Maria Cristina;17837065;argentina;12/10/1966;Alfredo Boca;Olga Casilda Gutierrez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;47 e/ 130 y 131;91a;10;I;F;91;21-13-02
+FERNANDEZ;Anabela;32539363;argentina;29/04/1987;Daniel Ramón Fernandez;Elba Rosa Magallanes;AGUILERA ESCOBAR;Marcos;94255054;Paraguaya;07/10/1984;Concepción Aguilera;Luisa Escobar;47 e/ 130 y 131 N° 1486;91b;20;I;F;91;21-13-02
+PAYE;Erica Antonia;31364107;argentina;07/10/1983;Oscar Paye;Lidia Elizabeth Biglianco;MEDINA;Gustavo David;21601071;argentina;23/05/1970;Horacio Froilan Medina ;Segunda Orellano;130 e/ 47 y 48 N° 685;91c;13;I;F;91;21-13-02
+BARRIONUEVO;Stella Maris;14076646;argentina;14/06/1960;Juan Benito Barrionuevo;Norma Beatriz Garcia;BAILS;Victor Martin;12577623;argentina;09/10/1958;Camilo Saturnino Bails;Nelida Aurora Marquez;48 e/ 129 y 130 N° 1423;91f;08;I;F;91;21-13-02
+REYNOSO;Marcela Erminda;26018647;argentina;05/07/1977;Angel José Reynoso;Maria Ines Coliqueo;OBIA;Luis Alberto;24291727;argentina;16/05/1975;Ricardo Alberto Obia;Dora Mabel Cruz;47 bis E/ 129 y 130 casa 11;91f;19;I;F;91;21-13-02
+ROLDAN;Maria Eugenia;26650247;argentina;02/06/1978;Oscar Eufemio Roldan;Olga Teresa Sosa;ESPINDOLA;Gabriel Enrique;25016135;argentina;09/11/1975;Enrique Luján Espindola;Aurora Mercedes Lopez;48 bis N° 1362;94b;11;I;F;94;21-2-97
+GARCIA;Wilma Beatriz;16769746;argentina;14/02/1963;Clementino Alberto Garcia;Bienvenida Villanueva;GUAYARE;Alfredo Arnaldo;13813125;argentina;04/01/1960;Emiliano Guayaré;Felipa Alfonso;127 N° 703;94e;13;I;F;94;21-2-97
+BECERRO;Carla Elizabet;31428219;argentina;08/11/1983;Jorge Alberto Becerro ;Elida Graciela Rivarola;MOBILI;Lucas Andres;30312686;argentina;12/12/1983;Luis Alberto Mobili;Mirta Susana  Telleria;128 esq. 48 N° 702;94e;01;I;F;94;21-2-97
+GRECO;Leonor;93559663;Italiana;23/10/1950;Santiago Greco;Sistina MaríaTeresa Console ;FERNANDEZ;Miguel Angel;4695607;argentina;24/03/1947;Manuel Fernandez;Amanda Inés Canelo;128 N° 736;94f;02;I;F;94;21-2-97
+OCHOA;Paola Jorgelina;32995964;argentina;02/06/1987;Jorge Oscar Ochoa;Maria Isabel Gonzalez;GUAYARE;Leonardo Alfredo;30455094;argentina;20/09/1983;Alfredo Arnaldo Guayare;Wilma Beatriz Garcia;48 bis e/ 127 y 128;94f;18;I;F;94;21-2-97
+SIGNIFREDI;Fernanda Vanesa;20544946;argentina;30/05/1969;Alfredo Signifredi;Virginia Ernestina Casco;WILLEMS;Gustavo Daniel;18472228;argentina;17/12/1967;Guillermo Willems;Catalina Maria Dundic;49 e/ 127 y 128 N° 1324;94g;13;I;F;94;21-2-97
+GUZMAN;Verónica Andrea;30312627;argentina;20/11/1983;Jose Roberto Guzman;Nora Olga Olivera;UYEMAS;Oscar Alberto;24291661;argentina;26/01/1975;Ricardo Hector Uyemas;Delia Lujan Paura;49 e/ 127 y 128 N° 1330;94g;14;I;F;94;21-2-97
+ALMADA;Nancy Lorena;25528820;argentina;22/09/1976; Alfredo Oscar Almada;Maria Margarita Roldan;BRECCIA;Carlos Alberto;29068083;argentina;12/02/1981;Juan Carlos Breccia;Marta Graciela Baizan;128 e/ 48 bis y509 N° 980;94h;03;I;F;94;21-2-97
+JOVELL;Mónica Adriana;14076502;argentina;29/03/1960;Rufino Jovell;Elena Perlain;FRANCO ;Horacio Osvaldo;10954793;argentina;14/01/1954;Victor Manuel Franco;Natividad Amalia Cisneros;127 e/ 49 bis y 50;94h;11;I;F;94;21-2-97
+BONIFACIO ;Jessica;28499520;argentina;25/11/1980;Roberto Bonifacio;Alicia Graciela Benitez;CABRERA;Mario Luis;27169424;argentina;25/01/1979;Luis Fernando Cabrera;Haidee Mabel Baigorria;55 e/ 25 y 26 N° 1270;153g;13;I;H;153;21-5-97
+RODRIGUEZ;Marina Soledad;30000493;argentina;31/12/1983;Walter Rubén Rodriguez;Patricia Adriana Suarez;MOLINA;Felipe Ernesto;10954715;argentina;24/08/1953;Juan Cruz Molina;Elsa Haydee Biasotti;130 e/ 46 y 47 N° 623;91a;17;I;F;91;21-13-02
+FARIAS;Mirta Graciela;13286462;argentina;01/11/1957;Raul Farias;Benigna Piedad;DIAZ;Juan Carlos;17471622;argentina;20/02/1966;Juan Carlos Diaz;Amelia Edtih Debernardi;47 bis e/ 129 y 130 ;91e;07;I;F;91;21-13-02
+SIMANI;Mercedes;11126446;argentina;10/02/1954;Pedro Simani;Ramona del Carmen Olivera;GRAMAJO;Pedro Juan;10189416;argentina;17/03/1952;Pilar Feliciano Gramajo;Maria Cleofe Aballai;49 N° 1362;94c;12;I;F;94;21-2-97
+ZAPATA;Vanesa Maricel;32148917;argentina ;12/06/1986;Jesús Dionisio Zapata;Olga Juana Gutierrez;LABALLEN;Omar Antonio;29379450;argentina;07/04/1982;Vicente Lavallen;Maria Del Carmen Aquino;47 e/ 130 y 131;91b;19;I;F;91;21-13-02
+GARCIA;Lorena Paola;30405881;argentina;30/08/1983;;Olga Barreto;OFELIA;Diego Alberto;28130005;argentina;27/08/1980;Juan Alberto Ofelia;Griselda Angela Godoy;48 bis e/128 y 129;94a;08;I;F;94;21-2-97
+INSAUSTI;Maria Mercedes;14076609;argentina;16/02/1960;Guillermo Insausti;Amelia Margarita Diaz;BORDON;Ramon Roberto;24912748;argentina;04/02/1974;Alejandro Bordon;Cirila Godoy;49 bis e/127 y 128 N° 1334;94h;17;I;F;94;21-2-97
+ERCOLI;Betiana Vanesa;30918776;argentina;07/12/1984;Hugo Alberto Ercoli;Mirta Fabiana Arias;BARGAZ;Jose Antonio;30312675;argentina;12/12/1983;Antonio Domingo Bargaz;Silvia Graciela Tito;50 e/ 128 y 129;94d;05;I;F;94;21-2-97
+PINTO;Elsa Angelica;5014477;argentina;30/11/1944;Vicente Pinto;Ramona Antunez;PINTO;Rafaela Leonor;1674633;argentina;08/09/1934;Vicente Pinto;Ramona Antunez;48 bis N° 1319;94e;08;I;F;94;21-2-97
+VAN BECELAERE;Luciano Daniel;32995802;argentina;19/06/1987;Hector Daniel Van Becelaere;Alicia Beatriz Gomez;VAN BECELAERE;Ignacio Enrique;29598634;argentina;13/07/1982;Hector Daniel Van Becelaere;Alicia Beatriz Gomez;127 y 49 bis N° 767;94g;07;I;F;94;21-2-97
+BARGAZ;Silvana Noelia;30949083;argentina;04/11/1984;Antonio Domingo Bargaz;Silvia Graciela Tito;FRIGERIO ;Diego Oscar;29163137;argentina;02/01/1982;Hector Oscar Frigerio;Maria Cecilia Villarroel;131 e/ 46 y 47 N° 608;91a;02;I;F;91;21-13-02
+VELAZQUEZ;Nilda Noemi;27461555;argentina;27/06/1979;Pedro Velazquez;Nilda Teresa Echavarria;PORTALES;Pablo Javier;29876155;argentina;15/03/1983;;Susana Noemi Portales;131 N° 628;91a;06;I;F;91;21-13-02
+BERASALUCE;Cecilia Alejandra;30312792;argentina;28/03/1984;Carlos Berasaluce;Lidia Venturino;ACCASTELLO;Eduardo Andre;27801687;argentina;12/03/1980;Roberto José Accastello;Ines Macri;47 e/ 130 y 131;91a;09;I;F;91;21-13-02
+GUERRERO;Ivana Marcela;33133830;argentina;02/02/1988;Jose Alfredo Guerrero;Graciela Beatriz Laboret;RANGO;Juan Roberto;32539194;argentina;30/10/1986;Gervacio Atilio Rango;Nora Adriana Olguin;46 e/ 130 y 131 N° 1474;91a;24;I;F;91;21-13-02
+MAGARIÑOS;Joana Belen;36223668;argentina;18/06/1992;Alejandro Alcaraz;Ramona Benitez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 N° 128 y 129 N° 1362;94a;14;I;F;94;21-2-97
+PAZ;Rosa;23690698;argentina;27/11/1973;Pablo Isidro Paz;Josefa Mercedes Chavez;Mouse;Mickey;33333333;argentina;01/01/2001;SN;SN;48 N° 1415;91f;10;I;F;91;21-13-02

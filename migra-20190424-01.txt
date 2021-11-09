@@ -1,0 +1,1269 @@
+76;228;I;E;0;0;0;151a;06;76-2-77;17919095;Gomez;Ramon Lorenzo;;;18202422;Aguirre;Maria Cristina;;;;27/02/1998;0;0;48663
+76;228;I;E;0;0;0;151a;07;76-2-77;5072540;Ferreyra;Rosa Noemi;;;5383009;Sanchez;Jorge Isaac;;;;27/02/1998;8844;21/10/1999;48664
+76;228;I;E;0;0;0;151a;08;76-2-77;10614034;Ludueña;Rosa Beatriz;;;33333333;Mouse;Miky;;;;27/02/1998;8767;21/10/1999;48665
+76;228;I;E;0;0;0;151a;10;76-2-77;27707645;Figueroa;Maria de los Angeles;;;0;Ferreyra;Juan Carlos;;;;27/02/1998;5062;06/12/2002;48666
+76;228;I;E;0;0;0;151a;11;76-2-77;5953748;Carrizo;Maria Magdalena;;;4988526;Diconi;Julio Orlando;;;;27/02/1998;8762;21/10/1999;48667
+76;228;I;E;0;0;0;151a;12;76-2-77;12651838;Fernandez;Alicia Edith;;;33333333;Mouse;Miky;;;;27/02/1998;5084;06/12/2002;48668
+76;228;I;E;0;0;0;151a;13;76-2-77;92843950;Gonzalez;Denisse Loreley;;;33333333;Mouse;Miky;;;;27/02/1998;0;0;48669
+76;228;I;E;0;0;0;151a;15;76-2-77;16096272;Poliero;Monica Matilde;;;20043592;Zapiain;Pablo Marcelo;;;;27/02/1998;8841;21/10/1999;48670
+76;228;I;E;0;0;0;151a;16;76-2-77;16475503;Quiñones;Alejandro Alcides;;;22138928;Tolosa;Patricia Fabiana;;;;27/02/1998;0;0;48671
+76;228;I;E;0;0;0;151a;17;76-2-77;13981036;Acacio;Victor Manuel;;;20697340;Basualdo;Angelica Noemi;;;;27/02/1998;0;0;48672
+76;228;I;E;0;0;0;151a;18;76-2-77;10228057;Acosta;Urbano Enrique;;;11345526;Olgini;Maria Teresa;;;31/10/00 Municipio solicito desadjudicacion;27/02/1998;0;0;48673
+76;228;I;E;0;0;0;151a;19;76-2-77;11223483;Schell;Eduardo Anibal;;;13254017;Lardet;Susana Edith;;;;27/02/1998;5052;06/12/2002;48674
+76;228;I;E;0;0;0;151b;03;76-2-77;4732123;Andersen;Norma Amelia;;;5372691;Mosqueira;Hugo Mario;;;Escritura Art. 6 inc.e Ley 24374 -Esc. Migueles;27/02/1998;0;0;48675
+76;228;I;E;0;0;0;151b;08;76-2-77;24428346;Bozzolo;Ruben Oscar;;;12642210;Bogarini;Susana Cristina;;;;27/02/1998;0;0;48676
+76;228;I;E;0;0;0;151b;09;76-2-77;3920569;Elizarriaga;Gloria Irene;;;33333333;Mouse;Miky;;;;27/02/1998;8763;21/10/1999;48677
+76;228;I;E;0;0;0;151b;10;76-2-77;21604891;Macias;Carmen Ester;;;21748706;Lerra;Walter German;;;;23/06/2000;0;0;48678
+76;228;I;E;0;0;0;151b;11;76-2-77;11416679;Diaz;Norma Ester;;;8628067;Cañete;Luis;;;;27/02/1998;0;0;48679
+76;228;I;E;0;0;0;151b;14;76-2-77;12651853;Falcon;Marta Haydee;;;12130452;Fernandez;Jose Francisco;;;Escritura Art. 6 inc.e Ley 24374 -Esc. Migueles;27/02/1998;247;11/09/1997;48680
+76;228;I;E;0;0;0;151b;15;76-2-77;16370192;Modesto;Esteban David;;;16370380;Gonzalez;Ana Beatriz;;;;27/02/1998;5087;06/12/2002;48681
+76;228;I;E;0;0;0;151b;16;76-2-77;21988004;Lage;Hector Ariel;;;23450411;Serrano;Valeria;;;;27/02/1998;0;0;48682
+76;228;I;E;0;0;0;151b;17;76-2-77;13601063;Maldonado;Raul Antonio;;;17297796;Barilatti;Stella Maris;;;;27/02/1998;0;0;48683
+76;198;I;E;0;0;0;151d;01;76-70-64;25062684;Gentil;Cesar Hernan;;;27019736;Martinez;Yanina Fernanda;;;;27/02/1998;0;0;22346
+76;198;I;E;0;0;0;151d;02;76-70-64;24761706;Castillo;Angela Palmira;;;30060822;Llinas;Jose Ruben;;;;27/02/1998;0;0;22347
+76;198;I;E;0;0;0;151d;03;76-70-64;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;Perez, Carlos Claudio y Dominguez, Monica Patricia renunciaron 26/10/99-original en expte. EGG 2144-307/95 alc.2;0;0;0;22348
+76;198;I;E;0;0;0;151d;04;76-70-64;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;22349
+76;198;I;E;0;0;0;151d;06;76-70-64;11151567;Baez;Virgilio;;;12822725;Tripay;Rosa Elvira Nahuel;;;;27/02/1998;8764;21/10/1999;22351
+76;198;I;E;0;0;0;151d;07;76-70-64;22953105;Lagar;Angela Andrea;;;33333333;Mouse;Miky;;;solicitan segundo testimonio de escrit por exp 4081-489/11;27/02/1998;8765;21/10/1999;22352
+76;198;I;E;0;0;0;151d;08;76-70-64;13207663;Luchetta;Juan Carlos;;;12651213;Sandalichet;Clara Zunilda;;;;27/02/1998;8766;21/10/1999;22353
+76;198;I;E;0;0;0;151d;09;76-70-64;25589722;Rodriguez;Veronica Concepcion;;;13023636;Truitiño;Jose Mario;;;;27/02/1998;5063;06/12/2002;22354
+76;198;I;E;0;0;0;151d;10;76-70-64;10769686;Fradin;Ruben Omar;;;14317548;Barrionuevo;Celia Ana;;;;27/02/1998;5082;06/12/2002;22355
+76;198;I;E;0;0;0;151d;13;76-70-64;12651407;Jensen;Victor Hugo;;;12937640;Rodriguez;Ana Elvira;;;;27/02/1998;8845;21/10/1999;22358
+76;198;I;E;0;0;0;151d;14;76-70-64;20299823;Sanchez;Margarita;;;33333333;Mouse;Miky;;;;27/02/1998;5085;06/12/2002;22359
+76;198;I;E;0;0;0;151d;15;76-70-64;13503361;Soriano;Jorge Eduardo;;;33333333;Mouse;Miky;;;;27/02/1998;5081;06/12/2002;22360
+76;198;I;E;0;0;0;151d;16;76-70-64;92661726;Madrid Rodriguez;Marcela;;;33333333;Mouse;Miky;;;;27/02/1998;5064;06/12/2002;22361
+76;198;I;E;0;0;0;151d;17;76-70-64;12651704;Cepeda;Carlos Mario;;;13601298;Sopeña;Patricia Ines;;;se recibio nota de renuncia (de fecha 16/9/02);27/02/1998;0;0;22362
+76;198;I;E;0;0;0;151d;18;76-70-64;21448593;Garcia;Marcelo Luis;;;22953282;Sanabria;Carina Miriam;;;;27/02/1998;5065;06/12/2002;22363
+76;198;I;E;0;0;0;151d;19;76-70-64;21604412;Gigena;Norma Isabel;;;33333333;Mouse;Miky;;;;27/02/1998;5086;06/12/2002;22364
+76;198;I;E;0;0;0;151d;25;76-70-64;17520214;Torres;Sergio Eduardo;;;13207802;Palau;Elsa del Carmen;;;;27/02/1998;5083;06/12/2002;22370
+76;198;I;E;0;0;0;151d;26;76-70-64;2654538;Eden;Alfredo Fuhad;;;1718462;Orellano;Fortunata;;;;27/02/1998;8842;21/10/1999;22371
+76;198;I;E;0;0;0;151d;27;76-70-64;5696737;Subilete;Maria Luisa;;;3216519;Rivera Ceballos;Alfonso;;;fallecio la titular-debe presentar sucesion;27/02/1998;0;0;22372
+76;198;I;E;0;0;0;151d;28;76-70-64;23511595;Mercado;Gustavo Demian;;;23265769;Fernandez;Claudia Andrea;;;Escritura aclaratoria del 6/12/2002.-;27/02/1998;8843;21/10/1999;22373
+76;340;I;E;0;0;0;135c;01;76-32-97;28842708;Olmos;Paola Fabiana;;;23265863;Beltran;Sergio Alfredo;;;OK;17/04/2000;0;0;0
+76;340;I;E;0;0;0;135c;02;76-32-97;27827278;Tellechea;Lorena Natalia;;;33333333;Mouse;Miky;;;falta CUIL de la titular;16/12/1999;0;0;0
+76;340;I;E;0;0;0;135c;03;76-32-97;11649065;Alvarez;Maria Ines;;;16227835;Suarez;Julio Cesar;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;04;76-32-97;22778798;Cruz;Sandra Elizabeth;;;33333333;Mouse;Miky;;;OK;27/08/2003;0;0;0
+76;340;I;E;0;0;0;135c;05;76-32-97;22014587;Montenegro;Norma Cristina;;;33333333;Mouse;Miky;;;;01/07/2005;0;0;0
+76;340;I;E;0;0;0;135c;06;76-32-97;23214012;Gomez Saravia;Claudia Andrea;;;33333333;Mouse;Miky;;;OK;17/04/2000;0;0;0
+76;340;I;E;0;0;0;135c;07;76-32-97;13601235;Totaro;Mirta Susana;;;33333333;Mouse;Miky;;;falta nombre de los padres;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;08;76-32-97;12849961;Piriz;Pabla Francisca;;;33333333;Mouse;Miky;;;OK;16/12/1999;0;0;0
+76;340;I;E;0;0;0;135c;09;76-32-97;16202041;Lescano;Claudia Elisabet;;;18349559;Casal;Jose Luis;;;;10/09/2004;0;0;0
+76;340;I;E;0;0;0;135c;10;76-32-97;13601553;Vallejo y Cecchini;Adriana Elizabeth;;;33333333;Mouse;Miky;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;11;76-32-97;18035920;Barahona;Juana Isabel;;;33333333;Mouse;Miky;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;12;76-32-97;13119754;Arrascaete;Liliana Elena;;;33333333;Mouse;Miky;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;13;76-32-97;16050121;Fasciolo;Silvia Edith;;;13207818;San Pedro;Miguel;;;OK;17/04/2000;0;0;0
+76;340;I;E;0;0;0;135c;14;76-32-97;14745513;Valsecchi;Sylvia Mariana;;;33333333;Mouse;Miky;;;falta nombre de los padres;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;15;76-32-97;24761681;Merlo;Monica Graciela;;;20737100;Casado;Ivan Daniel;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;16;76-32-97;17349886;Peñalba;Nora Liliana;;;33333333;Mouse;Miky;;;OK;17/04/2000;0;0;0
+76;340;I;E;0;0;0;135c;17;76-32-97;20429352;Chambers;Monica Beatriz;;;33333333;Mouse;Miky;;;falta nombre de los padres;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;18;76-32-97;18577997;De Costa;Cristina Edith;;;14885292;Laguna;Luis;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;19;76-32-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;340;I;E;0;0;0;135c;20;76-32-97;27707617;Laterza;Carlos Daniel;;;33333333;Mouse;Miky;;;Error en la nomenclatura es 135d 02 el lote de Laterza;04/03/2008;0;0;0
+76;340;I;E;0;0;0;135c;21;76-32-97;92742332;Pardo Ponce;Daniela Cheric;;;33333333;Mouse;Miky;;;falta nombre de los padres;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;22;76-32-97;22569416;Aguirre;Lidia Isabel;;;33333333;Mouse;Miky;;;;04/03/2008;0;0;0
+76;340;I;E;0;0;0;135c;23;76-32-97;16209998;Laguna;Oscar Antonio;;;33333333;Mouse;Miky;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;24;76-32-97;18526053;Pourtau;Dora Beatriz;;;33333333;Mouse;Miky;;;OK;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;25;76-32-97;28329856;Marquez;Evangelina Soledad;;;26590142;Bravo;Mario Alberto;;;OK;17/04/2000;0;0;0
+76;340;I;E;0;0;0;135c;26;76-32-97;12692146;D amico;Claudia Beatriz;;;33333333;Mouse;Miky;;;divorciada: falta sentencia de divorcio;23/06/2000;0;0;0
+76;340;I;E;0;0;0;135c;27;76-32-97;30960992;Ibarra;Eva Isabel;;;14719648;Peon;Carlos Armando;;;falta CUIL de Ibarra;12/11/1999;0;0;0
+76;340;I;E;0;0;0;135c;28;76-32-97;16370363;Gavilan;Stella Maris;;;33333333;Mouse;Miky;;;OK;11/02/2004;0;0;0
+76;513;I;E;0;0;0;135d;01;76-15-97;4231958;Rodriguez;Dora;;;10922911;Martino;Dardo Daniel;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;02;76-15-97;20737360;Fages;Delia Analia;;;18202489;Parzon;Walter Alfredo;;;En esta Pc Estaria el Sr. Laterza;04/05/2000;0;0;0
+76;513;I;E;0;0;0;135d;03;76-15-97;18054274;Martinez;Ana Maria;;;33333333;Mouse;Miky;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;04;76-15-97;24094818;Gentil;Anabel;;;22778964;Cufre;Marcelo Alberto;;;estarian separados;20/12/1999;0;0;0
+76;513;I;E;0;0;0;135d;05;76-15-97;27019749;Franco;Luciana Patricia Natalia;;;25463147;Tumini;Luciano Angel;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;06;76-15-97;24745806;Lambrecht;Karina;;;22475386;Cañada;Fernando Nicolas;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;07;76-15-97;14792013;Rizzutto;Elsa Adriana;;;14832025;Di Fiori;Guillermo Oscar;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;08;76-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;Falta renuncia de Villagran, Zulema (BCV 17/04/00). Se cambio a la parcela siguiente;0;0;0;0
+76;513;I;E;0;0;0;135d;09;76-15-97;24839639;Villagran;Zulema;;;33333333;Mouse;Miky;;;;04/03/2008;0;0;0
+76;513;I;E;0;0;0;135d;10;76-15-97;12651336;Olivera;Monica Teresita;;;33333333;Mouse;Miky;;;separada de hecho;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;11;76-15-97;12130625;Bandiera;Monica Graciela;;;33333333;Mouse;Miky;;;(Giussi no firmo boleto);12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;12;76-15-97;24417048;Gonzalez;Monica Patricia;;;33333333;Mouse;Miky;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;13;76-15-97;31433198;Fioriti;Patricia Beatriz;;;33333333;Mouse;Miky;;;;04/05/2000;0;0;0
+76;513;I;E;0;0;0;135d;14;76-15-97;27828999;Benavidez;Natalia Veronica;;;33333333;Mouse;Miky;;;;16/12/1999;0;0;0
+76;513;I;E;0;0;0;135d;15;76-15-97;18202145;Girardi;Celia Alejandra;;;33333333;Mouse;Miky;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;16;76-15-97;17374294;Mastrillo;Norma Yolanda;;;13207007;Reguilon;Julio Eduardo;;;;17/04/2000;0;0;0
+76;513;I;E;0;0;0;135d;17;76-15-97;21604814;Corbalan;Susana Haydee;;;23719222;Gomez;Dario Alberto;;;;21/07/2000;0;0;0
+76;513;I;E;0;0;0;135d;18;76-15-97;22531579;Salvador;Karina Elizabeth;;;33333333;Mouse;Miky;;;divorciada;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;19;76-15-97;26708679;Gonzalez;Elena Veronica;;;26457558;Lagar;Ruben Rodolfo;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;20;76-15-97;20697321;Gongora;Maria del Carmen;;;21181065;Soriano;Jose Rafael;;;Se informo que falta registrar el plano y adjuntar planilla, ordenanza, etc.;21/07/2000;0;0;0
+76;513;I;E;0;0;0;135d;21;76-15-97;28447443;Lavie;Francisca Ines;;;27019647;Mazureck;Juan Guillermo;;;;21/07/2000;0;0;0
+76;513;I;E;0;0;0;135d;22;76-15-97;27707728;Lopez;Sofia Romina;;;33333333;Mouse;Miky;;;;12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;23;76-15-97;27538353;Pallero;Yolanda Ester;;;33333333;Mouse;Miky;;;;16/12/1999;0;0;0
+76;513;I;E;0;0;0;135d;24;76-15-97;23025624;Negrin;Karina Elizabeth;;;22531589;Guzman;Mauricio Rolando;;;;16/12/1999;0;0;0
+76;513;I;E;0;0;0;135d;25;76-15-97;16573625;Diaz;Ana Maria;;;16012860;Barcley;Fernando Enrique;;;26/9/00 Municipio solicito desadjudicacion;21/07/2000;0;0;0
+76;513;I;E;0;0;0;135d;26;76-15-97;16336408;Leal;Maria Teresa;;;14832173;Machado;Victor Orlando;;;;21/07/2000;0;0;0
+76;513;I;E;0;0;0;135d;27;76-15-97;5873260;Moriconi;Haydee Mabel;;;33333333;Mouse;Miky;;;(Otero no firmo boleto);12/11/1999;0;0;0
+76;513;I;E;0;0;0;135d;28;76-15-97;92769946;Larrosa Enciso;Ninfa Mabel;;;33333333;Mouse;Miky;;;;12/11/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;01;76-4-99;13825216;Ituarte;Gladys Mabel;;;11345047;Albarengo;Hector;;;Falta cuil del titular;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;02;76-4-99;10505904;Flores;Maria del Carmen;;;16370367;Lagos;Alberto Antonio;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;03;76-4-99;14340864;Sanchez;Gladys del Carmen;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;04;76-4-99;29333444;Rodriguez;Paola Andrea;;;18565287;Bullones;Julio Roberto;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;05;76-4-99;20881445;Pereyra;Pabla Victoria;;;13459668;Arriola;Argentino Ugenio;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;06;76-4-99;23719369;Pacheco;Maria Isabel;;;21604089;Almiron;Miguel Antonio;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;07;76-4-99;31045033;Zalazar;Maria Daniela;;;20781276;Garcia;Pablo Francisco;;;;27/01/2010;0;0;0
+76;342;XIV;H;0;173;0;173b;08;76-4-99;18349625;Castellanos;Sandra;;;10801975;Oronoz;Hector Osvaldo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;09;76-4-99;18584552;Villar;Marta Alicia;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;10;76-4-99;24761662;Rivero;Maria Mercedes;;;16096358;Reiman;Jose Hindalesio;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;11;76-4-99;22343045;Machuca;Zulma Beatriz;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;12;76-4-99;20123287;Jara;Lidia Ester;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;13;76-4-99;32440570;Guerra;Yanina Gisella Daiana;;;31085400;Maldonado;Luis Oscar;;;;27/01/2010;0;0;0
+76;342;XIV;H;0;173;0;173b;14;76-4-99;4925083;Bustos;Amelia Mercedes;;;8328953;Andrada;Oscar Juan;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;15;76-4-99;24243512;Santellan;Ceferina Graciela;;;17520055;Rodriguez;Hugo Nestor;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;16;76-4-99;14700799;Cabrera;Maria Azucena;;;11926676;Zoluk;Jose Luis;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;17;76-4-99;25235898;Medina Cisterna;Sandra Mabel ;;;0;Gutierrez Navarrete;Juan Eduardo;;;Falta DNI del cotitular y cuil;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;18;76-4-99;5606403;Capdevila;Lidia del Valle;;;8073296;Echegaray;Oscar Eduardo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;19;76-4-99;17215928;Cabrera;Marisa Sonia;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;20;76-4-99;32129212;PEON LOPEZ;Victoria Lorena;;;33333333;Mouse;Miky;;;;07/12/2012;0;0;0
+76;342;XIV;H;0;173;0;173b;21;76-4-99;20697304;Martel;Marta Ines;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;22;76-4-99;25057812;Scaramozzino;Catalina Maribel;;;17880657;Bossini;Alberto Froilan;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;23;76-4-99;28550320;Guerra;Romina Rosana Ester;;;30014932;Gomez;Francisco Angel;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;24;76-4-99;22335791;Sanchez;Maria del Carmen;;;33333333;Mouse;Miky;;;se envio al municipio solicitando acto administrativo de desadjudicacion x exp 4081-705/12;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;25;76-4-99;5104068;Blanco;Marta Ines;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173b;26;76-4-99;30061024;ACUÑA;Marisabel Lorena;;;33333333;Mouse;Miky;;;;17/05/2011;0;0;0
+76;342;XIV;H;0;173;0;173d;01;76-4-99;11630776;Rosso;Monica Graciela;;;33333333;Mouse;Miky;;;"Separada de hecho; falta nombre del esposo";10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;02;76-4-99;4228053;Escudero;Maria Ester;;;5373534;Tillous;Atilio Alfonso;;;"La titular es separada de hecho; falta nombre del esposo";10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;03;76-4-99;23719352;Olivera;Silvia Gladys Susana;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;04;76-4-99;10175124;Suarez;Gloria Ester;;;5390010;Alvarengo;Carlos Alberto;;;Faltan sentencias de divorcio;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;05;76-4-99;22495730;Eulogio;Maria de los Angeles;;;33333333;Mouse;Miky;;;Falta sentencia de divorcio y cuil;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;06;76-4-99;23745531;De Santiago;Margarita Ester;;;33333333;Mouse;Miky;;;Renunciaron Cossio Rodriguez, Susana Mirella y Campos Fuente Alba, Nelson Raul. Estaban en tte. X Expte. 22101-3681/04;17/07/2007;0;0;0
+76;342;XIV;H;0;173;0;173d;07;76-4-99;17778049;SAEZ;Norma;;;28811438;IBAÑEZ;Adonial Elias;;;OK;17/05/2011;0;0;0
+76;342;XIV;H;0;173;0;173d;08;76-4-99;25463214;Pacheco;Virginia de los Angeles;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;09;76-4-99;30519633;PARRA;Natalia Andrea;;;33333333;Mouse;Miky;;;;07/12/2012;0;0;0
+76;342;XIV;H;0;173;0;173d;10;76-4-99;13605619;Bustos;Silvia Elena;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;11;76-4-99;28151878;Castillo;Natalia Guillermina;;;21759971;Taylor;Julio Marcelo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;12;76-4-99;26254662;Diaz;Lorena Anabel;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;13;76-4-99;25235881;Martel Colonna;Susana Elizabet;;;20716537;Gomez;Jose Luis;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;14;76-4-99;14719687;Reihnart;Nora Cristina;;;33333333;Mouse;Miky;;;Mercado, Graciela estaba en tte de escritura x expte 22101-3681/04;0;0;0;0
+76;342;XIV;H;0;173;0;173d;15;76-4-99;25062601;Vega;Monica Graciela;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;16;76-4-99;21707746;Enriquez;Sandra Elizabet;;;18086992;Laguna;Nestor Fabian;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;17;76-4-99;28759854;Enrique;Celia Noemi;;;93015582;Guerra Castillo;Raul Marcelo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;18;76-4-99;14514553;Velazquez;Maria Rosa;;;14625829;Dominguez;Jorge Agustin;;;27/9/00 Municipio solicito desadjudicacion;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;19;76-4-99;16265820;Cordero;Graciela Ines;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;20;76-4-99;26457716;Galvan;Silvia Natalia;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;21;76-4-99;6275368;Verchelli;Stella Maris;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;22;76-4-99;25708463;Quinteros;Mirta Noemi;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;23;76-4-99;8829573;Cuevas;Monica del Carmen;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;24;76-4-99;23122263;Martel;Carina Andrea;;;23265580;Torres;Oscar Eduardo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;25;76-4-99;24428245;Liberatore;Estela Noemi;;;26778185;Alfonsin;Oscar Ernesto;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173d;26;76-4-99;13825248;Allendes;Josefa Alicia;;;16196249;Rodriguez;Julio Jose;;;Falta cuil del cotitular;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;01;76-4-99;17769269;Lopez;Monica Isabel;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;02;76-4-99;17837037;Moreno;Laura Marcela;;;13286618;Presutti;Carlos Ramon;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;03;76-4-99;24761773;Aguirre;Teresa Beatriz;;;23745792;Rodriguez;Carlos Fermin;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;04;76-4-99;23558105;Cuello;Mirtha;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;05;76-4-99;16472691;Peralta;Mirta Sonia;;;16573700;Vera;Luis Osvaldo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;06;76-4-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;renuncia 25/6/99.-;0;0;0;0
+76;342;XIV;H;0;173;0;173e;07;76-4-99;21700951;Ramos;Amelia;;;20826330;Maldonado;Daniel Osvaldo;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;08;76-4-99;14166914;Schneider;Sonia Elisabet;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;09;76-4-99;7857637;MAIDANA;Damian;;;33333333;Mouse;Miky;;;;07/12/2012;0;0;0
+76;342;XIV;H;0;173;0;173e;10;76-4-99;17562898;Aragon;Norma Graciela;;;33333333;Mouse;Miky;;;OK;17/04/2000;0;0;0
+76;342;XIV;H;0;173;0;173e;11;76-4-99;26254663;Benegas;Maria Olga Elizabeth;;;26404051;Acien;Adrian Francisco;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;12;76-4-99;22531373;Troncoso;Claudia Araceli;;;18474879;Regente;Daniel Oscar;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;13;76-4-99;22555805;Galarza;Stella Maris;;;22778936;Lores;Leonardo Fabian;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;14;76-4-99;17297718;Lores;Carmen Marisol;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;15;76-4-99;25463067;Acien;Mariela Albina;;;21604638;Izquierdo;Mariano Ariel;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;16;76-4-99;25235860;Romero;Veronica Rosana;;;20122360;Mendez;Luis Alberto;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;17;76-4-99;18202302;Capandegui;Maria Elena;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;18;76-4-99;16558577;Farias;Dora Graciela;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;19;76-4-99;25062978;Andersen;Estela Mary;;;30519498;Maldonado;Sergio Daniel;;;En tte. de escritura a favor de: Andersen, Estela Mary DNI  25.062.978 y Maldonado, Sergio Daniel DNI 30.519.498. Expte N° 22101-3681/04 (En MUN);0;0;0;0
+76;342;XIV;H;0;173;0;173e;20;76-4-99;32440589;ARRIOLA;Sandra Elisabet;;;33333333;Mouse;Miky;;;;07/12/2012;0;0;0
+76;342;XIV;H;0;173;0;173e;21;76-4-99;10936342;Ovejero;Delia Margarita;;;7599640;Barrionuevo;Marco Veronico;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;22;76-4-99;29047768;Tosso;Marta Noemi;;;31433204;Figueredo;Leonardo Manuel;;;Falta cuil del titular;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;23;76-4-99;18496078;Stefano;Claudia Andrea;;;33333333;Mouse;Miky;;;Falta sentencia de divorcio;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;24;76-4-99;16111779;Abaca;Claudia Susana;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;25;76-4-99;17504139;Salazar;Benilde Claribel;;;33333333;Mouse;Miky;;;"Separada de hecho; falta nombre del esposo";10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;26;76-4-99;30202395;Acosta;Hugo Alberto;;;33333333;Mouse;Miky;;;05/10/07 Renuncio Lucero, Carmen Noemi. Tramitaba escritura por expte 22101-3681/04;04/03/2008;0;0;0
+76;342;XIV;H;0;173;0;173e;27;76-4-99;24761801;Basso;Silvia Patricia;;;33333333;Mouse;Miky;;;OK;10/03/1999;0;0;0
+76;342;XIV;H;0;173;0;173e;28;76-4-99;27512221;Ortiz;Andrea Marcela Elizabeth;;;23719253;Bustamante;Juan Carlos;;;OK;10/03/1999;0;0;0
+76;512;I;E;0;148;0;148d;08;76-19-99;22986819;Benitez;Maria Susana;;;33333333;Mouse;Miky;;;separada de hecho de Ramon Agüero;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;09;76-19-99;1722192;Avila;Azucena;;;33333333;Mouse;Miky;;;separada de hecho de Luis Maria Tambolini;0;0;0;0
+76;512;I;E;0;148;0;148d;10;76-19-99;11708803;Castro;Maria Teresa;;;14548721;Graneros;Humberto Armando;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;11;76-19-99;26457647;Rodea;Maria Lorena;;;23719260;Reynoso;Fabian Guillermo;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;12;76-19-99;21096118;Egidi;Marcela Andrea;;;33333333;Mouse;Miky;;;separada de hecho de Daniel Eduardo La Bataglia;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;13;76-19-99;18086841;Varela;Maria Luisa;;;33333333;Mouse;Miky;;;separada de hecho de Ricardo Ruben Lezcano;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;14;76-19-99;26254700;Torres;Vanesa Andrea;;;23492289;Casada;Ruben Oscar;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;15;76-19-99;26254523;Parra;Veronica Elizabeth;;;33333333;Mouse;Miky;;;separada de hecho de Rodolfo Carlos Yanez-(Jose Sebastian Vieytes no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;16;76-19-99;20043530;Parra;Claudia Maria;;;33333333;Mouse;Miky;;;(Enrique Daniel Sanchez no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;17;76-19-99;28447223;Rodriguez;Maria Celeste;;;33333333;Mouse;Miky;;;(Jacinto Alfredo Calderaro no saldria como cotitular)-26/9/00 Municipio solicito desestimar adjudicacion;0;0;0;0
+76;512;I;E;0;148;0;148d;18;76-19-99;24913833;Calvo;Natalia Beatriz;;;21790064;Ruiz;Marcelo Adrian;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;19;76-19-99;21704896;Roppel;Laura Rosana;;;33333333;Mouse;Miky;;;separada de hecho de Alejandro Nestor Bustamante;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;20;76-19-99;28550470;Segura;Agustina Flavia Patricia;;;33333333;Mouse;Miky;;;(Cristian Mauricio Madrid Rodriguez  no saldria como cotitular);0;0;0;0
+76;512;I;E;0;148;0;148d;21;76-19-99;17657696;Larre;Nelida Evangelia;;;20043388;Marrone;Jose Luis;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;22;76-19-99;21950912;Argüello;Claudia Beatriz;;;22199787;Herrera;Hector Hernan;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;23;76-19-99;25235915;Alonso;Veronica Vanina;;;33333333;Mouse;Miky;;;(Leonardo Fabian Larsen no firmo boleto);21/07/2000;0;0;0
+76;553;XIV;H;0;176;0;176c;01;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;02;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;03;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;04;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;05;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;06;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;07;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;08;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;01a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;02a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;03a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;04a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;05a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;06a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;07a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;08a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;09a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;10a     ;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;11;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;12;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;13;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;14;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;15;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;16;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;17;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;18;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;19;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;20;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;21;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;22;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;23;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;24;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;25;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;26;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;27;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;554;XIV;C;0;0;0;189;28;76-28-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;512;I;E;0;148;0;148a;01;76-19-99;23265837;Martel;Mario Alejandro;;;33333333;Mouse;Miky;;;confirmar titular: en planilla figura una concubina: Silvina Rosa Comune, separada de hecho de Daniel Marcelo Viguri;0;0;0;0
+76;512;I;E;0;148;0;148a;02;76-19-99;26254711;Spolidoro;Silvia Graciela;;;16585423;Garcia;Enrique Daniel;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;03;76-19-99;24853406;Santa Cruz;Ines Amancay;;;23122179;Pacheco;Juan Horacio;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;04;76-19-99;18700057;D agustini;Sandra Noemi;;;21604508;Pirrotta;Fernando Miguel;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;05;76-19-99;0;Lores;Lores;;;0;Sanchez;Sanchez;;;Sin datos;0;0;0;0
+76;512;I;E;0;148;0;148a;06;76-19-99;13206634;Güel;Matilde;;;14986738;Alvarado;Nelson Enrique;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;07;76-19-99;24187483;Fernandez;Ada Angelica;;;21604131;Toribio;Alberto Fabian;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;08;76-19-99;12250817;Agarzua;Angela Noemi;;;10967781;Chauque;Federico Antonio;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;09;76-19-99;27805514;Calderon;Maria Soledad;;;33333333;Mouse;Miky;;;(Alberto Adrian Rodriguez no saldria como cotitular)-26/9/00 Municipio solicito desestimar adjudicacion;0;0;0;0
+76;512;I;E;0;148;0;148a;10;76-19-99;23745886;Triviaux;Karina Valeria;;;33333333;Mouse;Miky;;;(Mario Oscar Quiroga no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;11;76-19-99;29952500;Fuentes;Romina Samanta;;;33333333;Mouse;Miky;;;(Rodolfo Omar Siebert no saldria como cotitular)-26/9/00 Municipio solicito desestimar adjudicacion;0;0;0;0
+76;512;I;E;0;148;0;148a;12;76-19-99;21929592;Craise;Norma Sandra;;;22531372;Barral;Alejandro Ramon;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;13;76-19-99;27320950;Contreras Herrera;Marcela Alejandra;;;33333333;Mouse;Miky;;;(Ernesto Fabian Esquivel no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;14;76-19-99;12651058;Vomero;Gladys Beatriz;;;92633642;Likay Lutz;Luis Alberto;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;15;76-19-99;17797344;Escalada;Rosalia Graciela;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;16;76-19-99;25235874;Bernabe;Maria Andrea;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;17;76-19-99;24618657;Lacoste;Claudia Ines;;;16344469;Carricart;Marcelo Jose Maria;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;18;76-19-99;24761680;Merlo;Viviana Edith;;;33333333;Mouse;Miky;;;(Gonzalez no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;19;76-19-99;5104075;Nocetti;Adelia Enriqueta;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;20;76-19-99;30834499;Caceres;Silvia Mabel;;;33333333;Mouse;Miky;;;;17/07/2007;0;0;0
+76;512;I;E;0;148;0;148a;21;76-19-99;5597321;Ortega;Aurora Pilar;;;33333333;Mouse;Miky;;;viuda;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;22;76-19-99;23122275;Cascallares;Edith Marcela;;;33333333;Mouse;Miky;;;(Gustavo Javier Hernandez no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;23;76-19-99;26049056;Herrera;Miriam Cristina;;;33333333;Mouse;Miky;;;(Juan Ramon Zarate no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;24;76-19-99;92771256;Moreno Jara;Maria Elena;;;23745529;Caselino;Sebastian;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;25;76-19-99;5205695;Laterza;Celia Mabel;;;33333333;Mouse;Miky;;;(Mario Alberto Isla no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;26;76-19-99;16573521;Garcia;Miriam Elizabeth;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;27;76-19-99;22932183;Turra;Nilda Noelia;;;33333333;Mouse;Miky;;;(Antonio Alfredo Arce no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148a;28;76-19-99;23719372;Leguizamon;Isabel Beatriz;;;33333333;Mouse;Miky;;;(Armando Jose Cammarota no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;01;76-19-99;18193092;Mercado;Graciela Noemi;;;14588004;Rolzing;Cesar Daniel;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;02;76-19-99;24237583;Spinelli;Veronica Graciela Raquel;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;03;76-19-99;23492472;Arratia;Stella Maris;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;04;76-19-99;26827853;Urdampilleta;Karina Veronica;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;05;76-19-99;24094911;Benega;Maria Emilia;;;20000736;Del Rey;Osvaldo Gabriel;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;06;76-19-99;32585382;Camarino;Rosana Elizabeth;;;33333333;Mouse;Miky;;;;04/03/2008;0;0;0
+76;512;I;E;0;148;0;148c;09;76-19-99;18623384;Albariño;Marcela Alejandra;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;10;76-19-99;3689419;De Luca;Lina;;;5377675;Resola;Alfredo Atilio;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;11;76-19-99;12138354;Valverde;Ana Maria;;;8049478;Espinosa;Felipe;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;12;76-19-99;10561339;Irigoyen;Maria Elena;;;33333333;Mouse;Miky;;;(Bruno no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;13;76-19-99;25974539;Gonzalez;Maria Guadalupe;;;33333333;Mouse;Miky;;;(Marcelo Daniel Sandoval no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;14;76-19-99;12649477;Bauza;Ester Damiana;;;33333333;Mouse;Miky;;;divorciada;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;15;76-19-99;26457605;Canal;Maria Veronica;;;25708258;Benega;Juan Carlos Maria;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;16;76-19-99;26264689;Rivas;Norma Elisa;;;33333333;Mouse;Miky;;;(Marcos Ulises Romero no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;17;76-19-99;23265727;Lavega;Alejandra Aide;;;33333333;Mouse;Miky;;;(Benjamin Alberto Vega no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;18;76-19-99;27019981;Auer;Roxana Andrea;;;25235862;Rodriguez;Claudio Javier;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;19;76-19-99;6643730;Belloc;Maria Julia;;;33333333;Mouse;Miky;;;separada de hecho-(Pedro Daniel Rodriguez no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;20;76-19-99;14588123;Gerez;Maria Angelica;;;33333333;Mouse;Miky;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;21;76-19-99;28140931;Gonzalez;Elba Melina;;;33333333;Mouse;Miky;;;(Sebastian Andres Gonzalez Colman no saldria como cotitular)-26/9/00 Municipio solicito desestimar adjudicacion;0;0;0;0
+76;512;I;E;0;148;0;148c;22;76-19-99;17215715;Torres;Claudia Mabel;;;33333333;Mouse;Miky;;;(Carlos Emilio Romano no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;23;76-19-99;5365450;Egidi;Octavio;;;33333333;Mouse;Miky;;;separado de hecho de Maria Teresa Coronel;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;01;76-19-99;23745812;Palacios;Nelida Veronica;;;22341433;Sampayo;Juan Pablo;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;02;76-19-99;5696676;Lopez;Mirta Luz;;;5387027;Alcorta;Saturnino Ignacio;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;03;76-19-99;17297789;Petricorena;Amalia Ines;;;33333333;Mouse;Miky;;;(Amal no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;04;76-19-99;16585552;Di Fiori;Silvia Elena;;;13601558;Morales Lizardo;Julio Cesar;;;26/9/00 Municipio solicito desadjudicacion;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;05;76-19-99;10858573;Rial;Teresa;;;33333333;Mouse;Miky;;;separada de hecho de Daniel Adolfo Coria-26/9/00 Municipio solicito desadjudicacion;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;06;76-19-99;20697396;Acosta;Maria Lujan;;;33333333;Mouse;Miky;;;separada de hecho de Amilcar Isaias Montero- (Ruben Maximo Coronel no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;07;76-19-99;21604493;Gutierrez;Sandra Elizabeth;;;33333333;Mouse;Miky;;;(Julio Arturo Castro no firmo boleto);21/07/2000;0;0;0
+76;512;I;E;0;148;0;148c;24;76-19-99;26404042;Diaz;Lidia Noemi;;;33333333;Mouse;Miky;;;;11/05/2000;0;0;0
+76;512;I;E;0;148;0;148d;24;76-19-99;14234071;Fernandez;Marta Lucia;;;11153622;Arriola;Jose Jorge;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;25;76-19-99;14719787;Larre;Estela Nilda;;;33333333;Mouse;Miky;;;;04/05/2000;0;0;0
+76;512;I;E;0;148;0;148d;26;76-19-99;14955706;Balquin;Patricia Alejandra;;;10858127;Telechea;Hugo Alberto;;;;21/07/2000;0;0;0
+76;512;I;E;0;148;0;148d;27;76-19-99;22977997;Garcia;Ivanna Mariel;;;24076364;Ramos;Rolando Daniel;;;;21/07/2000;0;0;0
+76;553;XIV;H;0;176;0;176c;09;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;10;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;11;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;12;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;13;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;14;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;15;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;16;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;17;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;18;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;19;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176c;20;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;01;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;02;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;03;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;04;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;05;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;06;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;07;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;08;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;09;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;10;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;11;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;12;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;13;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;14;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;15;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;16;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;17;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;18;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;19;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176d;20;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;01;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;02;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;03;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;04;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;05;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;06;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;08;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;09;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;10;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176f;11;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;01;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;02;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;03;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;04;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;05;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;06;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;07;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;08;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;09;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;10;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;11;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;12;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;13;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176g;14;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;01;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;02;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;03;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;04;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;05;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;06;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;07;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;08;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;09;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;10;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;11;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;12;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;13;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;553;XIV;H;0;176;0;176h;14;76-27-99;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+76;512;I;E;0;148;0;148d;28;76-19-99;12775685;Silva;Margarita Noemi;;;13329130;Antonini;Miguel Angel;;;26/9/00 Municipio solicito desadjudicacion;21/07/2000;0;0;0
+10;135;II;B;101;0;0;101n;01;10-9-97;28745798;Berges;Ana Graciela;;;25715493;Valor;Victor Javier;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;02;10-9-97;34240399;Abaca;Maria Soledad;;;29143470;Morosine;Ariel Antonio;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;03;10-9-97;25667343;Perez;Laura Noemi;;;33333333;Mouse;Miky;;;No enviaron la planilla;0;0;0;0
+10;135;II;B;101;0;0;101n;04;10-9-97;28583176;Soto;Eloida Magdalena;;;27623481;Casas;Enzo Luciano;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;05;10-9-97;29888601;Burgos;Mariela Yanina;;;27623481;Cardenas;Fabian Carlos Enrique;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;06;10-9-97;12460685;Gongora;Liliana Emilce;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;07;10-9-97;23869344;Vera;Maria Rosa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;08;10-9-97;27240949;Echeverria;Graciela Erica;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;09;10-9-97;29021234;Beron;Carolina Graciela;;;24943854;Perez;Dario Gustavo;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;10;10-9-97;14234429;Rosell;Mirta Haydee;;;10930767;Bacaicoa;Angel Alfredo;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;11;10-9-97;27355093;Corbalan;Gladys Lorena;;;26574600;Lobo;Daniel Martin;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;12;10-9-97;26536616;Martinez;Juan Marcelo;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;13;10-9-97;26751567;Galeano;Maria Fernanda;;;24206854;Mendoza;Hugo Adrian;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;14;10-9-97;26202690;Simonini;Alejandra Ines;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;15;10-9-97;25168098;Milone;Gustavo Cesar;;;33333333;Mouse;Miky;;;No enviaron la planilla;0;0;0;0
+10;135;II;B;101;0;0;101n;16;10-9-97;5959524;Garcilazo;Marisa Graciela;;;4689086;Rivarola;Estanislao;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;17;10-9-97;18433080;Barreto;Maria Alejandra;;;16227080;Cruceño;Roberto Eliseo;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;18;10-9-97;22301936;Arellano;Silvia Marcela;;;12835544;Lopez;Horacio Ernesto;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;19;10-9-97;25427354;Salas;Maria Jose;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;20;10-9-97;22130255;Fermin;Analia Veronica;;;28044432;Gerez;Miguel Angel;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;21;10-9-97;29346102;Arevalo;Maria Soledad;;;17316527;Pesoa;Horacio Guillermo;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;22;10-9-97;27112401;Barrozo;Natalia Paola;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;23;10-9-97;21842585;Baez;Veronica Silvia;;;20329941;Olivares;Horacio Ramon;;;;0;0;0;0
+10;135;II;B;101;0;0;101n;24;10-9-97;27084943;Milone;Monica Mercedes;;;20329656;Benitez;Sandro Fabian;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;02;10-9-97;25667283;Sanchez;Natalia Andrea;;;23259712;Gonzalez;Cristian Fabian;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;03;10-9-97;13791849;Fragelli;Maria Gladys;;;11020298;Olmos;Jorge Roberto;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;04;10-9-97;26202526;Flanigan;Ivana Lorena;;;23664170;Rios;Cristian Rolando;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;05;10-9-97;27240899;Salomon;Vanesa Eleonora;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;06;10-9-97;4942518;Vidal;Marta Alicia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;07;10-9-97;30308558;Quiro;Flavia Rocio;;;29018690;Lobo;Juan Jose;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;08;10-9-97;22933825;Abaca;Claudio Roberto;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;09;10-9-97;17908443;Gomez;Ramona Antonia;;;24493017;Encinas;Juan Ariel;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;10;10-9-97;26807385;Monzon;Cintia Yalel;;;29888608;Elel;Yamil;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;11;10-9-97;25667376;Albarracin;Gabriela Paola;;;25368425;Ruiz;Rolando Gabriel;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;12;10-9-97;20016040;Ramos;Susana Ines;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;13;10-9-97;2233787;Gallego;Sandra Mabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;14;10-9-97;14234527;Acosta;Monica Gladys;;;17500622;Romero;Hector Fabian;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;15;10-9-97;17958172;Burgos;Maria Susana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;16;10-9-97;23890392;Gyselink;Silvina Ivana;;;22444168;Reyna;Claudio Ruben;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;17;10-9-97;12766123;Gomez;Blanca Enriqueta;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101p;18;10-9-97;28161327;Tovani;Pamela Mariana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;01;10-9-97;25492821;Polo;Natalia Vanina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;02;10-9-97;21970776;Rodriguez;Carolina Veronica;;;24493079;Camelino;Manuel Angel;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;03;10-9-97;27272180;Alvarez;Margarita del Valle;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;04;10-9-97;34512370;Gomez Mohr;Vanesa Marisol;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;05;10-9-97;17379001;Preve;Marcelo Fabian;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;06;10-9-97;35208523;Torres;Sabrina Elizabeth;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;07;10-9-97;25168115;Acosta;Norma Eugenia Natalia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;08;10-9-97;31394531;Garcilazo;Edith Melina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;09;10-9-97;29143490;Gratarola;Analia Veronica;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;10;10-9-97;27240989;Lezcano;Marina Daniela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;11;10-9-97;5913792;Cabrera;Teresa Emilia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;12;10-9-97;23259711;Merello;Adriana Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;13;10-9-97;26202693;Franco;Carina Vanesa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;14;10-9-97;14710954;Furlano;Maria Adriana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;15;10-9-97;23119185;Monrroy;Karina Cecilia;;;26375251;Gorosito;Carlos Fabian;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;16;10-9-97;30646529;Perez;Vanesa Jesica;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;17;10-9-97;30308443;Ponce;Roberto Daniel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;18;10-9-97;30308387;Mendoza;Andrea Soledad;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;19;10-9-97;92302070;Cabrara Ceron;Rosa;;;4687050;Cordoni;Oscar Orlando;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;20;10-9-97;21601025;Volpi;Rosana Mariela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;21;10-9-97;32579313;Rodriguez;Liliana Gisela;;;29888574;Chazarreta;Esteban Ariel;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;22;10-9-97;16599935;Bargas;Monica Beatriz;;;16794986;Morales;Sergio Roberto;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;23;10-9-97;32156531;Mendoza Sanchez;Luciana Daniela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101r;24;10-9-97;13256044;Arrigo;Norma Gladys;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101s;01;10-9-97;25667244;Nicolich;Gabriela Roxana;;;23890479;Bossi;Santiago Horacio;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;02;10-9-97;21970788;Linch;Sonia Karina;;;17379218;Cabrera;Juan Manuel;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;03;10-9-97;25816942;Villafañe;Romina;;;33333333;Mouse;Miky;;;"Separada de hecho; falta nombre del esposo";11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;04;10-9-97;23119185;Monrroy;Cecilia Karina;;;33333333;Mouse;Miky;;;Separada de hecho de Carlos Fabian Gorosito;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;05;10-9-97;5087070;Herbel;Miguel Angel;;;33333333;Mouse;Miky;;;"Separado de hecho; falta nombre de la esposa";11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;06;10-9-97;20549673;Ferretto;Elsa Susana;;;21601085;Lioy;Hugo Adalberto;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;07;10-9-97;18209277;Avalos;Celia Mabel;;;18209407;Ortiz;Ramon Ricardo;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;08;10-9-97;20329813;Vesprini;Gilda;;;33333333;Mouse;Miky;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;09;10-9-97;2298327;Juarez;Maria Ester;;;33333333;Mouse;Miky;;;"Separada de hecho; falta nombre del esposo";11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;10;10-9-97;26202567;Flanigan;Veronica Paola;;;33333333;Mouse;Miky;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;11;10-9-97;20016101;Colombo;Graciela Nora;;;33333333;Mouse;Miky;;;Falta boleto y planilla;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;12;10-9-97;5176548;Diello;Oscar Vicente;;;33333333;Mouse;Miky;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;13;10-9-97;21673272;Reynoso;Nancy Beatriz;;;33333333;Mouse;Miky;;;OK;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;14;10-9-97;17893319;Peralta;Marcela Ines;;;16052754;Prince;Claudio Jorge;;;Falta boleto y planilla;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;15;10-9-97;26852612;Maciel;Gladys Elizabeth;;;22933833;Gongora;Cesar Jose;;;Falta boleto y planilla;11/10/1999;0;0;0
+10;135;II;B;101;0;0;101s;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101s;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101s;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;01;10-9-97;23239608;Trassens;Claudia Veronica;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;02;10-9-97;18597306;Lopez;Maria Rosana;;;24316054;Osuna;Jose Ricardo;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;03;10-9-97;26543136;Castro;Valeria Lujan;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;04;10-9-97;24418675;Tognetti;Carmen;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;05;10-9-97;27623464;Bustos;Lea Edith;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;06;10-9-97;23890412;Franco;Maria Rosa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;07;10-9-97;21970741;Morano;Claudia Cecilia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;08;10-9-97;21601026;Gomez;Liliana Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;09;10-9-97;13193688;Martinez;Segunda Dolores;;;11075920;Moya;Oscar Horacio;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;10;10-9-97;27385830;Garcia;Maria del Carmen;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;12;10-9-97;38405621;Avila;Vanesa Paola;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;13;10-9-97;13380934;Rodriguez;Mara Liliana;;;13380960;Pereyra;Nelfo;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;14;10-9-97;24599200;Ferrari;Natalia Mariana;;;26202607;Corvalan;Hector Oscar;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;15;10-9-97;17728567;Espindola;Hilda Raquel;;;30170739;Cenzano;Luis Ariel;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;16;10-9-97;25168028;Amaya;Gabriela Elizabeth;;;22933857;Rios;Marcelo Fabian;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;17;10-9-97;28044317;Di Palma;Dario Fernando;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;19;10-9-97;32924283;Matheu;Maria Jose;;;24944757;Gonzalez;Diego Andres;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;20;10-9-97;29427805;Fredes;Maria Jesus;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;21;10-9-97;17671825;Godoy;Roberto Antonio;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;22;10-9-97;23259693;Saporito;Alicia;;;18240195;Rodriguez;Carlos Alfredo;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;23;10-9-97;26478772;Luna;Veronica Alejandra;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101t;24;10-9-97;29595821;Peralta;Petrona Isabel;;;29888666;Abaca;Santiago;;;;0;0;0;0
+10;135;II;B;101;0;0;101w;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;06;10-9-97;22628917;Alvarez;Sandra Elizabeth;;;17893482;Muñoz;Fabio Ramon;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;07;10-9-97;25427336;Alvornoz;Barbara Marion;;;23890365;Franco;Enzo German;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;08;10-9-97;8279068;Rillo;Carlos Norberto;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;09;10-9-97;4942698;Gonzalez;Maria del Carmen;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101w;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101y;01;10-9-97;23664029;Ordoñez;Carolina Veronica;;;22933809;Di Alessio;Rafael Fernando;;;;09/10/2007;0;0;0
+10;135;II;B;101;0;0;101y;02;10-9-97;20016412;Caccia;Viviana Andrea;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;03;10-9-97;27240824;Del Vecchio;Ana Florencia;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;04;10-9-97;26202591;Gaya;Vanina Nazarena;;;33333333;Mouse;Miky;;;No se entrego el boleto, la postulante (Gaya, Vanina Nazarena) vive en otro lugar (?);0;0;0;0
+10;135;II;B;101;0;0;101y;05;10-9-97;23664085;Cabrera;Maria Alejandra;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;06;10-9-97;26202799;Fornabaio;Araceli;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;07;10-9-97;25427263;Rodriguez Costa;Maria Evangelina;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;101;0;0;101y;09;10-9-97;11279833;Quiro;Hilda Rosa;;;4995828;Vallejos;Antonio Alberto;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;10;10-9-97;17958188;Rosandic;Marcela Renata;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;11;10-9-97;28161179;Burgos;Maria Eugenia;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;12;10-9-97;14710886;Gerez;Beatriz Raquel;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;13;10-9-97;23698406;Diaz;Alejandra Vanina;;;22721249;Casella;Marcos Chistrian;;;;09/10/2007;0;0;0
+10;135;II;B;101;0;0;101y;14;10-9-97;28044493;Castro;Natalia Soledad;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;15;10-9-97;26202752;Ordoñez;Rita Natalia;;;28044301;Abal;Alberto Ezequiel;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;16;10-9-97;25168128;Maymo;Nuria Mariel;;;24524549;Aquilozi;Claudio Fernando;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;17;10-9-97;3915905;Stauber;Liria Erfride;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;18;10-9-97;26202652;Gonzalez;Lorena Carla;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;19;10-9-97;24206873;Domingo;Andrea Susana;;;22444091;Frattino;Sergio Pablo;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;20;10-9-97;23259718;Bragazzi;Veronica Elizabet;;;33333333;Mouse;Miky;;;;24/08/2011;0;0;0
+10;135;II;B;101;0;0;101y;21;10-9-97;24493148;De Mateo;Maria Alejandra;;;33333333;Mouse;Miky;;;"No se entrego el 15/07/05, la postulante ""De Mateo, Maria Alejandra"" vive en otro lugar (?)";0;0;0;0
+10;135;II;B;101;0;0;101y;22;10-9-97;14486887;Ojeda;Yolanda;;;17013290;Gorosito;Walter Anibal;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;23;10-9-97;25341344;Zingoni;Olga Beatriz;;;25667410;Aurtenechea;Juan Jose;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101y;24;10-9-97;25561216;Larrañaga;Melina Florencia;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;101;0;0;101z;01;10-9-97;21094719;D angelo;Stella Maris;;;16795107;Arellano;Jorge Alberto;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;02;10-9-97;18483510;Paz;Delia del Valle;;;22184017;Lafuente;Walter Alejandro;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;03;10-9-97;22933812;Peralta;Andrea Graciela;;;17650602;Monje;Fabian Marcelo;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;04;10-9-97;24944633;Masdeu;Mariela Roberta;;;26947040;Rivero;David Alejandro;;;;07/05/2006;0;0;0
+10;135;II;B;101;0;0;101z;05;10-9-97;17455302;Gomez;Alicia;;;12353647;Diaz;Rogelio Ismael;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;06;10-9-97;14859791;Robles;Maria Elba;;;11398045;Ponce;Martin Angel;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;07;10-9-97;23664068;Garcia;Gladys Rogelia;;;22301912;Peralta;Carlos Ruben;;;Falta estado civil de ambos titulares;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;08;10-9-97;12460879;Pereyra;Graciela;;;12502320;Ponce;Daniel Oscar;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;09;10-9-97;16143459;Mieri;Ana Beatriz;;;14234522;Farias;Walter Fabian;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;10;10-9-97;21433752;Garavento;Alejandra Monica;;;20329881;Gonzalez;Jose Luis;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;11;10-9-97;23890419;Bochatay;Andrea Alejandra;;;24206945;Burgos;Cristian Adrian;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;12;10-9-97;13841555;Valle;Ana Beatriz;;;10974732;Cuenca;Raul Oscar;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;13;10-9-97;6059204;Salomon;Maria Isabel;;;5412692;Maiorino;Oscar Osvaldo;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;14;10-9-97;14626908;Fontana;Diana Edith;;;16315277;Moreyra;Carlos Daniel;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;15;10-9-97;16226972;Braendt;Elba Margarita;;;10368180;Burgos;Julio Alberto;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;16;10-9-97;23259721;Acuña;Monica Carina;;;11483740;Leguizamon;Jose Luis;;;Falta Cuil de Leguizamon;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;17;10-9-97;17958267;Luques;Teresa Irma Beatriz;;;26202563;Cruceño;Enzo Dario;;;OK;18/03/1999;0;0;0
+10;135;II;B;101;0;0;101z;18;10-9-97;0;Milone;Pablo;;;33333333;Mouse;Miky;;;Seria un reemplazo, el Municipio debe remitir planilla de datos personales para bcv;0;0;0;0
+10;135;II;B;102;0;0;102m;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;23;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;24;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;25;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102m;26;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102n;22;10-9-97;27112401;Barrozo;Natalia Paola;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102p;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102r;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;01;10-9-97;34554857;Rios;Eliana Soledad;;;32156442;Bar;Carlos Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;02;10-9-97;27816307;Azcona;Jesica Aldana;;;26158702;Kapp;Oscar Alfredo;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;03;10-9-97;27460035;Salaverri;Griselda Elizabeth;;;23890472;Rodriguez;Alfredo Gerardo;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;04;10-9-97;25667478;Chamorro;Karina Vanesa;;;24944626;Corvalan;Gustavo Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;05;10-9-97;23890376;Cemarelli;Claudia Marcela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;06;10-9-97;27084944;Peralta;Flavia Araceli;;;22879337;Lopez;Javier Eduardo;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;17;10-9-97;23890468;Gallardo;Ana Rosa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;18;10-9-97;24206948;Chazarreta;Natalia Veronica;;;21986719;Jose;Alejandro Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;19;10-9-97;29972421;Enrique;Liliana Rosa;;;29143373;Perez;Sergio Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;20;10-9-97;30406247;Aguirre;Dorcas Silvia;;;28745740;Sanchez;Sergio Ramon;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;21;10-9-97;27759089;Prietos;Maria Rosa Victoria;;;26202576;Acevedo;Leandro Oscar;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;22;10-9-97;10079767;Pintos;Pabla;;;10622028;Reina;Nicanor Elvecio;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;23;10-9-97;6400903;Almiron;Irma Elena;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;24;10-9-97;30308330;Bochatay;Yesica Anahi;;;22933900;Picabea;Cristian Cesar;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;25;10-9-97;17958198;Guevara;Miriam Estela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102s;26;10-9-97;29528238;Cardozo;Eliana Claudia Yamila;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;01;10-9-97;30646509;Di Genni;Alejandra Judit;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;02;10-9-97;21601126;Mendez;Maria del Carmen;;;21499245;Martinez;Julio Cesar;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;03;10-9-97;29888628;Gaitan;Mirta Susana;;;23131072;Miño;Hector Alejandro;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;04;10-9-97;22065799;Teze;Nidia Ines;;;25614685;Camelis;Sebastian M.;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;05;10-9-97;32156334;Rivero Bargas;Maria Soledad;;;30313904;Gomez;Roberto Fabian;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;06;10-9-97;10352124;Cordoba;Maria Ester;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;07;10-9-97;18256967;Rodriguez;Angela Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;08;10-9-97;28044320;Bendrami;Sandra;;;26660401;Ochoa;Fernando Gabriel;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;09;10-9-97;29888631;Gaitan;Marta Susana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;10;10-9-97;14711060;Prenenza;Gladys Noemi;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;11;10-9-97;11435607;Valdez;Celia Rosa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;12;10-9-97;21515344;Diaz;Adriana Rosana;;;17893326;Barrientos;Fabian Marcelo;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;13;10-9-97;31426937;Garavento;Claudia Yanina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;14;10-9-97;13632912;Sañudo;Margarita Isabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;15;10-9-97;22301947;Goymil;Marcela Paola;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;16;10-9-97;32345169;Palacios;Juana Patricia;;;29888630;Gaitan;Mario David;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;17;10-9-97;12054423;Miranda;Mercedes;;;8786312;Ledesma;Placido;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;18;10-9-97;20054557;Antunez;Estrella Zulema;;;14321079;Castro;Carlos Hilario;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;19;10-9-97;26202715;Cordoba;Estela Ermelinda;;;27084978;Simonini;Leandro Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;20;10-9-97;28914385;Lorenzetti;Vanesa Alejandra;;;24680754;Martinez;Ricardo Ariel;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;21;10-9-97;22301842;Boo;Laura Alejandra;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102t;22;10-9-97;17230900;Carranza;Marta Magdalena;;;20084173;Taborda;Edgar Santos;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102v;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102w;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;01;10-9-97;30628581;Colombo;Yanina Patricia;;;28044326;Rivero;Ariel Osvaldo;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;02;10-9-97;14234508;Garcia;Estela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;03;10-9-97;22301818;Curros;Jose Maria;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;04;10-9-97;13128968;Leiva;Ana Maria;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;05;10-9-97;26807339;Luna;Susana Lorena;;;20473474;Cardoso;Sergio Fabian;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;06;10-9-97;27240823;Valdez;Miriam Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;07;10-9-97;31426803;Gutierrez;Noelia Edith Ayelen;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;08;10-9-97;23315360;Pereyra;Silvia Liliana;;;26604986;Quiro;Lucas Mariano;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;09;10-9-97;28044305;Villegas;Natalia Soledad;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;10;10-9-97;16499044;Berlasso;Margarita Marcela;;;14234486;Gonzalez;Mario Hugo;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;11;10-9-97;17460042;Farre;Mercedes Carolina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;12;10-9-97;25427381;Mendoza;Andrea Paola;;;31609602;Ruiz;Oscar Armando;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;13;10-9-97;28044486;Albarracin;Nilda Mabel;;;26410985;Maldonado;Roque Adrian;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;14;10-9-97;28044553;Franco;Luciana Carolina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;15;10-9-97;30308543;Arrellano;Carmen Elvira Elena;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;16;10-9-97;28280881;D agostino;Maria Fernanda;;;28161286;Brañes;Carlos Ariel;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;17;10-9-97;22130230;Penela;Mariela Carina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;18;10-9-97;13693254;Flores;Olga Esther;;;1471007;Burgos;Jose Luis;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;19;10-9-97;24969489;Martinez;Sonia Veronica;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;20;10-9-97;31426818;Bai;Maria Elena;;;32156364;Medina Juan Sergio;Medina Juan Sergio;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;21;10-9-97;13489229;Lombardo;Ana Maria;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;22;10-9-97;24990703;Miño;Claudia Gabriela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;23;10-9-97;26202609;Mendoza;Sandra Gabriela;;;28439518;Calderon;Daniel Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;24;10-9-97;26202578;Torres;Karina Silvia;;;24859752;Roig;Victor Hugo;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;25;10-9-97;16632013;Sotelo;Juan Enrique;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102x;26;10-9-97;25667432;Manassero;Marina Florencia;;;26660454;Lemos;Mauro Sebastian;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;01;10-9-97;18534075;Flores;Analia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;02;10-9-97;27240846;Gonzalez;Patricia Beatriz;;;30308321;Franchi;Federico;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;03;10-9-97;13791786;Bernasconi;Monica Gladys;;;20329911;Oviedo;Carlos Ruben;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;04;10-9-97;33410071;Rivero;Miriam Elizabeth;;;25427324;Morales;Marcelo Fabian;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;05;10-9-97;13317484;Diaz;Juan Jose;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;06;10-9-97;13791793;Leoni;Josefina Teresa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;07;10-9-97;29169359;Cejas;Nestor Ariel;;;33333333;Mouse;Miky;;;Figura con Preve, Yesica Fabiana DNI 33.133.610 (quien es menor);0;0;0;0
+10;135;II;B;102;0;0;102y;08;10-9-97;26202775;Benavidez;Karina Vanesa;;;25075098;Becerro;Carlos Alejando;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;09;10-9-97;20329985;Pan;Ana Maria;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;10;10-9-97;29427901;Simonini;Maria Laura;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;12;10-9-97;11483630;Allera;Olga Haydee;;;33333333;Mouse;Miky;;;Figuraba recientemente como postulante Gonzalez, Maria Andrea DNI 29.078.679;0;0;0;0
+10;135;II;B;102;0;0;102y;13;10-9-97;20329848;Masdeu;Marisa del Carmen;;;20329712;Albarracin;Ernesto Martin;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;14;10-9-97;28745794;Casaravilla;Maria Alejandra;;;25168030;Ochoa;Juan Manuel;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;15;10-9-97;22444112;Barrionuevo;Stella Maris;;;22444176;Rebolini;Carlos Adrian;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;17;10-9-97;14404870;Nieves;Gladys Ana;;;12099201;Mendez;Ruben Ismael;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;18;10-9-97;28787991;Ferretti;Mariela Fabiana;;;24944710;Fragelli;Facundo Dario;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;19;10-9-97;31082046;Cardozo;Vanesa Noemi;;;30308324;Acevedo;Jose Luis;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;20;10-9-97;29888769;Ramos;Silvana Noelia;;;30646605;Franco;Alfredo Sebastian;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;21;10-9-97;28286848;Torres;Marina Inocencia;;;30646732;Vallejo;Miguel Osvaldo;;;;0;0;0;0
+10;135;II;B;102;0;0;102y;22;10-9-97;3999150;Trejo;Eulogia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;01;10-9-97;24295916;Cabrera;Adriana Alejandra;;;24493105;Tenorio;Juan Manuel;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;02;10-9-97;23737677;Garcia;Claudia Fabiana;;;14234645;Rodriguez;Jose Luis;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;03;10-9-97;29427935;D agostino;Vanesa Soledad;;;25472138;Galeano;Alfredo Ramon;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;04;10-9-97;22444158;Ribero;Monica Graciela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;05;10-9-97;22444077;Benitez;Norma Beatriz;;;17958245;Gedda;Armando Lucio;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;06;10-9-97;29143552;Rodriguez;Emilce Sabrina;;;26807357;Mustafa;Marco Antonio;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;07;10-9-97;17781783;Pacheco;Stella Maris;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;08;10-9-97;24536335;Florito;Andrea Guadalupe;;;25667240;Garbonaro;Rodolfo Hugo;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;09;10-9-97;26202558;Gonzalez;Cecilia Elizabeth;;;32156453;Zapata;Mauro Sebastian;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;10;10-9-97;17958204;Moncho;Edith Noemi;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;11;10-9-97;30646684;Molina;Marisa Paola;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;12;10-9-97;31109108;Cordoba;Silvina Veronica;;;22949976;Pereyra;Julian Alfredo;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;13;10-9-97;24944616;Oviedo;Sandra Karina;;;27329024;Luna;David Osvaldo;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;14;10-9-97;22381851;Cejas;Amalia Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;15;10-9-97;28745724;Napolitano;Anabella Gisele;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;16;10-9-97;13489036;Joudrier;Monica Libertad;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;17;10-9-97;27240805;Perez;Griselda Lujan;;;23890316;Perez;Ramiro Antonio;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;18;10-9-97;26634613;Lerchundi;Vanesa Lorena;;;25427212;Balianelli;Hernan Javier;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;19;10-9-97;28161223;Devolver;Carolina Natalia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;20;10-9-97;27081058;Lorenzetti;Silvana Edith;;;24961896;Simeone;Carlos Andres;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;21;10-9-97;28446883;Ruiz;Fatima Paola;;;23664158;Vivas;Paulo Jesus;;;;0;0;0;0
+10;135;II;B;102;0;0;102z;22;10-9-97;24944793;Nicolich;Silvina Elisabeth;;;21375567;Ali;Diego Fernando;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;01;10-9-97;25427258;Melo;Ana Maria;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;02;10-9-97;22444053;Rodriguez;Monica Beatriz;;;25667397;Cuello;Angel Ariel;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;03;10-9-97;29888544;Fragelli;Marina Berta;;;33333333;Mouse;Miky;;;Falta estado civil;0;0;0;0
+10;135;II;B;102;0;0;102aa;04;10-9-97;29143502;Gonzalez;Silvio Javier;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;06;10-9-97;27602915;Cabero;Claudia Carina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;07;10-9-97;34246347;Cordoba;Daiana Soledad;;;29698052;Sanchez;Daniel Ricardo;;;La titular es menor de edad;0;0;0;0
+10;135;II;B;102;0;0;102aa;08;10-9-97;30700782;Arroyo;Luciana Edith;;;29143547;Molina;Luciano Osvaldo;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;10;10-9-97;29107650;Carrera;Zulma Beatriz;;;29427898;Cuello;Ricardo Cesar;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;11;10-9-97;20329943;Reina;Teresa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;12;10-9-97;32156564;Salaverri;Maria de las Mercedes;;;28745610;Macelar;Santiago;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;13;10-9-97;20329762;Fratino;Silvia Graciela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;14;10-9-97;21970717;Gomez;Laura Cristina;;;17893480;Pardo;Carlos Leonel;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;15;10-9-97;28161158;Franco;Maria Paola;;;23890477;Texeira;Cristian Jose;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;16;10-9-97;28745523;Bragado;Jesica Paola;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;17;10-9-97;32156584;Valor Tenorio;Adriana Vanina;;;27602988;Casas;Walter Miguel;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;18;10-9-97;23699063;Arce;Ramona Aide;;;20422243;Gervan;Raul Antonio;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;19;10-9-97;25427360;Morales;Mariela Silvana;;;22444012;Medina;Hugo Raul;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;20;10-9-97;24493070;Agüero;Vanessa Francisca;;;25168052;Gomez Benitez;Adrian Alejandro;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102aa;22;10-9-97;28161124;Ponce;Marta Elizabet;;;27623447;Palavecino;Marcos Ruben;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;23;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;24;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;25;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102bb;26;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102cc;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;01;10-9-97;28161142;Oliva;Romina Vanesa;;;24493091;Fazzio;Damian Hugo;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;02;10-9-97;5252675;Cantero;Gregoria;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;03;10-9-97;21601040;Varela;Analia Marcela;;;26906050;Mondo;Angel Ignacio;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;04;10-9-97;27602934;Bonaudo;Carolina Elizabet;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;05;10-9-97;12657065;Cabrera;Vilma Haydee;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;06;10-9-97;22444045;Gallo;Sandra Carina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;07;10-9-97;23680650;Fuentes;Mariela Haydee;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;08;10-9-97;21046109;Aluino;Monica Amanda;;;14540861;Gonzalez;Demetrio Abelardo;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;09;10-9-97;12835787;Valor;Rosa Susana;;;33333333;Mouse;Miky;;;Verificar apellido (aparece como Valoz y como Valor);0;0;0;0
+10;135;II;B;102;0;0;102dd;10;10-9-97;24493013;Pagani;Mariana Beatriz;;;20081103;Molina;Edre Ruben;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;11;10-9-97;17893428;Penela;Maria Antonia;;;27084936;Franco;Jose Luis;;;Faltan datos del cotitular (habian enviado la planilla incompleta);0;0;0;0
+10;135;II;B;102;0;0;102dd;12;10-9-97;31426829;Ramos;Aldana Fernanda;;;28044529;Gomez;Ricardo David;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;13;10-9-97;23266778;Medrano;Edith Noemi;;;16557805;De la Rosa;Miguel Angel;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;14;10-9-97;21798285;Ruiz;Viviana Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;15;10-9-97;23259612;Casas;Silvia Andrea;;;29860830;Pacheco;Juan Manuel;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;16;10-9-97;22591670;Saez;Susana Raquel;;;23725804;Peloso;Julio Oscar;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;17;10-9-97;28044442;Rodriguez;Maria de los Angeles;;;28053611;Taborda;Silvio Valentin;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;18;10-9-97;29888733;Perez;Yanina Paola;;;26202743;Morales;Guillermo Miguel;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;19;10-9-97;29143339;Cabrera;Karina Vanesa;;;28745573;Martinez Martinengo;Lucas Gaston;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;20;10-9-97;31109381;Giacumino;Fabiana Maria Celeste;;;33333333;Mouse;Miky;;;Esta con Cabero, Claudio Ariel DNI 35.051.119 quien es menor de edad;0;0;0;0
+10;135;II;B;102;0;0;102dd;21;10-9-97;12012852;Molina;Mirta;;;16335618;Grela Parga;Juan Carlos;;;;0;0;0;0
+10;135;II;B;102;0;0;102dd;22;10-9-97;25667366;Rios;Gabriela Liliana;;;17958272;Vila;Reynaldo Julio;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;01;10-9-97;27623487;Serra;Cintia Noemi;;;26202727;Ribero;Miguel Angel;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;02;10-9-97;13791767;Rodriguez;Julia Edith;;;7684415;Flanigan;Juan Jose;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;03;10-9-97;20016196;Flanigan;Rosana Aurelia;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;04;10-9-97;14710939;Gedda;Maria Delia;;;14404797;Giraldes;Hugo Noel;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;05;10-9-97;29427853;Martinez;Valeria Elizabeth;;;25667327;Gonzalez;Angel Oscar;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;06;10-9-97;25427347;Calderon;Veronica Beatriz;;;24944719;Gratarola;Cristian Carlos;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;07;10-9-97;26202789;Gabilondo;Ofelia Isabel;;;24944770;Franco;Cristian Fabian;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;08;10-9-97;14210194;Patalagoitia;Graciela Rosa;;;12907388;Torres;Daniel Adrian;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;09;10-9-97;31109270;Arrellano;Andrea Soledad;;;26807338;Lezcano;Gerardo Andres;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;10;10-9-97;21881497;Martinez;Ana Karina;;;23275446;Silva;Jorge Gabriel;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;11;10-9-97;30308592;Rios;Natalia Soledad;;;25842396;Prietos;Roberto Carlos;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;12;10-9-97;16203909;Canteros;Edith Liliana;;;17958250;Mielgo;Mario Santiago;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;13;10-9-97;26202791;Peralta;Miriam Elisabeth;;;25012799;Rodriguez;Gustavo Rodolfo;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;14;10-9-97;20329915;Ortiz;Patricia Noemi;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;15;10-9-97;13334001;Paez;Beatriz Liliana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;16;10-9-97;29888610;Gongora;Juliana Elizabet;;;28044537;Franco;Diego Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;17;10-9-97;26170395;Barrozo;Carina Vanesa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;18;10-9-97;28044400;Goddard;Claudia Daniela;;;28745512;Benitez;Claudio Ignacio;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;19;10-9-97;25427209;Camelis;Laura Viviana;;;24493031;Vazquez;Martin Ramon;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;20;10-9-97;29427849;Salado;Maria Jose;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;21;10-9-97;29143572;Abaca;Mercedes Adelina;;;30308542;Arellano;Daniel Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102ee;22;10-9-97;16599901;Gomez;Nilda Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;02;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;04;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;12;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;14;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;17;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;18;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;19;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;20;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;21;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;22;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102ff;23;10-9-97;23890371;Rodriguez;Maria del Carmen;;;20684138;Pucheta;Walter Ramon;;;;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102ff;24;10-9-97;26200500;Cicala;Gabriela Maria;;;22301951;Luisi;Delfino Alberto;;;;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102ff;25;10-9-97;22214170;Gonzalez;Juana Mabel;;;20329790;Palacios;Leonardo Fabio;;;;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102ff;26;10-9-97;16545338;Fontana;Adriana Mabel;;;16405121;Sosa;Sergio Alberto;;;;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102gg;01;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;02;10-9-97;1673546;Velazco Beloqui;Rivera;;;33333333;Mouse;Miky;;;;21/11/2001;0;0;0
+10;135;II;B;102;0;0;102gg;03;10-9-97;28486386;Franco;Juana Mabel;;;33333333;Mouse;Miky;;;;21/11/2001;0;0;0
+10;135;II;B;102;0;0;102gg;04;10-9-97;25427349;Abacca;Alejandra Elizabet;;;33333333;Mouse;Miky;;;;21/11/2001;0;0;0
+10;135;II;B;102;0;0;102gg;05;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;06;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;07;10-9-97;29982653;D agostino;Maria de Los Angeles;;;28161189;Arellano;Dario Fernando;;;;24/08/2011;0;0;0
+10;135;II;B;102;0;0;102gg;08;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;09;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;10;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;11;10-9-97;21673272;REYNOSO;Nancy Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;12;10-9-97;31109156;Ponce Diaz;Wanda Yesica;;;26202686;Mendoza;Cesar Ismael;;;;24/08/2011;0;0;0
+10;135;II;B;102;0;0;102gg;13;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;14;10-9-97;29105207;Rios;Carina Beatriz;;;30308520;Rivero;Juan Jose;;;;05/04/2006;0;0;0
+10;135;II;B;102;0;0;102gg;15;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;16;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102gg;17;10-9-97;16226992;Abaca;Rosa Estela;;;33333333;Mouse;Miky;;;;11/10/1999;0;0;0
+10;135;II;B;102;0;0;102gg;18;10-9-97;30026816;Quiroga;Maria Celina;;;25168137;Arellano;Jorge Ramon;;;;25/06/1999;0;0;0
+10;135;II;B;102;0;0;102gg;19;10-9-97;25579098;Pomatti;Paola Yesica;;;25667205;Alustiza;Angel Esteban;;;;25/06/1999;0;0;0
+10;135;II;B;102;0;0;102gg;20;10-9-97;24056083;Sosa;Elba Alejandra;;;25667441;Luna;Diego Leandro;;;;25/06/1999;0;0;0
+10;135;II;B;102;0;0;102gg;21;10-9-97;14372599;Robles;Mario Orlando;;;33333333;Mouse;Miky;;;;12/09/2007;0;0;0
+10;135;II;B;102;0;0;102gg;22;10-9-97;29274851;Jimenez;Marisa Fernanda;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;01;10-9-97;26129873;Alvarez;Mariana Isabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;02;10-9-97;28745786;Oviedo;Erica Vanesa;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;03;10-9-97;32156308;Elizalde;Maria Fernanda;;;28420990;Torres;Lucas Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;04;10-9-97;30646711;Flores Donato;Maira Soledad;;;28745682;Medina;Ramon Sergio;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;05;10-9-97;17650662;Ojeda;Graciela Patricia;;;12460803;Castillo;Oscar Eduardo;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;06;10-9-97;25168150;Vesprini;Elizabeth Lujan;;;30646722;Elel;Jorge;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;07;10-9-97;30646728;Villalda;Celia Lorena;;;30308561;Garavento;Gonzalo Amilcar;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;08;10-9-97;5289697;Lubo;Mirta Nilda;;;10353824;Pereyra;Tomas Alfredo;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;09;10-9-97;22301805;Beltramo;Mabel Lujan;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;10;10-9-97;28161121;Vivas;Maria Jose;;;28161303;Muñoz;Martin Luis;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;11;10-9-97;29143429;Zabala;Maria Alejandra;;;24944666;Gonzalez;Daniel Isaac;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;12;10-9-97;29143390;Cabrera;Stella Maris;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;13;10-9-97;32156386;Balbi;Valeria Veronica;;;29143468;Texeira;Diego Martin;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;14;10-9-97;28745576;Vallejos;Romina Graciela;;;26807320;Franco;Silvio Javier;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;15;10-9-97;32156392;Mansillan;Lorena Vanesa;;;27623411;Quiroga;Miguel Angel;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;16;10-9-97;28044588;Franco;Maria Lucrecia;;;27084951;Valor;Juan Jose;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;17;10-9-97;25688463;Molina;Carina Isabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;18;10-9-97;28513140;Abrigo;Alejandra Mabel;;;28513140;Chara;Sergio;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;19;10-9-97;31426799;Jesus;Gloria Maria Isabel;;;28044453;Buessio;Leonardo Matias;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;20;10-9-97;25667201;Constantino;Elizabeth karina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;21;10-9-97;16600061;Gaitan;Nora Mabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102hh;22;10-9-97;16795155;Martini;Maria Ines;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;01;10-9-97;23890488;Cemarelli;Susana Gabriel;;;20329988;Benitez;Oscar Javier;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;02;10-9-97;27240852;Cabrera;Florencia Soledad;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;03;10-9-97;27602924;Iocolano;Luciana;;;26660447;Luppi;Diego Oscar;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;04;10-9-97;25168063;Gomez;Maria Jorgelina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;05;10-9-97;23612161;Farre;Sandra Carina;;;20841170;Troncoso;Omar Cesar;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;06;10-9-97;20913892;Lobo;Ana Cristina;;;21970713;Valenzuela;Miguel Horacio;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;07;10-9-97;28965396;Rivera;Natalia del Valle;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;08;10-9-97;22130280;Morales;Alejandra Carina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;09;10-9-97;17893301;Almaraz;Susana Antonia;;;12099055;Español;Roberto Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;10;10-9-97;29427822;Morales;Maria Aldana;;;25667384;Domingo;Leandro Vicente;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;11;10-9-97;25427279;Albornoz;Rosa Paola;;;31426770;Agüero;Jose Luis;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;12;10-9-97;26807329;Aristides;Yanina Lorena;;;25667402;Buceta;Jose Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;13;10-9-97;27602974;Gumy;Adriana Emilce;;;27256628;Lapalma;Gustavo Edgardo;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;14;10-9-97;28044536;Chazarreta;Yesica Maria;;;20329708;Greco;Eduardo Ariel;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;15;10-9-97;29999229;Gonzalez;Natalia Noelia;;;31109308;Petit;Horacio Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;16;10-9-97;22301888;Arrellano;Monica Patricia;;;22301864;Goyohaga;Hugo Antonio;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;17;10-9-97;32156419;Cabrera;Veronica Paola;;;29143326;Medina;Miguel Angel;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;18;10-9-97;30557600;Freire;Maria de los Angeles;;;29143519;Ullua;Juan Alejandro;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;19;10-9-97;28044433;Estelrrik;Silvina Guadalupe;;;24216076;Kyriazis;Leonidas;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;20;10-9-97;4476672;Piriz;Antonia Yolanda;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;21;10-9-97;28161219;Mendoza;Romina Daniela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102kk;22;10-9-97;20329662;Gonzalez;Graciela Patricia;;;23259643;Mendoza;Juan Marcelo;;;;0;0;0;0
+10;135;II;B;102;0;0;102mm;01;10-9-97;14855108;Leguizamon;Maria Eva;;;10310179;Reinoso;Geronimo Cirilo;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;02;10-9-97;12481732;Franco;Norma Elsa Felisa;;;12609641;Ruiz;Pedro;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;03;10-9-97;17650681;Bargas;Maria Alejandra;;;17230833;Rivero;Walter Mateo;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;04;10-9-97;23457179;Luna;Paola Andrea Fabiana;;;16795093;Pacheco;Nestor Fabian;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;05;10-9-97;13094973;Ortiz;Edelmira del Carmen;;;11290920;Pereyra;Martin Adolfo;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;06;10-9-97;20571659;Frias;Mercedes;;;22130212;Gerez;Jorge Gustavo;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;07;10-9-97;20297163;Milachi;Viviana Edith;;;17958160;Pacheco;Marcelo Ernesto;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;08;10-9-97;20329788;Volpi;Silvia Noemi;;;13944458;Sonzini;Carlos Saul;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;09;10-9-97;26202766;Camelino;Silvana Lorena;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102mm;10;10-9-97;17856966;Dominguez;Estela Beatriz;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102mm;11;10-9-97;16226902;Rodriguez;Adela Susana;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102mm;12;10-9-97;4687669;Arellano;Roberto;;;33333333;Mouse;Miky;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102mm;13;10-9-97;26423191;Pereyra;Paula Liliana;;;24386989;Lazcano;Juan Marcelo;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102mm;14;10-9-97;6508474;Uviedo;Mirta;;;11457541;D agostino;Miguel Angel;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102mm;15;10-9-97;18636915;Arellano;Blanca Rosa;;;14711016;Pacheco;Ricardo Delfino;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;16;10-9-97;11483656;Ortiz;Blanca Ester;;;4696214;Presencio;Felix Alberto;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;17;10-9-97;18612116;Medina;Marta Graciela;;;24206983;Aranda;Ariel Alejandro;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;18;10-9-97;24206929;Masdeu;Veronica Susana;;;17958222;Molina;Luis Alejandro;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;19;10-9-97;23890417;Troncoso;Andrea Karina;;;23259719;Duarte;Juan Carlos;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;20;10-9-97;22506981;Barone;Berta Noemi;;;17947760;Diaz;Juan Jose;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;21;10-9-97;20329628;Valdez;Maria Isabel;;;16794992;Del Pardo;Dario Camilo;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;22;10-9-97;4716487;Colombo;Angel Roberto;;;33333333;Mouse;Miky;;;La Sra. Ilda Martin fallecio (agregar certificado defuncion);18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;23;10-9-97;17423487;Cejas;Maria Adriana;;;12555650;Gomez;Juan Ramon;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;24;10-9-97;24493123;Bargiano;Silvina Mariel;;;33333333;Mouse;Miky;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;25;10-9-97;22130203;Herbel;Denna Beatriz;;;20966508;Torres;Juan Raul;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102mm;26;10-9-97;22301994;Valor;Sandra Elizabeth;;;23367789;Gomez;Gustavo Fabian;;;OK;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;01;10-9-97;11284917;Ceballo;Teresa;;;33333333;Mouse;Miky;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;02;10-9-97;16599953;Velazquez;Maria Luisa;;;33333333;Mouse;Miky;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;03;10-9-97;18433082;Penela;Susana Marta;;;16794972;Fragelli;Carlos Ramon;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;04;10-9-97;27623402;Garcia;Maria de los Angeles;;;20681291;Villa;Sergio Manuel;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;05;10-9-97;25964874;Baez;Irma Andrea;;;27329020;Rolon;Gustavo Leandro;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;06;10-9-97;3999077;Perez;Maria Edith;;;4672623;Barrientos;Abel Roberto;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;07;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102nn;08;10-9-97;0;Velazquez;Graciela Raquel;;;12028948;Valor;Victor Venancio;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;09;10-9-97;10310159;Delgado;Maria Elena;;;13043245;Leguizamon;Santos Sergio;;;;0;0;0;0
+10;135;II;B;102;0;0;102nn;10;10-9-97;21965305;Gomez;Norma Beatriz;;;17491395;Vallejos;Luis;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;11;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102nn;12;10-9-97;27602989;ARREGO;Grisela Noemi;;;28044482;GUTIERREZ;Carlos Sebastian;;;;0;0;0;0
+10;135;II;B;102;0;0;102nn;13;10-9-97;20329853;Chazarreta;Ana Maria;;;17514680;Quiroga;Jorge Omar;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;14;10-9-97;20584013;Grasselli;Sandra Marcela;;;14234585;Garcia;Oscar Alberto;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;15;10-9-97;18576463;Eggimann;Susana Mabel;;;13731066;Nuñez;Patricio;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;16;10-9-97;3999150;Trejo;Eulogia;;;33333333;Mouse;Miky;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;17;10-9-97;10896404;Valdez;Maria Aida;;;8419065;Gomez;Pedro Nolasco;;;;15/07/2005;0;0;0
+10;135;II;B;102;0;0;102nn;18;10-9-97;13791742;Gaitan;Rosa Esther;;;4694695;Cabrera;Juan Domingo;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;19;10-9-97;14210194;Patalagoitia;Graciela Rosa;;;12907388;Torres;Daniel Adrian;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;20;10-9-97;14710900;Barontini;Maria del Carmen;;;13791739;Monzon;Hector Daniel;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;21;10-9-97;17893456;Pace;Mirta Susana;;;13791789;Corvino;Jose Antonio;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102nn;22;10-9-97;25667314;Medina;Maria Elena;;;29888690;Moreno;Walter Rodolfo;;;Falta planilla;18/03/1999;0;0;0
+10;135;II;B;102;0;0;102pp;01;10-9-97;14161152;Charas Gomez;Aida Miguela;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;02;10-9-97;20329935;Gomez;Silvia Adriana;;;20329582;Lopez;Miguel Enrique;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;03;10-9-97;30308485;Rodriguez;Paulo Cesar;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;04;10-9-97;31109213;Fazzio;Andrea Celeste;;;31426944;Lopez;Ceferino Francisco;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;05;10-9-97;26660496;Presencio;Maria del Carmen;;;23156428;Balbuena;Adrian Fernando;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;06;10-9-97;13778593;Chara Gomez;Hermino;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;07;10-9-97;29888646;Sandoval;Sandra Malvina;;;25667411;Cabral;Juan Jose;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;08;10-9-97;26202781;Gomez;Claudia Esther;;;22933952;Palacios;Juan Domingo;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;09;10-9-97;26202798;Dagostino;Claudia Mabel;;;24206954;Tabares;Luis Maria;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;10;10-9-97;18636916;Scaloria;Monica Liliana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;11;10-9-97;27240974;Bargiano;Vanesa Yanina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;12;10-9-97;29888563;Peralta;Natalia Luciana;;;28745582;Gonzalez Zabala;Norberto Esteban;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;13;10-9-97;23957247;Ojeda;Miriam Alejandra;;;21970707;Ponce;Ricardo Gabriel;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;14;10-9-97;11642958;Oviedo;Ida Marina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;15;10-9-97;26202672;Martinez;Liliana Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;16;10-9-97;27623402;Garcia;Maria de los Angeles;;;20681291;Villa;Sergio Manuel;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;17;10-9-97;10532206;Nuñez;Deolinda Angelita;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;18;10-9-97;17559014;Esquivel;Norma Mirta;;;14960393;Enrique;Juan Valentin;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;19;10-9-97;32156327;Benedetti;Maria Cecilia;;;27602935;Torres;Marcelo Leonardo;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;20;10-9-97;30646787;Rodriguez;Marilina Rocio;;;31109196;Enrique;Claudio Oscar;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;21;10-9-97;29427985;Fernandez;Alejandra Paola;;;23890430;Franchioni;Walter Gabriel;;;;0;0;0;0
+10;135;II;B;102;0;0;102pp;22;10-9-97;30263258;Alvarez;Veronica Vanesa;;;24944651;Rios;Juan Felix;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;01;10-9-97;24944730;Abaca;Maria Cristina;;;23407915;Enrique;Luis Daniel;;;Verificar estado civil;0;0;0;0
+10;135;II;B;102;0;0;102rr;02;10-9-97;21715139;Cardoso;Maria del Carmen;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;03;10-9-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;04;10-9-97;21433890;Galvan;Angelica Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;05;10-9-97;16795156;Almaraz;Maria Cristina;;;22444042;Soria;Carlos Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;06;10-9-97;32514747;Matorras;Noelia Andrea;;;28745651;Ponce;Nelson Alejandro;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;07;10-9-97;12835619;Alustiza;Elsa Beatriz;;;20329647;Evangelisti;Hugo Daniel;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;08;10-9-97;10359523;Santana;Alfredo Oscar;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;09;10-9-97;6508475;Benitez;Nelida Luisa;;;10622070;Abaca;Roberto Antonio;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;10;10-9-97;27240840;Cordoba;Luciana Beatriz;;;28625957;Porcel;Miguel Alejandro;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;11;10-9-97;12699238;Gimenez;Dora Bibiana;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;12;10-9-97;25168195;Bargas;Andrea Lorena;;;27602943;Zapata;Juan Agustin;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;13;10-9-97;23151075;Guagliardi;Claudio Alfonso;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;14;10-9-97;30646743;Franco;Victoria Soledad;;;32920893;Sanchez;Lucas Sebastian;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;15;10-9-97;25427373;Jordan;Maria Jose;;;20329757;Maderna;Marcelo Fabian;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;16;10-9-97;23890482;Tobiani;Maria Rosa;;;33880828;Benitez;Hector Osvaldo;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;17;10-9-97;28044382;Amaya;Nadia Lujan;;;26202738;Ponce;Jorge Alberto;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;18;10-9-97;25897406;Fernandez;Veronica Beatriz;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;19;10-9-97;2660407;Barbery;Romina;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;20;10-9-97;27602966;Gonzalez;Yanina Yesica;;;25472192;Galeano;Gustavo Alejandro;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;21;10-9-97;18607438;Robles;Nancy Mabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+10;135;II;B;102;0;0;102rr;22;10-9-97;24895096;Milachi;Javier Oscar;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;01;35-10-97;0;Sanchez;Miguel;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;02;35-10-97;0;Soreira;Alfredo;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;03;35-10-97;0;Canseco;Raul;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;04;35-10-97;0;Servio;Lorena;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;05;35-10-97;0;Diaz;Maria;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;06;35-10-97;0;Otermin;Marcela;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;07;35-10-97;0;Perez;Adalberto;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;08;35-10-97;0;Coggiolo;Nestor;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;09;35-10-97;0;Giles;Claudia;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;10;35-10-97;0;Ercoli;Nestor;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;11;35-10-97;0;Herrera;Juana;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;12;35-10-97;0;Diaz;Carlos;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;13;35-10-97;0;Barrera;Rodolfo;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;14;35-10-97;0;Emmi;Natalia;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;15;35-10-97;0;Galvan;nestor;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;16;35-10-97;0;Puyo;Marcela;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;17;35-10-97;0;Alonso;Gaston;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26a;18;35-10-97;0;Leone;Marisol;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26b;01;35-10-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26e;01;35-10-97;11934141;Dadamia;Mirta Isabel;;;33333333;Mouse;Miky;;;Municipio propone a: Bozzano, Eduardo;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;02;35-10-97;26168701;Fernandez;Laura Daniela;;;33333333;Mouse;Miky;;;Municipio propone a: Avalos, Eduardo;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;03;35-10-97;23811158;Baigorria;Silvia;;;17607973;Barrera;Enrique Ramon;;;OK;29/05/2003;0;0;0
+35;354;I;A;0;26;0;26e;04;35-10-97;29003988;Bozzo;Gisela;;;33333333;Mouse;Miky;;;Municipio propone a: Bozzo, Osvaldo;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;05;35-10-97;25103965;Fernandez;Andrea;;;23811165;Barrera;Dario Javier;;;OK;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;06;35-10-97;29374293;Barragan;Mariana;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;354;I;A;0;26;0;26e;07;35-10-97;24455526;Puyo;Marcela Lidia;;;24203549;Bour;Walter Antonio;;;Municipio propone a: Romero Nora DNI 16.303.034;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;08;35-10-97;29518540;Dadamia;Maria Jose;;;33333333;Mouse;Miky;;;entregado 29/10/98: reubicacion municipal 26e-16;0;0;0;0
+35;354;I;A;0;26;0;26e;09;35-10-97;27506106;Bava;Juan Ignacio;;;33333333;Mouse;Miky;;;entregado 29/10/98: reubicacion municipal 26e-18;0;0;0;0
+35;354;I;A;0;26;0;26e;10;35-10-97;22169930;Quiroga;Renee Maria;;;20663099;Barrera;Juan Jose;;;Municipio propone a: Gilardoni, Leandro DNI 33.226.738;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;11;35-10-97;25991178;Salas;Maria Rafaela;;;33333333;Mouse;Miky;;;Municipio propone a: Salas, Felipe;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;12;35-10-97;17607970;Gutierrez;Cristina Silvia;;;33333333;Mouse;Miky;;;OK;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;13;35-10-97;2659259;Brizuela;Ramona;;;4058405;Infiesta;Alfredo;;;OK;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;14;35-10-97;28012546;Raviru;Silvia Vanesa;;;33333333;Mouse;Miky;;;Municipio propone a: Roldan, Fabricio;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;15;35-10-97;12939255;Frias;Angel Oscar;;;33333333;Mouse;Miky;;;OK;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;16;35-10-97;20031520;Gutierrez;Monica Haydee;;;33333333;Mouse;Miky;;;OK;29/05/2003;0;0;0
+35;354;I;A;0;26;0;26e;17;35-10-97;13600152;Damilano;Graciela;;;11968208;Lopez;Alberto;;;Municipio propone a: Albarrancin, Norma DNI 21.569.332 y a Woodman, Jesus Antonio DNI 12.939.228;29/10/1998;0;0;0
+35;354;I;A;0;26;0;26e;18;35-10-97;21935901;Tiseira;Nancy Susana;;;20033459;Figueroa;Juan Leopoldo;;;OK;29/05/2003;0;0;0
+35;354;I;A;0;26;0;26f;01;35-10-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;01;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;02;35-11-97;31530966;Torre;Lucia Laura;;;27852761;Iharour;Guillermo;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;03;35-11-97;28845796;Ranure Benz;Fernanda S.;;;25695470;Covachina;Claudio Mario;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;04;35-11-97;25034107;Bergameschino;Romina;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;05;35-11-97;31260650;Arango;Mariela;;;27707232;Garcia;Walter;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;06;35-11-97;11578849;Puyo;Graciela Mabel;;;33333333;Mouse;Miky;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;07;35-11-97;25742646;Castañeda;Estella Banesa;;;27149467;Garrido;Mauro Adrian;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;08;35-11-97;14050810;Lazaro;Cristina Beatriz;;;33333333;Mouse;Miky;;;Falta boleto, sentencia de divorcio y CUIL;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;09;35-11-97;12813044;Brienzo;Maria Eva;;;33333333;Mouse;Miky;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;10;35-11-97;3094815;Bernal;Enrique;;;2026556;Etchart;Nelida;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;11;35-11-97;13884605;Giacobbe;Maria Julia;;;33333333;Mouse;Miky;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;12;35-11-97;24675420;Camer;Claudia Mabel;;;33333333;Mouse;Miky;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18a;13;35-11-97;27149495;Perez;Valeria Lujan;;;26168739;Elisio;Ariel Jose;;;En Planilla enviada por el Municipio informan Constantino, Adalberto;04/03/2002;0;0;0
+35;233;I;A;0;18;0;18a;14;35-11-97;33226760;Aguilar;Vanina Manuela;;;29147333;Guaraz;Sebastian David;;;se firmo boleto compra venta  10/02/14-pro.cre.ar;0;0;0;0
+35;233;I;A;0;18;0;18a;15;35-11-97;18655111;Amhed Gianotti;Sara Rebeca;;;17414674;Augusto;Daniel;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;16;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;17;35-11-97;17373737;Contreras;Nilda Mirian;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;18;35-11-97;31299757;Gutierrez;Cintia;;;24627677;Villalba;Diego;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;19;35-11-97;34006032;Cufre Woodman;Analia;;;25564351;Rodriguez;Julio Cesar;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;20;35-11-97;29003988;Bozzo;Gisela Romina;;;27106375;Rodriguez;Jose Omar;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;21;35-11-97;22512141;Talarita;Claudio;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;22;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;23;35-11-97;26168876;Mas;Mirna Raquel;;;25161444;Quiroga;Ariel Norberto;;;se firmó boleto compra venta- 12/03/14. pro.cre.ar;0;0;0;0
+35;233;I;A;0;18;0;18a;24;35-11-97;32150198;Luengo;Valeria;;;34006044;Costa;Diego Hernán;;;trámite de escrituracion (PROCREAR) Exp. 2423-1212/14;0;0;0;0
+35;233;I;A;0;18;0;18a;25;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;26;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;27;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18a;28;35-11-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18b;01;35-11-97;23007059;Trombini;Gerardo Oscar;;;23172371;Avalos;Karina;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;02;35-11-97;28389815;Zabaleta;Maria Fernanda;;;33333333;Mouse;Miky;;;se firmo boleto compra venta- 12/03/14.pro.cre.ar;0;0;0;0
+35;233;I;A;0;18;0;18b;04;35-11-97;0;Narvez;Jaquelin;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;05;35-11-97;0;Ferrero;Lorena;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;06;35-11-97;0;Farias;Gladys;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;07;35-11-97;0;Robledo;Natalia;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;08;35-11-97;0;Palumbo;Sebastian;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;09;35-11-97;0;Cristofilopulo;Marcela;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;10;35-11-97;0;Toro;Graciela;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;11;35-11-97;16713434;Vaqueiro;Mabel;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18b;12;35-11-97;31530926;Caruso;Maximiliano;;;33333333;Mouse;Miky;;;PRO.CRE.AR;20/11/2014;0;0;0
+35;233;I;A;0;18;0;18b;13;35-11-97;16803740;Garro;Marta;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18b;14;35-11-97;0;Archiprete;Nancy;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;233;I;A;0;18;0;18b;15;35-11-97;0;Palacio Laura;Palacio Laura;;;33333333;Mouse;Miky;;;Por expediente 2416-4236/06 alc 8 Se tramita transferencia de tierras;0;0;0;0
+35;233;I;A;0;18;0;18b;16;35-11-97;32252488;Gutierrez;Gisela Gabriela;;;25292861;De Jesús;Leonardo Pablo;;;Por nota del municipio se confeccionó boleto, se inició anteriormente transferencia de lote por expediente 2416-4236/06 alc 8.;25/11/2014;0;0;0
+35;233;I;A;0;18;0;18b;17;35-11-97;27852780;Barragan;Maria Laura;;;26135236;Rivero;Manuel;;;Verificar renuncia de: Fernandez, Nelida Lujan DNI 24.943.277 y de Roma, Javier Alberto DNI 23.811.196 (BCV 29/10/98);0;0;0;0
+35;233;I;A;0;18;0;18b;18;35-11-97;0;Adami;Florindo;;;33333333;Mouse;Miky;;;entregado 29/10/98: reubicacion municipal 26e-1;0;0;0;0
+35;233;I;A;0;18;0;18b;19;35-11-97;22347444;Adami;Elbio Omar;;;23779292;Elissi;Graciela Lujan;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;20;35-11-97;12939290;Correa;Evelia Mabel;;;11281725;Ocampo;Carlos Eulogio;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;21;35-11-97;10598230;Burgues;Jose Hugo;;;17393509;Mercado;Maria Concepcion;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;22;35-11-97;16520461;Iharour;Adriana Mabel;;;33333333;Mouse;Miky;;;OK;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;23;35-11-97;4964905;Quiroga;Ignacio Oscar;;;25924483;Gomez;Claudia Raquel;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;24;35-11-97;22512143;Roma;Roberto Angel;;;26074056;Sosa;Natalia Yanina;;;falta boleto;29/10/1998;0;0;0
+35;233;I;A;0;18;0;18b;25;35-11-97;3638267;Bour;Olga;;;33333333;Mouse;Miky;;;OK;29/10/1998;0;0;0
+35;235;IV;E;10;0;0;10 g;01;35-16-96;25924494;Pardi;Alicia Rosana;;;29518509;Lanzoni;Carlos;;;PRO.CRE.AR;06/09/2013;0;0;8988
+35;235;IV;E;10;0;0;10 g;02;35-16-96;14193965;Comino;Sebastian;;;23747584;Campos;Nelida;;;;0;0;0;8987
+35;235;IV;E;10;0;0;10 g;03;35-16-96;31050062;Ibarra;Veronica Lujan;;;18583889;Perez;Carlos;;;;0;0;0;8986
+35;235;IV;E;10;0;0;10 g;04;35-16-96;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;8985
+35;235;IV;E;10;0;0;10 g;05;35-16-96;16621483;Saporito;Clara Lujan;;;12186916;Prodan;Jorge;;;;0;0;0;8984
+35;235;IV;E;10;0;0;10 g;06;35-16-96;29378814;Chavazco;Lorena Luján;;;31238185;Comino;César Javier;;;Pro.Cre.Ar;12/03/2014;0;0;8983
+35;235;IV;E;10;0;0;10 g;07;35-16-96;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;8982
+35;235;IV;E;10;0;0;10 g;08;35-16-96;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;8981
+35;235;IV;E;10;0;0;10 g;09;35-16-96;24688966;Mansilla;Silvana Mariel;;;17971963;Porta;Dario Osmar;;;;0;0;0;8980
+35;235;IV;E;10;0;0;10 g;10;35-16-96;0;Bonifacio;Karina;;;0;Lorber;Pablo;;;;0;0;0;8979
+35;235;IV;E;10;0;0;10 g;11;35-16-96;14716337;Nuñez;Carmen Gabriela;;;24291797;Ortiz;Daniel Luis;;;;0;0;0;8978
+35;235;IV;E;10;0;0;10 g;12;35-16-96;31813750;Moyano;Lucrecia Mariel;;;25512990;Jauregui;Luis Maria;;;;0;0;0;8977
+35;235;IV;E;10;0;0;10 g;13;35-16-96;31525025;Lujan;Laura Lorena;;;30347161;Balbuena;Leonardo Fabian;;;;0;0;0;8976
+35;235;IV;E;10;0;0;10 g;14;35-16-96;27379486;Preciado;Carla Zulema;;;25509207;Cantelmi;Diego Martin;;;;0;0;0;8975
+35;235;IV;E;10;0;0;10 g;15;35-16-96;28782831;Paez;Daniela;;;29003987;Rossi;Hernan;;;;0;0;0;8974
+35;235;IV;E;10;0;0;10 g;19;35-16-96;0;Rodriguez;Maria Elsa;;;14129910;Barragan;Julio Eduardo;;;;0;0;0;8973
+35;235;IV;E;10;0;0;10 g;20;35-16-96;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;8972
+35;235;IV;E;10;0;0;10 g;21;35-16-96;24194486;Cabrera;Sandra;;;33333333;Mouse;Miky;;;;0;0;0;8971
+35;235;IV;E;10;0;0;10 g;24;35-16-96;28287957;Sampablo;Marisabel;;;25186927;Majluf;Marcelo Jesus;;;;05/11/2012;0;0;8970
+35;235;IV;E;10;0;0;10 g;25;35-16-96;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;8969
+35;234;IV;B;0;1a;0;23;02;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;23;03;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;23;04;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;23;05;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;23;06;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;23;07;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;01;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;02;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;03;35-15-97;29860522;Colaberardino;Silvia Lujan;;;0;Venero;Martiniano Ever;;;se firmo boleto compra venta- 12/03/2014. pro.cre.ar;0;0;0;0
+35;234;IV;B;0;1a;0;24;04;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;05;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;06;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;07;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;08;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;09;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;10;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;11;35-15-97;25186782;Baldor;Gisela Vanesa;;;0;Vitale;Fernando Martín;;;se firmo boleto compra venta- pro.cre.ar- 12/03/14;0;0;0;0
+35;234;IV;B;0;1a;0;24;12;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;13;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;14;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;15;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;24;16;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;01;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;02;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;03;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;04;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;05;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;06;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;07;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;08;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;09;35-15-97;26448553;Palomino;Veronica Mabel;;;30583544;Agüero;Diego Hernán;;;Se firmó boleto- compra venta - 10/02/14 Pro.cre.ar;0;0;0;0
+35;234;IV;B;0;1a;0;25;10;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;11;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;12;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;13;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;14;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;15;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;25;16;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;26;01;35-15-97;16543617;Avila;Gladis Liliana;;;33333333;Mouse;Miky;;;fta estado civil;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;02;35-15-97;20295995;Di Placido;Claudia Marina;;;17971983;Mayol;Jorge Oscar;;;OK;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;03;35-15-97;13965933;Rodriguez;Estela Lidia;;;33333333;Mouse;Miky;;;;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;04;35-15-97;16621494;Parejas;Viviana Beatriz;;;14947645;Pesaresi;Ariel Horacio;;;;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;05;35-15-97;21822246;Moreno;Miguel Angel;;;33333333;Mouse;Miky;;;OK;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;06;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;26;07;35-15-97;12917797;Andrada;Maria Estela;;;33333333;Mouse;Miky;;;OK;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;08;35-15-97;14327587;Gomez;Graciela Beatriz;;;10255968;San Andres;Oscar Roberto;;;OK;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;09;35-15-97;17971985;Signori;Silvia Susana;;;33333333;Mouse;Miky;;;fta fecha de nacimiento y estado civil;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;10;35-15-97;16086670;Mandelli;Alicia Beatriz;;;23282160;Uspong;Omar Ernesto;;;OK;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;11;35-15-97;16607358;Vecchie;Karina Sandra;;;33333333;Mouse;Miky;;;;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;12;35-15-97;18200063;Sauco;Cristina Mabel;;;33333333;Mouse;Miky;;;;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;13;35-15-97;24688966;Mansilla;Silvana Mariel;;;17971963;Porta;Dario Osmar;;;;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;14;35-15-97;33333333;Mouse;Miky;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;234;IV;B;0;1a;0;26;15;35-15-97;18429581;Soria;Maria Teresa;;;18200055;Sanchez;Walter Ramon;;;fta Cuil de ambos;29/05/2003;0;0;0
+35;234;IV;B;0;1a;0;26;16;35-15-97;23421191;Godoy;Lucia Mariela;;;20032592;Albornoz;Claudio Vicente;;;;29/05/2003;0;0;0
+35;235;IV;E;10;0;0;10 h;10;35-1-2001;0;Mazzoni;Maria;;;0;Miranda;Oscar;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;09;35-1-2001;0;Ojesa;Shara;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;08;35-1-2001;0;Miranda;Ramon Oscar;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;07;35-1-2001;0;Gonzalez;Sandra;;;0;Miranda;Ernesto;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;06;35-1-2001;0;Presidente;Gloria;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;05;35-1-2001;0;Miranda;Mirta;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;04;35-1-2001;0;Chamorro;Monica;;;0;Ulloa;Edgardo;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;03;35-1-2001;0;Albertengo;Maria Lujan;;;0;Gonzalez;Guillermo;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;02;35-1-2001;0;Miranda;Gustavo;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;01;35-1-2001;0;Lopez;Cintia;;;0;Lujan;Daniel;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;11;35-1-2001;0;Ferrero;Mario;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;12;35-1-2001;0;Laycona;Adriana;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;13;35-1-2001;0;Bellon;Fabio;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;24;35-1-2001;0;Joris;Monica;;;0;Acuña;Oscar;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;25;35-1-2001;0;Gauna;Maximo;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 h;26;35-1-2001;0;Franco;Alicia;;;0;Rodriguez;Juan Carlos;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;01;35-1-2001;0;Mariano;Karina;;;0;Nuñez;Juan;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;16;35-1-2001;0;Ortiz;Patricia;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;17;35-1-2001;0;Belizan;Mariana;;;0;Cabaña;Sebastian;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;18;35-1-2001;0;Di Marco;Maria;;;0;Catalano;Pascual;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;19;35-1-2001;0;Peverini;Carlos;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;20;35-1-2001;0;Barroso;Miriam;;;33333333;Mouse;Miky;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;21;35-1-2001;0;Lucero;Celeste;;;0;Gonzalez;Luis;;;;0;0;0;0
+35;235;IV;E;10;0;0;10 k;22;35-1-2001;0;Gauna;Marcos;;;33333333;Mouse;Miky;;;;0;0;0;0

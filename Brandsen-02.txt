@@ -1,0 +1,234 @@
+13;I;H;0;138;0;138a;02;13-8-97;5;17019860;RAMIREZ;Liliana Esther;14562638;CEJAS;Daniel Antonio;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138a;03;13-8-97;5;29079860;DOBAL;Mónica Cristina;28795275;CEJAS;Gonzalo Gabriel;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138a;04;13-8-97;5;14422756;MELGAREJO;Elba Beatriz;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138a;05;13-8-97;6;14562692;Orbistondo;Teresa Isabel;14247433;Lorenzo;Juan Carlos;Sin observaciones;0;4381;06/11/2002;21066
+13;I;H;0;138;0;138a;06;13-8-97;2;16560229;Tresarrieu;Maria Cristina;14247420;Barrionuevo;Nestor Mario;OK-es un canje (era lote 29 de la manzana 130) a la espera de resolución judicial expe 2416-5871-12 y 2423-98-12;0;0;0;0
+13;I;H;0;138;0;138a;07;13-8-97;5;24654285;MERLICCO;María De Los Angeles;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138a;08;13-8-97;4;25067353;Alaniz;Silvia Alejandra;23105138;Martinez;Gustavo Rodolfo;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138a;09;13-8-97;4;21997477;Torres;Dalma Victoria;23325715;Disalvo;Nicolas Alberto;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138a;10;13-8-97;6;3431069;Masias;Ernestina Amalia;33333333;Mouse;Mickey;Sin observaciones;0;4382;06/11/2002;21061
+13;I;H;0;138;0;138a;11;13-8-97;5;18441963;GOMEZ;María Del Carmen;21032221;PACHECO;Pedro Sandro;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138a;12;13-8-97;6;26022443;Girard Dumois;Maria Magdalena;22696663;Cañas;Fernando Ariel;Sin observaciones;0;4357;06/11/2002;21054
+13;I;H;0;138;0;138a;13;13-8-97;2;12422756;Melgarejo;Beatriz Elba;33333333;Mouse;Mickey;OK-estaban en tramite de escrituracion;0;0;0;0
+13;I;H;0;138;0;138a;14;13-8-97;2;18190953;Cardoso;Marcela Alejandra;16882371;Gomez;Daniel;OK-estaban en tramite de escrituracion;0;0;0;0
+13;I;H;0;138;0;138a;15;13-8-97;1;29079860;Dobal;Monica Cristina;33333333;Mouse;Mickey;Fta acta de divorcio;0;0;0;0
+13;I;H;0;138;0;138a;16;13-8-97;2;6549418;De Franco;Maria Teresa;33333333;Mouse;Mickey;CUIL-estaban en tramite de escrituracion;0;0;0;0
+13;I;H;0;138;0;138b;01;13-8-97;5;23325564;SIMONETTI;María Alejandra;14562658;ECHEVERRIA;Mariano Marcelino;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;02;13-8-97;6;22485677;Roldan;Elena;23213340;Taus;Carlos Hugo;Sin observaciones;0;4383;06/11/2002;21053
+13;I;H;0;138;0;138b;03;13-8-97;5;4406508;CAZALA;Susana Beatriz;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;04;13-8-97;4;22541269;Zarate;Maria Rosa;17724949;Simon;Jorge Antonio;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138b;05;13-8-97;5;30374063;ESPINOSA;María Elena;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;06;13-8-97;4;14378936;Martinez;Olga Beatriz;17253184;Desalvo;Ricardo Andres;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138b;07;13-8-97;5;16560229;TRESARRIEU;María Cristina;14247420;BARRIONUEVO;Mario Néstor;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;08;13-8-97;2;24269806;Rico;Haydee Noemi;21032218;Rodriguez;Fabian Omar;OK-estaban en tramite de escrituracion;0;0;0;0
+13;I;H;0;138;0;138b;09;13-8-97;5;29058872;ZAPATA;Marina Alejandra;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;10;13-8-97;5;22952516;GAUTO;Clelia Ester;20351164;ACUÑA;Antonio Nicolás;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;11;13-8-97;2;25491490;Giannini;Monica Graciela;24590800;Gauna;Norberto Ariel;OK-estaban en tramite de escrituracion;0;0;0;0
+13;I;H;0;138;0;138b;12;13-8-97;4;18190954;Ahumada;Norma Edith;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;138;0;138b;13;13-8-97;5;24269849;RINCON;María Elena;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;14;13-8-97;5;22460141;MERLICCO;Norma Beatriz;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;15;13-8-97;5;5411894;TAUS;María Angélica;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138b;16;13-8-97;4;25494726;Velazquez;Victor Manuel;24590784;Russo;Moira Marilina;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;138;0;138c;01;13-8-97;1;12410626;Higuera;Luis Manuel;12238569;Goffre;Elsa Edith;Fta. planilla;0;0;0;0
+13;I;H;0;138;0;138c;02;13-8-97;6;28783323;Tamola;Nancy Andrea;33333333;Mouse;Mickey;OJO-VER PC.23 MANZ.130;0;4358;06/11/2002;21044
+13;I;H;0;138;0;138c;03;13-8-97;6;23325583;Belaunzaran;Eliana Vanina;33333333;Mouse;Mickey;Sin observaciones;0;4359;06/11/2002;21048
+13;I;H;0;138;0;138c;04;13-8-97;6;11083665;Serrano;Maria Cristina;11083589;Revainera;Juan Domingo;Sin observaciones;0;4384;06/11/2002;21052
+13;I;H;0;138;0;138c;05;13-8-97;5;12664241;MALDONADO;Mirta Alicia;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138c;06;13-8-97;4;6294105;Rodriguez;Demetria Martha;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138c;07;13-8-97;5;28795327;ABERASTEGUI;Andrea Soledad;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138c;08;13-8-97;1;44444444;Coca;Isabel Raquel Angela;55555555;Ledesma;Ruben Raul;Fta planilla;0;0;0;0
+13;I;H;0;138;0;138c;09;13-8-97;4;18354977;Altamiranda;Maria Alicia;21876108;Rios;Osmar Dario;CUIL;0;0;0;0
+13;I;H;0;138;0;138c;10;13-8-97;4;8549409;Romero;Natividad;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138c;11;13-8-97;1;11082795;Monjes;Celina;33333333;Mouse;Mickey;OK;0;0;0;0
+13;I;H;0;138;0;138c;12;13-8-97;6;25488039;Wolmann;Marlene;22696519;De Franco;Antonio Ruben;Sin observaciones;0;4453;06/11/2002;21049
+13;I;H;0;138;0;138c;13;13-8-97;4;20475793;Mega;Clara Isabel;17607779;Reyes;Carlos Alberto;OK;0;0;0;0
+13;I;H;0;138;0;138c;14;13-8-97;5;28795288;BIDEGAIN;Sonia Adriana;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138c;15;13-8-97;4;25535266;Lemus;Karina Noemi;26022391;Gonzalez;Juan Antonio;Sin observaciones;15/08/2008;0;0;0
+13;I;H;0;138;0;138c;16;13-8-97;4;25525140;Avila;Maria Eugenia;28212104;Sosa;Hector Daniel;Sin observaciones;15/08/2008;0;0;0
+13;I;H;0;138;0;138d;01;13-8-97;4;28795161;Maldonado;Rosana Anahi;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;138;0;138d;02;13-8-97;5;6540670;VELAZCO;Dinora Isabel;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138d;03;13-8-97;5;31498123;CORTES;María Celeste;29377558;PERDOMO;Gustavo Javier;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138d;04;13-8-97;4;22871676;Peña;Claudia Alejandra;22610799;Segovia;Roberto Alejandro;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138d;05;13-8-97;5;20964379;CARRIZO;Adriana Isabel;21997524;ZUDAIRE;Néstor Osvaldo;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138d;06;13-8-97;4;6549432;Velardez;Carmen;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138d;07;13-8-97;4;25485848;Paredes;Patricia Noemi;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;138;0;138d;08;13-8-97;5;27197941;VEGA;María Luisa;22696605;BENITEZ;José Ramón;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138d;09;13-8-97;6;10118615;Gomez;Marta Mabel;8237855;Perez;Antonio Daniel;Sin observaciones;0;0;0;4356
+13;I;H;0;138;0;138d;10;13-8-97;5;21445965;Gerez;Norma Beatriz;33333333;Mouse;Mickey;Sin observaciones;15/08/2008;0;0;0
+13;I;H;0;138;0;138d;11;13-8-97;6;25486202;Reyes;Silvia Araceli;25067439;Torp;Luis Alberto;dice en planilla paga parcela cambiada 138d-12;0;4452;06/11/2002;21050
+13;I;H;0;138;0;138d;12;13-8-97;4;7273122;Vaca;Ruben;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;138;0;138d;13;13-8-97;4;18190988;Carrera;Liliana Esther;13058883;Tevez;Alberto Enrique;por exp 2416-10405/08 denuncian que la vivienda esta desocupada;0;0;0;0
+13;I;H;0;138;0;138d;14;13-8-97;6;25494602;Reyes;Gabriela Susana;33333333;Mouse;Mickey;Sin observaciones;0;0;0;4349
+13;I;H;0;138;0;138d;15;13-8-97;5;28441442;GALVEZ;Laura Soledad;32273404;SUTAR;Alexis Ezequiel;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;138;0;138d;16;13-8-97;1;22871616;Pacheco;Nancy;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139b;01;13-8-97;5;3576392;SERIO;Rosa Argentina;23532115;OZAN;Alberto Antonio;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139b;02;13-8-97;5;29199678;ALTIERI;Jorge Rubén;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139b;03;13-8-97;4;27235185;Gallego;Sabrina Cyntia;24269835;Barrionuevo;Leandro;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139b;04;13-8-97;4;28212188;Paz;Sonia Gabriela;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139b;05;13-8-97;4;17516234;Paiz;Susana Leonor;33333333;Mouse;Mickey;Separada de hecho: fta nombre del exmarido;23/10/2003;0;0;0
+13;I;H;0;139;0;139b;06;13-8-97;4;30866544;Torres;Lorena Paola;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139b;07;13-8-97;1;4721785;Basilio;Maria de los Angeles;5038768;Bergagni;Pedro;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139b;08;13-8-97;4;18472097;Garcia;Maria Marta;21790404;Basualdo;Ireneo Oscar;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139b;09;13-8-97;5;28441456;ANDREONE GUATINI;María Natalia;24269986;YANIVELLI;Néstor Alberto;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139b;10;13-8-97;1;17005669;Obes;Arturo Enrique;33333333;Mouse;Mickey;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139b;11;13-8-97;5;23106079;GEREZ;Mara Alejandra;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139b;12;13-8-97;1;20060328;Irusta;Maria Alejandra;14378879;Amarillo;Roberto Esteban;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139b;13;13-8-97;1;22235900;Tulian;Monica Gabriela;20845299;Gonzalez;Oscar Jorge;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139b;14;13-8-97;5;16641834;PANESSI;Zulma Gladys;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139b;15;13-8-97;5;24305863;RODRIGUEZ;Flavia Cristina;13421814;GARCIA;Domingo;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139b;16;13-8-97;1;22696593;Goya;Mariela Veronica;33333333;Mouse;Mickey;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139c;01;13-8-97;4;23182822;Vilchez;Liliana Andrea;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139c;02;13-8-97;1;24253742;Campos;Sandra Ester;22840736;Bruera;Antonio Roberto;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139c;03;13-8-97;5;22085870;DIAZ;Mirta Mabel;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139c;04;13-8-97;4;20170904;Gonzalez;Jorge Ruben;22652630;Carrizo;Amalia Noemi;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139c;05;13-8-97;4;28123637;Leglise;Alan Jesus;26683707;Cardoso;Maria Jose;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139c;06;13-8-97;1;23962227;Gimenez;Luis Ernesto;25464735;Romero;Jorgelina Beatriz;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139c;07;13-8-97;5;27859961;SANTILLI;Romina Paola;28190513;URRISTE;Matías Gastón;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139c;08;13-8-97;1;24448850;Jaime;Ruben Dario;28496259;Naipauer;Stella Maris;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139c;09;13-8-97;4;26596553;Touson;Alfredo David;27616992;Pace;Luciana Beatriz;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139c;10;13-8-97;1;11226798;Lemos;Carlos Alberto;5889843;Taus;Maria Graciana;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139c;11;13-8-97;1;24738068;Korenhof;Roberto Carlos;24763833;D' addona;Marcela Lujan;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139c;12;13-8-97;1;30001852;Badano;Gustavo Ernesto;27853998;Leguizamon;Marcela Veronica;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139c;13;13-8-97;4;92438694;Fleitas;Luis Alberto;25901604;Cejas;Lorena Mariana;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139c;14;13-8-97;5;23299768;DELGADO;Rosa Alejandra;14755901;IBARRA;Oscar Fabián;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139c;15;13-8-97;4;24269905;Patrault;Diego Ernesto;30132453;Pacheco;Viviana Paola;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139c;16;13-8-97;5;34652382;CARDOSO;Debora Soledad;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139d;01;13-8-97;5;28795161;MALDONADO;Rosana Anahí;23546998;PEREYRA;Claudio Esteban;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139d;02;13-8-97;4;17210574;Lopez;Virginia;24395631;Arce;Ricardo Javier;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139d;03;13-8-97;1;13641748;Banega;Juan Carlos;16184883;Bracamonte;Monica;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139d;04;13-8-97;5;31520464;KAROLYI;Luciano Daniel Andrés;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139d;05;13-8-97;4;5412909;Corvalan;Reinaldo Benigno;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139d;06;13-8-97;1;22696640;Pacheco;Jose Luis;23182735;Barbot;Maria Consuelo;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139d;07;13-8-97;5;31520478;PONCE;Romina Gisela;29694712;BADANO;Alfredo Adrián;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139d;08;13-8-97;4;23792851;Fillol;Claudia Fabiana;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139d;09;13-8-97;5;32526001;VERON;Alejandra Araceli;26521574;SOTO;Juan Carlos;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139d;10;13-8-97;1;25378384;Villalba;Laura Ester;21445920;Dorado;Raul Oscar;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139d;11;13-8-97;4;16560259;Goñi;Monica Adela;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139d;12;13-8-97;1;21997457;Risoli;Moira Edith;25040685;Gomez;Fabian Hernan;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139d;13;13-8-97;4;22615451;Kolhn;Andrea Fabiana;33333333;Mouse;Mickey;Sin observaciones;15/08/2008;0;0;0
+13;I;H;0;139;0;139d;14;13-8-97;4;17680346;Oviedo;Olga Haydee;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139d;15;13-8-97;5;28468678;LARRUBIA;José Pedro;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139d;16;13-8-97;4;24590633;Subeldia;Leonardo Reynaldo Alfredo;28441424;Benitez;Paola Andrea Cristina;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139e;01;13-8-97;4;28795207;Andreone;Valeria Cristina;26529198;Karolyi;Esteban Demetrio;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139e;03;13-8-97;5;21997436;JUANENEA;Ana Maria;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;04;13-8-97;5;23046888;RAMOS;Marcela Beatriz;18355887;DIAZ;Miguel Ernesto;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;05;13-8-97;5;21455814;CAMALBIDE;Mónica Mabel;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;06;13-8-97;5;24927896;REYES;María Silvina;23005587;ANDREONE;Roberto Oscar;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;07;13-8-97;1;24246407;Bonetti;Monica Estela;20499385;Gomez;Walter Alexis;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139e;08;13-8-97;4;30132568;Flores;Graciela Noemi;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139e;09;13-8-97;5;18636382;TODISCO;Marcela Andrea;18063106;FERRARI;José Luis;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;10;13-8-97;5;17607841;TAUS;María Isabel;17672998;SARBIOLI;Mario Ramón;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;11;13-8-97;4;12323687;Rincon;Mercedes Ester;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139e;12;13-8-97;5;24269889;PEREZ;Alejandra Jorgelina;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;13;13-8-97;4;20441267;Aldaz;Roberto Carlos;16429205;Cordoba;Raquel Florentina;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139e;14;13-8-97;4;5196801;Balcedo;Amable Haydee;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139e;15;13-8-97;5;5889972;MELO;Lidia Elba;5216178;BARRAGAN;Carmelo Alberto;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139e;16;13-8-97;5;20371877;KOLHN;Olga Beatriz;18192055;RAMIREZ;Daniel Guillermo;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139f;01;13-8-97;5;22649192;Dieser;Gabriel Alejandro;24167323;Gaitan;Maria del Carmen;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139f;02;13-8-97;6;5796746;Castaño;Maria del Carmen;5073323;Sarbioli;Donato Raul;Sin observaciones;0;4451;06/11/2002;21051
+13;I;H;0;139;0;139f;03;13-8-97;1;22786897;Sandoval;Maria Laura;23271942;Borro;Daniel German;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139f;04;13-8-97;4;22879045;Avalos;Graciela Antonieta;22696648;Cazala;Oscar Alejandro;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139f;05;13-8-97;1;27355559;Garcia;Teresa Itati;25491635;Dalmazo;Daniel Avelino;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139f;06;13-8-97;4;29079880;Guatini;Maria Soledad;33333333;Mouse;Mickey;Sin observaciones;15/08/2008;0;0;0
+13;I;H;0;139;0;139f;07;13-8-97;1;14562653;Kuttel;Silvia Graciela;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139f;08;13-8-97;5;10353114;BORDA;Graciela Susana;12984962;MOLLE;Alberto Oscar;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139f;09;13-8-97;5;16624466;ARRACHE;Mónica Susana;22696630;ELIZALDE;Luis Alberto;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139f;10;13-8-97;4;18347746;Iadric;Maria Angelica;16290564;Burgos;Osvaldo Cesar;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139f;11;13-8-97;4;18190996;Berteri;Nora Elizabeth;12984746;Canale;Carlos Rodolfo;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139f;12;13-8-97;5;4854927;AlLVAREZ;Susana Elvira;7082936;LOPEZ;Fernando Herminio;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139f;13;13-8-97;6;13641809;Ambrosetti;Mabel Noemi;33333333;Mouse;Mickey;Fta: CUIL;0;0;0;4351
+13;I;H;0;139;0;139f;14;13-8-97;6;13641899;Gomez;Maria Lucia;33333333;Mouse;Mickey;Sin observaciones;0;0;0;4352
+13;I;H;0;139;0;139f;15;13-8-97;5;29079881;CANEPA;Gisela Leticia;28021895;ELIZALDE;Mario Roque;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139f;16;13-8-97;1;25347797;Gargano;Nancy Beatriz;21032246;Diaz;Raul Alberto;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139g;01;13-8-97;6;4883646;Llanos;Amanda Isabel;33333333;Mouse;Mickey;Sin observaciones;0;4373;06/11/2002;21062
+13;I;H;0;139;0;139g;02;13-8-97;4;23325531;Escobio;Karina Lorena;24844836;Pacheco;Pedro Javier;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139g;03;13-8-97;5;24880292;LLANOS;Nélida Lorena;17256110;MACIEL;Rubén Osvaldo;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139g;04;13-8-97;6;11392846;Magaldi;Blanca Maria;33333333;Mouse;Mickey;Sin observaciones;0;4375;06/11/2002;21046
+13;I;H;0;139;0;139g;05;13-8-97;5;31520427;SNEIDERIS;Vanesa Isabel;31520428;FERRARI;Flavio Rubén;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139g;06;13-8-97;4;25816284;Benitez;Roxana Luisa;26712415;Orellano;Pablo Gaston;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139g;07;13-8-97;4;21736486;Claro;Marisa;17875543;Lopez;Horacio Fabian;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139g;08;13-8-97;5;21445986;BARRAGAN;Marcela Alejandra;21945136;PACHECO;Anibal Javier;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139g;09;13-8-97;5;26022473;LLANOS;Omar Ariel;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139g;10;13-8-97;5;16516423;MORENO;Miguel Antonio;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139g;11;13-8-97;4;25383834;Martinez;Jorgelina Itati;24654074;Rosso;Jorge Luis;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139g;12;13-8-97;6;16487304;Martinez;Monica Cecilia;33333333;Mouse;Mickey;Sin observaciones;0;4374;06/11/2002;21047
+13;I;H;0;139;0;139g;13;13-8-97;1;21445814;Calmabide;Monica Mabel;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139g;14;13-8-97;6;14562543;Molina;Lidia Ester;33333333;Mouse;Mickey;Sin observaciones;0;4376;06/11/2002;21045
+13;I;H;0;139;0;139g;15;13-8-97;5;26876819;BARRAGAN;Telma Azucena;27268386;RENE;Angel Rafael;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139g;16;13-8-97;4;24729499;Miño;Miriam Veronica;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139h;01;13-8-97;4;24027639;Flores;Maria Sofia;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139h;02;13-8-97;6;18620463;Gaburri;Feliza Elizabeth;0;;;Sin observaciones;0;0;0;4353
+13;I;H;0;139;0;139h;03;13-8-97;4;27853951;Arias;Mariela Soledad;26269831;Gravano;Luis Guillermo;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139h;04;13-8-97;1;21977294;Bender;Fabiana Elizabeth;23213674;Llano;Nestor Javier;Fta planilla;0;0;0;0
+13;I;H;0;139;0;139h;05;13-8-97;5;18838333;LLANOS;Beatriz Lucinda;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139h;06;13-8-97;6;20079867;Guzman;Cintia Vanesa;28212162;Yanivelli;Carlos Roberto;Sin observaciones;15/08/2008;0;0;4354
+13;I;H;0;139;0;139h;07;13-8-97;5;24590782;Cacioli;Valeria Maria;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139h;08;13-8-97;4;18030479;Sosa;Elida Flavia;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139h;09;13-8-97;5;23943531;MAUROLAGOITIA;Ruth Alba;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139h;10;13-8-97;5;27164145;HIGUERA;Daniela Alejandra;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139h;11;13-8-97;4;23455799;Ozuna;Gladys Noemi;33333333;Mouse;Mickey;Sep de hecho.Fta. Nombre del exmarido;23/10/2003;0;0;0
+13;I;H;0;139;0;139h;12;13-8-97;5;93087086;GONZALEZ AGÜERO;Lucina;10150369;MIRANDA;Heraclio;Sin observaciones;30/11/2012;0;0;0
+13;I;H;0;139;0;139h;13;13-8-97;1;26712448;Gutierrez;Rita Alejandra;30132408;Rico;Cristian David;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139h;14;13-8-97;4;26022321;Anderson;Aldana Soledad;33333333;Mouse;Mickey;Sin observaciones;23/10/2003;0;0;0
+13;I;H;0;139;0;139h;15;13-8-97;4;17256216;Fillol;Teresa Liliana;33333333;Mouse;Mickey;Sin observaciones;0;0;0;0
+13;I;H;0;139;0;139h;16;13-8-97;5;5411876;IPARRAGUIRRE;Beatriz Dominga;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;122;01;13-6-97;6;16870572;Barreiro;Oscar Rodolfo;16711899;Gaday;Maria Alejandra;Sin observaciones;05/03/1998;1503;27/05/2003;21079
+13;I;C;0;0;0;122;02;13-6-97;6;20088102;Canteros;Graciela Noemi;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;4449;06/11/2002;21006
+13;I;C;0;0;0;122;03;13-6-97;6;25067404;Perez;Mauro Christian Miguel;25295200;Castellanos;Paola Edith;Sin observaciones;05/03/1998;4399;06/11/2002;21003
+13;I;C;0;0;0;122;04;13-6-97;5;22696654;BENITEZ;Mónica Roxana;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;122;05;13-6-97;1;27853964;Antonini;Silvia Lorena;26022485;Aberastegui;Cristian Javier;El Municipio solicita que se confeccione boleto de compraventa;0;0;0;0
+13;I;C;0;0;0;122;06;13-6-97;6;5711746;Galarza;Jacinto Ignacio;10617713;Moreyra;Delia Rosaura;Sin observaciones;05/03/1998;4400;06/11/2002;21030
+13;I;C;0;0;0;122;07;13-6-97;6;21673548;Bonini;Silvia Lujan;33333333;Mouse;Mickey;OK-REMANENTE 2144-461/96 alc.3-Se solicita rectificar Ordenanza Nº 707/97;02/07/1997;10078;16/09/2008;21510
+13;I;C;0;0;0;122;08;13-6-97;4;13641841;Scaramello;Osvaldo Ruben;16571836;Schowindt;Maria Rosa;Fta. CUIL de Scaramello;05/03/1998;0;0;0
+13;I;C;0;0;0;122;09;13-6-97;6;17607707;Quinteros;Alejandro Ariel;21445999;Moraña;Karina Elizabeth;Sin observaciones;05/03/1998;4401;06/11/2002;21029
+13;I;C;0;0;0;122;10;13-6-97;6;21032282;Alcuaz;Manuel Enrique;16035917;Silvestre;Monica Viviana;Sin observaciones;05/03/1998;4402;06/11/2002;21028
+13;I;C;0;0;0;122;11;13-6-97;6;23325698;Araujo;Oscar Marcelino;26529192;Zaccone;Eliana Ester;Sin observaciones;05/03/1998;4403;06/11/2002;21027
+13;I;C;0;0;0;122;12;13-6-97;6;17607777;Scaramello;Eduardo Daniel;24269978;Cordoba;Daniela Eleonora;Sin observaciones;05/03/1998;1502;27/05/2003;21083
+13;I;C;0;0;0;122;13;13-6-97;6;20441116;Anderson;Luis Alberto;34119169;Ramirez;Tamara Samanta;Sin observaciones;05/03/1998;4404;06/11/2002;21026
+13;I;C;0;0;0;122;14;13-6-97;6;10227735;Stessens;Noemi Azucena;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;1516;27/05/2003;21078
+13;I;C;0;0;0;122;15;13-6-97;6;18190927;Morinico;Abel Ramon;17394167;Garay;Norma Teresa;Sin observaciones;05/03/1998;4405;06/11/2002;21025
+13;I;C;0;0;0;122;16;13-6-97;6;7291681;Reyes;Valentin;4573424;Lemo;Benjamina;Sin observaciones;05/03/1998;4406;06/11/2002;21041
+13;I;C;0;0;0;122;17;13-6-97;6;27242803;Simonetti;Esteban Oscar;26842643;Saint Pierre;Carina Gabriela;Sin observaciones;05/03/1998;4407;06/11/2002;21023
+13;I;C;0;0;0;122;18;13-6-97;6;14526640;Gauto;Julio Alberto;17019869;Pereyra;Mirna Beatriz;Sin observaciones;05/03/1998;4408;06/11/2002;21022
+13;I;C;0;0;0;122;19;13-6-97;4;24973601;Porcel;Patricia Marta;33333333;Mouse;Mickey;Sin observaciones;15/08/2008;0;0;0
+13;I;C;0;0;0;122;20;13-6-97;1;24654285;Merlicco;Maria de los Angeles;33333333;Mouse;Mickey;Fta renuncia de los padres, Merlicco, Alberto y Tagliaferro, Beatriz;0;0;0;0
+13;I;C;0;0;0;122;21;13-6-97;6;12323558;Morales;Hector Jesus;14374064;Gonzalez;Laura Haidee;Sin observaciones;05/03/1998;4409;06/11/2002;21021
+13;I;C;0;0;0;122;22;13-6-97;6;25136710;Ochandorena;Alberto Martin;26098103;Aybar;Nidia Lorena;Sin observaciones;05/03/1998;1501;27/05/2003;21081
+13;I;C;0;0;0;122;23;13-6-97;4;13641844;Pacheco;Paulina Emilia;33333333;Mouse;Mickey;Sin observaciones;15/08/2008;0;0;0
+13;I;C;0;0;0;122;24;13-6-97;6;22217926;Pace;Guillermo Alejandro;23325462;Yurtz;Sofia Elida;Sin observaciones;05/03/1998;1510;27/05/2003;21182
+13;I;C;0;0;0;122;25;13-6-97;6;4205563;Estasiuk;Susana Esther;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;4410;06/11/2002;21020
+13;I;C;0;0;0;122;26;13-6-97;6;12323694;Lonchano;Osvaldo Horacio;16429249;Guardado;Adriana Sandra;Sin observaciones;05/03/1998;4411;06/11/2002;21019
+13;I;C;0;0;0;122;27;13-6-97;6;21617439;Culotta;Mauro;22694428;Sala;Veronica Andrea;Sin observaciones;05/03/1998;4412;06/11/2002;21032
+13;I;C;0;0;0;122;28;13-6-97;6;14247427;Neira;Marcelo Gabriel;20036022;Echagüe;Zulma Liliana;Sin observaciones;05/03/1998;1511;27/05/2003;21088
+13;I;C;0;0;0;122;29;13-6-97;5;20331479;BORDA;Claudia Adelina;16560284;MIRANDA;Oscar Edgardo;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;122;30;13-6-97;6;23325418;Ramirez;Damian Ernesto;27007513;Paredes;Gladys Carolina;Sin observaciones;05/03/1998;6333;00/01/1900;21112
+13;I;C;0;0;0;130;01;13-6-97;6;10671300;Saviza;Osvaldo Ruben;13777509;Neman;Leila Mabel;Sin observaciones;05/03/1998;1504;27/05/2003;21067
+13;I;C;0;0;0;130;02;13-6-97;6;21790443;Gaburri;Gustavo Alfredo;34119181;Carrazabal;Veronica Delia;Sin observaciones;05/03/1998;4413;06/11/2002;21008
+13;I;C;0;0;0;130;03;13-6-97;5;12794984;MIRANDA;Lidia Eva;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;130;04;13-6-97;6;12984941;Cinelli;Miguel Angel;12984973;Arango;Vilma Gabriela;Sin observaciones;05/03/1998;4414;06/11/2002;21007
+13;I;C;0;0;0;130;05;13-6-97;6;17884625;Gay;Jose Luis;14161604;Rodriguez;Viviana Cecilia;Sin observaciones;05/03/1998;4415;06/11/2002;21012
+13;I;C;0;0;0;130;06;13-6-97;6;14247329;Cappelletti;Horacio Manuel;16184815;Taus;Gladys Beatriz;Sin observaciones;05/03/1998;4416;06/11/2002;21011
+13;I;C;0;0;0;130;07;13-6-97;6;12142375;Noguera;Azucena Beatriz;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;4417;06/11/2002;21010
+13;I;C;0;0;0;130;08;13-6-97;6;5224859;Moruzzi;Carlos;5696905;Gavilan;Marta Susana;Sin observaciones;05/03/1998;1499;27/05/2003;21080
+13;I;C;0;0;0;130;09;13-6-97;6;14912591;Moore;Hector Walter;29420848;Ponce;Stella Maris;(Expte. 4015-499/04) Retrocesion de dominio y escritura a/f de Arnaiz, Juan Alberto Daniel DNI 14.562.691 y Tizio, Maria Fernanda DNI 22.029.840;05/03/1998;1500;27/05/2003;21076
+13;I;C;0;0;0;130;10;13-6-97;6;25494758;Arrache;Marcelo Dario;25350699;Taus;Nora Soledad;Sin observaciones;05/03/1998;4428;06/11/2002;21013
+13;I;C;0;0;0;130;11;13-6-97;6;22485687;Panessi;Nestor Javier;24451909;Valverde;Marisa Daniela;Sin observaciones;05/03/1998;4418;06/11/2002;21009
+13;I;C;0;0;0;130;12;13-6-97;6;22028377;Melchor;Roberto Pablo;22696563;De Angeli;Marina Esther;Sin observaciones;05/03/1998;4419;06/11/2002;21005
+13;I;C;0;0;0;130;13;13-6-97;6;13375847;Vargas;Ramon Oscar;24590668;Ahumada;Adriana Mercedes;Sin observaciones;05/03/1998;4420;06/11/2002;21004
+13;I;C;0;0;0;130;14;13-6-97;6;5441947;Echayre;Gladys;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;1661;03/06/2003;21077
+13;I;C;0;0;0;130;15;13-6-97;5;23759987;PIÑERO;Yolanda Argentina;20441103;BENITEZ;Julio César;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;130;16;13-6-97;4;26596558;Reynoso;Carlos Javier;33333333;Mouse;Mickey;Sin observaciones;15/08/2008;0;0;0
+13;I;C;0;0;0;130;17;13-6-97;6;28099818;Juanenea;Luis Alberto;26022339;Juarez;Claudia Elizabeth;Sin observaciones;05/03/1998;4421;06/11/2002;21018
+13;I;C;0;0;0;130;18;13-6-97;5;20441238;HIGUERA;Angélica;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;130;19;13-6-97;6;23325793;Buroni;Ismael Raymundo;25494708;Barrionuevo;Silvana Mariel;Sin observaciones;05/03/1998;4450;06/11/2002;21024
+13;I;C;0;0;0;130;20;13-6-97;6;20961207;Sierra;Claudio Heriberto;22696693;Illarra;Lucia Beatriz;Sin observaciones;05/03/1998;4422;06/11/2002;21017
+13;I;C;0;0;0;130;21;13-6-97;6;18190904;Granzella;Evangelina;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;4423;06/11/2002;21016
+13;I;C;0;0;0;130;22;13-6-97;6;21940923;Niz;Ruben Manuel;21652667;Maidana;Andrea Fabiana;Sin observaciones;05/03/1998;1498;27/05/2003;21082
+13;I;C;0;0;0;130;23;13-6-97;5;24590684;PONCE;Mónica Alejandra;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;130;24;13-6-97;4;24654137;Podesta;Sandra Lujan;26022436;Rincon;Jose Rene;Sin observaciones;0;0;0;21095
+13;I;C;0;0;0;130;25;13-6-97;5;12984946;AMBROSETTI;Horacio Luis;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;130;26;13-6-97;6;23325775;Herrera;Miguel Alejandro;24763885;Acosta;Maria de los Angeles;Sin observaciones;05/03/1998;4424;06/11/2002;21015
+13;I;C;0;0;0;130;27;13-6-97;6;21510118;Borro;Marcelo Anastasio;26703377;Galvan;Maria de los Angeles;Sin observaciones;05/03/1998;4425;06/11/2002;21031
+13;I;C;0;0;0;130;28;13-6-97;6;21577680;Diaz;Jose Luis;24269913;Passero;Adriana Veronica;Sin observaciones;05/03/1998;4426;06/11/2002;21014
+13;I;C;0;0;0;130;29;13-6-97;5;14247409;FLORES;Norma Carolina;33333333;Mouse;Mickey;Sin observaciones;30/11/2012;0;0;0
+13;I;C;0;0;0;130;30;13-6-97;6;8318896;Gallinares;Hugo Rolando;33333333;Mouse;Mickey;Sin observaciones;05/03/1998;1505;27/05/2003;21064

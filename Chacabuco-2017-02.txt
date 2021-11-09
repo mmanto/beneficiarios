@@ -1,0 +1,209 @@
+773e;6;AROZAMENA;Rosana Mercedes;25429207;argentina;07/06/1976;Oscar Arozamena;Mercedes Morales;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Jujuy  N° 15
+773a;3;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ARTOLA;Juan Jose;20553251;argentina;14/11/1968;Juan Eduardo Artola;Zunilda Esther Zambri;Elguera Roman N° 80
+773a;2;AVACA JUAREZ;Deolinda Antonia;29426027;argentina;29/06/1982;Tolentino Avaca;Maria del Carmen Suarez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Entre Rios N° 501
+773c;3;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BACHA;Alfredo Javier;14780623;argentina;22/05/1962;Jose Alberto Bacha ;Zulema Olga Frontera;Mendoza N° 168 (padre)
+773c;15;BARBETTA;Romina Valeria;28857324;argentina;08/06/1981;Rene Cruz Barbetta;Erica Gross;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;General Pintos N° 7
+773g;15;BARCENA;Eliana Griselda;26811505;argentina;30/07/1978;Ruben Alfredo Barcena;Norma Petronila Alanis;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Cadelago N° 116
+773c;14;BARDALLO;Patricia Rosana;21950481;argentina;10/08/1972;Ramon Bardallo;Irma Favre;BARTOLICHE;Pablo Daniel;21950481;argentina;18/12/1970;Ramon Bartoliche;Susana Capodiasa;157 N° 204 (padre)
+773e;9;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BERRUETA;Fernando Daniel;36421867;argentina;03/07/1991; ;Monica Berrueta;Saavedra N° 387
+773a;10;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BERTI;Damian Martin;30347009;argentina;11/11/1983;Hugo Oscar Berti;Graciela Juana De Cunto;Almirante Brown N° 290 (padre)
+773f;10;BISSO;Veronica Elizabet;2467238;argentina;08/10/1973;Hector Vicente Bisso;Esther Olga Lopez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Liga de Ama de Casa N° 41
+773c;1;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BRACCHI;Patricio Fernando;22575212;argentina;17/03/1972;Abel Osmar Brachi;Marta Graciela Scocco;Velez Sarfield N° 81
+773g;13;BRINDISI;Paula Lorena;24352798;argentina;18/02/1975;Alberto Brindisi;Maria Rosa Dellecorinetti;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Uspallata N°
+773g;14;BULJUBASIC;Maria Cristina;10663337;argentina;28/03/1953;Esteban Buljubasic;Hilda Hildarraz;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Vieyres N° 179 (padres)
+773f;5;CALDERONI;Laura Yesica;29652242;argentina;20/11/1982;Aldo Hugo Calderoni;Marta Ofelia Herrera;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Mendoza N° 348 
+773g;6;CAPORALE;Maria Jimena;27623153;argentina;12/05/1980;Alfredo Hector Caporale;Maria del Carmen Bustos;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Juan Manuel de Rosas N°76
+773d;7;CAPORALE;Silvia Adriana;17800312;argentina;26/02/1967;Caporale Severo;Emilia Julia Quiroga;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Dr. Terrile N° 64
+773b;2;CALAVERI;Analia;27460764;argentina;17/08/1979;Humberto Cavaleri;Graciela Albornos;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Laprida N° 23
+773a;9;CAVIGLIA;Santiago;28300693;argentina;01/05/1981;Juan Carlos Caviglia;Maria Susana Nievas;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;San Luis N° 63
+773e;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CHAPPERO;Juan Alfredo;22888935;argentina;20/01/1973;Alfredo Osvaldo Chappero;Cristina Liliana Modica;Andes N°69
+773c;16;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CHILAN;Martin Guillermo;28871797;argentina;16/08/1981;Carlos Alberto Chilan;Marengo Norma Noemi;Uspallata N° 91
+773e;11;CAMERA;Gabriela Beatriz;31062090;argentina;21/07/1984;Pablo Ezequiel Chilano;-;CHILANO;Pablo Ezequiel;29098672;argentina;31/12/1981;Daniel Lujan Chilano;Maria de Los Angeles Borges;Velez Sarfield N° 266
+773d;12;CHIOSSO;Jesica Carolina;30772784;argentina;02/06/1984;Gaudencio Miguel Chiosso??;Zunilda Haydee??;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Espora N° 373
+773d;11;CHULIBER;Nora Lujan;11141903;argentina;31/08/1953;Ramon Chuliber;Maria Rosa Cleofe;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Gutierrez N° 37
+773e;4;CANCIO;Monica Elisabet;23467280;argentina;30/10/1973;Luis Mauro Ciancio;Isabel Elisa Calaldo;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Viamonte N° 341
+773d;4;CLAVERIA;Patricia Rosana;22888609;argentina;23/06/1972;Miguel Angel Claverio;Teresa Gomez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Las Rosas Casa  N° 42
+773a;15;COLAZO;Norma Gladys;166759878;argentina;21/07/1963;Juan Colazo;Teresa Arias;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Viamonte N° 28
+773f;15;CORIA;Lorena Alejandra;24080049;argentina;15/08/1974; Carlos Ramon Coria;Mirta Nelida Nadal;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Dean Funes N° 472 Dpto. 6
+773g;12;CORNAGLIA;Ana Ester;13898584;argentina;17/05/1960;;;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Santa Fe N° 328 (madre)
+773a;6;CORUCCI;Andrea Cecilia;21673707;argentina;03/09/1970;Humberto Corucci;Juana Garraza;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Arce
+773b;4;TROMPINO;Maria Rosa;26109205;argentina;14/05/1977;Juan Carlos Tropino;Maria Elena Burgos;DALVISIO;Miguel Angel;17378424;argentina;28/08/1945;Juan Carlos Dalvisio;Ofelia Alcira Santiago;Andes de Vera N° 810
+773a;8;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DECIMA ;Rodolfo de Dios;17800286;argentina;08/03/1966;Evangelisto Edelfonso Decima;Maria Luisa Fernandez;Entre Rios N° 800
+773e;12;DALUISIO;Ofelia Raquel;18159391;argentina;04/10/1967;Juan Carlos Daluisio;Ofelia Alcira Santiago;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Fages y Villegas 
+773e;15;DI GIOVANI;Adriana;16927099;argentina;09/03/1964;Hugo Enrique Di Giovanni;Marta Julia Sfeir;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Entre Rios N° 134
+773g;7;DIAZ;Silvana Mabel;31730140;argentina;11/09/1985;Cipriano Alfredo Diaz;Rosa Mabel Selvarani;PERRONI;Martin Ignacio;29098655;argentina;19/12/1981;Osvaldo Ignacio Perroni;Maria Juana Bianzotti;Acceso Hipolito Hirigoyen N° 848
+773e;8;DIAZ;Vanina Ivonn;27460605;argentina;08/08/1978;Ernesto German Diaz;Nancy Raquel Ciancio;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;La Rioja N° 220
+773b;1;DOMINGUEZ; Marcelo Antonio;20919033;argentina;19/09/1969;Salvador Antonio Dominguez;Elida Irene Sansone;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Arce N° 16
+773c;12;DOMINGUEZ;Valeria Gisela;27112304;argentina;06/04/1979;Rodolfo Rene Dominguez;Silvia Mabel Rolandi;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Primera Junta N° 627 (padre)
+773g;11;ECHARRI;Paola Romina;27112287;argentina;30/03/1979;Daniel Alberto Echarri;Silvia Noemi Ponce;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Almafuerte N° 275 (padre)
+773a;7;ESPEJO;Cintia Elizabeth;24728129;argentina;29/07/1975;Eduardo Espejo;Gloria Arrieta;MUÑOZ;Martin Enrique;25475271;argentina;23/08/1976;Enrique Muñoz;Zulma Marisi;12 de Febrero N° 349
+773d;14;FABRIZIO;Romina Liliana;25817639; argentina;27/04/1977;Nicolas Fabrizio;Liliana Chanfalloni;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° de Irigoyen N° 233 (padre)
+773a;13;FARIAS;Claudia Jesus;24203294;argentina;26/10/1974;Ramon Farias;Olga N. Fernandez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Espora N° 47
+773g;2;FERNANDEZ;Yesica Lorena;26492234;argentina;24/04/1978;Mario Daniel Fernandez;Mirta Beatriz Bertolotti;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Uspallata N° 273
+773b;16;FIORI;Araceli Silvana;29652299;argentina;27/12/1988;Alciro Fiori;Patricia Rios;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Parque Azul casa 49
+773g;8;FLORES DEROSA;Jonatan Gonzalo;32772564;argentina;07/04/1987;Julio Maria Flores Casavieja;Glasys Zunilda Derosa;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Alma Fuerte N° 943
+773b;15;FRONTERA;Ivana Lorena;27460559;argentina;28/06/1979;Juan Ramon Frontera;Isabel Azucena Cayun;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;9 de Julio N° 330 (prestado)
+773f;8;FRONTERA;Lucia Virginia;27460929;argentina;03/01/1980;Adam Norberto Frontera;Nora Maria Ferraro;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Av. Garay N° 471
+773f;6;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;FRONTERA;Nicolas Lionel;26718051;argentina;14/04/1978;Juan Carlos Frontera;Maria del Carmen Giani;Soberania Nacional N° 281
+773b;11;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;GALVANI;Carlos Raul;25817418;argentina;08/02/1977;Raul Omar Galvan;Zulema Graciela Allera;Corrientes N° 228 (padre)
+773b;10;GARCIA;Daniela Veronica;28300573;argentina;18/02/1981;Aldo Ricardo Garcia;Mirta cristina Gatti;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Los Robles N° 44 (padre)
+773d;13;GHIGIOTTI;Jesica Natalia;29326301;argentina;08/03/1982;Jose Luis Ghigiotti;Teresa Rosana Voisin;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Banseros casa 10
+773e;10;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;GIAMMARINO;Martin Javier;28300647;argentina;18/11/1980;Eduardo Giammarino;Lidia Sarmiento;Callao N° 331
+773a;4;GIMENEZ;Iris Elena;13898318;argentina;23/11/1959;Arturo Gimenez;Celina Maxima Martin;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Avellaneda N° 239
+773e;5;GOLIA;Judith Eliana;16302188;argentina;31/08/1962;Arnoldo Mario Golia;Yolanda Bevilaquia;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Moreno N° 116
+773b;6;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;GONZALEZ;Gaston Oscar;18178193;argentina;03/10/1967;Jose Osmar Gonzalez;Marta Giovanonvi;San Juan N° 307
+773d;8;GROSSO;Natalia Lujan;32098762;argentina;08/12/1985;Ruben HoracioGrosso;Zunilda Gladys Rasan;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Pringles N° 286
+773b;3;GUALTIERI;Susana Noemi;14965565;argentina;18/06/1962;Moises Benedicto Gualteri;Zulema Noemi Garcia;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Alvear N° 284
+773e;3;MUSSO;Cecilia Evangelina;27623031;argentina;18/03/1980;Bernardo Antonio Musso;Claudia Salvador;GUILLOTI;Cesar Alberto;27623031;argentina;18/03/1980;Ruben Angel Guillotti;Cerafina Erminda Taijuana;B° Malvinas casa N° 27 (abuela)
+773a;1;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;GUILLOTI;Eduardo Ruben;17528219;argentina;11/05/1966;Ruben Guilloti;Erminda Taiguana;San Martin N° 1008
+773d;6;IBALO;Maria Cristina;14332057;argentina;21/08/1959;Ibalo Cayetano;Celia Ines Baigorria;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Dean Funes N° 120 (alquiler)
+773a;11;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;LAMADRID;Silvio Mariano;20918991;argentina;27/08/1969;Dardo Ruben Lamadrid;Gladys Irma Escarpeche;Uspallata N° 132
+773d;16;LEDESMA;Lorena Vanesa ;29366479;argentina;07/04/1982;Juan Angel Ledesma;Elsa Dorotea Villalba;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Moreno 453
+773a;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MACHELLO;Ariel Andres;24728222;argentina;28/08/1975;Jose Luis Machello;Ilda Lazarte;Colon N° 141
+773d;5;MAIDA;Elsa Mariel;17582152;argentina;06/01/1966;Obdulio Maida;Norma Dilma Benitez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Liniers N° 512
+773f;2;MANSILLA;Maria Soladed;29366503;argentina;28/04/1982;Osvaldo Mansilla;Beatriz Felice;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Conesa N° 252
+773g;1;MEDRANO;Maria Rosina;30043137;argentina;03/03/1983;Hugo Alejandro Medrano;America Libetad Brindo;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Los Plomeros Pasaje 2 calle Italia (padres)
+773a;12;MHOR;Ana Maria;24352890;argentina;14/03/1975;Luis Alberto Mohr;Luisa Griselda Sanchez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;12 de Febrero N° 164
+773d;2;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MOROSINI;Diego Martin;28142789;argentina;16/08/1980;Juan Carlos Morosini;Maria de loa Angeles Salaro;Dr. Pietranera casa 48 B° Malvinas (padre)
+773g;9;MUÑOZ;Sabina del Valle;20382584;argentina;08/09/1968;Nelson Muñoz;Liria Muñoz;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;La Rioja N 286 (alquiler)
+773d;3;NANNI;Paola Vanesa;25137703;argentina;28/05/1976;Ricardo Pascual Nanni;Norma Ines Barguetti;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Olavarria N° 183
+773b;12;NAVARRO;Marisa Liliana;17378322;argentina;02/03/1965;Faustino Oscar Navarro;Margarita Farelio;TREJO;Jose Luis;17378311; ;28/11/1964;Julio Trejo;Elsa Arostegui;Dorrego N° 249 (abuela Esposo)
+773g;10;NICOLA;Lorena Evangelina;24352858;argentina;18/03/1975;Miguel Angel Nicola;Liliana Graciela Lujan Sayago;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Avenida Lamadrid N° 102
+773g;3;CASCIO;Mabel Lujan;12217237;argentina;26/06/1956;Jose Cascio;Carmela varela;OLMEDO;Alejandro Alberto;13612503;argentina;11/12/1959;Alejandro Alberto Olmedo;Margarita Ojeda;Alem N° 365 (madre)
+773b;9;;;;;;;;OLMEDO;Alejandro Andres;31062134;argentina;09/09/1984;Alejando Alberto Olmedo;Patricia Diaz;Alem N° 365 (madre)
+773e;1;OLMEDO;Malvina Soledad;29366601;argentina;31/05/1982;Sergio Oscar Olmedo;Gladys Esther Verrimpo;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Alem N° 365 (madre)
+773f;11;PAGANO;Valeria Ines;32101711;argentina;27/02/1985;Horacio Pagano;Dora Tabares;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Quintana N° 74 (padres)
+773d;15;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PAVESE;Federico;26492065;argentina;25/03/1978;Jose Antonio Pavese;Mirta Susana Gil;Villegas N° 257 (suegros)
+773f;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PEDROL;David Eloy;33963538;argentina;26/11/1988;Javier Cedrol;Monica Beatriz Capdevilla;San Luis N° 333
+773c;10;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PEDROL;Nelson Ruben;36421868;argentina;11/07/1991;Javier Orlando Pedrol;Monica Beatriz Capdevilla;San Luis N° 333
+773c;4;PATRELLA;Elena Mercedes;11922279;argentina;29/07/1955;Aldo Petrella;Elena La Roque;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Pellegrini 7 (alquiler)
+773f;16;PETROVICH;Mariana Lujan;26170026;argentina;07/08/1977;;Adriana Elena Petrovich;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Italia N° 288
+773b;7;RATTO;Maria Julia;28300557;argentina;12/02/1981;Gustavo Anibal Ratto;Diana Laura Decima;PEREZ;Sebastian;29366684;argentina;19/07/1982;Alberto Perez;Mirta Gaggio;Uspallata N° 86
+773b;8;MIRANDA;Monica Susana;17145011;argentina;; Lucio Atilio Miranda;Lucia Mendes;RODRIGUEZ;Miguel Angel;21443741;argentina;12/10/1970;Jose Maria Rodriguez;Delia ??;Buenos Aires N° 379
+773g;5;RODRIGUEZ;Silvina Lucia;25475112;argentina;21/07/1976;Silvana Lucia Rodriguez;Alicia Isabel Chornomaz;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Avda. Elguera Roman N° 845
+773a;16;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ROJAS;Daniel Hernan;31062017;argentina;20/06/1984;Jose Rojas;Maria del Carmen Gorosito;Mateo Varon N° 42
+773c;8;ROJAS;Montenegro Miroslava;18770469;argentina;18/06/1959;Felix Marquina Rojas;Maria Jesus Montenegro;MAZZUCHELLI;Nestor Carlos;;argentina;;Nestor Massuchelli;Nidia Manci;Sarmiento N° 89 (suegro)
+773e;7;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SASSONI;Cristian Ruben;25817680;argentina;13/06/1977;Jose Sassoni;Norma Ester Acosta;Catamarca N° 664
+773c;7;SUAN;Maria Evangelina;27623104;argentina;12/05/1980;Aldo Suan;Norma Colombini;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Maipu N° 179
+773b;13;TRABUCCO;Maria Ines;16387081;argentina;10/07/1963;Ramon Salvador Trabucco;Elsa Ines Fragale;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Salta N° 192
+773b;5;TROMPINO;Maria Julia;28871765;argentina;21/07/1981;Omar Vicente Trompino;Ines Magdalena Gorosito;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Laprida N° 460
+773c;2;VESPASIANO GASTALDI;Daniela Isabel;25137644;argentina;09/05/1976;Vespasiano Omar;Susana Gastaldi;ABELDAÑO;Samuel Antonio;21950535; argentina;31/01/1971;Samuel Abeldaño;Eva Digiorgio;Av. Solis N° 432
+773f;1;VETESSE;Stella Maris;11515811;argentina;06/01/1955;;;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Viamonte N° 314
+773c;5;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;VILLAFAÑE;Claudio Fabian;23146848;argentina;21/04/1973;Lorenzo Zacarias Villafañe;Hilda Ofelia Mojica;Reconquitas N° 477
+773e;16;ZAMMUTO;Liliana Monica;20553298;argentina;10/12/1968;Salvador Oscar Zammuto;Noemi Alcira Belarde;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Ituzaingo y Ruta 7 calle 379
+773g;4;ZARKOVICH;Sandra Silvana;20373308;argentina;09/05/1968;Marcos Zarkovich ;Dominga Zarkovich;SEMEÑUQUE ;Roberto Ernesto;21673697;argentina;11/08/1970;Ernesto Semeñique;Noemi Ferrari;Puerreydon N° 112
+773f;13;MORALES;Maria Manuela;34589502;argentina;21/06/1989;Carlos Alberto Matucci;Claudia Mabel Morales;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Dorrego N° 82
+791e;9;ABELLO;Magdalena;27112366;argentina;28/04/1979;Nestor A Abello;Norma R.Cozzo;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Rivadavia N° 81
+791e;22;ABELLO;Matilde;30068572;argentina;04/05/1983;;;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Av. Saavedra N° 132 
+791c;2;ACOSTA;Olga Lina;25147460;argentina;10/04/1976;Juan Andres Acosta;Mabel Andres;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Avellaneda N° 627
+791a;24;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ALARCON;Gustavo lujan;25475220;argentina;14/09/1977;Alarcon Roberto Hector;Mirta Susana Colaneri;B° Malvinas casa 18
+791e;1;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ARCE ARMANDO;Cristian Andres;27507727;argentina;23/05/1979;Ruben Arce;Maria Venece;
+791e;10;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ARCE  ;Luis Alberto;28871717;argentina;13/06/1981;Ruben Omar Arce;Maria Rosa Menece;Espora N° 506
+791a;2;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;AROSTEGUI;Silvio Alejandro;28300429;argentina;30/11/1980;Aldo Oscar Arostegui;Norma Edit Rojas;Cervantes 467
+791e;21;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BADEL;Gino Ezequiel;34950762;argentina;26/01/1990;Rodolfo Badel;Liliana Grippa;Velez Sarfield N° 77
+791c;7;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BAIS;Hector Ariel;26492125;argentina;22/03/1978;Hector Omar Bais;Maria Susana Castro;Carlos Gardel y Junin
+791a;16;BASSO;Jimena Cintia;33097493;argentina;11/05/1987;Mario Roberto Basso;Gladys Beatriz Di Domenico;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Pueyrredon N° 377
+791a;4;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BONOPERA;Luciano;32772554;argentina;20/12/1986;Eduardo Ruben Bonapera;Maria Ester Gabetti;Almafuerte N° 491
+791c;8;BURGOS;Gabriela Veronica;30772567;argentina;23/01/1984;Manuel Humberto Burgos;Maria del Carmen Perez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Cristobal Colon s/n
+791a;20;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CANEPA;Ignacio;24728011;argentina;14/05/1975;Lorenzo Luis Canepa;Liliana Elisabeth Bercellini;Ituzaingo ° 596
+791c;19;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CASELLAS;Luciano Matias;31413227;argentina;27/01/1985;Roberto Jorge Casellas;Zulma Eguia;La Rioja N° 133
+791e;12;CHILANO;Marisa Zunilda;18159153;argentina;19/08/1966;Omar Francisco Chilano;Ester Zunilda Lopulito;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Falucho N° 223
+791a;21;COLANERO;Andrea Lorena;26170097;argentina;22/09/1977;Juan Carlos Colanero;Maria Eva Duarte;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° La Malvinas casa 23
+791a;3;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DE ANGEL;Lucas Luis Emiliano;29652273;argentina;27/12/1982;Obdulio Jose De Angel;Eva Teresa Marquez;Zapiola N° 847
+791c;22;DE CUNTO;Maria Jorgelina;29652227;argentina;13/12/1982;Jorge Ricado De Cunto;Liliana Dicciavo;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Cuartel 1°
+791e;13;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DECIMA;Sergio David;25137596;argentina;06/04/1976;Ruben Rodolfo Decima;Marta Mabel Decima;Mendoza N° 579
+791e;2;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DEPENTO;Jorge Luis;14321316;argentina;11/10/1961;;Maria Angelica Dadie;Puerreydon Fonavi esc. N° 9 PB
+791e;15;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DI NAPOLI;Nestor Fabian;26170310;argentina;25/01/1978;Jorge Antonio Dinapoli;Maria del Carmen Espindola;Miguel Rizzi N° 166
+791e;16;DIAZ;Maria Fernanda;25817726;argentina;18/06/1977;Domingo Jose Diaz;Miriam Felisa Maldonado;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Av. Saavedra N° 660
+791e;3;DRISDALE;Cecilia Belen;32772432;argentina;17/01/1987;Jose Lujan Drisdale;Patricia Susana Vallejos;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Av. Garay N° 786
+791e;4;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;FITTIPALDE;Gustavo Alberto;27112461;argentina;24/05/2001;;Graciela valente;Rocha N° 348
+791a;19;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;FORTE;Pablo Martin;27112323;argentina; 11/04/1979;Raul Antonio Forte;Griselda Adriana Isac;Salta N° 172
+791e;5;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;FORTI;Aldo Claudio;14965750;argentina;09/10/2011;Lorena Elizabeth Lemes;Aldo Ernesto Forti;Insiarte N°39
+791e;6;GIAMPIETRI;Juana Haydee;11138261;argentina;12/07/1954;;Ezequiela Daniela  Quintana;PASQUINI;Luis Osvaldo;;argentina;29/04/1950;;Amalia Carmen Goggi;Primera Junta N° 32
+791c;21;HERRERA;Nadia Lujan;33097419;argentina;24/06/1987;Alcides Oscar Herrera;Diana Beatriz Cano;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Santa Fe N° 435
+791a;11;IRUSTA;Maria Paula;27112269;argentina;13/03/1979;Rodolfo Alfredo Irusta;Norma Angelica Espindola;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;La Plata N° 89
+791c;10;LAUREYRO;Julieta Epifania;38227793;argentina;29/06/1994;Miguel Angel Laureyro;Maria de los Angeles Centurion;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;9 de Julio N° 549
+791c;23;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;LEGUISAMO;Carlos Alberto;28972815;argentina;02/11/1981;Carlos Alberto Leguizamo;Susana Mabel Moran;San Luis N° 174
+791e;17;LENCINA;Claudia ;25475275;argentina;14/10/1970;Rufino Lenciza;Maria Elena Patizco;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Pinto N° 544
+791e;7;LUIS ;Luciana Daniela;26492081;argentina;02/03/1978;Miguel Angel Luis;Alicia Ana Vallejos;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Rocha N° 129
+791e;24;LUNA;Agustina;28871864;argentina;14/09/1981;Rodolfo Jorge Luna;Graciela del Carmen Carda;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Sargento Cabral N° 25
+791a;9;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MAILE;Raul Ezequiel;29652193;argentina;25/11/1982;Raul Alcides Maile;Zulma Mabel Manuel;Padre Doglia N° 195
+791a;15;MARTINEZ;Graciela Matilde;27460530;argentina;12/07/1979;Edelmar Ramon Martinez;Carmen Graciela Gutierrez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Avda. Juan 23 casa 73
+791a;1;MARTINO;Valeria Alejandra;29366571;argentina;06/06/1982;Javier OscarZirr;Analia Isabel Cipollone;ZIRR;Javier Oscar;29366571;argentina;10/09/1978;Arnildo Zirr;Rosa Guillermina Zarza Diaz;Catamarca N° 454
+791e;25;MATTIUZ;Erica Evelina;25817612;argentina;19/04/1977;Oscar Pedro Mattiuz;Blanca Azucena Arce;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Buenos Aires N° 227
+791c;20;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MENDEZ LUNA;Matias Guillermo;28300462;argentina;22/12/1980;Juan Bautista Mendez Rios;Adriana Susana Luna;Correa N° 197
+791c;9;MILIONE;Diana Paola;32101707;argentina; ;Omar Norberto Milione;Monica Alicia Albornoz;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Primera Junta N° 281
+791e;18;MOLINA;Lorena Vanesa ;24728397;argentina; ;Osvaldo Aroldo Molina;Maria Bulalia Giannelli;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Santiago del Estero N° 312
+791a;18;MONTES;Daniela Cecilia;24728269;argentina;03/10/1975;Luis Ramon Montes;Marta Graciela Goffreredi;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° Jardin casa 33
+791a;17;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MONTIEL;Elias Ruben;28300543;argentina;27/08/1980;Hugo Ruben Montiel;Carmen Ines Boneto;Cano N° 74
+791e;23;MONZON;Veronica Soledad;29098617;argentina;17/11/1981;Javier Julian Monzon;Gloria Ester Arce;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Conesa N° 97
+791c;25;MORENO;Carina Vanesa;29105148;argentina;14/01/1982;Ricardo Hector Moreno;Alicia Mabel Pauluccci;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Gral Conesa N° 502
+791a;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MORRA;Mariano Andres;30346932;argentina;29/08/1983;Adalberto Morra;Silvia Olmedo;Av. Colon N° 79
+791a;12;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MUSCHIETTI;Federico Jonata;293664436;argentina;12/03/1982;Lelio Emilio Muschetti;Graciela Villafañe;Dean Funes258
+791c;11;PAZ;Maria Eugenia;30772574;argentina;20/01/1984;Anibal Norberto Paz;Norma Gualtieri;WITTING;Leonardo German;25901987;;;;;B° Jardin casa N° 4
+791e;20;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PASTORE;Nicolas ;31413324;argentina;28/03/1985;Raul Alberto Castore;Silvia Ester Re;Alem N° 182
+791a;23;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PEREZ;Jesus Martin;28390992;argentina;16/12/1910;Jose Vicente Perez;Elida Ramona Giribello;Zapiola N° 71
+791a;5;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PINTEÑO;Cesar Raul;28871896;argentina;30/09/1981;Raul Adalberto Maria;Patricia Mabel Zammuto;Sarmiento N° 431
+791c;1;QUENAIPE;Patricia Adriana;28142878;argentina;28/09/1980;Luis Alberto Quenaipe;Elida Susana Ross;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Catamarca N° 438
+791a;13;MARQUEZ;Maria Belen;25817625;-;-;-;-;RAMOCINI;Jose Luis;31413486;argentina;24/08/1985;;Sonia Esther Ramocino;Alem N° 125
+791a;6;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;RIMOLO;Manuel Sebastian;30347048;argentina;15/11/1983;Marcelo Oscar Rimolo;Laura Elizabeth Frontera;La Plata N° 18
+791c;6;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;RISO;Hernan Dario;26492207;argentina;08/05/1978;Egilio mario Riso;Olga Ester Imas;Espora N° 371
+791c;4;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ROZZA;Diego Agustin;28142721;argentina;08/07/1980;Norberto Omar Rozza;Carmen Godoy;25 de Mayo
+791a;10;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SANCHEZ;Mario Lautaro;30068498;argentina;16/03/1983;Jorge Mario Sanchez;Norma Rosa Gianelli;Dr. Terrille N° 64
+791a;22;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SANSONE;Mauro Ariel;29098651;argentina;22/12/1981;Noberto Jose Sansone;Silvia Patricia Matarelli;San Luis N° 264
+791c;18;SCANELLA;Marcela Vanesa;29652046;argentina;09/09/1982;Carlos Daniel Scanella;Susana Adriana Simone;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Lynch N° 58
+791e;8;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SERRITELLA;Julian Andres ;25597128;argentina;02/02/1977;Armando Cerritella;Maria Antonia Garmendia;Reconquista N° 215
+791e;26;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SILVA;Gaston Heber;22949899;argentina;03/11/1972;Carlos Silva;Maria Cristina Castiglione;Urquiza N° 81 Depto C
+791c;3;MORRA;Andrea Gisela;26811533;-;-;-;-;SOSA;Mauro Sebastian;25817633;argentina;17/05/1977;Andrea Gisela Morra;Delia Mabel Bustos;Av. Colon N° 79
+791e;19;TEJADA;Edit Francisca;10348871;argentina;28/01/2010;;Olivares Irene;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Almafuerte N° 27 
+791c;24;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;TOYA;Facundo Mauricio;30918288;argentina;21/06/1984;Roque Mauricio Toya;Marta Mabel Cabral;Reconquista y Quintana s/n
+791a;8;TUJAGUE;Romina Fernanda;27000566;argentina;05/02/1979;Roman Manuel Tujague;Elvira Candida Contreras;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;"Av. Peron N° 65 P.B. ""C"""
+791a;26;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;VEGA;Ricardo Maximiliano;29652123;argentina;26/10/1982;Ricardo Omar Vega;Olga Noemi Ross;Balcarce N° 61
+790c;11;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PERRONI;Gustavo Javier;17800350;argentina;03/12/1966;Juan Antonio Perroni;Martha Estrella;San Lorenzo N° 551
+790c;7;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PEREZ;Ezequiel Ivan;25137472;argentina;11/02/1976;Juan Atilio Perez;Mirta Nora Gelvez;Bransen N° 287
+790f;7;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;NUÑEZ;Carlos Alberto;22120939;argentina;04/09/???;Rodolfo Alfredo Nuñez;Maria Cristina melo;
+790f;2;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MAYA;Alejo;29366459;argentina;10/04/1982;Adalberto Maya;Silvia Susana Marselitti;Urquiza N° 259
+790f;19;HERRERAS;Mariela Soledad;25475283;argentina; ;Juan Antonio herreras;Maria Ines Oteiza;NAVARRO;Diego Dario;23462283;argentina;21/08/1973;Julio Audi?? Navarro;Olga Beatriz Martino;
+790c;19;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MATO;Robero Luis;14806878;argentina;08/04/1962;;;Liniers N° 388
+790f;6;GONZALEZ;Maria de los Angeles;17528102;-;-;-;-;MARQUEZ;Nestor Javier;16387089;argentina;13/04/1963;Horacio Marquez;Amelia Nelida;Moreno N° 279
+790m;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;MAGGI;Andres;35640531;argentina;09/10/1997;Adolfo Maggi;Sandra Patricia Mitidieri;25 de mayo N° 25
+790c;10;MAGARIÑOS;Emilce Soledad;22888807;argentina;;Julio Cesar Magariños;Walter Eduardo Kelly;KELLY;Walter Eduardo;22888807;argentina;24/10/1972;Miguel Alfredo Kelly;Nelida Florida Zampini;Bransen N° 132
+790c;8;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;IZURIETA;Anibal Sebastian;22888985;argentina;22/11/1972;Anibal Sebastian;Perotti Lucia;Lamadrid N° 232
+790m;4;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;HERRERA;Diego Roman;26170227;argentina;11/11/1977;Ramon Herrera;Rosa;Italia N° 362
+790c;6;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;HERANDO;Javier Dario;20030820;argentina;10/01/1969;Hector Jose Herando;Ida Varela;Sarmiento N° 341
+790c;17;SOSA ZAMORA;Carla ?????;29310295;argentina;15/12/1978;Eduardo Sosa;Maria Rosa Albarado;HEITMAN;Paulo Cesar;26811847;argentina;15/12/1978;Rene Heitman;Maria Mercedes Brindo;Uspallata N° 126
+790f;10;FERNANDEZ;Paola;32664721;;28/02/1987;Juan Jose Fernandez;Silvia Nora Sbrollini;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Urquiza s/n
+790f;15;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ESPINDOLA;Martin Miguel;31413389;argentino;09/04/1985;Pedro Espindola;Luisa Merdi;San Juan N° 220
+790c;3;ESPARZA;Maria Susana;13898382;argentina;23/12/1959;Oscar Alfredo Esparza;Susana Mari Aristequi;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;San Martin N° 990
+790f;5;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DUHALDE;Claudio Dario;23717190;argentino;20/03/1974;Hugo Duhalde;Graciela Taiguana;Laprida N° 317
+790f;16;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DE LIBERTIS;Julio Cesar;22888827;;30/09/1972;Juan Carlos De Libertis;Elvira Mabel Giavanni;Rocha N° 294
+790c;16;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;D'AMICO;Jose Luis;4974842;argentino;23/12/1945;Luis D'amico;;Cervantes N° 630
+790c;15;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;DIAZ;Alberto Miguel;20553499;argentino;23/04/1969;Alberto Domingo Diaz;Blanca Isabel Abatangelo;San Isidro Labrador N° 24
+790m;5;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;COLLEP;Ivan;34240801;argentino;04/03/1989;Carlos Dante Collep;Paola Frontera;
+790m;18;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CHAPARRO;Luciano Floretino;28871673;argentino;26/05/1981;Antonio Alberto Chaparro;Graciela Beatriz Di Marco;Azcuenaga N° 223
+790m;7;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CHAPARRO;Juan Carlos;11515919;argentino;31/12/1954;Florencio Chaparro;Mara Josefa Rufino;Salta N° 398
+790f;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CATICHA;Andres;34950664;argentino;06/02/1989;Maria Alberto Caticha;Susana Ramona Trotta;San Luis N° 211
+790m;13;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CARNAGUI;Tomas;33946801;argentino;22/01/1998;Jose Alberto Carnaghi;Liliana Ines Maria Raffaelli;Dorrego N° 25
+790c;14;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;CARBONI;Eduardo Nicolas;13250521;argentino;28/02/1959;Osvaldo Omar Carboni;Nivia Themis Pannunzio;Ituzaingo N° 23
+790f;12;CARACCIO;Maria Laura;28871788;-;-;-;-;CAMPOS;Hernan Gabriel;30346869;argentino;14/08/1983;;Graciela Alicia Campos;San Martin N° 295
+790f;8;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BURELLA;Dario Enrique;31138500;argentino;12/04/1985;Gerardo Dario Burella;Monica Alicia Ceballo;
+790m;15;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BOSCHI;Miguel Angel;4977816;argentino;04/02/1947;Pablo Boschi;Maria Guilleri;Rocha N° 425
+790f;17;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BISIO;Matias David;31730230;argentino;;Aldo Alberto Bisio;Zulma Batrica;Velez Sarfield N° 176
+790f;18;AMOROS;Cecilia;31730145;argentina;;Jorge Hector Amaros;Stella Maris Luis;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Av. Maximo Gil N° 408 B 
+790c;9;AMADIO;Soledad Cecilia;30068539;argentina;1;Oscar Daniel Amadio;Particia Martinez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Ex Combatientes de Malvinas
+790m;19;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;ALONSO;Lucas;29741774;argentino;05/01/1983;Aldo Luis Alonso;Heda Rosana Ghido ;Belgrano S/N
+790f;4;ABACA;Solange;36421824;argentina;1;Asdalberto Angel Abaca;Elvira Beatriz Gonzalez;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Viamontes N° 77
+790c;13;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;PONCE;Nicolas;28871607;argentino;11/05/1981;Ponce Maria Alicia;Maria Lucia Olivera;Duberty N° 209
+790f;11;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;REYNOSO;Franco Ariel;28871626;argentino;09/05/1981;Roberto Reynoso ;Laura Zalazar;Barrio Jardin casa 30
+780f;9;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SALOMONE;Emanuel Nicolas;35051516;argentino;;;;
+790c;12;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SCAUDIZZO;Emilio;30068468;argentino;10/02/1983;Jose Luis Scaudizzo;Elizabeth Garello;Moreno °N 123
+790m;16;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;SCARSO;Marcos Esteban;26170168;argentino;21/10/1977;Ernesto Juan Searso;Maria Rosa Bustos;Santiago del Estero N° 342
+790c;18;GAGLIANO;Analia Graciela;17528237;argentina;3;Hector Gagliano ;Graciela Conti;SEMENTO;Marcelo Ernesto;14780612;argentino;19/04/1962;;;Av. Solis N° 249
+790m;2;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;TINTORELLI;Franco Ariel;32772441;argentino;06/01/1987;Roberto Osmar Tintorelli;Liliana Delia Lusardi;Uspallata N° 220
+790f;3;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;TOLEDO;Horacio Carlos;16846574;argentino;22/04/1964;?? Toledo;Dora Nanni;Velez sarfield N° 242
+790m;6;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;UBALLES;Cesar Martin;27158572;argentino;07/08/1979;;;
+790m;17;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;VALDESAGO;Joaquin;30772741;argentino;;Oscar Valderago;Griselda Adamo;Buenos Aires N° 401
+790m;8;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;VALDESAGO;Maximiliano;26170034;argentino;25/06/1977;Osvaldo Valderago;Silvia Benega;Santa Fe N° 376
+790m;3;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;VIOLANTE;Rafael Lunas;29652135;argentino;22/10/1922;Ruben Violante Lujan;;Azcuenaga N° 12
+790m;11;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;TORLO;Lucas Daniel;43914036;argentino;09/04/1993;;;
+790m;12;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;BERGAGLIO;Manuel Nicolas;36905404;;;;;

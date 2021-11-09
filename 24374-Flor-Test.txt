@@ -1,0 +1,36 @@
+------;1;3;V-A-97-17;Cruz;Ana Maria;92460443;(011)42332691/ (011)153-9299002;1;Camara 24-10-2016;2;2;2;2;1;
+28/03/2017;2;3;V-M-64-29;RIERA;JULIO OSCAR;8,489,929;42333495;1;2°Piso Para Digitalizar 30-03-17;0;0;0;0;0;
+------;1;3;III-H-88-13;Cabral;Antonio Nicolas;4640005;15687-21929;1;Camara 20-09-2016;2;2;2;2;1;
+24/02/2014;2;3;III-P-87-19;Marquez;          Nora;10711599;42385450;1;;2;2;2;0;0;HEFLING
+12/03/2014;1;3;V-E-334-35;Barreyro;Rosana Beatriz;2224423542;011-1531391239;0;Está fisicamente en el 2do piso;2;2;2;0;2;
+12/11/2013;1;3;III-E-146-24;Irustra;Nelida Noemi;10180099;;1;;2;2;2;0;2;
+11/03/2014;1;3;I-D-184-22;Frias;Laura Adriana;16008592;1549361414 /42128679;1;Está fisicamente en el 2do piso;2;2;2;0;2;
+08/01/2014;1;3;I-O-737-3;Ollo ;Roque Gustavo;34303319;1564115685/42110018;1;Está fisicamente en el 2do piso;2;2;1;0;0;
+08/01/2014;1;3;III-F-227b-6;Lopez;Sara    Noemi;16358979;011-42362562;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;
+08/10/2014;1;3;III-O-157-01;Sarmiento;Petrona Ysolina;5182802;42990334 /42382770;0;Volver a publicar Edictos mal hecho;2;2;2;2;1;
+07/07/2014;1;3;II-A-254-1a;Minin;Ruben Antonio;5193216;1561209830 / 1138419733;1;Terminado 2°Piso (1-12-16);2;2;2;2;2;
+14/10/2014;2;3;V-E-1-11;Barrera ;Osvaldo Walter;7738159;02224-421561;1;;2;2;2;0;0;HEFLING
+09/10/2014;2;3;III-I-50-15b;Gonzalez ;Nilda   Estela;13460336;011-4268-2010;1;;2;2;2;0;0;HEFLING
+11/02/2015;1;3;I-P-105-10;Vanegas;Marcela Andrea;26036856;01138717713 / 4645853 ;1;Entregado a Herrero Pons;0;0;0;0;0;
+11/02/2015;1;3;III-L-159-20;Villarreal;Edith Lorena;24801112;42773222 /    1565243794;1;Esperando Camara 1 Titular/CD enviada 07-04-17;2;2;2;2;2;
+16/06/2014;1;3;II-A-393-19;Ayala;Maria Esther;14502989;1131060432 / 42147091;1;Terminado 2°Piso (13-12-16);2;2;2;2;2;
+17/07/2014;1;3;III-L-104-20;Ayala Zaracho;Silvia Elisa;92053636;42369149/  1133532562;1;Terminado 2°Piso (13-12-16);2;2;2;2;2;
+01/10/2014;1;3;III-P-92-4;Moreyra;Raul Ismael;17191813;42296840/   1122867954;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;
+30/10/2015;1;3;IV-E-343B-10;Scoppettuolo;Lidia Elvira;13186351;2224424845;1;Terminado 2°Piso (27-10-2016);2;2;2;2;2;
+13/11/2014;1;3;III-F-249-9;Rochi;Gustavo Alberto;21466237;42190509/1140495681;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;
+18/11/2014;1;3;III-K-4B-4;Montero;Maria Mercedes;18540924;1138699759;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;
+20/11/2014;1;3;III-B-15-2;Flores ;Marcela Andrea;22466986;1555068399/    40404999;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;
+20/11/2014;1;3;I-H-352-9;Romero Servian;Graciela;93709087;42196643;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;
+10/11/2014;1;3;II-A-141-9;Nuñez ;Argentina del Valle;5600023;20033688/1151343479;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;
+22/10/2014;1;3;I-C-58-22;Olivera;Elizabet;22551151;20633480;1;Retirado por la Dir. Gral. De Tierras;2;2;0;0;0;
+28/10/2014;1;3;V-L-460-5;Bodeman;Juan Carlos;24963929;1554640937/1567385969;1;Terminado 2°Piso (13-12-16);2;2;2;2;2;
+02/02/2015;1;3;III-Q-9-20;Grieco;Silvio;21459708;1142773858;1;Entregado a Herrero Pons;0;0;0;0;0;
+03/02/2015;1;3;V-L-486-11;Diaz;Ariel Javier;23.472.66;2224425419/1158656107;1;Entregado a Herrero Pons;0;0;0;0;0;
+02/02/2015;1;3;II-C-345-22;Ruiz ;Maria Teresa;23365383;011-42978158;1;Entregado a Herrero Pons;0;0;0;0;0;
+02/02/2015;1;3;III-P-54-4;Respond;Hernan Rodolfo;25433025;1536125203;1;Entregado a Herrero Pons;0;0;0;0;0;
+02/02/2015;1;3;I-H-420-12;Medina;Yanina Soledad;31967744;1126498248;1;Entregado a Herrero Pons;0;0;0;0;0;
+03/12/2014;1;3;V-J-89-11B;Urdirios;Nilda Noemi;3863312;42680730/  42336128;1;Terminado 2°Piso (13-12-16);2;2;2;2;2;
+17/12/2014;1;3;III-F-3-5;Farias;Juan Ramon;7737999;42387201/1166812210;1;Camara  26-09-2016;2;2;2;2;1;
+19/12/2014;1;3;III-B-128-15;Rivas Ayala;Crispin;92231991;1568517681/ 1530190786;1;sevolvio a pedir camara el 02/01/17;2;2;2;2;1;
+04/12/2014;1;3;III-F-10-1;Carrizo;Nestor Gerardo;17551101;42999484/ 42471872;1;Terminado 2°Piso (13-12-16);2;2;2;2;2;
+12/12/2014;1;3;III-O-187-18;Gonzalez;Claudelina Magdalena;20777886;42383197/ 1558777549;1;Camara y Edicto 21-09-2016;2;2;2;1;1;

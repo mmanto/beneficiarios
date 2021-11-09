@@ -1,0 +1,148 @@
+I;B;39;39a;11;44-9-99;24650617;Cufre;Rosana Patricia;22927076;Zarate;Roberto Raul
+I;B;39;39a;12;44-9-99;18304578;Joandet;Graciela Edith;16535416;Toledo;Horacio Daniel
+I;B;39;39a;13;44-9-99;16720731;Carabajal;Claudia;33333333;Mouse;Mickey
+I;B;39;39a;14;44-9-99;10355113;Ledesma;Marta Susana;27729507;Sosa;Yesabet Melina Reveca
+I;B;39;39a;15;44-9-99;26351317;Delgado;Marina Lorena;25060996;Gorosito;Atilio Omar
+I;B;39;39a;16;44-9-99;24898966;Silva;Zulema Matilde;33333333;Mouse;Mickey
+I;B;39;39a;17;44-9-99;26351382;Videla;Monica Mabel;23347095;Perez;Ceferino Santos
+I;B;39;39a;18;44-9-99;4938289;Torres;Elba Gladys;5056958;Rodriguez;Faustino Anselmo
+I;B;39;39a;19;44-9-99;13689860;Belen;Alicia Mabel;5397523;Muro;Juan Andres
+I;B;39;39a;20;44-9-99;11440598;Weimberger;Griselda;33333333;Mouse;Mickey
+I;B;39;39a;21;44-9-99;16535468;Veron;Patricia Graciela;33333333;Mouse;Mickey
+I;B;39;39a;22;44-9-99;22994081;Ferreyra;Patricia Elizabeth;33333333;Mouse;Mickey
+I;B;39;39a;23;44-9-99;23046822;Barrera;Maria del Carmen;33333333;Mouse;Mickey
+I;B;39;39a;24;44-9-99;18147933;Caceres;Nancy Ester;16643641;Ceres;Alfredo Ricardo
+I;B;39;39a;25;44-9-99;24041204;Barmetche;Laura Vanesa;23795019;Acuña;Domingo Alberto
+I;B;39;39a;26;44-9-99;18236966;Avila;Monica Estela;33333333;Mouse;Mickey
+I;B;33;33a;01;44-1-2002;16535493;Tejeda;Maria Silvana;33333333;Mouse;Mickey
+I;B;33;33a;02;44-1-2002;12737867;Quintero;Alicia Raquel;33333333;Mouse;Mickey
+I;B;33;33a;03;44-1-2002;12830013;Andrini;Angela Isabel;92480731;Mora Subeldia;Guido Valentin
+I;B;33;33a;04;44-1-2002;31116801;Stable;Maria Veronica;29574635;Leonardi;Gaston
+I;B;33;33a;05;44-1-2002;3755032;Mansilla;Estela;18704980;Cañiza;Juan Francisco
+I;B;33;33a;06;44-1-2002;27885738;Suarez;Norma Beatriz;23795085;Gil;Juan Carlos
+I;B;33;33a;07;44-1-2002;32038257;Robledo;Marcia Beatriz;29108435;Bonardi;Maximiliano Adrian
+I;B;33;33a;08;44-1-2002;32038257;Vargas Ortega;Sandra;26839090;Borda;Alfredo Nelson
+I;B;33;33a;09;44-1-2002;27729528;Acuña;Alba Julia;27729591;Basualdo;Antonio Juan Ramon
+I;B;33;33a;10;44-1-2002;31229836;Zarate;Lucrecia Jorgelina;20697285;Silva;Adrian Wenceslao
+I;B;33;33a;11;44-1-2002;29120888;Valdez;Estela Maria;27686708;Maldonado;Marcelo Javier
+I;B;33;33a;12;44-1-2002;20033753;Martinez;Claudia Rosana;33333333;Mouse;Mickey
+I;B;33;33a;13;44-1-2002;28012506;Rubinich;Erica Lujan;24898902;Acosta;Romualdo Marcelo
+I;B;33;33a;14;44-1-2002;24125522;Medina;Silvia Susana;22116594;Calcagno;Pablo Hector
+I;B;33;33a;15;44-1-2002;23347037;Estevez;Estela Raquel;21714866;Silvia;Sandro Edmundo
+I;B;33;33a;16;44-1-2002;12737875;Riperto;Hector Ricardo;33333333;Mouse;Mickey
+I;B;33;33a;17;44-1-2002;21714881;Monserrat;Marisa Edith;21736582;Mansilla;Juan Carlos
+I;B;33;33a;18;44-1-2002;13321057;Echegaray;Mirta Beatriz;33333333;Mouse;Mickey
+I;B;33;33a;19;44-1-2002;28560440;Villegas;Soraya Marilin;25407718;Barrera;Diego Cristian Laureano
+I;B;33;33a;20;44-1-2002;14057760;Cabral;Ana Beatriz;33333333;Mouse;Mickey
+I;B;33;33a;21;44-1-2002;26384580;Sotelo;Monica Laura;12363808;Auri;Juan Hector
+I;B;33;33a;22;44-1-2002;21501205;Ponce;Ana Maria;14995481;Colombo;Marcelo Pablo
+I;B;33;33a;23;44-1-2002;14677884;Barrera;Nelida Raquel;18198067;Suarez;Manuel Horacio
+I;B;33;33a;24;44-1-2002;27192253;Camino;Veronica Valeria;13328868;Santucho;Ricardo Roberto
+I;B;33;33a;25;44-1-2002;24125550;Ibañez;Carolina Cecilia;33333333;Mouse;Mickey
+I;B;33;33a;26;44-1-2002;27716812;Panichelli;Mariana Cintia;33333333;Mouse;Mickey
+I;B;33;33a;27;44-1-2002;14520071;Alfaro;Patricia Noemi;12595127;Gonzalez;Jose Arnaldo
+I;B;33;33a;28;44-1-2002;5690877;Crozza;Mirta Ofelia;33333333;Mouse;Mickey
+I;B;33;33a;29;44-1-2002;16643628;Balbidares;Rosana Monica;14677812;Villegas;Carlos Ruben
+I;B;33;33a;30;44-1-2002;21065626;Perin;Maria Alejandra;21547430;Farotto;Rodolfo Enrique
+I;B;33;33a;31;44-1-2002;22116509;Patiño;Fabiana Patricia;33333333;Mouse;Mickey
+I;B;33;33a;32;44-1-2002;25868891;Cufre;Silvana Lorena;24898924;Martin;Angel Ariel
+I;B;33;33a;33;44-1-2002;24898924;Gregnoli;Marcela Liliana;33333333;Mouse;Mickey
+I;B;33;33a;34;44-1-2002;24898993;Sanchez;Ana Cecilia;24794196;Schenck;Cristian Carlos
+I;B;33;33a;35;44-1-2002;25407717;Garcia;Alicia Susana;21547449;Leiro;Gustavo Daniel
+I;B;33;33a;36;44-1-2002;23031818;Urtasun;Ana Ester;94080127;Torres Dias;Idaldis
+I;B;33;33a;37;44-1-2002;25726704;Romano;Eliana Maria;31601092;Barrera;Alexis Miguel Angel
+I;B;33;33a;38;44-1-2002;17467852;Homsi;Fabiola Mabel;33333333;Mouse;Mickey
+I;B;33;33a;39;44-1-2002;10909764;Suarez;Maria Ester;12363872;Ferreyra;Fermin Humberto
+I;B;33;33a;40;44-1-2002;22927056;Galvan;Sandra Maria Griselda;33333333;Mouse;Mickey
+I;B;33;33b;22;44-1-2002;30755367;Herrera;Maria Selena;28560408;Pasarelo;Fabian Andres
+I;B;33;33b;02;44-1-2002;29683017;Ramirez;Cecilia Natalia;27314973;Bramajo;Luciano Albor
+I;B;33;33b;03;44-1-2002;13230307;Saviola;Mario Cesar;33333333;Mouse;Mickey
+I;B;33;33b;04;44-1-2002;32038291;Rodriguez;Mariana Florencia;23347074;Richieri;Juan Jose
+I;B;33;33b;05;44-1-2002;28560498;Montenegro;Vanina Lucrecia;23795096;Arrieta;Martin Alberto
+I;B;33;33c;08;44-1-2002;23347066;Correa;Analia Rosana;24175958;Pacheco;Gustavo Gabriel
+I;B;33;33c;09;44-1-2002;20033703;Rodriguez;Carmen Mabel;33333333;Mouse;Mickey
+I;B;33;33c;10;44-1-2002;24817235;Abalo;Marta Elba;23199152;Ortiz;Servando Ramón
+I;B;33;33c;11;44-1-2002;30228543;Ibañez;Verónica Elizabeth;33333333;Mouse;Mickey
+I;B;33;33c;12;44-1-2002;10208848;Sanchez;Maria Ester;5061203;Barrera Laureano;Barrera Laureano
+I;B;33;33c;13;44-1-2002;14677872;Giron;Stella Maris;12830022;Roma;Enrique Raul
+I;B;33;33c;14;44-1-2002;25868811;Magallanes;Mirta Liliana;21058092;Burgos;Ruben Alberto
+I;B;33;33c;15;44-1-2002;17467812;Mc Cormick;Fabio Andres;33333333;Mouse;Mickey
+I;B;33;33c;16;44-1-2002;29683055;Roldan;Daiana Adelaida;29109134;Cufre;Jose Ignacio
+I;B;33;33c;17;44-1-2002;26863018;Suarez;Andrea Raquel;18415009;Colombo;Ruben Pedro
+I;B;33;33c;18;44-1-2002;28560489;Patiño;Maria del Carmen;10208842;Guzman;Rodolfo Jose Maria
+I;B;33;33e;01;44-1-2002;21547406;Oyos;Claudia Francisca;18459043;Montes;Aldo Alfredo
+I;B;33;33e;02;44-1-2002;25868888;Cufre;Adriana Gisela;25407703;Bramajo;Franco Daniel
+I;B;33;33e;03;44-1-2002;21445128;Martinez;Fabiana Mercedes;33333333;Mouse;Mickey
+I;B;33;33e;15;44-1-2002;22540948;Cabana;Maria Gladys;25407797;Leiro;Jorge Luis
+I;B;33;33e;16;44-1-2002;22540975;Piccardo;Lucia Beatriz;14370293;Papay;Elio Nestor
+I;B;33;33e;17;44-1-2002;24125598;Henandez;Lilia Analia;22540920;Sanchez;Pablo Fernando
+I;B;33;33e;19;44-1-2002;22540973;Agüero;Norma Elisabet;18198098;Rosales;Maria Daniel
+I;B;33;33b;06;44-1-2002;26863091;Curotto;Georgina Raquel;25035496;Medina;Ruben Alberto
+I;B;33;33b;07;44-1-2002;27314955;Roldan;Elsa Raquel;33333333;Mouse;Mickey
+I;B;33;33b;08;44-1-2002;30612779;Di Lorenzo;Natalia Soledad;26863047;Belen;Carlos Daniel
+I;B;33;33b;09;44-1-2002;22769345;Merodio;Fabiana Marcela;30114028;Vera;Ruben Eduardo
+I;B;33;33b;12;44-1-2002;21125505;Suarez;Sandra Mabel;10909720;Torres;Julio Obdulio
+I;B;33;33b;11;44-1-2002;22630153;Thurler;Monica Isabel;23795009;Grogan;Mauricio Tomas
+I;B;33;33b;10;44-1-2002;29376035;Manessi;Daniela;25406796;Finelli;Carlos Daniel
+I;B;33;33b;13;44-1-2002;16890980;Perez;Estela Maris;17216334;Cabrera;Hector Oscar
+I;B;33;33b;14;44-1-2002;3888465;Amado;Nemesia Ester;33333333;Mouse;Mickey
+I;B;33;33b;15;44-1-2002;23523895;Gorosito;Natalia Gabriela;24898987;Caceres;Nestor Javier
+I;B;33;33b;16;44-1-2002;30813781;Carmona;Lucrecia Isabel;24898927;Barrutti;Dario Luis
+I;B;33;33b;17;44-1-2002;20429791;Cruz;Malvina Amelia;15535454;Luna;Carlos Oscar
+I;B;33;33b;18;44-1-2002;28560459;Suarez;Claudia Marcela;23347054;Coronel;Jorge Luis
+I;B;33;33b;19;44-1-2002;30755356;Basualdo;Georgina Silvestre;29683046;Barrutti;Walter Manuel
+I;B;33;33b;20;44-1-2002;17820843;Doyle;Barbara Elisabet;23347032;Ceres;Silvio Marcelo
+I;B;33;33b;21;44-1-2002;26351384;Tavella;Andrea Vanina;33333333;Mouse;Mickey
+I;B;33;33b;01;44-1-2002;31092054;Veron;Natalia Veronica;29370008;Balbidares;Pablo Manuel
+I;B;33;33c;01;44-1-2002;24898973;Finelli;Maria Victoria;25868872;Volpe Leva;Simon Atilio
+I;B;33;33c;02;44-1-2002;29376014;Raviru;Maria de los Angeles;28560456;Gabelli;Diego Raul
+I;B;33;33c;03;44-1-2002;11253509;Muñoz;Clementina Amalia;16535477;Garcia;Nestor Abel
+I;B;33;33c;04;44-1-2002;11613044;Roma;Lucia Raquel;13689883;Ruani;Ricardo Victorio
+I;B;33;33c;05;44-1-2002;31092049;Ferro;Andrea Leticia;31905628;Cabrera;Oscar Adrian
+I;B;33;33c;06;44-1-2002;24097269;Cabrera;Flavia Solange;22540988;Palavecino;Daniel German
+I;B;33;33c;07;44-1-2002;5690970;Quiroga;Carmen Teresa;5036306;Rodriguez;Roberto Faustino
+I;B;33;33e;04;44-1-2002;5443140;Villalba;Alicia Ines;33333333;Mouse;Mickey
+I;B;33;33e;05;44-1-2002;23795046;Jauregui;Graciela Rosana;24652899;Thurler;Juan Bautista
+I;B;33;33e;07;44-1-2002;17101141;Lucero;Guillermo Angel;33333333;Mouse;Mickey
+I;B;33;33e;08;44-1-2002;6259259;Diaz;Ermelinda Alicia;11150703;Moyano;Juan Cantalicio
+I;B;33;33e;12;44-1-2002;21125569;Gonzalez;Patricia Alejandra;33333333;Mouse;Mickey
+I;B;33;33e;13;44-1-2002;26036578;Lencina;Elida Gabriela;28560488;Ledesma;Diego Alberto
+I;B;33;33e;14;44-1-2002;18198088;Pereyra;Milba Fabiana;12363809;Ledesma;Ricardo
+VIII;B;15;15e;06;44-3-2003;17748688;Guaragna;Monica Mabel;22919318;Llano;Gustavo Javier
+VIII;B;15;15e;05;44-3-2003;27989603;Ayerra;Milene Rosana;26840019;Rodriguez;Gabriel
+VIII;B;15;15d;04;44-3-2003;24304714;Cuello;Maria Angela Zulema;27885749;Ballesio;Marcela Alejandra
+VIII;B;15;15e;03;44-3-2003;29217836;Barloqui;Cintia Gisela Loudes;30601946;Riscoza;Luis
+VIII;B;15;15e;02;44-3-2003;16579460;Granzella;Monica Graciela;13250820;Gamarra;Hector Jose
+VIII;B;15;15e;01;44-3-2003;13321008;Ocampo;Alberto;33333333;Mouse;Mickey
+VIII;B;15;15e;07;44-3-2003;30755302;Barreto;Erica Adelina;29860840;Sosa;Juan Jose
+VIII;B;15;15e;08;44-3-2003;11738766;Quessi;Lilia Ester;33333333;Mouse;Mickey
+VIII;B;15;15e;09;44-3-2003;14979523;Ison;Miriam Alicia;20031642;Cordoba;Miguel Angel
+VIII;B;15;15e;10;44-3-2003;25183300;Riscossa Vilte;Sandra Marisa;23813370;Bucci;Dario Oscar
+VIII;B;15;15e;11;44-3-2003;26607963;Echegaray;Patricia Carolina;14520090;Monza;Mario Jose
+VIII;B;15;15e;12;44-3-2003;27845279;Acuña;Marisa Rosana;24707192;Corsico;Ariel Ivan
+VIII;B;15;15e;13;44-3-2003;33415947;Barreto;Carla Eliana;30755301;Ramos;Silvio Jesus Maria
+VIII;B;15;15e;14;44-3-2003;5061355;Chora;Ramon Omar;33333333;Mouse;Mickey
+VIII;B;15;15e;15;44-3-2003;2842467;Candamil;Maria Evangelina;4020588;Barrutia;Juan Oscar
+VIII;B;15;15e;16;44-3-2003;5443124;Fantone;Raquel Casilda;5064024;Ballesio;Juan Enrique
+VIII;B;15;15e;17;44-3-2003;17436179;Montiel;Cristina Noemi;10665421;Barrera;Ruben Gerardo
+VIII;B;15;15e;18;44-3-2003;29217839;Cabrera;Valeria Malvina;33333333;Mouse;Mickey
+VIII;B;15;15e;19;44-3-2003;16865608;Gonzalez;Maria del Carmen;16720726;Gonzalez;Alberto Horacio
+VIII;B;15;15e;20;44-3-2003;32846281;Lagos;Marta Elisabeth;26758894;Barloqui;Martin Ramiro
+VIII;B;15;15e;21;44-3-2003;31851377;Segnorile;Silvia Maricel;26840005;Tolosa;Cesar Alberto
+VIII;B;15;15d;02;44-3-2003;13321033;Fantone;Haydee Irma;10114723;Gnosso;Ricardo Nestor
+VIII;B;15;15d;03;44-3-2003;26840009;Geist;Mari Cruz;27459811;Manessi;Claudio Alberto
+VIII;B;15;15e;04;44-3-2003;18198085;Basualdo;Marisol Yamil;10665431;Ramos;Omar Horacio
+VIII;B;15;15d;05;44-3-2003;16720705;Carabajal;Miriam Griselda;33333333;Mouse;Mickey
+VIII;B;15;15d;06;44-3-2003;29830515;Perugini;Romina Andrea;24167340;Iacianci;Marcelo Maximiliano
+VIII;B;15;15d;08;44-3-2003;23795070;Fredes;Sandra Daniela;21500318;Cuello;Julio Rodolfo Alfredo
+VIII;B;15;15d;09;44-3-2003;25035406;Muller;Maria Isabel;21459010;Castellano;Victor Laureano
+VIII;B;15;15d;10;44-3-2003;16355480;Correa;Claudia Mariel;33333333;Mouse;Mickey
+VIII;B;15;15d;11;44-3-2003;17507786;Miranda;Marcelo Oscar;33333333;Mouse;Mickey
+VIII;B;15;15d;12;44-3-2003;30755321;Barreto;Vanesa Milagros Soledad;27459809;Riscossa;Hector Raul
+VIII;B;15;15d;13;44-3-2003;23199954;Ramirez;Maria Elena;21987977;Gomez;Miguel Angel
+VIII;B;15;15d;14;44-3-2003;26341271;Pederzoli;Carolina Aixa;24125577;Cordoba;Ricardo Oscar
+VIII;B;15;15d;15;44-3-2003;18525605;Calatayu;Stella Maris;16621517;Martinez;Ruben Alfredo
+VIII;B;15;15d;16;44-3-2003;26261091;Corsico;Paola Noelia;33333333;Mouse;Mickey
+VIII;B;15;15d;17;44-3-2003;25183282;Campos;Barbara Marisol;25183279;Amor;Jacobo Ezequiel
+VIII;B;15;15d;18;44-3-2003;26341267;Medina;Paola Daniela;23788934;Campos;Silvio Valentin
+VIII;B;15;15d;19;44-3-2003;24304713;Mendoza;Mariela Araceli;21058072;Oliva;Miguel Angel

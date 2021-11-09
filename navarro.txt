@@ -1,0 +1,456 @@
+I;C;0;0;50e;01;Diez;Daniela;18473810;Mouse;Mickey;33333333;7381
+I;C;0;0;50e;02;Cortes;Veronica Ines;27096896;Juarez;Simon Enrique;17736424;7371
+I;C;0;0;50e;03;Torres;Analia;14712153;Castillo;Luis Angel;8514510;7367
+I;C;0;0;50e;04;Isnard;Maria Ines;21499563;Mouse;Mickey;33333333;7372
+I;C;0;0;50e;05;Cabral;Maria de los Angeles;30132033;Mouse;Mickey;33333333;7373
+I;C;0;0;50e;06;Davila;Carina Alejandra;26694710;Funes;Gerardo Ramon;17521799;7368
+I;C;0;0;50e;07;Laitano;Marina Ester;24413890;Bohamia;Jose Osvaldo;18472242;7378
+I;C;0;0;50e;08;Simoy;Claudia Liliana;18025080;Mouse;Mickey;33333333;7380
+I;C;0;0;50e;09;Zarate;Francisco Ismael;12368765;Mouse;Mickey;33333333;7370
+I;C;0;0;50e;10;Helbert;Lia Karina;25083866;Funes;Jorge Rodolfo;24958468;7376
+I;C;0;0;50e;11;Chinella;Maria Fernanda;23777665;Mouse;Mickey;33333333;0
+I;C;0;0;50e;12;Rincon;Monica Maria Elena;24739282;Rocha;Jorge Fabian;20563593;7375
+I;C;0;0;50e;13;Chacon;Aurelia del Carmen;13384852;Trejo;Felix Jose;12566210;7374
+I;C;0;0;50e;14;Toledo;Ramona Isabel;24609396;Isnard;Jorge Mario;24958477;7379
+I;C;0;0;50e;15;Farias;Alicia Raquel;17820734;Cortez;Hugo Norberto;14712172;7377
+I;C;0;0;50e;16;Salas;Marta Alicia;16236879;Mouse;Mickey;33333333;7369
+I;C;0;0;50f;01;Beliera;Monica Graciela;20029936;Onetto;Hector Anibal;18025090;7365
+I;C;0;0;50f;02;Nocetti;Luis Francisco;25253862;Mouse;Mickey;33333333;7366
+I;C;0;0;50f;03;Contin;Cristina Edith;20823911;Mouse;Mickey;33333333;7364
+I;C;0;0;50f;04;Lopez;Norma Leticia;24408681;Morales;Norberto Omar;23562446;7363
+I;B;0;0;39c;02;Palazesi;Graciela Haydee;13744848;Mouse;Mickey;33333333;7214
+I;B;0;0;39c;03;Zapata;Alicia Ester;6682066;Mouse;Mickey;33333333;7291
+I;B;0;0;39c;04;Casas;Zulma Edith;25780973;Pacheco;Victor Anibal;16140541;7025
+I;B;0;0;39c;05;Fernandez;Abel Omar;11134421;Lara;Rosa Maria;6192147;7336
+I;B;0;0;39c;06;Salas;Delia Beatriz;18024941;Mouse;Mickey;33333333;7055
+I;B;0;0;39c;07;Lencina;Mariana;21676305;Mouse;Mickey;33333333;6995
+I;B;0;0;39c;08;Ferreyra;Mirta Elena;10159513;Mouse;Mickey;33333333;7174
+I;B;0;0;39c;09;Larregina;Carina Ines;24587990;Mouse;Mickey;33333333;6994
+I;B;0;0;39c;10;Cuenca;Noemi Angelica;16967964;Mouse;Mickey;33333333;0
+I;B;0;0;39c;11;Oliver;Alicia Ester;13744708;Castillo;Hector Gabriel;16420241;7205
+I;B;0;0;39c;12;Castellanos;Silvia;17168623;Mouse;Mickey;33333333;0
+I;B;0;0;39c;13;Silva;Jorge Abel;27096888;Cuello;Monica Ines;29683249;7063
+I;B;0;0;39c;14;Godoy;Norma;6159534;Mouse;Mickey;33333333;0
+I;B;0;0;39c;15;Torres;Cristina Raquel;28447687;Mouse;Mickey;33333333;7253
+I;B;0;0;39c;16;Amorena;Pablo Enrique;23259819;Ratto;Maria Andrea;25136225;7335
+I;B;0;0;39c;17;Sannders;Elisabet Alejandra;24958497;Romero;Sergio Anibal;25136201;7056
+I;B;0;6;06a;03;Correa;Hector Mario;20029895;Cabral;Marisa Liliana;18575944;7317
+I;B;0;6;06a;04;Castillo;Delmiro Agustin;18581156;Gomez;Gladys Alejandra;17820733;0
+I;B;0;6;06a;05;Parini;Julio Marcelo;23259864;Guercio;Estela Andrea;28143462;6915
+I;B;0;6;06a;06;Guarizola;Pedro Domingo;23254894;Castillo;Andrea Alejandra;25865664;0
+I;B;0;6;06a;07;Cortez;Cecilia Andrea;27480545;Mouse;Mickey;33333333;7194
+I;B;0;6;06a;08;Cordoba;Maria Elba;12173847;Lettiere;Carlos Horacio;4921884;7300
+I;B;0;6;06a;09;Acuña;Carina Vanesa;26132915;Camerano;Carlos Javier;26548583;0
+I;B;0;6;06a;10;Jauregui;Carina Ester;23926112;Lettieri;Marcelo Gerardo;21676318;0
+I;B;0;6;06a;11;Avellaneda;Elba Noemi;16420210;Mouse;Mickey;33333333;0
+I;B;0;6;06a;12;Landa;Alicia Beatriz;28143381;Cesar;Dardo Daniel;25136286;7286
+I;B;0;6;06a;13;Samat;Monica Graciela;18637304;Pippolo;Miguel Angel;16477294;7311
+I;B;0;6;06a;14;Gongora;Ana Cristina;25780903;Glebowski;Sebastian;25479354;7316
+I;B;0;6;06a;15;Gonzalez;Virginia Rosaura;28143491;Allo;Horacio Alberto;22732799;0
+I;B;0;6;06c;01;Guiral;Yolanda Haydee;5973271;Sosa;Salvador Maria;6154720;7195
+I;B;0;6;06c;02;Cipriano;Miguel Horacio;24413899;Soler;Maria Cecilia;26548567;6908
+I;B;0;6;06c;03;Gomez;Maria del Carmen;26705681;Martinez;Ariel Gaston;26499574;6912
+I;B;0;6;06c;04;Lopez;Juan Marcelo;23638024;Molina;Isabel;25602738;6911
+I;B;0;6;06c;05;Barilari;Daniel Emilio;22732636;Castellanos Diaz;Marta Esther;13744840;0
+I;B;0;6;06c;06;Cabanillas;Sergio Alejandro;23693328;Ferzzola;Ana Maria;28672679;7319
+I;B;0;6;06c;07;Aguirre;Elisa Ester;25398660;Ortiz;Claudio Daniel;24156134;6910
+I;B;0;6;06c;08;Tacchi;Mario Roberto;26694743;Melo;Daniela Soledad;28143440;6909
+I;B;0;6;06c;09;Onetto;Guillermo Anibal;26318783;Medina;Daniela Karina;26353635;7254
+I;B;0;6;06c;10;Cabanillas;Claudia Andrea;26548563;Mouse;Mickey;33333333;7192
+I;B;0;6;06c;11;Palacios;Karina Rosana;22732696;Mouse;Mickey;33333333;7197
+I;B;0;6;06c;12;Carabajal;Maria del Carmen;11641780;Mouse;Mickey;33333333;7124
+I;B;0;6;06c;13;Gonzalez Casal;Patricia Estela;14552052;Mouse;Mickey;33333333;7318
+I;B;0;6;06c;14;Perez;Beatriz;5164870;Venturini;Placido Francisco;4913622;7159
+I;B;0;6;06c;15;Aragon;Graciela Ana;11882787;Mouse;Mickey;33333333;7312
+I;B;0;6;06c;16;Bersachia;Graciela Isabel;20029848;Mouse;Mickey;33333333;7166
+I;B;0;6;06c;17;Chao Regueira;Adriana Vanesa;26845728;Ferzzola;Walter David;25136146;7155
+I;B;0;6;06c;18;Phloeng;Thea;92427610;Yith;Sokhovn;92427618;7362
+I;B;0;6;06c;19;Caffaro;Maria del Carmen;5668941;Mouse;Mickey;33333333;7121
+I;B;0;6;06c;20;Cordoba;Lorena Carina;26845775;Candia;Carlos Eduardo;17357797;7165
+I;B;0;6;06c;21;Zapata;Amelia Ester;4494592;Mouse;Mickey;33333333;7122
+I;B;0;6;06c;22;Tavaut;Adriana Karina;24813452;Odriozola;Oscar Anibal;24958495;7120
+I;B;0;6;06c;23;Bonino;Marta Susana;11641756;Mouse;Mickey;33333333;7313
+I;B;0;6;06c;24;Molina;Angelica;2133561;Mouse;Mickey;33333333;7199
+I;B;0;6;06c;25;Gomez;Carlos Alberto;24848288;Molina;Malvina Mariel;26074776;0
+I;B;0;6;06c;26;Ventura Chura;Hernan;29700567;Fernandez;Andrea Veronica;26427854;0
+I;B;0;0;06e;01;Degui;Gladys Fabiana;21676332;Carrizo;Silvio Ubaldo;21566832;7164
+I;B;0;0;06e;02;Garat;Sandra Marta Roxana;23320201;Corbetto;Claudio Javier;24337819;7196
+I;B;0;0;06e;03;Lopez;Raul;7825706;Mouse;Mickey;33333333;7315
+I;B;0;0;06e;04;Carrizo;Cristian David;22752631;Mouse;Mickey;33333333;7244
+I;B;0;0;06e;05;Cordoba;Mariela Elizabeth;27381752;Mouse;Mickey;33333333;7245
+I;B;0;0;06e;06;Gomez;Gladys Isabel;17321798;Gomez;Pablo Roberto;12844519;7126
+I;B;0;0;06e;07;Alcaraz;Irma Alejandra;20788545;Rodriguez;Horacio Jose;17168608;7193
+I;B;0;0;06e;08;Garay;Zulema Alcira;10780976;Mouse;Mickey;33333333;7163
+I;B;0;0;06e;09;Palacios;Ana Graciela;17521757;Diaz;Edgardo Alcides;20629839;7123
+I;B;0;0;06e;10;Ceballos;Marelli del Rosario;5233936;Gomez;Victor;5848074;7125
+I;B;0;0;06e;11;Prado;Maria Victoria;16474836;Mouse;Mickey;;7314
+I;B;0;0;06e;12;Ibañez;Laura Edith;26132905;Duffau;Javier Horacio;22257193;7156
+I;B;0;0;06e;13;Montenegro;Graciela Raquel;13384959;Mouse;Mickey;33333333;7311
+I;B;0;0;06e;14;Alvarez;Patricia Araceli;18024936;Mouse;Mickey;33333333;7390
+I;B;0;0;06e;15;Carrizo;Maria Lidia;24597950;Mouse;Mickey;33333333;7160
+I;B;0;0;06e;16;Navarro;Marisa Rosalia;20823946;Perinetti;Andres Gaspar;14790976;7161
+I;B;0;0;06e;17;De la Cuesta;Maria Aida;11641729;Montenegro;Osvaldo Nicanor;6154683;7246
+I;B;0;0;06e;18;Marino;Susana Olga;4517645;Mouse;Mickey;33333333;7162
+I;B;0;0;06e;19;Dicatarina;Analia Edith;12517470;Mouse;Mickey;33333333;7157
+I;B;0;0;06e;20;Gutierrez Garat;Sara Pilar;16807522;Adorno;Sergio Arnoldo;14304543;7158
+VIII;A;0;0;19;02a     ;Maizon;Gloria Isabel;16546979;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;03a     ;Videla Marti;Monica Marisa;16807542;Montenegro;Nestor Fabian;17521774;0
+VIII;A;0;0;19;04a     ;Cabalieri;Cecilia Andrea;24618516;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;05a     ;Giles;Mirta Graciela;12173848;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;06a     ;Torres;Gloria Ester;23926036;Echechiquia;Roberto Walter;21969706;0
+VIII;A;0;0;19;07a     ;Frassa;Karina Nieves;22376031;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;08a     ;Gonzalez;Maria Cristina;12844562;Cequeira;Jorge Orlando;10093155;0
+VIII;A;0;0;19;09a     ;Gonzalez;Rosa Teresa;12517467;Gonzalez;Juan Carlos;8514526;0
+VIII;A;0;0;19;10a     ;Davila;Alicia del Valle;27851640;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;11a     ;Sabella;Sandra Maria;17597511;Diaz;Sergio Adalberto;13811861;0
+VIII;A;0;0;19;12a     ;Mella Salazar;Maritza Arletta;92503259;Gonda;Guillermo Benjamin;18025005;0
+VIII;A;0;0;19;13a     ;Cepedano;Maria Paula;25155185;Davila;Oscar Alfredo;23693327;0
+VIII;A;0;0;19;14a     ;Balcabao;Mabel Ester;10590847;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;15;Roldan;Thelma Elizabeth;24958439;Santia;Dario Miguel;21676346;0
+VIII;A;0;0;19;16;Russo;Maria Julieta;22257129;Moreno;Diego Hernan;21989912;0
+VIII;A;0;0;19;17;Echechiquia;Carina Petrona;24597965;Guerricabeitia;Juan Alejandro;22732690;0
+VIII;A;0;0;19;18;Maizon;Marta Beatriz;18587702;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;19;Torres;Lilian Elizabeth;22732616;Casado;Gabriel Fernando;18497351;0
+VIII;A;0;0;19;20;Maldonado;Hilda Elizabet;10647759;Mouse;Mickey;33333333;0
+VIII;A;0;0;19;21;Blanco;Marta Elvira;4560869;Lascano;Manuel Alfredo;5226516;0
+VIII;A;0;0;19;22;Cepeda;Norma Cristina;16169022;Gonzalez;Ricardo Elias;12844680;0
+VIII;A;0;0;19;23;Serra;Maria Veronica;23693345;Casella;Marcelo Gabriel;23819000;0
+VIII;A;0;0;19;24;Schaff;Adriana Veronica;21443548;Suarez;Leonardo Efrain;20823982;0
+I;B;0;2;02b;01;Fiore;Jose Antonio;10780839;Cordoba;Violeta Esther;14712195;6959
+I;B;0;2;02b;02;Brescia;Maria Cristina;21443534;Mouse;Mickey;33333333;6928
+I;B;0;2;02b;03;Ibañez;Monica Beatriz;17820764;Mouse;Mickey;33333333;7183
+I;B;0;2;02b;04;Ourdanabia;Marta Ester;10225268;Menay;Roberto Miguel;4929845;6937
+I;B;0;2;02b;05;Isusi;Miguel Angel;4919091;Mouse;Mickey;33333333;6949
+I;B;0;2;02b;06;Mattos;Osvaldo Cesar;24165409;Etcheverry;Valeria Lorena;25136224;6960
+I;B;0;2;02b;07;Carrizo;Hilaria Edelmira;12844508;Mouse;Mickey;33333333;6929
+I;B;0;2;02b;08;Derbis;Fernando Daniel;13068872;Dure;Liliana Noemi;16315735;6938
+I;B;0;2;02b;09;Trigo;Maria Ines;22257104;Peralta;Luis Alberto;22257004;6961
+I;B;0;2;02b;10;Rivello;Sara Eufemia;17168546;Mouse;Mickey;33333333;7248
+I;B;0;2;02b;11;Airoldi;Estela Mabel;22257135;De la Cuesta;Guillermo Dario;22257036;6966
+I;B;0;2;02b;12;Asteggiano;Maria Ester;4935004;Mouse;Mickey;33333333;6897
+I;B;0;2;02b;13;Rojas;Emma Noemi;14552029;Mouse;Mickey;33333333;6782
+I;B;0;2;02b;14;Quiñones;Alberto Jose;14982946;Peralta;Alicia Ester;20029914;6962
+I;B;0;2;02b;15;Streg;Cesar Jesus;20726903;Cortez;Maria Laura;25136219;6939
+I;B;0;2;02b;16;Quiñones;Silvia Esther;16807533;Hunt;Juan Jose;14712171;6963
+I;B;0;2;02b;17;D'Acosta;Liliana Elba;12173837;Gutierrez;Dardo Fabian;21153909;6940
+I;B;0;2;02b;18;Bonini;Vanesa Andrea;26548557;Cirone;Silvio Heraldo;23259824;7386
+I;B;0;2;02b;19;Guarizola;Stella Veronica;25345435;Gomez;Gustavo Javier;23065256;7346
+I;B;0;2;02b;20;Ferreyra;Carlos Jesus;17521715;Lazarte;Josefa Delia del C.;21989922;6896
+I;B;0;2;02b;21;Romero;Claudia Noemi;21989942;Mouse;Mickey;33333333;7191
+I;B;0;2;02b;22;Davila;Carlos Alberto;25136118;Bruni;Alejandra Griselda;21592443;6930
+I;B;0;2;02b;23;Pizzolato;Pedro Enrique;22845752;Ramirez;Ana Noemi;27563204;0
+I;B;0;2;02b;24;Dul;Phen;92427524;Min;Sum Nad;92427605;0
+I;B;0;2;02b;25;Fassi;Ricardo;12517360;Squillario;Alicia Nora;13744846;6849
+I;B;0;2;02b;26;Resquin;Hilda Ester;5633033;Bonino;Jose Ricardo;4925333;7308
+I;B;0;2;02b;27;Perez;Dionisio Felix;14093691;Peralta;Graciela Haide;20823979;7307
+I;B;0;2;02b;28;Carabajal;Roberto Miguel;14552046;Soriano;Marta Susana;20028438;6951
+I;B;0;2;02b;29;Eberle;Hugo Alberto;21153942;Facio;Elicia Edith;23527349;6948
+I;B;0;2;02b;30;Romero;Silvia Esther;26845752;Centurion;Martin Alfredo;24695864;7345
+I;B;0;2;02c;01;Almada;Mirta Juana;6499884;Mouse;Mickey;33333333;7398
+I;B;0;2;02c;02;Gomez;Maria del Carmen;16620806;Maluendez;Mickey;33333333;6931
+I;B;0;2;02c;03;Fernandez;Andres Julian;7392718;Cabral;Marta Ines;20629834;7302
+I;B;0;2;02c;04;Torres;Ricardo Agustin;23926154;Piersantolini;Carina Lorena;26132901;7182
+I;B;0;2;02c;05;Correa;Ramon Antonio;12517384;Mouse;Mickey;33333333;6762
+I;B;0;2;02c;06;Berho;Maria Angelica;6159462;Ramirez;Romulo Alberto;4925327;6760
+I;B;0;2;02c;07;Pisi;Marta Isabel;4214331;Gomez;Raul Alcides;10580018;6879
+I;B;0;2;02c;08;Milla;Manuela Gladys;13744723;Medina;Mickey;33333333;6933
+I;B;0;2;02c;09;Peñalva;Nilda Veronica;21676379;Mouse;Mickey;33333333;7397
+I;B;0;2;02c;10;Vacarezza;Jose Saravia;4921898;Chamorro;Susana Beatriz;14982906;6944
+I;B;0;2;02c;11;Bocco;Susana Noemi;27780939;Torres;Jorge;23926154;6932
+I;B;0;2;02c;12;Larrere;Manuel Bernardo;10780897;Quinteros;Sonia Mabel;17025550;6941
+I;B;0;2;02c;13;Polenta;Maria del Carmen;13635325;Babini;Juan Enrique;13744852;0
+I;B;0;2;02c;14;Trigo;Raul Oscar;21789635;Atampi;Maria Jose;24413900;0
+I;B;0;2;02c;15;Lasarte;Elena Beatriz;5668808;Mouse;Mickey;33333333;6784
+I;B;0;2;02c;16;Castro;Alicia Haydee;12517496;Mouse;Mickey;33333333;0
+I;B;0;2;02c;17;Coman;Estela Noemi;12074325;Mouse;Mickey;33333333;6763
+I;B;0;2;02c;18;Melo;Luis Ruben;12152552;Banegas;Graciela Noemi;17820705;7190
+I;B;0;2;02c;19;Martinez;Graciela Leonor;27080931;Torres;Saul Ariel;26382833;7341
+I;B;0;2;02c;20;Aranda;Ester Elida;13744764;Hidalgo;Antonio Manuel;8339859;7301
+I;B;0;2;02c;21;Lasarte;Leonardo Luis;17521718;Gonzalez;Maria Alejandra;23928130;6873
+I;B;0;2;02c;22;Pavon;Hilda Mabel;5439261;Mouse;Mickey;33333333;7357
+I;B;0;2;02c;23;Gomez;Esther Elvira;18024944;Mouse;Mickey;33333333;7269
+I;B;0;2;02c;24;Lopez;Marisa Marina;22732680;Cuello;Juan Jose;18025011;7384
+I;B;0;2;02c;25;Falcon;Juan Francisco;4911451;Llantada;Olinda Esther;6688607;6956
+I;B;0;2;02c;26;Torres;Mirta Silvia;11412017;Fernandez;Hugo Ruben;11904654;6882
+I;B;0;2;02c;27;Guercio;Ondina del Carmen;3499957;Torres;Jorge Gabriel;4916473;7418
+I;B;0;2;02d;01;Forni;Nelida Haydee;10324324;Mouse;Mickey;33333333;7181
+I;B;0;2;02d;02;Alarcon;Gloria Vanesa;24636643;Mouse;Mickey;33333333;7303
+I;B;0;2;02d;03;Mustafa;Nestor Javier;21443524;Pascali;Monica Edith;21443501;6787
+I;B;0;2;02d;04;Santana;Juan Ramon;4332902;Tueso;Amelia Francisca;1146808;7247
+I;B;0;2;02d;05;Muraro;Mariela Fernanda;20823995;Mouse;;;7185
+I;B;0;2;02d;06;Adorno;Susana Amelia;530996;Volente;Angel Felix;4904780;0
+I;B;0;2;02d;07;Isnard;Maria Cristina;6508137;Mouse;;;6952
+I;B;0;2;02d;08;Chacon;Juan Carlos;8110375;Jaime;Norma Raquel;10093135;6881
+I;B;0;2;02d;09;Luna;Jose Gregorio;12173849;Olavarri;Liliana Esther;12238428;0
+I;B;0;2;02d;10;Castro;Celia Beatriz;17168657;Mouse;Mickey;33333333;6899
+I;B;0;2;02d;11;Torres;Norma Cristina;10780918;Leonetti;Miguel Angel;10324355;6768
+I;B;0;2;02d;12;Freige;Veronica Alejandra;24482690;Mouse;Mickey;33333333;0
+I;B;0;2;02d;13;Casas;Julio Mariano;20029814;Lopez;Nelida Beatriz;20287277;6765
+I;B;0;2;02d;14;Yusti;Miriam Andrea;23366708;Maceda;Juan Jose;14304534;0
+I;B;0;2;02d;15;Alfaro;Mirta Leonor;14304560;Mouse;Mickey;33333333;7392
+I;B;0;2;02d;16;Almeyra;Maria Elena;17820773;Marful;Juan Carlos;12173821;6957
+I;B;0;2;02d;17;Diaz;Zunilda Esther;3068408;Mouse;Mickey;33333333;0
+I;B;0;2;02d;18;Saunders;Maria Alejandra;21153911;Ferrandi;Nestor Omar;17820792;6947
+I;B;0;2;02d;19;Santana;Norma Beatriz;18024914;Mouse;Mickey;33333333;7200
+I;B;0;2;02d;20;Guercio;Adriana Isabel;25890958;Mouse;Mickey;33333333;7180
+I;B;0;2;02d;21;Keller;Blanca Maria;5311272;Natalini;Rogelio;4925381;7304
+I;B;0;2;02d;22;Garino;Olga Beatriz;13744713;Mouse;Mickey;33333333;6757
+I;B;0;2;02d;23;Trejo;Oscar Omar;10093143;Ruiz;Maria Angelica;21676366;7399
+I;B;0;2;02d;24;Montenegro;Claudia Noemi;20712439;Mouse;Mickey;33333333;7340
+I;B;0;2;02d;25;Gimeno;Mirta;14712118;Fernandez;Alberto;12844505;7305
+I;B;0;2;02d;26;Tierno;Maria Isabel;22257030;Mouse;Mickey;33333333;7189
+I;B;0;2;02d;27;Lucero;Laura Veronica;25136282;Fernandez;Ruben Ariel;25695951;7188
+I;B;0;2;02d;28;Polenta;Juan Antonio;23259981;Vanegas;Marta Margarita;25619936;7343
+I;B;0;2;02e;01;Castro;Norma Graciela;20029875;Santana;Ricardo Ismael;18024978;6755
+I;B;0;2;02e;02;Arce y Silva;Luis Alberto;28288646;Hilgenberg;Nora Viviana;24585606;7306
+I;B;0;2;02e;03;Marquez;Hugo Daniel;23259898;Gonzalez;Carolina;;0
+I;B;0;2;02e;04;Cools;Beatriz Angelica;5423381;Varela;Anibal Oscar;4929803;7355
+I;B;0;2;02e;05;Lecumberry;Ofelia Ermelinda;23366856;Mouse;Mickey;33333333;7347
+I;B;0;2;02e;06;Parodi;Susana Cristina;12173803;Mouse;Mickey;33333333;3936
+I;B;0;2;02e;07;Tolosa;Sara Alicia;21676339;Mouse;Mickey;33333333;7359
+I;B;0;2;02e;08;Ferreyra;Monica;21566841;Mouse;Mickey;33333333;0
+I;B;0;2;02e;09;Andrade;Alberto Gabriel;16140560;Moya;Alicia Carmen;20629846;7310
+I;B;0;2;02e;10;Parenti;Susana Ines;4214353;Mouse;;;7454
+I;B;0;2;02e;11;Angrigiani;Fabio Marcelo;23259801;Cejas;Monica Silvia;24958410;7177
+I;B;0;2;02e;12;Carino;Armando Jose;4898838;Tiseira;Marta Ines;10093878;6756
+I;B;0;2;02e;13;Meyssan;Walter Daniel;21566835;Torres;Sonia Lorena;23926120;7344
+I;B;0;2;02e;14;Rojas;Gladys Mabel;14150848;Mouse;Mickey;33333333;7358
+I;B;0;2;02e;15;Cabanillas;Hector Nazario;21676344;Sanchez;Monica Lorena;24597985;7309
+I;B;0;2;02e;16;Carranza;Jose Alfredo;21826410;Salas;Veronica;27847466;0
+I;B;0;2;02e;17;Montenegro;Maria Lujan;28143325;Mouse;Mickey;33333333;7356
+I;B;0;2;02e;18;Salas;Alfredo Ulises;11655248;Mena;Maria Esther;17521703;7339
+I;B;0;2;02e;19;Leonetti;Stella Maris;16548478;Mouse;Mickey;33333333;6898
+I;B;0;2;02e;20;Ibañez;Javier Pascual;20629870;Flores;Marcela Beatriz;21971527;6945
+I;B;0;2;02e;21;Caviglia;Cristian Dario;27480469;Caviglia;Oscar Alberto;30132161;0
+I;B;0;2;02e;22;Casas;Celia Esther;13384939;Salinas;Oscar Gabriel;12173855;0
+I;B;0;2;02e;23;Quilici;Hugo Alberto;13304236;Abaca;Mirta Graciela;16598579;0
+I;B;0;2;02e;24;Vivas;Exequiela Rufina;704710;Muñoz;Roberto Zenon;4840963;7270
+I;B;0;2;02e;25;Casas;Silvia Beatriz;17168514;Mouse;Mickey;33333333;7178
+I;B;0;2;02e;26;Ladaburu;Gloria del Valle;17168680;Rodriguez;Eduardo Oscar;16140557;6759
+I;B;0;2;02e;27;De la Huerta;Julio Cesar;7597781;Mouse;Mickey;33333333;6950
+I;B;0;2;02f;01;E.C.;;;Mouse;Mickey;33333333;0
+I;B;0;2;02f;02;Eberle;Eduardo Agustin;12173909;Lopez;Graciela;13357078;0
+I;B;0;2;02f;03;Cabral;Elsa Beatriz;20132035;Mouse;Mickey;33333333;6904
+I;B;0;2;02f;04;Eberle;Jose Patricio;23259836;Herrera;Carina Soledad;27033584;6872
+I;B;0;2;02f;05;Elvira;Karina Haydee Lujan;23777629;Mouse;Mickey;33333333;7187
+I;B;0;2;02f;06;Nuñez;Eduardo Severo;12517335;Tomatis;Lidia Teresa;11412021;6769
+I;B;0;2;02f;07;Mafone;Ana Maria;13744803;Mouse;Mickey;33333333;7453
+I;B;0;2;02f;08;Gomez;Sergio Oscar;20029831;Murray;Analia Veronica;22409923;6767
+I;B;0;2;02f;09;Castillo;Jose Emilio;8297370;Salusttio;Lidia Noemi;13065511;0
+I;B;0;2;02f;10;Yacof;Gladys Susana;16511404;Molina;Raul Emilio;11687626;7348
+I;B;0;2;02f;11;Lucero;Isabel Alejandra;23259211;Gomez;Oscar Alfredo;20029872;6774
+I;B;0;2;02f;12;Torres;Gladys Noemi;14904941;Moreira;Atilio Alberto;13744843;6958
+I;B;0;2;02f;13;Ciani;Oscar Raul;13744873;Mouse;Mickey;33333333;7342
+I;B;0;2;02f;14;Cavagnaro;Teresa;;Mouse;Mickey;33333333;0
+I;B;0;2;02f;15;Pereyra;Roberto Jose;16807539;Mena;Antonia Agripina;18208422;6764
+I;B;0;2;02f;16;Raffi;Ricardo Jose;12517372;Corbetto;Marta Elsa;12517494;6943
+I;B;0;2;02f;17;Garcia;Alejandro Dario;16807595;Silva;Olga Vicenta;18062165;6942
+I;B;0;2;02f;18;Guerricabeitia;Rosa Leonor;25136232;Mouse;Mickey;33333333;7186
+I;B;0;2;02f;19;Idiart;Juan Ramon;13702020;Correa;Iris Gladys;17168533;6955
+I;B;0;2;02f;20;Tierno;Delia Noemi;14712134;Polenta;Oscar Alberto;23926167;7184
+I;B;0;2;02f;21;Montenegro;Elena del Carmen;23138051;Astegiano;Daniel Atilio;20823942;6972
+I;B;0;2;02f;22;Calisaya;Elva;25751108;Calcina Yucra;Nixon Rogelio;92979671;6954
+I;B;0;2;02f;23;Marquez;Maria Magdalena;21989975;Mouse;Mickey;33333333;6790
+I;B;0;2;02f;24;Carino;Miguel Horacio;4918411;Coccaloto;Irma Haydee;4494590;6773
+I;B;0;2;02f;25;Medina;Hernan Jorge;22257068;Gorriño;Silvia Elizabeth;24413866;6953
+I;B;0;2;02f;26;Ibañez;Silvia Noemi;21443513;Mouse;Mickey;33333333;7179
+I;B;0;3;03a;14;Lettieri;Juana Edith;28672524;Mouse;Mickey;33333333;0
+I;B;0;3;03a;15;Perez;Marcela Susana;24958453;Mouse;Mickey;33333333;0
+I;B;0;3;03a;16;Isnard;Sara Beatriz;28143420;Mouse;Mickey;33333333;0
+I;B;0;3;03a;17;Vergara;Carolina;26820118;Mouse;Mickey;33333333;7719
+I;B;0;3;03a;18;Gorosito;Nancy Beatriz;23028845;Mouse;Mickey;33333333;7720
+I;B;0;3;03a;19;Ferreyra;Adriana Veronica;22732681;Bugiolachi;Hector Javier;24958443;0
+I;B;0;3;03a;20;Dominguez;Catalina;20147395;Mouse;Mickey;33333333;7721
+I;B;0;3;03a;21;Miranda;Gladys Edith;26845790;Mouse;Mickey;33333333;7722
+I;B;0;3;03a;22;De Rosa;Maria del Carmen;20823990;Peralta;Walter Obdulio;17168550;0
+I;B;0;3;03a;23;Pissini;Maria Elena;22732782;Cabanilla;Ramon Alcides;16474824;7723
+I;B;0;3;03a;24;Carino;Irma Beatriz;12844536;Barral;Carlos Eduardo;11945932;7724
+I;B;0;3;03a;25;Chazarreta;Norma Ester;16807524;Mouse;Mickey;33333333;7725
+I;B;0;3;03a;26;Torres;Adriana Beatriz;26845731;Mouse;Mickey;33333333;0
+I;B;0;3;03a;27;Gonzalez;Mabel Alicia;14958959;Iannello;Claudio Horacio;16855123;7726
+I;B;0;3;03a;28;Acuña;Sandra Mabel;24597959;Sanchez;Jorge Alberto;23259809;0
+I;B;0;3;03a;29;Lazarte;Liliana Leonor;22257087;Mouse;Mickey;33333333;7748
+I;B;0;3;03a;30;Martinez;Emilce Malvina;29454783;Mouse;Mickey;33333333;7327
+I;B;0;3;03b;01;Corbetto;Silvia Mabel;20029932;Mouse;Mickey;33333333;7029
+I;B;0;3;03b;02;Cristaldi;Elsa;6473533;Diaz;Ruben Heriberto;4909349;0
+I;B;0;3;03b;03;Gonzalez;Marta Viviana;22257050;Mouse;Mickey;33333333;7136
+I;B;0;3;03b;04;De Lamadrid;Maria Marta;18594693;Mouse;Mickey;33333333;7225
+I;B;0;3;03b;05;Ferrero;Rita Ines;5668978;Villalba;Juan Abel;4925404;7028
+I;B;0;3;03b;06;Acosta;Hugo Osvaldo;11333886;Mouse;Mickey;33333333;7727
+I;B;0;3;03b;07;Brigante;Maria Vicenta;24034356;Menay;Miguel Horacio;23259937;0
+I;B;0;3;03b;08;Farias;Alejandra Mabel;24597954;Mouse;Mickey;33333333;0
+I;B;0;3;03b;09;Lardapide;Maria del Carmen;29454766;Mouse;Mickey;33333333;7728
+I;B;0;3;03b;10;Caraballo;Nancy Beatriz;23926092;Correa;Miguel Angel;20823973;7729
+I;B;0;3;03b;11;Benitez;Ester Marciana;22732612;Mouse;Mickey;33333333;0
+I;B;0;3;03b;12;;;;Mouse;Mickey;33333333;0
+I;B;0;3;03c;01;Molina;Natalia Alejandra;23777587;Mouse;Mickey;33333333;7299
+I;B;0;3;03c;02;Vera;Maria Laura;27480600;Mouse;Mickey;33333333;7387
+I;B;0;3;03c;03;Samianta;Natalia Veronica;26266014;Paniagua;Carlos Omar;23259876;7350
+I;B;0;3;03c;04;Menay;Hilda Ester;16420242;Cuello;Adolfo Ernesto;13384854;7226
+I;B;0;3;03c;05;Gianotti;Laura Ester;20657876;Friedenberger;Marcos Alberto;25056697;7135
+I;B;0;3;03c;06;Gorosito;Alejandra Marisa;31255844;Mouse;Mickey;33333333;0
+I;B;0;3;03c;07;Reynoso;Gladys Azucena;11739003;Aliendro;Juan Carlos Maria;12402073;7030
+I;B;0;3;03c;08;Bonino;Viviana Haydee;23259815;Mouse;Mickey;33333333;7012
+I;B;0;3;03c;09;Navarro;Estela Alicia;25136242;Mouse;Mickey;33333333;7134
+I;B;0;3;03c;10;Ferrero;Maria Concepcion;28762647;Mouse;Mickey;33333333;7031
+I;B;0;3;03c;11;Ricciardi;Alejandra Beatriz;25313208;Mouse;Mickey;33333333;7013
+I;B;0;3;03c;12;Lambert;Yolanda Gabriela;5668985;Perez;Julio Alberto;8335770;7730
+I;B;0;3;03c;13;Sacco;Sandra Gabriela;24958403;Mouse;Mickey;33333333;7032
+I;B;0;3;03c;14;Gorosito;Nelida Ester;27480494;Mouse;Mickey;33333333;0
+I;B;0;3;03c;15;Anduch;Marcela Maria Francisca;25136120;Mouse;Mickey;33333333;7014
+I;B;0;3;03c;16;Sanguinetti;Jose Maria;4921989;Mouse;Mickey;33333333;7137
+I;B;0;3;03c;17;Nuñez;Juana Isabel;5745223;Mouse;Mickey;33333333;7015
+I;B;0;3;03c;18;Breuer;Laura Mariana;18628958;Mouse;Mickey;33333333;7033
+I;B;0;3;03c;19;Nuñez;Claudia Matilde;13111738;Mouse;Mickey;33333333;7141
+I;B;0;3;03d;01;Cuezzo;Stella Maris;22742526;Lemma;Julio Cesar;12182461;0
+I;B;0;3;03d;02;Elich;Veronica Elisabet;23418661;Aramburu;Gustavo Adolfo;22732722;7140
+I;B;0;3;03d;03;Cordoba;Alejandra Patricia;22257015;Cabello;Miguel Angel;13744828;7731
+I;B;0;3;03d;04;Serra;Ana Maria;27480502;Torres;Marcos Antonio;24958480;0
+I;B;0;3;03d;05;Dominguez;Lucia Olga;6219355;Gimeno;Nestor Osvaldo;5562458;7229
+I;B;0;3;03d;06;Anduch;Cristina Alicia;22732753;Mouse;Mickey;33333333;0
+I;B;0;3;03d;07;Cipriano;Maria Marta;26132993;Piersantolini;Marcelo Enrique;22257142;7330
+I;B;0;3;03d;08;Echechiquia;Maria Soledad;29683224;Carino;Cristian Eduardo;26135925;0
+I;B;0;3;03d;09;Francisque;Maria Cristina;21444967;Almeyra;Walter Omar;24958428;7139
+I;B;0;3;03d;10;Tolosa;Monica Alejandra;27480560;Murray;Jose Alberto;21676377;7328
+I;B;0;3;03d;11;Diaz;Silvia Susana;16444830;Correa;Jose Luis;17537289;7138
+I;B;0;3;03d;12;Forni;Maria Laura;26382824;Delfino;Hernan Nerio;27848480;7218
+I;B;0;3;03d;13;Castex;Susana Beatriz;25136151;Romero;Nestor Fabian;21443506;7329
+I;B;0;3;03d;14;Marnatti;Gabriela Fernanda;25734408;Tierno;Martin Ezequiel;24886318;7220
+I;B;0;3;03d;15;Magno;Irma Ester;20038108;Mouse;Mickey;33333333;7228
+I;B;0;3;03d;16;Cabral;Rosana Noemi;30132036;Miche;Julio Cesar;26548600;7332
+I;B;0;3;03d;17;Diaz;Maria Veronica Ester;25136183;Mouse;Mickey;33333333;7352
+I;B;0;3;03d;18;Ismael;Cristina Soledad;27480415;Mouse;Mickey;33333333;7732
+I;B;0;3;03d;19;Bugiolachi;Veronica Ines;24233956;Mouse;Mickey;33333333;7227
+I;B;0;3;03d;20;Jaureguizar;Maria Isabel;22257101;Giles;Claudio Marcelo;22257152;0
+I;B;0;3;03d;21;Tapia;Angela Gisela;27684179;Del Rio;Cesar Eduardo;26975523;7221
+I;B;0;3;03d;22;Guerricabeitia;Gabriela Veronica;32331326;Gasco;Juan Carlos;25780926;7331
+I;B;0;3;03d;23;Zarza;Viviana Andrea;26318671;Farias;Eduardo Gaspar;25136283;7219
+I;B;0;3;03d;24;Derbis;Cintia Veronica;30569192;Mouse;Mickey;33333333;7294
+I;B;0;3;03d;25;Soriano;Gloria Vanesa;30132166;Mouse;Mickey;33333333;0
+I;B;0;3;03d;26;Alvarez;Gladys Beatriz;21726973;Rolon;Roberto Angel;29683245;7230
+I;B;0;3;03e;11;Saganea;Maria Cristina;17766722;Mouse;Mickey;33333333;0
+I;B;0;3;03e;12;Garrett;Veronica Noemi;30132099;Mouse;Mickey;33333333;0
+I;B;0;3;03e;13;Busada;Valeria Soledad;29454738;Mouse;Mickey;33333333;0
+I;B;0;3;03e;14;Carino;Graciela Haydee;18024922;Caraballo;Juan Enrique;11904687;0
+I;B;0;3;03e;15;Pereyra;Norma Gladys;13744763;Mouse;Mickey;33333333;0
+I;B;0;3;03e;16;Navarro;Juan Ramon;4925380;Mouse;Mickey;33333333;0
+I;B;0;3;03e;17;Cabanilla;Monica Graciela;17521716;Mouse;Mickey;33333333;7733
+I;B;0;3;03e;18;Tolosa;Monica Mabel;23693343;Mouse;Mickey;33333333;7734
+I;B;0;3;03e;19;Arevalo;Veronica Mercedes;27111339;Mouse;Mickey;33333333;7735
+I;B;0;3;03e;20;Carabajal;Delia Liliana;17168573;Volente;Angel Antonio;16807506;7736
+I;B;0;3;03e;21;Dominguez;Rosana Beatriz;23926095;Mouse;Mickey;33333333;7737
+I;B;0;3;03e;22;Forni;Romina Nancy;24924780;Mouse;Mickey;33333333;7231
+I;B;0;3;03f;12;Tolosa;Silvia Ester;27626135;Mouse;Mickey;33333333;0
+I;B;0;3;03f;13;Cordoba;Ester Susana;11641712;Mouse;Mickey;33333333;0
+I;B;0;3;03f;14;Castellano;Susana Graciela;26132944;Mouse;Mickey;33333333;0
+I;B;0;3;03f;15;Ferrandez;Lucia Liliana;18024973;Mouse;Mickey;33333333;0
+I;B;0;3;03f;16;Asconape;Veronica Silvina;22732683;Mouse;Mickey;33333333;7738
+I;B;0;3;03f;17;Torres;Maria Angelica;17102728;Navarro;Juan Francisco;20029839;7739
+I;B;0;3;03f;18;Falcon;Gabriela Ester;22758819;Mouse;Mickey;33333333;0
+I;B;0;3;03f;19;Soto;Zoraida Noemi;27523439;Mouse;Mickey;33333333;0
+I;B;0;3;03f;20;Medina;Lorena Lidia;28672645;Mouse;Mickey;33333333;7241
+I;B;0;3;03g;01;Scalise;Maricel Jaqueline;25528851;Rodriguez;Carlos Gaston;23297286;7242
+I;B;0;3;03g;02;Cabanillas;Maria Florencia;24413853;Mouse;Mickey;33333333;7016
+I;B;0;3;03g;03;Saganea;Leticia Noemi;14655244;Mouse;Mickey;33333333;0
+I;B;0;3;03g;04;Vera;Marina Natalia;27480403;Mouse;Mickey;33333333;7240
+I;B;0;3;03g;05;Oliver;Maria Cristina;12517479;Cordoba;Miguel Angel;10780892;7351
+I;B;0;3;03g;06;Molina;Silvia Daniela;28266764;Mouse;Mickey;33333333;7068
+I;B;0;3;03g;07;Perez;Carlos Ramon;17662133;Mouse;Mickey;33333333;7034
+I;B;0;3;03g;08;Martinez;Irma Graciela;18209745;Benitez;Javier;12807920;7128
+I;B;0;3;03g;09;Lopez Matheu;Stella Maris;23926013;Mouse;Mickey;33333333;7058
+I;B;0;3;03g;10;Casco;Angela Zenobia;4078384;Mouse;Mickey;33333333;0
+I;B;0;3;03g;11;Aguerrido;Claudia Maribel;18048718;Mouse;Mickey;33333333;7035
+I;B;0;3;03g;12;Gonzalez;Liliana Noemi;23926037;Mouse;Mickey;33333333;7017
+I;B;0;3;03g;13;Arce;Catalina;18767804;Altamirano;Julio Alberto;21063201;7144
+I;B;0;3;03g;14;Trejo;Ana Maria;13744765;Mouse;Mickey;33333333;7143
+I;B;0;3;03g;15;Acuña;Marisa Mabel;28672612;Mouse;Mickey;33333333;7295
+I;B;0;3;03g;16;Ramirez;Maria Carmen;5439279;Roldan;Jorge;6154903;7238
+I;B;0;3;03g;17;Molina;Norma Ester;25831598;Mouse;Mickey;33333333;7133
+I;B;0;3;03g;18;Boquin;Norma Roquelina;17521762;Mouse;Mickey;33333333;7021
+I;B;0;3;03g;19;Perez;Elida Ines;10626743;Mouse;Mickey;33333333;7127
+I;B;0;3;03g;20;Lencina;Silvina Alejandra;20029810;Mouse;Mickey;33333333;7023
+I;B;0;3;03g;21;Moggia;Susana Beatriz;14982954;Victoria;Carlos Rafael;14712177;7388
+I;B;0;3;03g;22;Maldini;Sara Noemi;4548362;Mouse;Mickey;33333333;7018
+I;B;0;3;03h;01;Beron;Alejandra Noemi;27626101;Mouse;Mickey;33333333;7237
+I;B;0;3;03h;02;Solari;Maria Paula;26839526;Danni;Gabriel Eduardo;23669522;7142
+I;B;0;3;03h;03;Rodriguez;Maria Lorena;27880437;Mouse;Mickey;33333333;7036
+I;B;0;3;03h;04;Iñiguez;Nora Viviana;16030113;Cortez;Abel Horacio;16474842;0
+I;B;0;3;03h;05;Derbis;Viviana Romina;28279498;Mouse;Mickey;33333333;7037
+I;B;0;3;03h;06;Sam;Bhean;92427569;Moon;Sin;92427568;7222
+I;B;0;3;03h;08;Navarro;Cecilia Paola;24413888;Mouse;Mickey;33333333;6999
+I;B;0;3;03h;09;Arevalo;Susana Mabel;23015081;Mouse;Mickey;33333333;7038
+I;B;0;3;03h;10;Gomez;Amelia del Carmen;12173874;Mouse;Mickey;33333333;7129
+I;B;0;3;03h;11;Andorno;Maria Antonia;22577928;Yusti;Daniel Alberto;25535459;7243
+I;B;0;3;03h;12;Ramirez;Maria Victoria;24597945;Mouse;Mickey;33333333;7740
+I;B;0;3;03h;13;Balzani;Julio Nestor;13744756;Mouse;Mickey;33333333;7059
+I;B;0;3;03h;14;Vera;Beatriz;5787117;Daune;Juan Carlos;5253119;7039
+I;B;0;3;03h;15;Fernandez;Juan de Rosa;5705261;Mouse;Mickey;33333333;7148
+I;B;0;3;03h;16;Casco;Gabriela Noemi;26554254;Mouse;Mickey;33333333;7149
+I;B;0;3;03h;17;Almeyra;Maria Dominga;11641784;Galvan;Miguel Angel;8189348;7003
+I;B;0;3;03h;18;Carino;Noelia Magali;28672690;Mouse;Mickey;33333333;7040
+I;B;0;3;03n;01;Carabajal;Berta Ines;30341173;Chazarreta;Ismael Oscar;14982913;7041
+I;B;0;3;03n;02;Contin;Claudia Beatriz;18443974;Mouse;Mickey;33333333;7061
+I;B;0;3;03n;03;Cabanillas;Maria Jose;25136200;Mouse;Mickey;33333333;7019
+I;B;0;3;03n;04;Molina;Elizabeth Estela;23777589;Mouse;Mickey;33333333;7060
+I;B;0;3;03n;05;Melo;Lorena Noemi;28143342;Mouse;Mickey;33333333;7042
+I;B;0;3;03n;06;Peralta;Maria Eugenia;17168656;Mouse;Mickey;33333333;7215
+I;B;0;3;03n;07;Fernandez;Marcela Natalia;26077532;Mouse;Mickey;33333333;7043
+I;B;0;3;03n;08;Dominguez;Elvira Angelica;5668916;Tomatis;Manuel Roberto;4919009;7150
+I;B;0;3;03n;09;Segovia;Norma Leonor;16420220;Mouse;Mickey;33333333;7145
+I;B;0;3;03n;10;Vazquez;Maria Jose;28672505;Mouse;Mickey;33333333;7349
+I;B;0;3;03n;11;Polenta;Marcela Liliana;21989910;Mouse;Mickey;33333333;0
+I;B;0;3;03n;12;Farias;Blanca Noemi;23259812;Farias;Julio Cesar;20629886;7321
+I;B;0;3;03n;13;Cabanillas;Rosana Alicia;27480487;Flores;Andres Avelino;24597997;7147
+I;B;0;3;03n;14;Cordoba;Silvia Marisa;17766900;Mouse;Mickey;33333333;7154
+I;B;0;3;03n;15;Salas;Claudia Susana;25019944;Mouse;Mickey;33333333;0
+I;B;0;3;03n;16;Malvendez;Graciela Elizabeth;29454726;Mouse;Mickey;33333333;0
+I;B;0;3;03n;17;Padilla;Rosa Angelica;24358323;Parenti;Daniel Horacio;25136281;7224
+I;B;0;3;03n;18;Silva;Maria Alejandra;26132970;Mouse;Mickey;33333333;7326
+I;B;0;3;03n;19;Larregina;Yudith Miriam;23087816;Daune;Carlos Alberto;18025099;7235
+I;B;0;3;03n;20;Larrere;Amanda Lucia;18025647;Anduch;Alfredo Omar;12173954;7234
+I;B;0;3;03n;21;Vazquez;Fernanda Mariel;26382842;Murray;Hector Jose;23259942;7223
+I;B;0;3;03n;22;Marsochini;Stella Maris;17521702;Gutierrez;Antonio Ismael;10780876;7324
+I;B;0;3;03n;23;Lardapide;Sandra Gabriela;23926188;Mouse;Mickey;33333333;7232
+I;B;0;3;03n;24;De Lamadrid;Maria Ines;13384965;Mouse;Mickey;33333333;0
+I;B;0;3;03n;25;Dastugue;Maria Silvina;20629807;Mouse;Mickey;33333333;7323
+I;B;0;3;03n;26;Ibañez;Silvia del Carmen;24958479;Mouse;Mickey;33333333;7233
+I;B;0;3;03n;27;Cantos Milla;Jaqueline Evelina;30132075;Mouse;Mickey;33333333;7236
+I;B;0;3;03n;28;Chacon;Leonor Albina;18544724;Castro;Gustavo Gerardo;23259890;0
+I;B;0;3;03n;29;Cortez;Claudia Noemi;26382821;Mouse;Mickey;33333333;7322
+I;B;0;3;03n;30;Trejo;Mariana Angelica;26132973;Mouse;Mickey;33333333;7217
+I;B;0;3;03n;31;Lopez;Alicia Leonor;27480505;Mouse;Mickey;33333333;7153
+I;B;0;3;03n;32;Forni;Valeria del Valle;25770243;Mouse;Mickey;33333333;7298
+I;B;0;3;03r;01;Medina;Daniela Natalia;27096871;Mouse;Mickey;33333333;7151
+I;B;0;3;03r;02;Lopez;Elena de Jesus;18763522;Mouse;Mickey;33333333;7062
+I;B;0;3;03r;03;Dorado;Claudia Raquel;20029819;Carino;Jose Luis;14304558;7020
+I;B;0;3;03r;04;Atencio;Silvia Lorena;24739219;Mouse;Mickey;33333333;7006
+I;B;0;3;03r;05;Gomez;Heliana Noemi;26800766;Mouse;Mickey;33333333;7152
+I;B;0;3;03r;06;Ferreyra;Zunilda Mabel;5311251;Mouse;Mickey;33333333;0
+I;B;0;3;03r;07;Torres;Miriam Liliana;14115056;Mouse;Mickey;33333333;7132
+I;B;0;3;03r;08;Cordoba;Maria Ester;23926043;Escobar;Angel David;22005104;7044
+I;B;0;3;03r;09;Leonetti;Maria de los Angeles;27480491;Mouse;Mickey;33333333;7239
+I;B;0;3;03r;10;Soler;Teresa del Carmen;10209131;Mouse;Mickey;33333333;7007
+I;B;0;3;03r;11;Toledo;Nancy Sabrina;26478850;Algañaras;Carlos Alberto;27096880;7146
+I;B;0;3;03r;12;Farias;Clarisa Beatriz;21676308;Nuñez;Luis Angel;16807520;7325
+I;B;0;3;03r;13;Jaime;Marcela Beatriz;23926195;Chacon;Juan Antonio;21989959;7045
+I;B;0;3;03r;14;Elizalde;Maria Luciana;26548570;Mouse;Mickey;33333333;7046
+I;B;0;3;03r;15;Chotro;Claudia Raquel;17521778;Mouse;Mickey;33333333;7067
+I;B;0;3;03r;16;Lucero;Gabriela Beatriz;28143411;Mouse;Mickey;33333333;7047
+I;B;0;3;03r;17;Sanchez;Viviana Carina;24130246;Corbalan;Gregorio Anibal;21570664;7354
+I;B;0;3;03r;18;Romero;Gladys Beatriz;25136132;Mouse;Mickey;33333333;7008
+I;B;0;3;03r;19;Guercio;Anastasia Ines;24413838;Mouse;Mickey;33333333;7048
+I;B;0;3;03r;20;Rojas;Olga Beatriz;28447603;Mouse;Mickey;33333333;7252
+I;B;0;3;03r;21;Carabajal;Iris Lidia;20029908;Natalini;Julio Eliseo;20028136;7216
+I;B;0;3;03r;22;Gonzalez;Lidia Eloisa;11056405;Mouse;Mickey;33333333;7049
+I;B;0;3;03r;23;Jauregui;Maria Amelia;12844563;Marquez;Ruben Omar;1649487;7293
+I;B;0;3;03r;24;Juarez;Hector Anibal;8339845;Mouse;Mickey;33333333;7009
+I;B;0;3;03r;25;Lardapide;Maria del Carmen;13744759;Mouse;Mickey;33333333;7011
+I;B;0;3;03r;26;Torrilla;Mirta Angelica;16625617;Alvarez;Angel Domingo;10097403;7353
+I;B;0;3;03r;27;La Marca;Rosa Cristina;23259949;Mouse;Mickey;33333333;0
+I;B;0;3;03r;28;Garcia;Maria Valeria;27480585;Mouse;Mickey;33333333;7027
+I;B;0;3;03r;29;Marilu;Amalia Raquel;3716017;Mouse;Mickey;33333333;7131
+I;B;0;3;03r;30;Navarro;Susana Beatriz;26132947;Almeyra;Hector Raul;17168649;7010
+I;B;0;3;03r;31;Parini;Maria Leonor;25780906;Mouse;Mickey;33333333;7297
+I;B;0;3;03r;32;Felipetti;Liliana Silvina;22257023;Tognini;Hugo Adrian;21783943;7296
+I;B;0;3;03r;33;Parini;Maria Etelvina;20029978;Mouse;Mickey;33333333;7130
+I;B;0;3;03r;34;Carnevale;Susana Alicia;10780838;Cabanillas;Nazario;4918427;7050

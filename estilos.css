@@ -1,0 +1,207 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+a:hover {
+	color:#FF0000;
+	text-decoration:underline;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+}
+
+.input_resalted {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+}
+
+
+textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+}
+
+ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: square;
+	list-style-position: outside;
+}
+
+li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: decimal;
+	list-style-position: outside;
+}
+
+.small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.big {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.bodystyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.box2 {
+	border-width: 3px;
+	border-style: solid;
+	padding: 5px;
+}
+
+#DivDestino {
+	font-size: 10pt;
+	text-decoration: none;
+	color: red;
+	line-height: 23px;
+}
+
+.pie {
+	font-size: 13px;
+	text-decoration: none;
+	color: #999999;
+}
+
+h2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#666666;
+}
+
+h3 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+	line-height:normal;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	height: 14px;
+	margin: 0px;
+}
+.user {
+	font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#999933;
+	font-weight:bold;
+}
+
+.nombrecampo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color:#666666;
+}
+
+.datos-left {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color:#333;
+	padding: 3px 0 1px 8px;
+
+}
+
+.datos-left a {
+	text-decoration:none;
+	color:#333333;
+}
+
+.datos-left a:hover {
+	color:#3366FF;
+	text-decoration:underline;
+}
+
+.datos-center {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color:#333;
+	text-align: center;
+
+}
+
+.titulo_dato {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color:#000;
+	text-align: center;
+}
+
+.form-generico{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.form-generico table{
+	width: 400px;
+}
+
+.form-generico th{
+	text-align:center;
+	background-color:#E4E4E4;
+	padding:5px;
+}
+
+.form-generico td{
+	padding:5px;
+	width:100%;
+}
+
+.form-generico textarea{
+	padding:5px;
+	
+}
+
+.bloque{
+	padding-bottom:150px;
+}

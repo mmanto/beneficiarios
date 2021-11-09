@@ -1,0 +1,199 @@
+Colazo;Graciela Noemi;12210788;argentina;17/03/1956;Colazo Orlando Ubaldo;Villasante Elba Dolores;Pereyra;Juan Alberto;13994133;argentina;01/08/1960;Pereyra Silvestre;Fernandez Ramona;Giachino Nro. 415;100;5
+Kesseler ;Claudia Cristina;25691155;argentina;06/02/1977;Kesseler Raul Sebastian;Espindola Noemi Juana;Pereira;Gustavo Horacio;22744276;argentina;08/06/1972;Pereira Luis Atilio;Rabaschino Maria Teresa;Gigena Nro. 256;100;08
+Correa ;Julia Antonia;13997367;argentina;10/07/1960;Correa Carmelo Pedro;Martorel Marta ;Denoni;Manuel Oscar;13342673;argentina;29/08/1957;Denoni Manuel;Acosta Maria Teresa;Giachino Nro. 443;100;10
+Ridosz;Ana Maria ;4964452;argentina;05/02/1945;Ridosz Elias ;Amicozzi Maria ;Aguilar;Francisco Lelio ;6178185;argentina;23/03/1941;Aguilar Francisco Jose ;Pino Carmen ;Giachino Nro. 447;100;11
+Troncoso;Karina Griselda;24938189;argentina;06/11/1975;Troncoso Hugo Carlos;Vidal Ema Gabriela;Zanon;Jose Agustin;24195294;argentina;28/11/1974;Zanon Antonio Agustin;Pianalto Mara Lucia;2 de Abril Nro. 436;100;14
+Medina ;Nancy Elizabet;22436296;argentina;04/12/1971;Medina Benigno Vicente;Herrera Maria de los Angeles;Ferreyra ;Facundo Gilberto;24656229;argentina;24/08/1975;Ferreyra Carlos Alberto;Muñoz Maria Zulema;2 de Abril Nro. 452;101;01
+D' Amario;Maria Paula;23363496;argentina;30/12/1973;D Amario Emiddio;Guidi Liliana;Guirriere;Daniel Osvaldo;17592597;argentina;23/01/1966;Guirriere Henry;Belardo Isabel;Giachino Nro. 453;101;02
+Avalos;Azucena del Valle;18067268;argentina;02/06/1967;Avalos Vicente;Perez Ana Maria;Costella;Rafael Hernesto;12994513;argentina;27/12/1956;Costella Hernesto Rafael;Balencia Lucia;Giachino Nro. 459;101;03
+Bassini ;Maria Isabel;20670388;argentina;03/08/1969;Bassini Juan Carlos;Barragan Hilda;Meoniz;Daniel Osvaldo;17325045;argentina;20/03/1965;Meoniz Miguel;Torres Josefina;Giachino Nro. 485;101;08
+Burgueño ;Ana Carolina;22744465;argentina;15/08/1972;Burgueño Ruben;Bonesi Emilia;Cagioni;Pablo Marcelo;17409890;argentina;23/08/1965;Cagioni Arnaldo;Habegger Hilda;Giachino Nro. 489;101;09
+Urbina;Veronica Paola;25355594;argentina;30/12/1976;Urbina Alberto;Ponce Teresa;Dearmas;Gaston Roberto;24099508;argentina;11/06/1974;Dearmas Roberto Natalio;Gugliermi Stella Maris;Giachino Nro. 501;101;11
+Vera;Sandra;24301069;argentina;21/01/1975;Vera Miguel Angel;Oliver Susana Ester;Bonesi;Sergio Andres;24195268;argentina;27/11/1974;Bonesi Santiago Jose;Juarez Norma Leonor;Giachino Nro. 507;101;12
+Rearte ;Corina Noelia;22744135;argentina;29/03/1972;Rearte Carlos Alberto;Vignati Stella Maris;Aon ;Mauro Gabriel;23208642;argentina;09/03/1973;Aon Oscar Alberto;Distefano Ana Maria;Giachino Nro. 513;101;13
+Condo Canari;Cristina Noemi;16597719;argentina;20/09/1963;Condo Canari Domingo Nicolas; Ferreyra Lidia Prnitna ;Idalgo ;Anibal Lionel;24938562;argentina;20/03/1976;Idalgo Anibal;Soto Maria Teresa;Giachino Nro. 517;101;14
+Carvajal;Romina Cecilia;26153678;argentina;10/01/1978;Carvajal Jose Luis;Indarte Angelica;Bertibaglio;Sebastian Oscar;25382722;argentina;10/10/1976;Bertibaglio Oscar;Martinez Susana;2 de Abril Nro. 516;101;17
+Rodriguez ;Maria Fabiana;17297915;argentina;18/06/1965;Rodriguez Jorge Pilar;Balati Luisa Marta;Colombano;Daniel Omar;14249739;argentina;07/03/1962;Colombano Roberto;Quintero Delia Zonilda;2 de Abril Nro. 512;101;18
+Lurbe;Silvana Adela;24427717;argentina;02/05/1975;Lurbe Carlos Daniel;Florean Franca;Ferreyra ;Franco Gabriel;24301338;argentina;10/04/1975;Ferreyra Juan Ignacio;Cabeller Susana;2 de Abril Nro. 494;101;21
+Hereñu;Alicia Veronica;24301056;argentina;01/02/1975;Hereñu Nestor Raul;Lencina Maria Angelica;Cremon;Cristian Fabian;22674622;argentina;07/05/1972;Cremon Alberto;De Marco Rosa Elba;2 de Abril Nro. 488;101;22
+Reinaud;Silvia Liliana;23363951;argentina;22/04/1974;Oscar Osvaldo Reinaud;Corsio Elba Ines;Saracho;Sergio Omar;22436482;argentina;23/02/1972;Saracho Omar Alberto ;Graciani Griselda Ada;2 de Abril Nro. 458;101;25
+Rosado;Marta Silvana;16983974;argentina;14/10/1965;Rosado Jorge;Degese Angela;Chehede;Osvaldo Dario;12442069;argentina;17/05/1958;Chehede Osvaldo;Soria Maria del Carmen;2 de Abril Nro. 468;101;26
+Marzal;Maria Cecilia;25691929;argentina;25/11/1977;Francisco Marzal;Ilda Lujan Gomez;Vargas ;Angel Ruben;23908169;argentina;17/03/1974;Vargas Atilio Sabino ;Elsa Beatriz Pablo;2 de Abril Nro. 462;101;27
+Martinez ;Analia Elizabeth;22182261;argentina;21/06/1971;Martinez Elbio Oscar;Soto Rosa Ulbia;Bardaraco;Roberto Carlos;21435305;argentina;09/10/1969;Badaraco Miguel;Ruiz Diaz Brigida;I. Soledad Nro. 425;140;07
+Roman;Antonia Argentina;25691139;argentina;23/05/1977;Roman Ovidio Geronimo;Sampayo Griselda Rosalia;Pyptyk;Emiliano Gaston;26268370;argentina;20/02/1978;Pyptyk Emilio Armando;Peralta Clara Mirta;Crosio Nro. 432;140;15
+Alvarez;Karina Paola;25641142;argentina;03/05/1977;Alvarez Jorge Alberto;Roman Matilde Beatriz;Lombardo ;Rodrigo;23500835;argentina;10/07/1972;Lombardo Juan Carlos;Deltederico Cristina;Crosio Nro. 418;140;17
+Montenegro ;Nilda Patricia;25614183;argentina;24/10/1976;Montenegro Valentin;Vizgarra Estefania;Corio ;Juan Jose;25355286;argentina;03/10/1976;Corio Juan Angel;Herrera Alicia Graciela;Crosio Nro. 452;141;01
+De Cia;Samanta Marcela;24938358;argentina;07/02/1976;De Cia Mario Alberto;Ramirez Maria Virginia;Urbina ;Juan Marcelo;24938124;argentina;09/11/1975;Urbina Alberto Ernesto;Ponce Teresa Luisa;Crosio Nro. 522;141;16
+Lopez ;Maria Cecilia;24301130;argentina;21/02/1975;Lopez Emilio Carlos;Lagares Thelma Delia;Naveira;Hector Daniel;24741560;argentina;06/06/1975;Naveira Hector Atilio;Suparo Maria del Carmen;Crosio Nro. 516;141;17
+Velazquez ;Maria Rosana ;25691695;argentina;16/09/1977;Velazquez Victor Tomas; Vega  Celina ;Gonzalez ;Carlos Armando ;11305807;argentina;23/02/1955;Gonzalez Eduardo jose ;Jaime Ana Dina;Crosio Nro. 512;141;18
+Lombardo;Nelida Claudia Rosa;5633613;argentina;15/05/1947;Lombardo Roberto;Lagos Inocencia;Reyes Leivas;Wilmar;92387067;uruguayo;30/08/1948;Reyes Angel;Leivas Olgaides;Crosio Nro. 500;141;20
+Espinosa ;Pedro Diego;24741787;argentina;08/08/1975;Espinoza Juan Domingo ;De querejeta Marta Silvia ;Querejeta ;Marta Silvia ;12797350;argentina;03/04/1957;Querejeta Pedro Lorenzo ;Babio Matilde ;Crosio nº 494;141;21
+Daniel;Nancy Karina;21946207;argentina;14/01/1971;Daniel Oscar Anibal;Espinaza Alicia Francisca;Perez;Mariano Victor M.;22842322;argentina;02/01/1973;Perez Miguel Angel;Novyu Norma Beatriz;Crosio Nro. 484;141;23
+Sosa ;Ana Haydee;11515189;argentina;20/12/1954;Sosa Pedro;Garay Flora;Comparin ;Pedro Saturnino;10322738;argentina;29/11/1952;Comparin Miguel;Sambrana Evangelina;Crosio Nro. 478;141;24
+Kratzer;Carolina Analia;22739922;argentina;06/12/1972;Kratzer Mario Raul;Blanco Flora Haydee;Lujan ;Bruno Leonardo;22842573;argentina;20/07/1973;Lujan Juan Anibal;Taborda Maria Ester;Crosio Nro. 468;141;26
+Piva;Marisol Maricel Noemi;25355977;argentina;27/07/1977;Pïva Ramon Lujan;Lescano Luisa Berta;Salvo;Roberto Ivan;92475268;chilena;16/09/1962;Salvo Ramon Osvaldo;Veloso Teresa del Jesus;Crosio Nro. 462;141;27
+Soto;Patricia Alejandra;18150292;argentina;08/08/1967;Soto Jesus Maria;Tiseira Alicia Noemi;Soldatti;Daniel Melquiades;12071160;argentina;28/02/1956;Soldatti Juan Jose;Murillo Maria Angelica;Crosio Nro. 458;141;28
+Olmedo;Anatolia;4198353;argentina;09/07/1940;Olmedo Manuel;Bareiro Evangelista;Diaz ;Gregorio Paciano;7508247;argentina;09/03/1941;Diaz Aparicio;Diaz Clotilde;Crosio Nro. 542;142;10
+Gutierrez ;Mariangeles;23500945;argentina;08/01/1974;Gutierrez Enrique Tomas;Stortoni Marta Gloria;Torres ;Juan Carlos;22182377;argentina;09/07/1971;Torrez Carlos Guillermo;Pereyra Olga;Crosio Nro. 540;142;11
+Apesteguia;Roxana Isabel;24938619;argentina;12/04/1976;Apesteguia Oscar;Alessandri Ilda;Mac Intyre;Mario Ubaldo Anibal;25355035;argentina;28/06/1976;.....................................;Mac Intyre Blanca;Crosio Nro. 538;142;12
+Romero;Griselda;20116993;argentina;23/04/1978;Romero Teofilo Deonisio;Devar Pilar;Vaca;Victor Marcelo;23181774;argentina;31/05/1973;Vaca Rafael;Zalasar Delia;C. Gral. Belgrano Nro. 404;80;01
+Rebecchi;Julia Mabel;22182282;argentina;09/07/1972;Rebecchi Eugenio;Soto Norma;Arona;Cristian Ariel;24301479;argentina;12/05/1975;Arona Anibal;Casalona Liliana;Bravo Nro. 405;80;04
+Dappiano;Adriana;20315568;argentina;08/08/1968;Dappiano Jorge Raul;Dominguez Elida Ines;Fantuzzi;Arnoldo Cesar;17234121;argentina;07/02/1965;Fantuzzi Juan;Conde Maria Teresa;Bravo Nro. 415;80;05
+Bustos;Estela Alejandra;22182471;argentina;26/08/1971;Bustos Ignacio Vicente;Reinoso Ana Rosa;Espandrio;Anibal Nazareno;22182082;argentina;24/04/1971;Espandrio Oscar Alberto;Melgar Nuestra Sra. Del Lujan;Bravo Nro. 419;80;06
+Flindt;Miriam Flavia;24527183;argentina;12/05/1975;Flindt Hugo;Allois Maria;Tello;Luis Fernando;24195017;argentina;03/09/1974;Tello Pedro Luis;Espejo Ilda Mabel;Bravo Nro. 425;80;07
+Scheider;Claudia Patricia;18491273;argentina;14/08/1967;Scheider Juan;Weshein Paulina;Estigarribio;Ruben Dario;13731598;argentina;03/05/1961;Estigarribio Hector;Modernel Bella;Bravo Nro. 437;80;09
+Lugo ;Maria Aurelia;1010101;argentina;25/09/1939;Lugo Carlos;Valdez Eustaquia;Yedro ;Piedad Geronimo;5939125;argentina;23/11/1940;Yedro Geronimo;Ortiz Baldomera;C. Gral Belgrano Nro. 442;80;13
+Darget ;Gabriela Adelina;18254547;argentina;04/09/1967;Darget Hugo;Pisorno Adelina;Linares;Fabian Oscar;16414764;argentina;18/03/1963;Linares Marino;Arenas Olga;C. Gral. Belgrano Nro. 424;80;16
+Maretti;Elisa Cristina;23036511;argentina;27/07/1972;Maretti Rodolfo;Lozda Cristina;Rey;Juan Carlos;20838629;argentina;24/06/1969;Rey Ramon;Isaguirre Ines;C. Gral. Belgrano s/n;80;17
+Pineda ;Olga Mariel;22744412;argentina;27/07/1972;Pineda Isidoro Angel;Juarez Olga;Gasti;Sergio Luis;20981236;argentina;31/07/1969;Gasti Pedro Luis;Caceres Raquel Noemi;Bravo Nro. 463;81;04
+Ayala;Irma Celia;12627831;argentina;04/09/1956;Ayala Dionisio;Salas Enemencia;Kubiszyn;Marcos Jose;12210818;argentina;12/03/1958;Kubiszyn Demetrio;Rocha Josefa;Bravo Nro. 489;81;09
+Demaestri  ;Adriana Olga;11275015;argentina;03/10/1953;Demaestri Hector Raul;Dell'orto Olga Mercedes;Perez ;Salvador Horacio;8189229;argentina;..........................;..................................;.............................;Bravo Nro. 501;81;11
+Pesci;Mariela Susana ;22436149;argentina;21/11/1971;Pesci Roberto Hugo;Merlo Martha Hilda;Dearmas;Leonardo Daniel;21601530;argentina;29/03/1970;Dearmas Roberto;Guglielmi Stella Maris;Bravo Nro. 507;81;12
+Agüero;Ines del Carmen;5180819;argentina;02/09/1946;Agüero Siriacuo;Lucero Sara;Herrera;Jose Julio;7944140;argentina;27/05/1945;Herrera Juan Francisco;Micheli Beatriz;Bravo Nro. 517;81;14
+Udbisabd;Cristina Elizabet;20315365;argentina;30/05/1968;Udbisabd Emilio;Scorda Maria Luisa;Lell;Carlos Alberto;14249915;argentina;02/07/1962;Lell Orlando;Kemelleb Erminia;C. Gral. Belgrano Nro. 522;81;16
+Donate;Moira Adelia;27188753;argentina;25/05/1979;Forlencio Donate;Delia M. C. Di Donate;Rearte;German Daniel;23363112;argentina;21/09/1973;Carlos Alberto Rearte;Stella Maris Vignati;C. Gral Belgrano Nro. 506;81;19
+Russi;Sandra Karina;22182228;argentina;05/06/1971;Russi Luis Angel;Benitez Inosencia;Medina;Gustavo Ignacio;24774007;argentina;20/08/1975;Medina Jose Ignacio;Goncebat Noemi;C. Gral. Belgrano Nro. 500;81;20
+Villaverde;Celia Ester;14249419;argentina;07/08/1961;Villaverde Alberto Raul;Torres Antonia;Villarreal;Oscar Miguel;12210986;argentina;28/07/1956;Villarreal Criaco Ramon;Benedetti Carmen Celestina;C. Gral. Belgrano Nro. 494;81;21
+Gimenez ;Viviana Elizabet;17592715;argentina;17/05/1966;Gimenez Carlos;Carlos Adriana;Calisaya;Jose Moises;18409636;argentina;07/02/1967;Calizaya Napoleon;Quiroga Josefa;C. Gral. Belgrano Nro. 478;81;24
+Truffa ;Lorena Elizabeth;24024085;argentina;19/06/1966;Truffa Juan Cristobal;Grandal Maria Jorgelina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C.Gral Belgrano nº 468;81;26
+Amitrano;Natalia Vanesa;23908271;argentina;10/05/1974;Amitrano Pedro Francisco;Viguier Estela Calixta;Beber;Juan Jose;23208605;argentina;03/02/1973;Beber Juan Santiago;Velazquez Beatriz Haydee;C. Gral. Belgrano Nro. 462;81;27
+Altamirano;Patricia ;23908132;argentina;12/03/1974;Altamirano Miguel;Roman Mirta;Azorin;Marcelo Javier;22744275;argentina;04/06/1972;Azorin Javier Marcelo;Moreira Teresa Haydee;C. Gral Belgrano Nro. 458;81;28
+Campodonico;Jacinta Ramona;25297042;argentina;12/05/1972;Campodonico Nicacio Jose;couturier Ramona Sofia ;Zensich;Norman Andres;22842130;argentina;03/10/1972;Zensich Julio;Gruppi Lucia;Vigalondo Nro. 1572;90;02
+Ruiz ;Maria Alejandra;21436366;argentina;24/12/1969;..........................................;Ruiz Paulina;Dattoli;Hernan Roberto;20018648;argentina;14/01/1968;Dattoli Roberto;Miño Maria;Vigalondo Nro. 1566;90;03
+Morales;Rosana Lorena;23986578;argentina;24/05/1974;Morales Carlos Hector;Palacios Maria Isabel;Collaso ;Walter Fabian;22436262;argentina;17/12/1971;Collaso Luis Vicente;Rodriguez Angela Lucia;C. Gral. Belgrano Nro. 437;90;09
+Albarenque ;Blanca Noemi;21427049;argentina;07/02/1970;Albarenque Julio Anacleto;Rios Elida Celia;Cardozo;Hector Ricardo;20321873;argentina;28/02/1969;Cardozo Belarmino;Castellano Hilda;Gral. Giachino Nro. 436;90;14
+Albarenque ;Maria del Carmen;20100439;argentina;11/04/1968;Albarenque Julio Anacleto;Rios Elida Celia;Dappello;Miguel Angel;10419772;argentina;01/03/1955;Dappello Elpidio Francisco;Perez Lidia Yasefa;C. Gral Belgrano nº 453;91;02
+Battistella;Carina Emilse;22842571;argentina;06/07/1973;Battistella Ruben Alberto;Turtu Angela Carmen;Grigoli                                             ;Oscar Daniel;23208747;argentina;30/03/1973;Grigoli Angel Oscar;Ramirez Olga Emilia;C. Gral Belgrano Nro. 469;91;05
+Aguilera;Irma Cristina;10819327;argentina;13/02/1954;Aguilera Nieves Jaime;Falcon Rudecinda;Siris;Abel Vicente;10073073;argentina;05/04/1952;Siris Angel;Ramos Ramona Evangelina;Belgrano Nro. 479;91;07
+Campos;Beatriz Elisabeth;20946241;argentina;28/01/1971;Campos Alfredo;Cornejo Estela;Ortiz;Miguel Angel;20258567;argentina;09/01/1969;Ortiz Rafael Hilarion;Ponce Neli Maria;Belgrano Nro. 501;91;11
+Alvarez;Sandra Liliana ;23279404;argentina;28/02/1973;Alvarez Juan Carlos;Gonzalez Mirta Liliana;Torres;Miguel Angel;20993267;argentina;18/06/1969;Torres Esteban;Barrozo Maria;Belgrano Nro. 517;91;14
+Godoy;Rosalia Orfilia;25355056;argentina;10/07/1976;Godoy Pablo;Aliende Orfilia;Godoy;Marcelo Adrian;22842489;argentina;22/01/1973;Godoy Pedro;Cordoba Raquel;Giachino Nro. 522;91;16
+Gonzalez Muñiz;Silvia  ;16919917;argentina;25/11/1963;Gonzalez Rey Manuel;Muñiz Francisca;Farias Becker;Claudio Andres;16385511;argentina;02/09/1963;Farias Andres;Becker Ana;Giachino Nro. 488;91;22
+Andruszczak ;Carolina Sofia;4958049;argentina;02/11/1943;Andruszczak Antonio;Magdy Casimira;Barraza;Miguel Angel;4732095;argentina;01/06/1939;Barraza Ubaldo Ramon;Malin Rosa Angelica;Giachino Nro. 478;91;24
+Laugas;Ortensia Eva;11515233;argentina;02/03/1955;Langas Guillermo Alberto;Alvarez Eva ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 404;100;01
+Girabolo;Patricia F.;16556474;argentina;15/03/1963;Girabolo Roberto Agustin;Dominguez Delia Ester;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 469;101;05
+Vidal;Sonia Elvira;17097386;argentina;04/05/1964;Vidal Heriberto Reynaldo;Tauceglia Elvira Rosa;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad Nro. 407;140;04
+Lozzi;Marta Aurora;20315560;argentina;11/08/1968;Lozzi Jose Luis;Schneider Cristina Renata;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad Nro. 447;140;11
+Querejeta;Marta Silvia;12797350;argentina;03/04/1957;Querejeta Pedro;Matilde;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Saavedra Nro. 905;141;14
+Morales;Lorena;22436203;argentina;20/11/1971;Morales Miguel;Magariños Alicia Beatriz;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Crosio Nro. 506;141;19
+Perez ;Monica Graciela;12210735;argentina;05/02/1958;Perez Brigido Alfredo;Cavagnaro Olga Juana;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano Nro. 507;91;12
+Canelo;Miriam Elisabet;12928797;argentina;09/08/1958;Canelo Hugo Cesar;Marquez Maria M.;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 418;100;17
+Oller;Lorena Marina ;22229336;argentina;04/05/1971;Oller Osbaldo Rafael ;Acosta Pilar Noemi ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 463;101;04
+Cornejo ;Estela;11515182;argentina;02/04/1954;Cornejo Tomas;Vilches Ernestina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 479;101;07
+Mendez ;Andres Rodolfo;11426705;argentina;25/10/1954;Manuel Marcelo Mendez;Hilda Celina Molina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Crosio Nro. 436;140;14
+Ruiz Diaz;Rosana Maria;25691771;argentina;14/10/1977;Ruiz Diaz Isidro;Bez Maria Antonia;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 447;80;11
+Reyna ;Alicia Esther;11589133;argentina;06/11/1954;Reyna Tomas Aquino;Marco Manuela;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 475;81;06
+Herrera ;Maria Beatriz;17674171;argentina;17/06/1966;Herrera Jose Julio;Agüero Ines del Carmen;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 513;81;13
+Jauregui;Delia Noemi;5966464;argentina;24/12/1948;Jauregui Cirilo;Bernaechea Rosa Maria;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Gral. Giachino Nro. 442;90;13
+Herrera ;Maria Cristina;13673260;argentina;02/12/1957;-;Herrera Elsa Beatriz;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Belgrano Nro. 463;91;04
+Borchez ;Luis Roque;4740768;argentina;16/08/1943;Borchez Clovis;Flores Estanislaa;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 516;91;17
+Salinas;Ana Maria;20315569;argentina;13/08/1968;Salinas Inocencio;Echavarria Lorenza Jorgelina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 474;91;25
+Rearte ;Hector Ramon;8522228;argentina;02/11/1950;Rearte Ramon;Pedroza Angelica;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 461;91;27
+Ferreyra;Miriam Estela;25355226;argentina;01/10/1976;Ferreyra Pedro Teodoro;Guerrero Maria Ortencia;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Vigalondo Nro. 1620;100;03
+Diaz ;Andrea Alejandra;24741890;argentina;06/10/1972;-;Diaz Luisa Ernestina;zenstch;Julio Daniel;20585722;argentina;21/01/1969;Zenstch Artemio Julio ;Gruppi Norma Lucia ;Giachino Nro. 419;100;06
+Cepeda;Marcela Natalia;1010101;argentina;28/02/1979;-;Cepeda Cristina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 435;100;09
+Norsi;Karina Andrea;22436390;argentina;28/01/1972;Norsi Jorge Omar;Bujdud Marta Gabriela;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 446;100;12
+Cordero;Andrea Gabriela;24938994;argentina;07/08/1976;Cordero Hector Luis;Churruarin Elsa Nelida;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 442;100;13
+Gomez Segarra;Brenda Valeria;30170718;argentina;06/11/1982;Gomez Segarra Miguel Angel;Martinez Norma Beatriz;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 432;100;15
+Benitez;Maria de la Cruz;13994515;argentina;19/05/1956;Benitez Antonio;Almiron Juana;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 424;100;16
+Ibarra;Miriam Norma;23500985;argentina;23/01/1974;Ibarra Antonio Ricardo;Rosa Alicia Marta;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 475;101;06
+Rivas;Gladys Karina;21601674;argentina;08/04/1970;Rivas Juan Esteban;Rodriguez Ester Maria;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 495;101;10
+Pinedo ;Gisela yamila;29350719;argentina;18/02/1982;Pinedo Ramon Roberto ;Hernandez Maria Ramona ;Tisera ;Diego Gabriel;25355018;argentina;04/08/1976;Tisera Victor ;Cubelli Silvia Magdalena ;2 de Abril Nro. 506;101;19
+Patzer ;Carla Irina;26906225;argentina;30/10/1978;Patzer Carlos Federico;Kachkachian Susana;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Crosio Nro. 446;140;12
+Jaime ;Gabriela Mabel;22436319;argentina;07/12/1971;desconocido;Lima Elida Mabel;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Crosio Nro. 424;140;16
+Zunino;Mariana Edith;25691639;argentina;13/03/1978;Zunino Pedro Gustavo;Gaitan Monica Graciela;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Crosio Nro. 474;141;25
+Baumgart;Nilda Cecilia;24916464;argentina;05/12/1975;Baumgart Calixto;Vico Gladys del Carmen;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad Nro. 527;142;02
+Carabajal;Carina Alejandra;22842165;argentina;06/10/1972;Carabajal Enrique Ruben;Arnal Teresa Aurora;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Vigalondo Nro. 1518;80;03
+Yani;Anabela Veronica;25355503;argentina;02/12/1977;Yani Oscar;Carrera Elena Margarita;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 433;80;08
+Lencina ;Carina Andrea;24768392;argentina;07/08/1976;Lencina Carlos;Viola Nelly;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral. Belgrano Nro. 446;80;12
+Fernandez;Maria Cristina;16419779;argentina;11/06/1963;Fernandez Viviano Rosario;Zapata Maria Ester;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral. Belgrano Nro. 436;80;14
+Tedeschi;Carolina Noemi;21711644;argentina;29/07/1970;Tedeschi Roberto Luis;Suarez Sara;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral. Belgrano Nro. 432;80;15
+Winkler ;Mariana;24301067;argentina;27/01/1975;Winkler Oscar;Bacousky Elena;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 453;81;02
+Zanabria;Gisella;27491861;argentina;02/06/1979;Zanabria Leoncio;Marchesini Graciela;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 469;81;05
+Amondaray;Nora Patricia;21711402;argentina;05/05/1970;Amondaray Pedro;Babaschino Ramona Maria;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 479;81;07
+Rivero;Nilda Analia;18424010;argentina;29/12/1967;Rivero Jose Antonio;Vivero Carmen;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 485;81;08
+Pesci;Anabel Beatriz;23908238;argentina;27/04/1974;Pesci Roberto Hugo;Merlo Marta Hilda;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 507;81;12
+Bonardi;Silvina;27876868;argentina;08/01/1980;Bonardi Raimundo;Vitale Gladis;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano s/n;81;17
+Garcia ;Natalia Soledad;33340508;argentina;04/06/1987;Garcia Alberto Omar;Salina Silvia Susana;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral. Belgrano;81;23
+Truffa ;Lorena Elizabeth;24024085;argentina;08/06/1974;Truffa Juan Cristobal;Grandal Maria Jorgelina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral. Belgrano Nro. 468;90;.........
+Escalante;Margarita Mabel;20533653;argentina;14/07/1968;Escalante Ramon Aurelio;Vega Victoria;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral. Belgrano Nro. 443;90;10
+Barrios ;Sonia Juliana;13618213;argentina;24/07/1959;Barrios Enrique;Castillo Juana;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano Nro. 447;90;11
+Franco;Olga Maria Jose;26164813;argentina;23/11/1977;Franco Ernesto Raul;Gomez Olga Isabel;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 446;90;12
+Contreras;Delia Beatriz;14826622;argentina;27/11/1958;Contreras Pedro Alfonso;Ibarra Maria Leona;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 432;90;15
+Argañaras;Norma Dora;11565192;argentina;27/10/1954;Argañaras Efrain;........................................;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 452;91;01
+Keller ;Josefina;12146492;argentina;13/02/1956;Keller Antonio;Feher Lidia;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Belgrano Nro. 459;91;03
+Montoya;Marcela Susana;22436178;argentina;28/10/1971;Montoya Juan Isac;Surraco Nilda;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Belgrano Nro. 475;91;06
+Ventriggi;Andrea;23208596;argentina;11/08/1973;Ventriggi Domingo Francisco;De Monte Irma Luisa;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano Nro. 495;91;10
+Denicola;Lilian Andrea;23496922;argentina;30/01/1974;Denicola Oscar;Ramonda Gloria Irma;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Belgrano Nro. 513;91;13
+Roble;Maria Alejandra;21435414;argentina;16/01/1970;Rogelio Ignacio Robles;Gonzalez Alcira Beatriz;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Belgrano 523;91;15
+Roma ;Maricel Eliana;22842576;argentina;13/06/1973;Roma Magarino Jorge Pedro;Militto Liliana Graciela;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino 500;91;20
+Arbelo;Melina Maria Alicia;28349969;argentina;07/07/1981;Arbelo Carlos Alfredo;Rodriguez Norma Ines;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 494;91;21
+Ruiz Diaz;Maria Ester;22842025;argentina;15/09/1972;Ruiz Diaz Isidro;Bre Maria Antonia;Velazquez;Daniel Eduardo;23208711;argentina;06/10/1972;Victor tomas Velazquez ;Celina Vega ;Giachino 484;91;23
+Lizarraga ;Liliana Beatriz;13364976;argentina;29/09/1959;Lizarraga Armando;Baselice Maria Teresa;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino Nro. 458;91;28
+Maidana ;Raul Milciades;17057568;argentina;23/02/1965;Maidana Fermin ;Fluckiger Rogelia ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 522;101;16
+Saracho;Esteban Daniel;24938515;argentina;09/03/1976;Saracho Omar Alberto;Grasiani Griselda Ada;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;.................................;140;08
+Ferreyra;Jacinta Daniel ;22744250;argentina;01/06/1972;Ferreyra Francisco Edmundo;Bianco Maria Zulema;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad Nro. 541;142;06
+Del Pero;Mauricio Juan;25691308;argentina;23/06/1977;Del Pero Jose Elvio;Bello Maria Beatriz;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;...........................................;80;10
+Espeche;Norma Faustina;28316401;argentina;04/01/1972;Espeche Pastor;Rios Segunda;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 500;101;20
+Santiani;Veronica Marisel;27635225;argentina;02/10/1979;Santiani Ernesto Jose;Cespedes Angela Ramona;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 478;101;24
+Luna ;Teodora Susana;10706755;argentina;23/04/1953;Luna Sixto;Gomez Justina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril Nro. 474;101;25
+Barrera ;Nora;21711791;argentina;23/09/1970;Barrera Manuel;Delgado Irma;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano Nro. 452;81;01
+Pequeño;Rosa Margarita;28691697;argentina;12/10/1977;.............................................;Ines Ester Diaz;Siris;Dario Abel;22976847;argentina;27/12/1972;Abel Vicente Siris;Irma Cristina Aguilera;Bravo Nro. 495;81;10
+Paredes;Rosana Maria;20585579;argentina;04/12/1968;Roque Ricardo Paredes;Mirta Teresita Martinez;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano Nro. 414;90;18
+Perez ;Adrian Nicolas ;26906140;argentina;19/10/1978;Salvador Horacio Perez ;Adriana Olga Demaestri ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo Nro. 501;81;11
+Paredes ;Maria Rosana;20585579;argentina;04/12/1968;Paredes Rique Ricardo ;Martinez Mirta;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano nº 414;80;18
+Aguilera;Elba Beatriz ;10279180;argentina;11/10/1952;Aguilera Nieve Jaime;Falcon Rudecinda;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Bravo nº 469;81;3
+Casaubon ;Alejandra Beatriz ;28542999;argentina;23/05/1981;Casaubom Mario Osvaldo ;Lacobone Susana Beatriz ;Gamarra;Ariel German ;29093092;argentino;28/11/1981;Gamarra Jose Manuel ;Beresonsky Alejandra Linda;C.Gral Belgrano nº 512;81;18
+Furlano;Marcela Alejandra;20737512;argentina;27/04/1969;Furlano Domingo Martin ;Espinosa Maria Ofelia ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C.Gral Belgrano nº 474;81;25
+Cevasco;Sandra Marina ;17738173;argentina;11/07/1966;Angel Eduardo Cevasco ;Flora Mercedes Diaz;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral Belgrano nº 417;90;6
+Fernandez;Orfilia;2003838;argentina;17/07/1932;Martiniano Fernandez ;Celestina Anastacia Gigena ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Castelli nº 585;90;5
+Litardo ;Mariana Isabel ;25407667;argentina;26/09/1976;Juan Jose Litardo;Rita Acevedo;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C.Gral Belgrano nº 423;90;7
+Ortiz ;Maria Eugenia ;28074935;argentina;14/04/1980;Anacleto Ortiz ;Juana Angelica Gutierrez;Magallanes ;Marcos Javier ;23908245;argentino;22/02/1974;Luis Alberto Magallanes ;Orfilia Fernandez;Capitan Giachino nº 418;90;17
+Rakovsky ;Maria Elena ;1096330;argentina;11/04/1954;Bladislao Rakovsky;Noes Nilda Corio;Gómez ;Santo tomas;5702502;argentino;03/09/1940;;Gomez Margarita;Viamonte nº 584;91;09
+Ruiz Diaz;Facundo Emmanuel ;33081733;argentina;19/06/1987;Ruiz Diaz Carlos Cristobal ;Herrera Maria Cristina;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;C. Gral . Belgrano nº 463;91;04
+Fosatti ;Koren Gabriela ;24478241;argentina;12/12/1974;Fosatti Pedro ;Rios Graciela ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Giachino nº 512;91;18
+Paz;Monica Lorena;31577674;argentina;04/05/1985;Paz Jose Francisco ;Pascinky Ana;Torres;Daniel Hernan;24301024;argentino;25/01/1975;Torres Damasio;Gutierrez Constancia;Giachino nº 506;91;19
+Cisternas;Mariana Cecilia ;29453947;argentina;14/05/1982;Cisternas Santander Hernan Esteban ;Velazquez Monica Amelia ;Gonzalez ;Fernando Roberto ;25691882;argentino;17/10/1977;Gonzalez Claudio Fernando ;Genovesi Norma Beatriz ;Giachino 425;100;07
+Valdez;Karina ;21946317;argentina;09/02/1971;Valdez Roberto ;Medina Marta ;Fabre ;Sergio Ramon ;21711663;argentino;31/08/1970;Fabre Fernando ;Arapi Marta;Giachino nº 523;101;15
+Perez ;Elisabet Susana;10359511;argentina;30/12/1951;Perez Justo Antonio ;Mendez Juana Ernesta;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril nº 484;101;23
+Surraco;Nilda Matilde ;2351685;argentina;26/10/1932;Surraco Ramon ;Villanueva Blanca ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;2 de Abril n;101;28
+Medina ;Antonio Enriqueta;14882949;argentina;27/09/1962;Medina Jose Ramon;Sandoval Damiana Del Carmen ;Calvo ;Alberto Raul;17632369;argentino;28/002/1965;Calvo Rogelio;Socastro Elvira;Crosio nº 442;140;13
+Cericola ;Gabriela Lujan ;20893418;argentina;22/06/1969;Cericola Juan Carlos ;Villanova Maria Ceferina ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad Nº 443;140;10
+Figueroa ;Eva Isabel ;6659450;argentina;14/07/1951;Figueroa Justo ;Marquez Hilda ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad nº 415;140;05
+Sanchez ;Andrea Elizabeth;24741964;argentina;27/09/1975;Sanchez Carlos Alberto ;Pires Ramona Elvira;Amitrano ;Pedro Francisco;25355221;argentino;17/09/1976;Amitrano Pedro Francisco ;Viguer Estela Calixta;Isla Soledad nº 419;140;06
+Dupont ;Gisela  ;26619321;argentina;10/08/1978;Dupont Hector ;Pesci Silvia ;Cremon ;Marcelo ;21571615;argentino;25/05/1970;Cremon Alberto ;Demarco Elba ;Isla Soledad nº 437;140;09
+Diaz ;Silvana Veronica;24301278;argentina;20/03/1972;Diaz Mario ;Diaz Fasutina Ester;Nuñez;domingo Alberto ;21089103;argentino;20/10/1969;Nuñez Domingo ;Delgado Maria Antonia ;Croso nº 488;141;22
+Cubilla ;Rosana Griselda ;25691664;argentina;25/07/1977;Cubilla Norberto Ismael;Sanchez Ana Griselda;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad nº 457;141;3
+Carabajal;Veronica Beatriz ;24099580;argentina;14/07/1974;Carabajal Juan Atilio ;Ferreyra Ofelia Maria ;Quinteros ;Silvio Norberto;22308921;argentino;25/11/1971;Quinteros Luis ;Ruiz Diaz Maria Haydee;Isla Soledad nº 451;141;2
+Flores;Estela Maria ;13473869;argentina;28/05/1960;Flores Juan Ramon;Altamirano Maria Agrispina ;Alarcon ;Hector Ricardo ;13544763;argentino;20/11/1959;Alarcon Carlos ;Segovia Marcelina ;Isla Soledad nº 511;141;13
+Vargas ;Lorena de Los Angeles ;26268410;argentina;06/03/1978;-;Vargas Liliana Alicia ;Cardone;Horacio Miguel ;23908248;argentino;10/04/1974;Cardone Horacio Pedro ;Garcia Juana ;Isla Soledad nº 499;141;11
+Ragner ;Marianela Alejandra ;25691285;argentina;19/05/1977;Regner Luis Francisco ;Robles Silvia Lidia ;Bolaño ;Jose Luis;22744259;argentino;16/06/1972;Bolaño Luis ;Segovia Nelida;Isla Soledad nº 505;141;12
+Corvalan ;Maria Fernanda ;23863566;argentina;18/09/1974;Corvalan Alberto Edmundo ;Capo Maria Ester;Giuliano;Mario Agustin;23065407;argentino;29/12/1972;Giuliano Agustin Jose ;Arnaldi Vilma ;Crosio nº 522;141;16
+Pereira ;Maria Celina ;25355314;argentina;11/10/1976;Pereyra Luis Atilio ;Rabaschino Maria Teresa ;Ciacia;Bruno Mauro;24741705;argentino;27/07/1975;Ciacia Emidio ;Escobar Blanca;Casaux nº 1573;142;14
+Lares ;Mirta Adriana ;23500717;argentina;31/10/1973;Lares Luis Oscar ;Muñoz Teresa Estanislada;Albino ;Jorge Luis ;27708270;argentino;13/09/1979;Albino Jorge Luis;Rios Rosa Noemi ;Crossio nº 534;142;13
+Cristani;Flavia Mariela;24741548;argentina;11/06/1975;Cristani Ramon Cipriano;Rodriguez Hilda Elena ;Cabrera;Javier Orlando ;23908063;argentino;18/02/1974;Cabrera Hector Luis ;Peiazza Teresa Susana;Isla Soledad nº539;142;5
+Herber;Yanina Elizabeth;24195113;argentina;23/09/1974;Herber Oscar ;Centurion Delia Graciela;Reyes ;Jose Roque ;16859555;argentino;31/07/1960;Reyes Florentina ;Perez Marta Irene;Isla soledad nº 535;142;4
+Romero;Maria Gabriela ;17420612;argentina;04/09/1965;Romero Teofilo Deonicio;Delevar Pilar ;Metzler;Augusto Roberto ;17299379;argentino;15/04/1965;Metzler Augusto ;Loyli Alicia Sinforosa;Isla Soledad nº 531;142;3
+Blanco ;Laura Ines ;27635283;argentina;09/09/1979;Blanco Oscar Justo ;Nuñez Hilda Haydee;Quarin ;Horacio Raul;27770745;argentino;03/11/1979;Quarin Calixto Raul ;Conti Galdys Josefina ;Puerto San Carlos ;142;6
+Margota;Tamara Manuela ;29350737;argentina;22/09/1981;Margota Mario Daniel ;Vela Cristina Virginia;Gambini;Hernan Edgardo ;2615746;argentino;13/08/1977;Gambini Oscar Alfredo ;Lezcano Nilda Delicia ;Puerto San Carlos nº 425;142;7
+Coiradas ;Monica Francisca;21936422;argentina;21/11/1970;Coiradas Francisco ;Tejeda Mario Marta;Keller ;Felipe Javier ;22911319;argentino;01/09/1972;Keller Felipe ;Maciel Estela;Puerto San Carlos nº 433;142;8
+Canale ;Miriam Carina ;23908347;argentina;18/05/1974;Canale Carlos Enrique ;Bagno Amalia ines ;Liendro ;Carlos Rene ;22945072;argentino;24/07/1972;Liendro Hector ;Puca Florentina ;Puerto San Carlos nº 443;130;10
+Trejo ;Sabrina Eliana ;27484044;argentina;16/07/1979;Trejo Pedro Francisco ;Veron Teresa Ida Ester;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Puerto San Carlos nº 451;131;2
+Rodriguez ;Susana Beatriz ;18640491;argentina;03/11/1967;Rodriguez Luis Alfonso ;Bello Maria Cristina;Etchepare;Gustavo Fabian ;14850587;argentino;04/10/1962;Etchepare Eduardo ;Yerba Maria Francisca;Isla Soledad nº 468;131;26
+Lopez Palmero ;Malena ;26371382;argentina;18/11/1977;Lopez Palmeto Fernando ;Ossoinak Gloria Ines;Lopez Palmero ;Julia Ines;27602106;argentino;13/10/1979;Lopez Palmero Fernando ;Ossainak Gloria Ines ;Puerto San Carlos nº469;131;5
+Cantero ;Mariangeles;22739106;argentina;04/05/1972;Cantero Ramon Fructuoso Gabriel;Vargas Reducinda Obispa;Boumera ;Diego Santiago ;22436202;argentino;24/11/1971;Boumera Norberto ;Simioni Mirta Haydee;Puerto San Carlos nº 474;131;6
+Perez ;Ana Maria ;16216389;argentina;27/01/1963;Perez Ruben Antonio ;Gonzalez Josefa ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad s/n ;131;17
+Simonetta;Nancy Beatriz ;25450714;argentina;04/07/1976;Simonetta Enrique Osvaldo ;Villoldo Edelma Ofelia ;Martinez ;Guillermo ariel ;22182094;argentino;05/05/1971;Martinez Anastacio Marciano;Mieres Olga Elsa;Cordeu nº 782;131;03
+Delgado ;Stella Maris ;25691106;argentina;01/05/1977;Delgado Bonifacio Ruben ;Gonzalez Clara Rita;Colombo ;Gustavo Javier ;22961966;argentino;15/09/1972;Colombo domingo Antonio;Pisurnia Elida Mabel ;Puerto San Carlos nº463;131;4
+Arbeloa ;Carla Fernanda ;27147343;argentina;23/10/1978;Arbeloa Juan Nadres;Falcon Lidia Teresa;Lopez  ;Hugo Alberto ;24576172;argentino;13/04/1975;Lopez Angel Nieves ;Firpo Marta Nicolasa;Puerto San Carlos nº495;131;10
+Holguin ;Nancy Raquel ;23341859;argentina;26/07/1974;Holguin Abelandro Alberto ;Hereñu Fabia Herminia;Mego;Ruben Martin;23064845;argentino;15/07/1973;Mego Ruben Antonio ;Arraygada Juliana Imelda;Puerto San Carlos nº;131;9
+Barboza;Marcelo Javier;28542890;argentina;30/04/1981;Barboza Oscar Antonio ;Stibe Mirta Mabel;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad n 506;131;19
+Barrientos ;Rosa Patricia ;14757000;argentina;06/01/1962;Barrientos Roque Lorenzo ;Diaz Camren Sergia;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Puerto San carlos nº 531;132;03
+Favre;Susana  ;21573440;argentina;20/05/1970;Favre Roque Hilario ;Jannon Irma Margarita ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad nº 530;132;14
+Cheverry ;Carolina Andrea;20981092;argentina;24/04/1969;Cheverry Carlos Alberto ;Rotundo Ines Victoria ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad nº 526;132;01
+Ponce ;Patricia Silvina ;24938733;argentina;10/05/1976;Ponco Julio Cesar ;Soria Gladys Teresa;Aranda ;Alejandra Esteban ;21946122;argentino;10/12/1970;Aranda Ramon ;Cardozo Ana Maria ;Isla Soledad nº 540;132;11
+Saavedra;Mariana Griselda ;22401118;argentina;07/10/1971;saavedra Nestro Hugo ;Simon Carmen Beatriz ;Segovia ;Anibal ;16556489;argentino;07/09/1963;Segovia Pascual ;Baez Celeste ;Puerto San Carlos nº 539;132;05
+Sanchez ;Maria Soledad;26619439;argentina;26/08/1978;Desconocido ;Sanchez Maria Cristina ;Luraschi;Gaston David ;25691091;argentino;11/03/1977;Luraschi Miguel Angel ;Diaz Stella Maria Juana ;Puerto San Carlos nº ;132;6
+Benedetich;Carolina Anabella ;26906265;argentina;18/11/1978;Benedetich Juan Carlos ;Cabal Mercedes Libertad;Morao ;Esteban Andres ;25381257;argentino;26/07/1976;Morao Aldo Lelio ;Jelavich Rita Susana;Puerto San Carlos;132;7
+Ramirez;Maria Rosana;25416589;argentina;14/12/1976;Ramirez Juan Domingo ;Ledesma Maria Elsa;Ruiz ;Jorge Daniel ;22744097;argentino;06/04/1972;Ruiz Florentino Ramon ;Kerber Irma Natalia;Puero San Carlos n º 535;132;4
+Salina ;Silvia Susana;22436431;argentina;05/11/1969;Salinas Inocencio ;Echavarria Jorgelina ;Mouse;Mickey;33333333;argentina;01/01/2001;PADRE2;MADRE2;Isla Soledad nº 534;132;13

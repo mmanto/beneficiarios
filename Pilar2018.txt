@@ -1,0 +1,213 @@
+CASTILLO;Mariana Patricia;24927224;argentina;14/09/1975;Carlos Castillo;Micaela Salcedo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 793 ;89;01;VII;G;84-16-96
+REYNOSO;Mirta Raquel;22256950;argentina;24/11/1971;Oscar Alberto Reynoso;Dora Josefina Ramirez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2; Dr. Penna Nº 1776;89;02;VII;G;84-16-96
+AROSTEGUI;Diana Elsa;16238290;argentina;08/05/1962;Héctor Epifanio Arostegui;Elsa Elvira Fernandez;QUINTEROS;Domingo Mario;12204204;argentina;01/03/1958;Domingo Faustino Quinteros;Dominga Alicia Herrera;Dr. Penna Nº 1770;89;03;VII;G;84-16-96
+FRUTO;Rosana Noemí;30974481;argentina;30/08/1984;Ramón Fruto;Rosa Mirta Talavera;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Penna Nº 1760;89;04;VII;G;84-16-96
+MENDOZA;Alicia Beatriz;36414429;argentina;08/12/1991;Marta Fleire;Carlos Mendoza;BARRETO;Martín Juan;33792215;argentina;26/04/1988;;Agustina Barreto;Dr. Penna Nº 1752;89;05;VII;G;84-16-96
+CODARO;Nadia Gimena;27250107;argentina;21/03/1979;Alfredo Marcelino Codaro;Norma Nélida Frola;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Penna Nº 1746;89;06;VII;G;84-16-96
+TOLABA;Teresa;22648165;argentina;15/01/1972;Juan Bernal;Jovina Tolaba;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Penna Nº 1738;89;07;VII;G;84-16-96
+RUIZ DIAZ;Nancy Soledad;35080441;argentina;16/08/1989;Eduardo Daniel Ruiz Diaz;Mirta Elizabeth Alvarez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Penna Nº 1730;89;08;VII;G;84-16-96
+ALFONSO;Yanina Vanesa;34471633;argentina;05/03/1989;Juan Carlos Alfonso;Haydee Miranda;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Penna Nº 1724;89;09;VII;G;84-16-96
+MENDEZ;Hilda Mabel;24947916;argentina;14/02/1976;;Victoria Mendez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 790;89;10;VII;G;84-16-96
+GARZON;Paola Sara Soledad;30152990;argentina;07/09/1983;Rufino Salvador Garzón;Sara Niz;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 776;89;11;VII;G;84-16-96
+LEZCANO;Angel Lucas Nahuel;34716383;argentina;15/09/1989;;Rosa Elba Gonzalez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus N° 762;89;12;VII;G;84-16-96
+CANTERO;Mónica Liliana;21134097;argentina;14/11/1969;Andres Cantero;Dominga Ojeda;CARDENAS CANTERO;Jaun Ignacio;38464640;argentina;28/07/1994;Ismael Alfredo Cárdenas Hernández;Mónica Liliana Cantero;Chascomus Nº 742;89;13;VII;G;84-16-96
+LUNA;Celeste Soledad;32498084;argentina;09/07/1986;Juan Carlos Luna;Olga Beatriz Salort;LATORRE;Leonel Maximiliano;34532589;argentina;09/02/1989;Ramon Francisco Latorre;Graciela Gladys Esquivel;Chascomus Nº 726;89;14;VII;G;84-16-96
+CARRIZO;Estela Liliana;24440109;argentina;07/01/1973;Gustavo Nicolás Carrizo;Irma Nuñez;;;;;;;;Chascomus Nº 706;89;15;VII;G;84-16-96
+ALLENDE;Flavia Elisabet;24420928;argentina;05/02/1975;Carlos Raúl Allende;María Marta Vera;LEDESMA;Carlos Alberto;26032118;argentina;21/03/1977;Carlos Emilio Ledesma;Waltrudis Ana Kasther;Dr. Naon Nº 1725;89;16;VII;G;84-16-96
+TORRES;Juan Manuel;14720625;argentina;10/01/1962;Reginaldo Torres;María Aniceta Vega;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1735;89;17;VII;G;84-16-96
+ALEGRE;Nora Mariela;26765502;argentina;15/12/1978;Ramón Alegre;Hilda Teodora Toledo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1739;89;18;VII;G;84-16-96
+SABAO;Rosa María;22929318;argentina;20/09/1972;Basilio Sabao;Balbina Rivero;GONZALEZ;Juan Aldo;21857459;argentina;19/04/1971;Juan Francisco Gonzalez;Lidia Ruiz;Dr. Naon Nº 1745;89;19;VII;G;84-16-96
+GARRIDO;Agripina Haydee;29995171;argentina;08/10/1977;--;Rina del Carmen Garrido;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1753;89;20;VII;G;84-16-96
+GIMENEZ;Florencia Elizabeth;18860363;argentina;21/04/1988;--;Hilda Elizabeth Gimenez;MACIEL;Gonzalo Leandro;31370380;argentina;28/10/1984;Walter Rene Maciel;Victoria Beatriz Vivanco;Dr. Naon Nº 1763;89;21;VII;G;84-16-96
+MALDONADO;Débora Soledad;30953345;argentina;11/07/1984;Mario Edison Maldonado Martins;Dolores Teresita Mahile Orona;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1775;89;22;VII;G;84-16-96
+ESPINOLA;Fernanda;14157585;argentina;30/05/1960;Benito Espinola;María Paula Pereyra;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon N° 1779;89;23;VII;G;84-16-96
+PAREDES;Rosa Adriana;24167603;argentina;04/09/1974;Carmelo Paredes;Dominga Silvia Gomez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada N° 705;89;24;VII;G;84-16-96
+HUG;Mariana Beatriz;28878325;argentina;09/02/1981;Mario Alberto Hug;Susana Beatriz Lambardi;TRIAS SILVA;Carlos Ramón;94984278;uruguaya;24/07/1974;Carlos Enrique Trias Abrahamm;Maria Luisa Silva Juncal;Ensenada Nº 723;89;25;VII;G;84-16-96
+GOMEZ;Celina Rosa;5184442;argentina;11/04/1947;Santos Gomez;Juana Sarmiento;MONTAUTI;Pedro José;10225251;argentina;17/03/1952;Pedro Eduardo Montauti;Nilda Pilar Torres;Ensenada Nº 743;89;26;VII;G;84-16-96
+MENDEZ;Romina Gisele;32150455;argentina;20/03/1986;Juan Carlos Mendez;Susana Beatriz Gauna;DOMINGUEZ;Flavio Jorge;32582637;argentina;04/06/1986;Gerardo Dominguez;Ema Benitez;Ensenada Nº 765;89;27;VII;G;84-16-96
+VAZQUEZ;Miriam del Carmen;27255920;argentina;23/06/1979;Mariano del Jesús Vazquez;Hilda Angélica Algañaráz;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 775;89;28;VII;G;84-16-96
+MANTOVANI;Cintia Lorena;24744057;argentina;11/10/1975;Juan Luis Mantovani;Elsa Antonia Gomez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 797;93;01;VII;G;84-16-96
+LEON;Sara Beatriz;26882187;argentina;30/11/1978;Raúl Alfonso Leon;Bernardina Nuñez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Penna Nº 1374;93;02;VII;G;84-16-96
+TORRES;Romina Inés;28442554;argentina;14/11/1980;Pelagio Torres Sanchez;Mirtha Concepción Palacios;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Penna Nº 1368;93;03;VII;G;84-16-96
+MAIDANA;Angel Gabriel;29009156;argentina;12/08/1981;Ramón Luis Maidana;Nilda Ester Maidana;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Penna Nº 1360;93;04;VII;G;84-16-96
+JALIL;Mónica Carina;22885102;argentina;17/07/1972;Héctor Hugo Jalil;Marta Graciela del la Torre;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Penna Nº 1354;93;05;VII;G;84-16-96
+CORREA ;Mariana del Carmen;30983837;argentina;18/05/1984;Carlos Ernesto Correa;Carmen Ignacio;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Penna Nº 1332;93;06;VII;G;84-16-96
+MARQUEZ DE OLIVEIRA;Estela Inés;28216422;argentina;02/08/1980;Froilan Marquez de Oliveira;Hilaria Segovia;CRISTALDO;Eduardo Ramón;30878453;argentina;15/07/1984;Rodolfo Cristaldo;Ramona Brito Bogado;calle Dr. Penna Nº 1324;93;07;VII;G;84-16-96
+JULIAN;Delia Beatriz;26669195;argentina;13/09/1978;Moises Julian;Eufemia Albertto;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto. Domingo Nº 796;93;08;VII;G;84-16-96
+BERNACHEA;Verónica Alejandra;27622493;argentina;13/10/1979;Luis Bernachea;Rosa del Valle Cruz;LUQUE;Gabriel Leopoldo;28029208;argentina;10/02/1980;Juan Angel Luque;Gladis Mabel Nuñez;Santo Domingo N°762;93;09;VII;G;84-16-96
+NUÑEZ;Julio Daniel;23892401;argentina;23/05/1974;Omaldo Nuñez;Mercedes Concepción Llano;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto. Domingo Nº 718;93;10;VII;G;84-16-96
+MIGUEL;Cecilia Verónica;26001481;argentina;02/09/1977;Ramón Inocencio Miguel;María del Pilar Gómez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto. Domingo Nº 736;93;11;VII;G;84-16-96
+JUMILLA;María Roxana;30378470;argentina;11/08/1982;;Alicia Jumilla;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto. Domingo Nº 722;93;12;VII;G;84-16-96
+QUINTANA;Alejandra Isabel;24156835;argentina;15/12/1974;Luciano Ramón Quintana;Eladia Mercedes Centurión;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto. Domingo Nº 706;93;13;VII;G;84-16-96
+GUTIERREZ;Daniela Vanesa;29396249;argentina;10/01/1982;Ricardo Gutierrez;Graciela Manoni;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon Nº1321;93;14;VII;G;84-16-96
+AGUILAR;Mercedes Carmen;5968626;argentina;08/09/1948;Pablo Alberto Aguilar;Manuela Zaira Molina;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon Nº 1329;93;15;VII;G;84-16-96
+ALTAMIRANO;Mirtha Karina;27572231;argentina;29/09/1979;--;Leona Altamirano;GOMEZ;Juan Carlos;24055733;argentina;25/05/1974;;Santa Gomez;calle Dr. Naon Nº 1351;93;16;VII;G;84-16-96
+ARRUA;Analía Emilce;27818631;argentina;11/10/1979;Senen Arrua Rojas;Teresa Elena Areco Amarilla;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon N° 1359;93;17;VII;G;84-16-96
+JARA;Rosa Dominga;17314567;argentina;07/08/1965;Marcelo Jara;Idalina Caceres;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon Nº ;93;17;VII;G;84-16-96
+BRAVO;María Elizabeth;22275641;argentina;25/08/1971;Roque Faelmo Bravo;María del Carmen Arriagada;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon Nº 1379;93;19;VII;G;84-16-96
+GOMEZ;Sandra Daniela;18752614;argentina;25/12/1969;Manuel Gómez;María Esther Blanco;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 709;93;20;VII;G;84-16-96
+LOPEZ;Marcia Gabriela;27130539;argentina;25/04/1979;Miguel Orlando López;Nélida Azucena Gómez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 723;93;21;VII;G;84-16-96
+JUAREZ;Yésica Noel;29995238;argentina;20/10/1982;Raul Alberto Juarez;Claudia Marcela Espinosa;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 737;93;22;VII;G;84-16-96
+AGUIRRE;Elba;16828625;argentina;18/02/1964;Francisco Avelio Aguirre;Juana Paula Sotelo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 751;93;23;VII;G;84-16-96
+SILVEIRA;Estela Soledad;31122966;argentina;24/08/1985;Juan Carlos Silveira;Juana Olivera;MONSALVO;Leonardo Daniel;34471793;argentina;15/01/1986;;Elena Ercilia Monsalvo;calle EEUU Nº761;93;24;VII;G;84-16-96
+PERILLO;Silvia Mónica;14961253;argentina;05/01/1961;Juan Pedro Perillo;Élida Azucena Buceta;HALLBERG;Fabián Emilio;16323684;argentina;22/06/1963;Ricardo Emilio Felipe Hallberg;Martha Silvia Benderky;Penna N°1274;94;03;VII;G;84-16-96
+VAZQUEZ;Estela Miryam;25521056;argentina;01/08/1976;Felix Vazquez;Angelina Torre;PEREYRA;Daniel Alfredo;23552863;argentina;17/10/1976;Manuel Pereyra;Luisa Barrios;Penna N°1248;94;06;VII;G;84-16-96
+BUSTOS;Paula Adelina;16688263;argentina;23/04/1963;Juan Pedro Bustos;Rosa Lares;MARTINEZ;Alberto Anones;11120549;argentina;29/07/1953;Máximo Martinez;Cirila Leguizamón;Penna N°1242;94;08;VII;G;84-16-96
+BLANCO ;Marisa Inés;14167010;argentina;11/09/1960;Ramón Abel Blanco;Inés Esther Urrunaga;BLANCO ;Alan Patricio;35069954;argentina;23/01/1990;;Marisa Inés Blanco;Haití N°784;94;11;VII;G;84-16-96
+BLANCO ;Federico Iván Abel;30669535;argentina;19/11/1983;--;Marisa Inés Blanco;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haití N°784;84;11;;;
+BUTRON MARAÑON;Esther del Socorro;92418686;boliviana;03/01/1959;Ernesto Alcides Butron Moscoso;Esther Marañon;ALMIRON;Luis Andrés;13450067;argentina;20/09/1957;Ervin Gerardo Almirón;Elsa Delia Rufanacht;Haití N°748;94;13;VII;G;84-16-96
+BRUTÓN MARAÑON;Karina Gabriela;31050118;argentina;17/07/1984;Jorge Ramón Galarza;Esther del Socorro Bruton Marañon;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haití N°748;94;13;VII;G;84-16-96
+VALDEZ;Marta Norma;24144059;argentina;18/08/1974;Ramón Valdez;Blanca Almara;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haití N°726;94;14;VII;G;84-16-96
+MOSTRACCIO;Cecilia Deli;26494228;argentina;28/03/1978;Luis Américo Mostraccio;Delia Sara Crisostomi;BERRI;Ernesto;22704478;argentina;10/01/1973;Humberto Berri/Ernesto Berri;Nora Fernandez/Cecilia Delia Mostraccio;Naon N°1247;94;18;VII;G;84-16-96
+PALATNIK;María Alejandra;25636283;argentina;12/01/1977;Juan Carlos Palatnik;Marta Nuñez;SORIA;Juan Manuel;25156115;argentina;03/04/1976;Juan Carlos Soria;Simeona Castillo;Naon N°1255;94;19;VII;G;84-16-96
+BUSTAMANTE;Paulina Fátima;17187227;argentina;13/05/1965;Genaro Mateo Bustamante;María Luisa Santillán;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Santo Domingo N°747;94;26;VII;G;84-16-96
+SILVA;Flavia Lorena;27256890;argentina;04/09/1979;Mario Marcelino Silva;Miriam Rosana Galiano;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 693;106;01;VII;G;84-16-96
+RODRIGUEZ;Cintia Soledad;29856266;argentina;10/12/1982;Ricardo Alberto Rodriguez;Emilia Sara Estreteir;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº;106;02;VII;G;84-16-96
+ALMIRON;Mariano Alberto;28330757;argentina;04/10/1980;Juan Domingo Almirón;Gladiz Zapata;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Naon Nº 1776;106;03;VII;G;84-16-96
+SANDOVAL ;Corina Antonella;33339916;argentina;29/11/1987;Héctor Luís Sandoval;Sandra De Jesús;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2; Dr. Naon Nº 1760;106;04;VII;G;84-16-96
+SANTOMIL;Berta Yolanda;16609401;argentina;27/11/1963;Mario Oscar Santomil;Virginia Aquino;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Naon Nº 1752;106;05;VII;G;84-16-96
+SOSA;Estela Mary;26319503;argentina;05/10/1977;Antonio Sosa;María Weber;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1746;106;06;VII;G;84-16-96
+MONTIEL;Laura  Paola;27642756;argentina;19/08/1979;Jorge Omar Montiel;Graciela Quintero;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon N°1740;106;07;VII;G;84-16-96
+PINTOS;Zulma Beatriz;31330275;argentina;31/12/1978;Luciano Pintos;Eugenia Alegre;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1736;106;08;VII;G;84-16-96
+ZAPATA;Maira Estefania;32861340;argentina;21/03/1987;Silverio Ismael Zapata;Carolina Cecilia Rojas;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Naon Nº 1726;106;09;VII;G;84-16-96
+GAMARRA;Rocio Soledad;34716151;argentina;24/07/1989;;Norma Beatriz Gamarra;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº692 ;106;10;VII;G;84-16-96
+BOTRON;Blanca Neri;16951538;argentina;12/03/1964;Juan Victor Botrón;Elena Beatriz Alias;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 674;106;11;VII;G;84-16-96
+SANDOVAL ;Andrea Soledad;30934215;argentina;03/05/1984;José Ramón Sandoval;Mirta Inés Gonzalez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 658;106;12;VII;G;84-16-96
+PEREYRA;Gisela Graciela;30669263;argentina;21/05/1980;Pedro Domingo Pereyra;María Eva Liendro;COMACHI;Juan Antonio;7627642;argentina;02/02/1949;Juan Antonio Comachi;María Esther Silva;Pirovano Nº 1735;106;17;VII;G;84-16-96
+MEZA;Susana Soledad;32325324;argentina;20/06/1986;Mario Meza;María Perez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1725;106;17;VII;G;84-16-96
+RIVERO;Angélica Yolanda;27456544;argentina;15/08/1979;Carlos Saturnino Rivero;Leopoldina Talaverda Duttil;TREJO;Walter Ramón;24024791;argentina;15/11/1974;José Alberto Trejo;María Angélica Avila;Dr. Pirovano Nº 1743;106;18;VII;G;84-16-96
+GAMARRA;María Cristina;23862858;argentina;26/05/1974;Gabriel Alfredo Barrionuevo;María Ester Gamarra;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Penna N°865;106;19;VII;G;84-16-96
+IGNACIO;Carmen;13471185;argentina;16/07/1957;Manuel Ignacio;Martina Villanueva;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1755;106;20;VII;G;84-16-96
+VARENIZA;Flavia Andrea;29389319;argentina;27/04/1982;Casiano Isidro Vareniza;Blanca Azucena Vispo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2; Pirovano Nº 1765;106;21;VII;G;84-16-96
+MEDINAS;Ana Mabel;30204162;argentina;15/07/1983;Hugo Rolando Medinas;Zoila Graciela Cuellar;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1775;106;22;VII;G;84-16-96
+FARIAS;Beatriz Elisa;24075238;argentina;02/07/1974;Aureliano Farias;Carmen Aguirre;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1779;106;23;VII;G;84-16-96
+MONZON;Graciela Dominga;25636120;argentina;24/05/1976;Pedro German Monzón;María Trancita Gómez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2; Ensenada Nº 605;106;24;VII;G;84-16-96
+ROMERO;Sonia Esmilse;29673424;argentina;14/07/1982;Bernardo Romero;Celia Etelvina García;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 623;106;25;VII;G;84-16-96
+SILVA;Ricardo Horacio;28347670;argentina;03/02/1981;Agrispino Silva;Lourdes Beatriz Nuñez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 643;106;26;VII;G;84-16-96
+GUEVARA;Paula Daniela;27250397;argentina;21/04/1979;José Remigio Guevara;Nora Susana Palotta;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada N° 657;106;27;VII;G;84-16-96
+NIZ;Eliana Soledad;34155034;argentina;18/10/1988;Jorge Norberto Niz;Rosa Velazquez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 675;106;28;VII;G;84-16-96
+AREVALO;Silvia Verónica;22975613;argentina;21/09/1972;Juan Severo Arevalo;Dora Elsa Ibarra;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 602;106;??;VII;G;84-16-96
+PARODI;Mónica Susana;17314565;argentina;26/05/1965;Ruben Antonio Parodi;Marta Elena Ziberman;ROBLES;Ceferino Gregorio;21477258;argentina;06/03/1970;Jose Gil Robles;Josefa Benitez;calle EEUU Nº 697;110;01;VII;G;84-16-96
+BOADILLA;Carolina María Isabel;29929244;argentina;25/11/1982;--;Teresa de Jesús Boadilla;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon Nº 1376;110;02;VII;G;84-16-96
+MORALES;Griselda Noemí;28755576;argentina;05/07/1980;Santos Ibar Morales;María Angela León;MENDOZA;Mario Daniel;26552623;argentina;13/05/1978;Felipe Mendoza;Lidia Cristina Netsoff;calle Dr. Naon Nº 1368 ;110;03;VII;G;84-16-96
+RUIZ DIAZ;Romina Verónica;30974510;argentina;17/06/1984;Catalino Alfredo Ruiz Diaz;Teresa Carrizo;SANCHEZ;Mauricio David;29223662;argentina;16/02/1982;Ramón Alfredo Sanchez;Clara Rosa Correa;calle Dr. Naon Nº 1360;110;04;VII;G;84-16-96
+LEDESMA;Miriam Mercedes;24079528;argentina;06/07/1974;Norberto Ledesma;Mercedes Iriarte;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Naon Nº 1354;110;05;VII;G;84-16-96
+MARTINEZ;Rita;12979938;argentina;23/04/1959;Ramón Martinez;Eulalia Nuñez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Dr. Naon Nº 1332;110;06;VII;G;84-16-96
+LECHMANN;Adriana Marcela;26254369;argentina;24/01/1978;Hugo César Lechman;Josefina Mercedes Rabbia;ESCOBAR;Eligio Eliseo;14421928;argentina;31/05/1961;Sol Escobar;Maria Auxiliadora Ortiz;calle Naon Nº 1324;110;07;VII;G;84-16-96
+CASTILLO ;Gisela Constanza;27333862;argentina;26/02/1979;Carlos Castillo;Micaela Salcedo;RAMIREZ;Osvaldo;20465782;argentina;27/09/1968;Martires Ramirez;Ramóna Gauna;calle Sto.Domingo Nº 696;110;08;VII;G;84-16-96
+RIOS;María Dionicia;26436687;argentina;02/08/1978;Juan Aurelio Rios;Elida Herminda Riquelme;BALDUZZI;Alejandro Miguel;29129411;argentina;21/01/1982;Miguel Angel Balduzzi;Gregoria Adela Benitez;calle Sto. Domingo Nº 668;110;09;VII;G;84-16-96
+RETAMAL;Myrian Elizabeth;21988451;argentina;23/03/1971;Jorge Alberto Retamal;Delia Marta Galessio;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto Domingo N° 650;110;10;VII;G;84-16-96
+REYES;Mirta Graciela;13401448;argentina;20/10/1957;Isavelino Salvador Reyes;Manuela González;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto.Domingo Nº 636;110;11;VII;G;84-16-96
+CABRAL;Gabriela Noemí;32582821;argentina;14/07/1986;--;Edit Cabral;NICASTRO;Marcelo Daniel;28740518;argentina;04/02/1981;Juan Mario Nicastro;Marta Gorisito;Calle Sto. Domingo Nº 620;110;12;VII;G;84-16-96
+ABBA;Virginia Soledad;29490901;argentina;25/06/1982;Eduardo Daniel Abba;María Rosa Torres;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Sto. Domingo Nº 608;110;13;VII;G;84-16-96
+MORE;Olga Cristina;27304513;argentina;27/05/1979;Mario Felipe More;Nora Haideé Torrez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Pirovano Nº 1321;110;14;VII;G;84-16-96
+GONZALEZ;Gabriela del Carmen;26541605;argentina;20/11/1977;Santiago Gonzalez;Olga Sanchez;PLACANICA;Javier Eduardo;30138009;argentina;11/02/1983;Hector Placanica;Lujan Silvia Villegas;calle Pirovano Nº 1329;110;15;VII;G;84-16-96
+GALARZA;Norma Karina;26254283;argentina;30/11/1977;Héctor Baltazar Galarza;Germana Auyero;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N°1351;110;16;VII;G;84-16-96
+GUTIERREZ;Felisa Beatriz;26593412;argentina;19/04/1978;Genaro Desiderio Gutierrez;María Ester Sosa;GUTIERREZ;Juan Marcos;25118198;argentina;25/05/1976;Juan de Dios Gutierrez;María Teresa Cedrón;calle Pirovano Nº 1359;110;17;VII;G;84-16-96
+OBANDO;Carina Gisela;24936052;argentina;23/09/1975;Juan Domingo Obando;…………..;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Pirovano Nº 1367;110;18;VII;G;84-16-96
+ROLON;Marta Evangelina;34197231;argentina;24/01/1989;Arturo Gregorio Rolón;Claudia Antonia Roizon;OSORIO;Ricardo Daniel;32395344;argentina;22/01/1986;Victor Urbano Osorio;Teresa Ramona Rodriguez;calle Pirovano Nº 1379;110;19;VII;G;84-16-96
+ALVES;Yésica Romina;29167918;argentina;15/10/1981;Eduardo Alves;Ana María Grgurich;HERRERA;Edgardo Ramón;23522100;argentina;05/01/1974;Ramón Herrera;Paula Josefina Cejas;calle EEUU Nº 607;110;20;VII;G;84-16-96
+ZUASNABAR;Norma Beatriz;27207708;argentina;07/03/1979;Demetrio Ismael Zuasnabar;María del Carmen Nuñez;BERDALA;Oscar Javier;24786079;argentina;11/06/1975;Oscar Alcides Berdala;Silvia Esther Benitez;calle EEUU Nº 619;110;21;VII;G;84-16-96
+MORENO;Rosana Angélica;26764084;argentina;02/07/1978;--;Cecilia Nelida Moreno;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 637;110;22;VII;G;84-16-96
+LEDESMA;Andrea Verónica;26786542;argentina;15/08/1978;Pablo Ceferino Martinez;Juana Rosa Ledesma;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 649;110;23;VII;G;84-16-96
+MARTINEZ;Nancy Noemí;30194954;argentina;20/05/1982;Pablo Ceferino Martinez;Juana Rosa Ledesma;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle EEUU Nº 665;110;24;VII;G;84-16-96
+BOADILLA;Leonor;13069894;argentina;20/07/1957;Alejandro Boadilla;Flores Teofila;LIND;Tomas Alberto;12146947;argentina;07/03/1956;Manuel Urbano Lind;Ramona Germana Canteros;Naon N°1284;111;03;VII;G;84-16-96
+ANSALDO;Flavia Julia;25142384;argentina;05/04/1976;Juan Carlos Ansaldo;Dilia Ramona Coronel;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Naon N°1264;111;06;VII;G;84-16-96
+TOLOSA JARA;Irma Ester;92864159;chilena;05/03/1966;Belisario Tolosa;María Jara;ULLOA ALVIAL;Galvarino Leonardo;18865137;argentina;12/09/1965;Galbarino Segundo Ulloa Gutierrez;Nora Gladis Alvial;Pirovano N°1245;111;18;VII;G;84-16-96
+CAMPOAMOR;Edith Analía;21592488;argentina;07/09/1970;Rubén Isaac Campoamor;Mirta Lucía Barrera;FALCON;Adolfo Javier;20886426;argentina;28/10/1969;Argentino Ramón Falcon;Mirta Graciela Chapartegui;Pirovano N°1253;111;19;VII;G;84-16-96
+GARAY;Laura Isabel;22318115;argentina;05/07/1971;Florencio Julio Garay;Isabel María Magan;GODOY;Alejandro Ernesto;20243735;argentina;06/08/1968;Alejandro Renee Godoy;Estela Mercedes Perez;Pirovano N°1271;111;21;VII;G;84-16-96
+MARTINEZ H.;Héctor Hugo;12401716;argentina;04/01/1956;Francisco Martinez;Silvia Zulma;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovan N°1281;111;22;VII;G;84-16-96
+FERNANDEZ  ;Silvia Marcela;17867151;argentina;07/10/1965;Benito Fernandez;Aurora Cabrera;STIEBEN;Jorge Emilio;16537065;argentina;06/10/1962;Enrique Osvaldo Stieben;Elida Vallejos;Pirovano N°1289;111;23;VII;G;84-16-96
+VILLANEZ;Amalia Analía;30928054;argentina;28/06/1984;Valentin Villanez;Margarita Celina Marquesini;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto Domingo Nº 607;111;24;VII;G;84-16-96
+ROJAS;Mónica Mariel;21435931;argentina;05/02/1970;Reynaldo Héctor Rojas;Concepción Genoveva López;QUINTEROS;Ricardo Javier;31904548;argentina;14/05/1978;Angel Ricardo Quinteros;Luisa Isabel Romero;Sto. Domingo Nº 621;111;25;VII;G;84-16-96
+ALBARENQUE;Ruth Encarnación;27818800;argentina;10/02/1980;Rodolfo Albarenque;Berta Simeona Suarez;YACOMAN;Oscar Francisco;17304090;argentina;07/08/1965;Carlos Yacoman;Berta Ester Gallegillo;Sto. Domingo Nº 649;111;26;VII;G;84-16-96
+AVALOS;Irma;10024317;argentina;05/10/1951;José Rodrigo Avalos;Elvira Santa Avalos;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto. Domingo Nº 653;111;27;VII;G;84-16-96
+MUÑIZ;Silvana Margarita;24187082;argentina;22/11/1974;Hugo Leopoldo Muñiz;María Margarita Melgar;FERREYRA;Victor Raúl;25879213;argentina;02/04/1977;Raúl Ferreyra;Cristina Rodriguez;Ensenada Nº 595;123;01;VII;G;84-16-96
+GOMEZ;Olga Antonia;5915366;argentina;01/09/1984;Gumercindo Gómez;Juana Rosa Olaz;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1780;123;02;VII;G;84-16-96
+GOMEZ;Polonia Eumelia;3911496;argentina;10/09/1940;Gumercindo Gómez;Juana Rosa Olaz;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1780;123;02;VII;G;84-16-96
+MARQUESINI;Celina Margarita;18068578;argentina;12/05/1962;Reducindo Hilario Marquesini;Cinesia Ramirez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N°1774;123;03;VII;G;84-16-96
+ARANDA;Verónica Daniela;31883836;argentina;05/11/1985;Felipe Rafael Aranda;Marta Graciela Osuna;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1766;123;04;VII;G;84-16-96
+TAGLIAPIETRA;Erica Mabel;24299846;argentina;14/06/1975;Hector Horacio Tagliapietra;Ida Isabel Araujo;VAJA;Roberto Luis;30378485;argentina;03/01/1976;Roberto Juan Vaja;Aida Elba Ferrari;Pirovano N° ;123;05;VII;G;84-16-96
+DA LUIS;Graciela ;29760382;argentina;10/03/1983;Julio Martín Da Luis;Virginia Moreia;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Pirovano Nº 1750;123;06;VII;G;84-16-96
+GUERRA;Yamila Yanet;36882330;argentina;26/08/1992;Omar del Valle Guerra;Mirta Santa Alegre;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Antartida Argentina N°50;123;06;VII;G;84-16-96
+ARANDA;Xoana Estefania;33340880;argentina;18/08/1987;Pedro Andrés Aranda;Ana Rosa Morello;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1742;123;07;VII;G;84-16-96
+SANDOVAL ;Rita Carina;34673145;argentina;27/06/1989;Manuel Sandoval;Teresa Ramona Rodriguez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N°1736;123;08;VII;G;84-16-96
+CONTI;Liliana Isabel;24680868;argentina;20/09/1969;Eduardo Marino Conti;Leonarda Iannazzo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1726;123;09;VII;G;84-16-96
+ROCHA;Elena Blanca;6168074;argentina;26/08/1949;Martín Leopoldo Rocha;Hilda Corazón Piñeiro;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 592;123;10;VII;G;84-16-96
+FERNANDEZ;Antonio Alberto;20372298;argentina;10/12/1968;Alonso Daniel Fernandez;Emma Eva Zorrilla;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 574;123;11;VII;G;84-16-96
+MATOS;Ivana Nazareth;32005103;argentina;18/02/1986;Jorge Luis Matos;Mabel Selia Stofler;GONZALEZ;Cristian Ismael;32861164;argentina;26/10/1986;Walter Hugo Gonzalez;Rosana Escobar;Chascomus Nº 558;123;12;VII;G;84-16-96
+IBARRA;Maria de los Angeles;22432821;argentina;10/10/1971;Estanislao Ibarra;Lujan Josefa Sevald;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 542;123;13;VII;G;84-16-96
+GONZALEZ;Nadia Soledad;29322170;argentina;21/01/1982;Pablo Alberto Gonzalez;Ester Aurelia Maciel;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Chascomus Nº 524;123;14;VII;G;84-16-96
+VERBAUVEDE;Melisa Lorena;32403569;argentina;24/05/1986;Oscar Daniel Verbauvede;Susana Alicia Grusmando;BRITEZ;Juan Manuel;26764153;argentina;11/05/1978;Lorenzo Hugo Britez;Elizabeth Draut;Chascomus Nº 502;123;15;VII;G;84-16-96
+VIVIER;Elisabet Rosana;16828717;argentina;19/08/1964;Osvaldo Juan Vivier;Irma Delia Aguilar;ALMIRON;Juan Angel;12599412;argentina;23/09/1958;Juan Manuel Almiron;Rosa Ana Albertone;Houssay Nº 1725;123;16;VII;G;84-16-96
+CESPEDE;Nora Isabel;16368299;argentina;23/09/1963;Silverio Cespede;Perla Azucena Arias;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay N° 1735;123;17;VII;G;84-16-96
+DELGADO;Mabel Inés;21953343;argentina;06/03/1971;Maximo Gregorio Delgado;Holga Ester Silva;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1745;123;18;VII;G;84-16-96
+ARGAÑARAZ;Silvana Lorena;27588808;argentina;24/12/1979;Carmen Argañaráz;Virginia Luque;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1755;123;19;VII;G;84-16-96
+GROSZ;Marcela Alejandra;26966221;argentina;12/11/1978;Roberto Marcelo Grosz;Stella Maris Caballero;FACIO MENDEZ;Fernando Daniel;28356376;argentina;17/10/1980;Amaranto Facio Suarez;Elisa Magdalena Mendez;Houssay Nº 1757;123;20;VII;G;84-16-96
+MARTINEZ;Graciela Cristina;14998931;argentina;28/08/1962;Miguel Ángel Martinez;Eva Escolástica Rivarola;ROMERO;Sergio Daniel;27166822;argentina;09/04/1979;Patricio Romero;Haydee Belmonte;Houssay Nº 1765;123;21;VII;G;84-16-96
+ROHR;Andrea Silvina;18404869;argentina;30/11/1967;Agustín Rohr;Nelida Bombig;ROCHA;Juan Carlos;17538607;argentina;20/03/1966;Juan Rocha;María Luisa Gallardo;Houssay Nº 1775;123;22;VII;G;84-16-96
+RODRIGUEZ;Zoila Ester;4863129;argentina;24/12/1944;Domingo Rodriguez;Sara Adelcia Ruiz de Rodriguez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1785;123;23;VII;G;84-16-96
+VEGA;Vilma Vanesa;28162177;argentina;02/09/1980;Miguel Leguizamón;Clara Rosa Vega;TECHEIRA;Carlos Daniel;31424907;argentina;12/01/1985;Mario Techeira;Carmen Esther Vallejos;Ensenada Nº 505;123;24;VII;G;84-16-96
+GONZALEZ;Clorinda;11914857;argentina;12/06/1955;Ramón Gonzalez;Laureana Gomez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 525;123;25;VII;G;84-16-96
+GOMEZ;Marisa Soledad;32010486;argentina;06/05/1986;Santiago Gomez;Norma Noemí Gorosito;MARTINEZ;Ricardo Alberto;28163882;argentina;18/06/1980;Carlos Martinez;Teresa Romero;Ensenada Nº 545;123;26;VII;G;84-16-96
+ROMANO;Catalina Elba;18749831;argentina;15/02/1955;Camilo Romano;Angela Zacarias;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 555;123;27;VII;G;84-16-96
+JARA;Ana Octaviana;1471148;argentina;27/06/1935;Manuel Jara;Argentina Gomez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada Nº 575;123;28;VII;G;84-16-96
+REYNOSO;Elena Graciela;14670486;argentina;04/12/1961;Juan Antonio Reynoso;Santa Teresita Moreira;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;EEUU Nº 595;127;01;VII;G;84-16-96
+GONCALVES;Américo;10549585;argentina;12/03/1954;Americo Goncalves;Emilse Isabel Vilches;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Pirovano Nº 1368;127;03;VII;G;84-16-96
+CARIAGA;María del Carmen;26153188;argentina;30/09/1977;Juan Ramón Cariaga;Mónica Aurora Sequeira;VIERA;Alejandro Sebastian;20411279;argentina;21/07/1968;Sebastian Angel Viera;Laura Esther Casanovas;calle Pirovano N° 1360;127;04;VII;G;84-16-96
+MANCHADO;Estela Lucia;17840057;argentina;23/02/1966;Ramón Manchado ;Renee Quiroga;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;calle Pirovano Nº 1354;127;05;VII;G;84-16-96
+LOZA;Eloisa Soledad;31550774;argentina;30/04/1985;Ruben Alberto Loza;Marcela Beatriz Fernandez;MATURANO;Walter Mauricio;31456083;argentina;17/11/1984;Anibal Fred Maturano;Mónica Marina Rojas;Pirovano N°1330;127;06;VII;G;84-16-96
+LEON;María Claudia;24639519;argentina;23/07/1969;Raul Ramón León;Santa Ovando;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1324;127;07;VII;G;84-16-96
+MARTINEZ;Floriana Elvira;29856292;argentina;19/10/1982;Miguel Lucas Martinez;Teresa Petrona Jimenez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto. Domingo Nº 596;127;08;VII;G;84-16-96
+ZAPATA;Mariela;25294268;argentina;04/10/1976;Victorio Zapata;Martira Aurora Casas;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto. Domingo Nº 564;127;09;VII;G;84-16-96
+NIELLA;Andrea Romina;30974464;argentina;26/10/1984;Juan Carlos Niella;María Rosa Martinez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto.Domingo Nº 550;127;10;VII;G;84-16-96
+GALE;Sandra de Jesús;25636176;argentina;03/091976;Carlos Alberto Gale;Edit Margarita Zapata;LUCERO;Martín Alejandro;26254473;argentina;15/12/1977;Osvaldo Antonio Lucero;Silvia lilia Benitez;Sto. Domingo Nº 534;127;11;VII;G;84-16-96
+CORVALAN;Delfina Noemi;21891035;argentina;23/08/1970;Guido Faustino Corvalán;Ciriaca Martinez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto. Domingo Nº 520;127;12;VII;G;84-16-96
+GUTIERREZ;María Isabel;26119361;argentina;08/09/1977;Luis Gutierrez;María Esther Correa Mundo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Sto. Domingo Nº 508;127;13;VII;G;84-16-96
+TORNE;Fabiana Marcela;21988571;argentina;05/06/1971;Oscar René Torne;Mirta Isabel Vivaldo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Dr. Houssey N°1321;127;14;VII;G;84-16-96
+CHAVEZ;Gabriela Lorena;30378600;argentina;11/04/1983;Héctor Cristino Chavez;Stella Maris Medina;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Bernardo Houssay Nº 1329;127;15;VII;G;84-16-96
+SILVA;Virginia Noemí;26979565;argentina;08/11/1978;Jorge Aníbal Silva;Zenona Agustina Ortiz;SANDOVAL;Julio Dionisio;23336336;argentina;09/07/1973;Rafael Sandoval;Adelaida Perez;Bernardo Houssay Nº 1337;127;16;VII;G;84-16-96
+FERNANDEZ CHIRINO;Cristian Jose;35944040;argentina;14/12/1976;Juan Carlos Fernandez;Nélida Angela Chirino;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Bernardo Houssay Nº 1359;127;17;VII;G;84-16-96
+GOMEZ;Andrea Cristina;29633316;argentina;22/07/1982;Martín Juan Gómez;Susana Margarita Roldán;ROSSI;Marcelo Anibal;32320489;argentina;11/11/1986;Luis Humberto Rossi;María Lidia Marquez;Bernardo Houssay N°1369;127;18;VII;G;84-16-96
+OJEDA;Marta Beatriz;12052542;argentina;11/03/1956;Fortunato Lencina;Ramona Ojeda;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Bernardo Houssay Nº 1377;127;19;VII;G;84-16-96
+VERA AMARILLA;Vicenta Ramona;24140718;argentina;19/07/1974;Victoriano Vera;Azuncion Aamarilla;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;EEUU Nº 507;127;20;VII;G;84-16-96
+BELTRAN;Gabriela Fernanda;29713990;argentina;04/08/1982;Raul Osvaldo Beltrán;Rosa Isabel Filippo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;EEUU Nº 519;127;21;VII;G;84-16-96
+MOYA BEJARANO;Leonardo Jesús;30028379;argentina;09/02/1983; Jose Arturo Moya;María Isabel Bejarano;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;EEUU Nº 533;127;22;VII;G;84-16-96
+ALARCON;Dolores Noemí;24327870;argentina;21/11/1974;Eduardo Alarcón;Luisa Ramirez;OJEDA;Roberto Oscar;22424024;argentina;03/10/1971;Oscar Ojeda;Blanca Farias;EEUU Nº 547;127;23;VII;G;84-16-96
+VILLARROEL;Yamila Alejandra;36777113;argentina;18/02/1992;Hugo Mauro Villarroel;Patricia Alejandra Canaria;CABRERA;Mario Alberto;27740003;argentina;10/01/1980;Alcides Cabrera;Delia Nuñez ;EE.UU N°563;127;24;VII;G;84-16-96
+VORPAGEL;Alicia Yolanda;24130674;argentina;17/09/1974;Helmuth Vorpagel;Alejandra Willing;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1276;128;03;VII;G;84-16-96
+GONZALEZ;Ramón Hilario;16529502;argentina;19/05/1963;Hilario González;Clara Noemí Figueroa;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N°1276;128;02;VII;G;84-16-96
+LOPEZ;Patricia Soledad;29166121;argentina;01/05/1982;Juan Gilberto López;Rosa Isabel Silveira;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1260;128;04;VII;G;84-16-96
+OCAMPOS;Franco Emanuel;28705775;argentina;20/04/1981;;;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1254;128;05;VII;G;84-16-96
+SAMPALLO;Beatriz Mónica;16599303;argentina;18/04/1964;Orlando Juan Sampallo;Alicia Adela Aguilar;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N° 1246;128;06;VII;G;84-16-96
+VILLALBA;Julio César;20101949;argentina;17/02/1968;Alciviades Villalba;Herminia del Carmen Rosales;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1238;128;07;VII;G;84-16-96
+RODRIGUEZ PERALTA;Norma Lis;95336514;paraguaya;14/03/1985;Victoriano Rodriguez;Catalina Peralta;SILVA;José Raúl;21635980;argentina;04/05/1970;Juan Cáncer Silva;Elva Fernández;Pirovano Nº 1230;128;08;VII;G;84-16-96
+MONZON;Patricia Laura;30714770;argentina;29/01/1984;Bernardo Monzón;Matilde Juana Mieri;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano Nº 1222;128;09;VII;G;84-16-96
+MORENO;Jésica Analía;33581122;argentina;27/10/1987;Juan José Moreno;Marcela Castro;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haiti Nº 596;128;10;VII;G;84-16-96
+MOLINA;Valeria Analía;32595489;argentina;21/07/1986;Roberto Ricardo Molina;María del Carmen Cappe;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haití N°596;128;10;VII;G;84-16-96
+MUÑIZ;María Fernanda;31112535;argentina;07/09/1984;Hugo Leopoldo Muñiz;María Margarita Melgar;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haiti Nº 562;128;11;VII;G;84-16-96
+FERNANDEZ;Beatriz Soledad;29925953;argentina;27/02/1983;Jose Ramón Fernández;Hermelinda Beatriz Ocampo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haiti Nº 548;128;12;VII;G;84-16-96
+BARRIOS;Mónica Susana;18675952;argentina;26/03/1967;Angel Erardo Barrios;Sara Inés Alvez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haiti Nº 534;128;13;VII;G;84-16-96
+MURGUIA;Carmen Sofia;22393329;argentina;21/09/1971;Jose María Murguia;María del Carmen Sofia Malinarich;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haiti Nº 520;128;14;VII;G;84-16-96
+VALDEZ;Sandra Noemi;20368061;argentina;03/10/1969;Santos Benito Valdez;Ema Ciriaca Olivari;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Haiti Nº 508;128;15;VII;G;84-16-96
+RIVAROLA;Rosa Mabel;24167765;argentina;23/10/1974;Genaro Rivarola;Rosa Urbana Martinez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay N° 1221;128;16;VII;G;84-16-96
+ROMERO;Jésica Romina;32582905;argentina;26/11/1986;Leonardo Romero;Pilar Medina;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1229;128;17;VII;G;84-16-96
+HUARANCA;Silvia Sonia;24440460;argentina;08/06/1975;Ramós Damián Huaranca;Julia Gareca Valdéz;GOMEZ;Ricardo ;27564344;argentina;24/07/1979;Fabian Gomez;Petrona Romano;Houssay Nº 1237;128;18;VII;G;84-16-96
+RUIZ DIAZ;Malvina Gabriela;29490937;argentina;04/05/1982;Catalino Alfredo Ruiz Diaz;Teresa Carrizo;LOPEZ;Norberto Ruben;30985822;argentina;15/08/1984;Riben Omar López;Gloria Alberta Castillo;Houssay Nº 1245;128;19;VII;G;84-16-96
+CAMPOS;Romina Estefania;29784017;argentina;11/11/1982;Hugo Alcides Campos;María Dorotea Hiltt;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1253;128;20;VII;G;84-16-96
+TALAVERA;Gustavo Alejandro;25859233;argentina;13/04/1977;Gerónimo Talavera;Odilia Obdula Cortéz;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay N° 1259;128;21;VII;G;84-16-96
+ANDRADA;Adriana Analía;27463867;argentina;01/09/1978;Miguel Andrada;Francisca Rodriguez;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1269;128;22;VII;G;84-16-96
+PAEZ;Lidia Noemí;25879226;argentina;05/03/1977;Alejandro Paez;Pascuala Chaile;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Houssay Nº 1277;128;23;VII;G;84-16-96
+TORRES;Claudia Roxana;25701337;argentina;14/12/1976;José Antonio Torres;Merecedes Nuñez;QUIJANO;Roberto Alejandro;23965037;argentina;13/05/1974;Oscar Alberto Quijano;María Rosa Cannas;Santo Domingo Nº 505;128;24;VII;G;84-16-96
+BELLAGAMBA;Yanel Cándida Isabel;34543428;argentina;27/06/1989;Ruben Omar Bellagamba;Rosa Isabel Parada;BENAVIDEZ ;Damián Alejandro;34254504;argentina;30/10/1987;--;Juana Anselma Benavidez;Santo Domingo Nº ;128;26;VII;G;84-16-96
+CAPELLINI;Sandra Noemí;17635233;argentina;05/06/1965;Eugenio Alberto Capellini;Magdalena Angélica Regueyra;CASTILLO ;Walter Javier;17912926;argentina;19/06/1966;--;Lucia Castillo;Santo Domingo N° 547;128;27;VII;G;84-16-96
+ERRA;Mariana Soledad;30427623;argentina;24/07/1983;Nicolás Salvador Erra;María Cristina Murga;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Santo Domingo Nº 561;128;28;VII;G;84-16-96
+CORREA ;Estela Rosalia;31501611;argentina;19/09/1985;Carlos Ernesto Correa;Carmen Ignacio;LOPEZ;Matias Ezequiel;33475330;argentina;18/10/1987;Bernabé López;Silvana Martinez;Pirovano N°1755;106;20;VII;G;84-16-96
+ZINI;Edelicia Elizabeth;22870976;argentina;03/01/1973;Pedro Zini;Saturnina Haedo;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Santo Domingo N°769;94;27;VII;G;84-16-96
+FONCA ;Estela Noemí;28488981;argentina;07/02/1968;--;--;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N°1263;111;20;VII;G;84-16-96
+MARTINEZ;María Andrea;28834157;argentina;16/07/1981;--;--;LIND;Juan Manuel;27735470;argentina;22/11/1979;--;;Dr. Naon N°1263;111;03;VII;G;84-16-96
+PAPP;Bárbara Soledad;29389465;argentina;17/05/1982;José Luis Papp;Adriana Rivera;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Ensenada N°723;89;25;VII;G;84-16-96
+CABRAL;Susana Beatriz;14784183;argentina;02/03/1962;Ramón Elpidio Cabral;Zulema Berta Marsiglia;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Santo Domingo N°791;94;01;VII;G;84-16-96
+IBAÑEZ;Romina Fernanda Marcela;26018110;argentina;13/07/1977;Sergio Ibañez;María Moreno;MEDINA;Gustavo Urbano;21937200;argentina;24/07/1971;Pedro Medina;Mabel Prieto;Santo Domingo N°785;94;28;VII;G;84-16-96
+NOGUERA;Daiana Maribel;30995854;argentina;30/11/1984;Daniel Noguera;Graciela Calleso;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Pirovano N°1749;89;19;VII;G;84-16-96
+CENICCOLA;Rosa del Carmen;13450012;argentina;10/07/1957;Edgar Mario Ceniccola;Alba Josefa Azorin;Mouse;mickey;33333333;argentina;01/01/2011;PADRE2;MADRE2;Naon N°1240;111;08;VII;G;84-16-96

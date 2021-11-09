@@ -1,0 +1,129 @@
+620000149000305156Saavedra                               Marcelo Ariel
+620000149000305163Sotelo                               Miguel Angel 
+620000149000305170Trias Ortiz                               Maria de Lourdes
+620000149000305187Ojeda                               Ernesto Leonardo 
+620000149000305194Ojeda                                Juan Ramon
+620000149000305200Paredes Villalba                               Gaspar  
+620000149000305217Baigorria                               Bernardo De Jesus
+620000149000305224Baigorria                               Claudio Daniel 
+620000149000305231Miranda                               Victor  
+620000149000305248Santillan                               Julio Cesar 
+620000149000305255Vergara                               Jose Luis
+620000149000305262Cano                               Joaquin Andres
+620000149000305279Lugo Santacruz                               Ramona  
+620000149000305286Aguirre                               Juan Vincente
+620000149000305293Ortiz                                Ramona Felisa
+620000149000305309Centurion                               Carmen de Jesus
+620000149000305316Leguizamon                                Gladys
+620000149000305323Ortiz Florenciañez                               Gustavo Alberto
+620000149000305330Romero Ojeda                               Sisino  
+620000149000305347Caceres Reyes                               Marisol  
+620000149000305354Duarte                               Elena Sofia
+620000149000305361Dure Sanchez                               Angel  
+620000149000305378Silva                               Rosa Raquel
+620000149000305385Gonzalez Santacruz                               Angelina
+620000149000305392Fernandez                               Simon Adolfo 
+620000149000305408Fernandez                               Rosa Lidia 
+620000149000305415Centurion Ocampo                               Jose Domingo 
+620000149000305422Vergara Rojas                               Catalino
+620000149000305439Gorritti Gonzalez                               Jorgelina Noemi
+620000149000305446Bernal                                Juana
+620000149000305453Galarza                               José Luis
+620000149000305460Cardozo                               Ruben
+620000149000305477Medina                               Gregoria  
+620000149000305484Leguizamon                               angela isabel
+620000149000305491Sosa                               Alberto Rodolfo
+620000149000305507Franco                               Balbina Olga
+620000149000305514Roman Lopez                               Amalio
+620000149000305521Rivera                               Ana María
+620000149000305538Miño                               Maria Rosa
+620000149000305545Alarcon                               Ursulina Graciela
+620000149000305552Miño                               Fabio Orlando
+620000149000305569Chavez Ortega                                Marcelina
+620000149000305576Gomez                               Eliseo
+620000149000305583Torres                               Isolina
+620000149000305590Escobar                               Juana Luisa
+620000149000305606Perez                               Hector Raul 
+620000149000305613Sandoval                               Mirtha Graciela
+620000149000305620Zevallos Falla                               Robert Jaimes
+620000149000305637Noguera Mareco                               Rosalba
+620000149000305644Florenciañez                               Marina
+620000149000305651Ortiz  Amarilla                               Gloria Faustina
+620000149000305668Bueno                               Ramona Matilde
+620000149000305675Rojas Ayala                               Blasida
+620000149000305682Pared                               Norma  Beatriz
+620000149000305699Caceres                               Transito del Rosario
+620000149000305705Baez Barrios                               María Asteria
+620000149000305712Samaniego Mendez                               Enrique Esperanza
+620000149000305729Escobar                               Luis Adrian
+620000149000305736Maciel                               Carlos Ramon
+620000149000305743Maidana                               Estela Alejandra
+620000149000305750Zarate                               Oscar Alejandro
+620000149000305767Marin                                Justa
+620000149000305774Dominguez                               Jorge
+620000149000305781Benitez                               Diego Ariel
+620000149000305798Medina                               Pedro Bernardino
+620000149000305804Roa                               Oscar
+620000149000305811Sosa                               Juan Orlando
+620000149000305828Gorriti                               Eliana Belen
+620000149000305835Ramirez                               Mercedes Griselda
+620000149000305842Rojas Ayala                               Roque Ariel
+620000149000305859Gimenez                               Mario Luciano
+620000149000305866Hernan                               Roberto
+620000149000305873Iramain                               Juan Pedro
+620000149000305880Flecha Flecha                               Justino
+620000149000305897Ayala                               Juan Alberto
+620000149000305903Rocha Fernandez                               Erasmo
+620000149000305910Segura Yupanqui                               Fermina
+620000149000305927Chavez Siria                               Rosa
+620000149000305934Farias                               Vicenta Adoracion de Jesús
+620000149000305941Padilla                               Delia Beatriz
+620000149000305958Caceres                               Juan Carlos
+620000149000305965Albarenga Sanchez                               Marciano
+620000149000305972Romero                               Teresa Miriam
+620000149000305989Rodriguez                               Maria Lily
+620000149000305996Romero                               Rosa
+620000149000306009Ovando Pardo                               Cesar Eduardo
+620000149000306016Gonzalez                               Enrique Omar
+620000149000306023Medina                               Walter Anibal
+620000149000306030Chavez                               Delicia Mabel
+620000149000306047Aguiar                               Pablo Daniel
+620000149000306054Espinola                               Floria
+620000149000306061Rojas                               Marcos Adrian
+620000149000306078Carrizo                               Hugo Victor
+620000149000306085Ruiz                               Analia
+620000149000306092Urzagasti                               Rita Magdalena
+620000149000306108Albarenga Sanchez                               Francisca
+620000149000306115Bogarin                               Braulio
+620000149000306122Jara                               Candido
+620000149000306139Ortigoza Chamorro                               Amanda Estela
+620000149000306146Acuña                               Santiago Anibal
+620000149000306153Vega                               Rosa Elizabeth
+620000149000306160Alvarez Villar                               Lidia Mariana
+620000149000306177Azcarate Acosta                               Marisol Roxana
+620000149000306184Recalde Ferreira                               Maria del Carmen
+620000149000306191Yahari Duarte                               Celia Geronima
+620000149000306207Astorga Larrea                               Simon
+620000149000306214Paredes Villalba                               Gladys
+620000149000306221Vera Ortiz                               Reinalda
+620000149000306238Veliz Cira                               Hortencia
+620000149000306245Peña                               Sylvia Paola
+620000149000306252Alegre Mendoza                               Nelson Arsenio
+620000149000306269Carabajal                               Blanca Patricia
+620000149000306276Aquino Lopez                               Maria Magdalena
+620000149000306283Duete                               Eugenio
+620000149000306290Martinez                               Juan Manuel
+620000149000306306Galeano Mendoza                               Lidia
+620000149000306313Aguero                               Susana Beatriz
+620000149000306320Vega                               Ester Alicia
+620000149000306337Maciel                               Mabel Noemi
+620000149000306344Baez Barrios                               Francisco
+620000149000306351Ramos Villalba                               Luisa
+620000149000306368Arevalo                               Omar Raul
+620000149000306375Terre                               Juana
+620000149000306382Aguirre                               Sandra Vanesa
+620000149000306399Torres                               Josefa Herminia
+620000149000306405Roa                                Pedro Anibal
+620000149000306412Ortiz Rodriguez                               Yolanda
+620000149000306429Acevedo                               Norma Beatriz
+620000149000306436Reynozo                               Carlos

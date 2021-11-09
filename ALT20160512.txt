@@ -1,0 +1,49 @@
+620000149000300816Gracia                                Avelino
+620000149000300823Pedrozo                               Griselda Beatriz
+620000149000300830Gomez                               Ramona
+620000149000300847Cespedes                               Roberto Esteban
+620000149000300854Navarro                               Dominga Josefa
+620000149000300861Barsola                               María del Carmen
+620000149000300878Cruz                               Luis Raimundo
+620000149000300885Ojeda                               Carmelo
+620000149000300892Sierra                               Pedro Martín
+620000149000300908Dechecchi                               Ruben Esteban
+620000149000300915Ayala Silva                               Trinidad
+620000149000300922Aranda                               Roque Maximiliano
+620000149000300939Lezcano                               Deolina Francisca
+620000149000300946Farias                               Hector Raúl
+620000149000300953Lencina                                Carlos Victor
+620000149000300960Estigarribia                               Eulogio
+620000149000300977Popovich                               Eduardo Emilio
+620000149000300984Montenegro                               Juana Rosa
+620000149000300991Lugo                               Virgilia del Pilar
+620000149000301004Escobar                               Victor Ceferino
+620000149000301011Flores                               Ramon Alberto
+620000149000301028Ojeda                               Facunda Yolanda
+620000149000301035Rodriguez                               Librado Esperanza
+620000149000301042Adorno                                Irene
+620000149000301059Forneron Ramirez                               Victor Dario
+620000149000301066Gonzalez                               Julio Isidoro
+620000149000301073Arce                               Juana Mónica
+620000149000301080Orosco                               José Antonio
+620000149000301097Argañaraz                               Florinda Delicia
+620000149000301103Aguirre                               Jorge Antonio
+620000149000301110Blanco Alfredo                               Alfredo
+620000149000301127Vergara                               Jose Rocardo
+620000149000301134Ibañez                               Raúl Guillermo
+620000149000301141Pereira                               Sebastian
+620000149000301158Fernandez                               Adrian Alfredo
+620000149000301165Quintana                               Maria Rosa
+620000149000301172Gonzalez Alvarenga                               Adelaida
+620000149000301189Rodi                               Claudia Noemi
+620000149000301196Jerez                               Norma Irene
+620000149000301202Torres                                Silvia Alejandra
+620000149000301219Alegre                               Liliana Noemi
+620000149000301226Paccheco                                Juan Antonio
+620000149000301233Barrios                               Pedro José
+620000149000301240Barrios                                Osvaldo
+620000149000301257Duarte                               Angela Ruvencia
+620000149000301264Fuentes                               Edwin
+620000149000301271Rios                               Maria Concepción
+620000149000301288Alagastino                               Oscar Horacio
+620000149000301295Escalante                               Alejandra Margarita

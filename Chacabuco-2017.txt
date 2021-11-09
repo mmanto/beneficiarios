@@ -1,0 +1,4 @@
+773f;3;AGÜERO;Silvia Mariana;24645983;argentina;20/02/1976;Marcos Agüero;Ana Assad ;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Cervantes N° 410 (padre)
+773e;2;ALBORNOZ;Lautaro Bernabe;36574949;argentina;29/09/1991;Leandro Albornoz;Veronica Calaldo;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;Pringles N° 579 (padre)
+773f;4;ARECO;Bartola Isabel;4969857;argentina;24/08/1944;Candelario Areco;Maria Margarita Romero;ROSALES;Jorge;7626908;argentina;23/10/1949;Gragorio Rosales;Secundina Quevedo;Almafuerte N° 64
+773f;9;AREQUIPA;Nelida Noemi;18658530;argentina;13/02/1967;Juan Domingo Arequipa;Melchora Peralta;Mouse;Mickey;33333333;arg.;01/01/1911;Padre;Madre;B° UOCRA casa 9D

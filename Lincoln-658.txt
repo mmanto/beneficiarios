@@ -1,0 +1,118 @@
+II;G;658;658aa;51;CERES;José Ezequiel;23620242;Mouse;Mickey;33333333;Falta Boleto y estado civil, nombre esposa. verificar nomenclatura
+II;G;658;658aa;1;NUÑEZ;Antonela Celeste;37272674;ROMANO;Manuel Alberto;32555123;completo
+II;G;658;658aa;2;OZES;María de los Ángeles;35903604;LOPEZ;Sebastian Agustín;35407546;completo
+II;G;658;658aa;3;PERALTA;Maira Gisele;34214230;VARELA;Miguel Alejandro;34951229;completo
+II;G;658;658aa;5;MUÑOZ;Bárbara Yael;40138827;Mouse;Mickey;33333333;completo
+II;G;658;658aa;6;OCHOA;Romina Andrea;30948862;Mouse;Mickey;33333333;completo
+II;G;658;658aa;7;AQUINO;María Nélida;29301279;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658aa;8;FINOCCHI;Clara Belén;37344068;GHISO;Alexis Adrián;35042693;Falta Boleto
+II;G;658;658aa;9;TREJO;Antonela;35214984;MALVASSORA;Hernán Gonzalo;33348677;completo
+II;G;658;658aa;11;ESCUDERO DIAZ;Rocío Abigail;35903508;Mouse;Mickey;33333333;completo
+II;G;658;658aa;12;RODRIGUEZ;María Florencia;35042659;SANCHEZ;Jonatan Ezequiel;32066669;completo
+II;G;658;658aa;13;FERNANDEZ;Marianela Soledad;31584278;POLANCO;Emiliano Jesús;32901660;completo
+II;G;658;658ab;1;ARIAS;Vanessa Susana;27845791;Mouse;Mickey;33333333;divorciada fta nombre del ex
+II;G;658;658ab;2;BIHURRIET;Erika Gisela;36512511;DAVID;Alexis Andrés;36512692;completo
+II;G;658;658ab;3;SPRENGER;Norali Anabel;27776317;Mouse;Mickey;33333333;completo
+II;G;658;658ab;4;GARCIA;Lucrecia Daniela;32555222;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658ab;5;CONTRERAS;Mariela Carolina;32555006;PLAZA ;Diego Oscar;32066537;completo
+II;G;658;658ab;8;CHAPERON;Nadia Yanina;32461762;Mouse;Mickey;33333333;completo
+II;G;658;658ab;9;ANDRES;Alejo;34092308;Mouse;Mickey;33333333;completo
+II;G;658;658ab;12;ORONA;Victorino Gastón;12014440;Mouse;Mickey;33333333;completo
+II;G;658;658ab;13;BENITO;Diego ;37370057;Mouse;Mickey;33333333;completo
+II;G;658;658ab;14;GARCIA;Verónica Isabel;22927069;SAN MIGUEL;José Ramón;24254467;completo
+II;G;658;658ac;1;CONTRERAS;Martin;29263227;Mouse;Mickey;33333333;completo
+II;G;658;658ac;2;GARCIA;Valentina María Isabel;38323734;POLLASTRINI;Juan Ignacio;34982051;completo
+II;G;658;658ac;3;GOMEZ;Maia Sol;35214922;GIARDULLO;Federico Pascual;30228138;Falta Boleto
+II;G;658;658ac;4;CACERES;Verónica Beatriz;36512422;BUSTI;Jonatan Marcelo;34951230;completo
+II;G;658;658ac;6;NOLASCO;Lucila;23491236;SIMON;Oscar Alfredo;21445315;completo
+II;G;658;658ac;7;ROLANDO;Eduardo José;18276531;Mouse;Mickey;33333333;completo
+II;G;658;658ac;8;ABACA;Cristian Nerio;32066605;Mouse;Mickey;33333333;completo
+II;G;658;658ac;9;PERRANDO;Claudia Marcela;22279678;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658ac;10;NECCHI;Néstor Rubén;23168514;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658ac;11;LUESO;Daniel Oscar;29263291;Mouse;Mickey;33333333;completo
+II;G;658;658ac;13;PINO;Alberto Horacio;31151555;Mouse;Mickey;33333333;completo
+II;G;658;658ac;14;LARRETAPE;Liliana Mabel;27845557;TUESTA;Pedro Javier;27821317;completo
+II;G;658;658ad;1;AGUIAR PELAYES;Bárbara Noelia;33460285;PASQUALONE;Jesús;32555284;Falta Boleto
+II;G;658;658ad;2;FERNANDEZ;Ignacio Maximiliano;30228025;Mouse;Mickey;33333333;completo
+II;G;658;658ad;3;GETTE;Cesar Luis;34951248;Mouse;Mickey;33333333;completo
+II;G;658;658ad;4;HERNANDEZ;Elena Graciela Noemí;29263031;Mouse;Mickey;33333333;divorciada fta nombre del ex
+II;G;658;658ad;5;ELICIRI;Julio Roberto;20507768;Mouse;Mickey;33333333;Falta Boleto divorciado, falta nombre de la ex
+II;G;658;658ad;7;SARALEGUI;Fabián Ramón;34214046;Mouse;Mickey;33333333;completo
+II;G;658;658ad;8;ARGÜELLO;Fabio José;33851216;Mouse;Mickey;33333333;completo
+II;G;658;658ad;9;PEREYRA;Gabriela Verónica;27845664;Mouse;Mickey;33333333;casada, fta nombre del marido
+II;G;658;658ad;10;LARROUSSE;Martin;24254578;Mouse;Mickey;33333333;completo
+II;G;658;658ad;11;DEL VALLE;Graciela Beatriz;23153248;PACHAMÉ;Carlos Alberto;22145489;Fta Boleto. casada, fta nombre del marido
+II;G;658;658ad;12;RIVERO;Cecilia Leticia;26839127;LEDEZMA;Sergio Norberto;30040842;completo
+II;G;658;658ad;13;ZUNINO;María Cecilia;25726718;Mouse;Mickey;33333333;completo
+II;G;658;658ad;14;SANCHEZ;Jairo Ariel;33798786;Mouse;Mickey;33333333;completo
+II;G;658;658af;1;MUÑOZ;Graciela;29827745;Mouse;Mickey;33333333;completo
+II;G;658;658af;5;DE LAS HERAS;Jorge Daniel;17335786;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658af;8;SEI;Mónica Graciela;17335883;Mouse;Mickey;33333333;completo
+II;G;658;658ag;9;PAGELLA;María Andrea;26225921;GALLIONE;Leonardo Germán;26524589;completo
+II;G;658;658ag;14;JUAREZ;Malvina Virginia;29263110;GARRIDO;Willer Esteban;30612856;completo
+II;G;658;658ag;17;FERNANDEZ;Mirta Isabel;21785648;BUSTI;Diego Franco;25726709;nombre del ex de Fernandez
+II;G;658;658ag;19;IRIBARREN;Antonella Judith;38323597;GONZALEZ;Pedro Isaac;35214918;fta Boleto
+II;G;658;658am;1;DUMPIERREZ;Clarisa Belén;36512622;ALBIENI VELA;Maximiliano Miguel;34490773;completo
+II;G;658;658am;2;LUJAN;María Florencia;31584073;HERRERA;Franco;30948762;completo
+II;G;658;658am;3;BARRERA;Hernán Javier;23863059;Mouse;Mickey;33333333;completo
+II;G;658;658am;4;IRIGOYEN;Jésica Lorena;35903571;CUADRO;Mariano Agustín;34951122;completo
+II;G;658;658am;5;CUADRO;Alejandra Daniela;31584262;LARRIAGA;Diego Martín;35408334;completo
+II;G;658;658am;6;ORMAZABAL;Soledad;35214939;DI NELLA;Ricardo Enrique;28329676;completo
+II;G;658;658am;7;DOMINGUEZ;Celeste Soledad;34547202;HELGUE;Pedro Gustavo;25035382;completo
+II;G;658;658am;8;VARELA;Fernando David;36512605;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658am;9;LACOSTE;Nora Azucena;22145451;CEBALLOS;Ángel Martín;28329795;completo
+II;G;658;658am;10;BARRIOS;Héctor Daniel;35235402;Mouse;Mickey;33333333;completo
+II;G;658;658am;11;SANTANA;Alicia Guillermina;31377850;Mouse;Mickey;33333333;completo
+II;G;658;658am;12;MALVASSORA;Federico Andrés;36512632;Mouse;Mickey;33333333;completo
+II;G;658;658am;14;AGUILAR;Analia Verónica;23168868;RILLO;Marcelo Adrian;24146446;Falta Boleto
+II;G;658;658am;15;PEREZ;Juan Domingo;13358954;Mouse;Mickey;33333333;divorciado fta nombre de la ex
+II;G;658;658am;18;ENRIQUEZ SANCHEZ;Marina Soledad;32341888;OSTOLAZA;Andrés;28714953;completo
+II;G;658;658am;19;MEZZETTI;María Soledad;25035478;ACOSTA;Diego Matías;30227010;completo
+II;G;658;658am;20;ESPIL;Malvina Vanesa;29263187;ORMAZABAL;Lucas Javier;29263217;completo
+II;G;658;658am;21;BECERRA;Analia Verónica;29263275;ORMAZABAL;Matías Jesús;32066593;divorciada fta nombre del ex
+II;G;658;658am;22;ARIATA OROSCO;Federico Hernán;36052000;Mouse;Mickey;33333333;completo
+II;G;658;658an;2;DARRIEU;Yésica;33798901;Mouse;Mickey;33333333;completo
+II;G;658;658an;3;GUEZAMBURU;Andrés;34547231;Mouse;Mickey;33333333;completo
+II;G;658;658an;5;BELLOSO;María Sol;27716817;MARTINEZ;Carlos Raúl;27167453;Falta Boleto
+II;G;658;658an;6;RAMOS;Verónica Daniela;27314990;VALDEZ;Franco Luján;27533707;completo
+II;G;658;658an;8;ROSALES;Ayelén Victoria;35608905;VILCHES ZARATE;Pablo Andrés;31694129;completo
+II;G;658;658an;9;BONO;Nayla Cristina;31584272;BRANCHESI;Franco Ezequiel;35407783;completo
+II;G;658;658an;17;SABELLA;Gisela Anahí;35903537;GABRIEL;Juan Ignacio;32066655;completo
+II;G;658;658an;18;MONTIEL;Rosana Paola;30228009;ZÁRATE;Carlos Alfredo;23129480;completo
+II;G;658;658c;14;CISNEROS;Daiana Elisabet;37370056;DI BARTOLO;Luciano;38323508;completo
+II;G;658;658d;4;TESTA;Pablo Matías;36512495;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658m;5;DIEZ;Evangelina Daiana;33798714;BORDA;Abel Eduardo;30948839;completo
+II;G;658;658m;7;TABORDA;Sonia Mabel;30948742;HERNANDEZ;Diego Darío;30948604;completo
+II;G;658;658m;8;COMBA;Julieta Anahí;34951296;DECILLO;Emmanuel Alexis;32066509;completo
+II;G;658;658n;5;FREDES;Mónica Isabel;23168592;;;;completo
+II;G;658;658r;1;AUDISIO;María Florencia;27167590;ARNALDI;Carlos Alberto;26839103;completo
+II;G;658;658s;2;MARTINEZ;Noelia Elizabeth;30601742;ANGIARI;José Juan Ramón;32555113;completo
+II;G;658;658s;3;CARRIZO;Silvina Paola;28945482;OBERTI;Jorge Luis;28714903;completo
+II;G;658;658s;4;GROSSO;Vilma Daniela;30612960;Mouse;Mickey;33333333;completo
+II;G;658;658s;5;ARGÜELLO;Micaela Soledad;37398458;Mouse;Mickey;33333333;completo
+II;G;658;658s;7;PIC;Pamela Fabiana;30291238;DOMINGUEZ;Alejandro Omar;30927819;FTA dni y cuil de Dominguez
+II;G;658;658s;8;GONZALEZ;Rebeca Elisabet;29263010;Mouse;Mickey;33333333;completo
+II;G;658;658s;9;CEPEDA;Daiana Yanel;36818614;Mouse;Mickey;33333333;completo
+II;G;658;658s;10;VIOLA;Eliana Patricia;34214100;Mouse;Mickey;33333333;completo
+II;G;658;658s;11;CAMINO;Daniela Paola;26384528;Mouse;Mickey;33333333;completo
+II;G;658;658s;12;MELO;María José;29263005;SALLES;Javier Ángel;24677649;completo
+II;G;658;658s;13;GONZALEZ;Elsa Mercedes;27167512;CORTES;Pablo Alberto;27623306;completo
+II;G;658;658s;14;PLAZA;María Florencia;34214001;PINO ;Jorge Ariel;35042563;completo
+II;G;658;658t;1;BRITOS;Pamela Soledad;30612872;GONZALEZ;Cristian Mauro;23168846;Falta Boleto
+II;G;658;658t;2;ALVAREZ;María de los Ángeles;23769994;Mouse;Mickey;33333333;completo
+II;G;658;658t;3;ARANDA;Paola Daniela;31584128;Mouse;Mickey;33333333;completo
+II;G;658;658t;4;SALAZAR;Rocío Judit;34214059;BARBOZA;Emmanuel Matías;32729269;completo
+II;G;658;658t;5;COSTA;Antonela Silvina;34085911;Mouse;Mickey;33333333;completo
+II;G;658;658t;6;BAROLI;Lucía;38663119;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658t;7;YUCHECHEN;Sabrina;33482775;SEGNORILE;Fernando Gabriel;30228568;completo
+II;G;658;658t;8;GOROSITO;Julieta;32066800;Mouse;Mickey;33333333;Falta Boleto
+II;G;658;658t;10;BONETTI;Marisol;31584217;ORMAZABAL;Emanuel;32066666;completo
+II;G;658;658t;11;ROBLEDO;Judith Marisel;22875901;DALENA;Guillermo Daniel;21785961;completo
+II;G;658;658t;14;GUZMÁN;Nancy Mónica;24677686;NEIMAN;Roberto Oscar;22712406;completo
+II;G;658;658y;2;GONZALEZ;Dino Adrian;23070052;Mouse;Mickey;33333333;completo
+II;G;658;658y;10;CEPEDA;María Soledad;32918176;Mouse;Mickey;33333333;completo
+II;G;658;658y;11;ALARCON;José Adrian;17818101;Mouse;Mickey;33333333;divorciado fta nombre de la ex
+II;G;658;658y;12;ALVAREZ;Carolina;24870268;ALMADA;David Ivan;26303306;completo
+II;G;658;658z;6;ARENAS;Leonela Gisela;33798883;BUSTOS;Maximiliano Nicolás;32066517;completo
+II;G;658;658z;11;BUSTAMANTE;Griselda Valeria;28.714.960;Mouse;Mickey;33333333;completo
+II;G;658;658z;12;LEGUIZAMON;Carlos Martin;29827678;Mouse;Mickey;33333333;completo

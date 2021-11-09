@@ -1,0 +1,4 @@
+<?
+$link=mysql_connect("10.31.5.18","root","root") or die ("Error en la conexion");
+mysql_select_db("mytierras",$link);
+?>

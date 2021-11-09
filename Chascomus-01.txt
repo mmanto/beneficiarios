@@ -1,0 +1,448 @@
+II;B;30;30g;01;FRANCO;Ana Paula;28532785;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30g;03;BATISTA;Silvia Raquel;27626429;MORALES;Marcelo Andres;23005762;Falta Boleto
+II;B;30;30g;04;GHIGLIONE;Maria Cecilia;24269559;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;05;FELIPE;Maria Alejandra;20367138;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;06;CASALES;Veronica Soledad;25041611;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;07;SUAREZ;Carolina Raquel;28532950;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;08;PEREZ;Analia Elizabeth;27855944;VELAZCO;Luis Alberto;23856905;Sin observaciones
+II;B;30;30g;09;DIAZ;Elsa Noemi;20366932;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;10;ORBE;Evelina Ines;18219206;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;11;DIAZ;Sandra Beatriz;21845464;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;12;GANUZA;Silvana Gisela;27144565;GONZALEZ;Ovidio Gaston;28289199;Sin observaciones
+II;B;30;30g;13;GUZMAN;Valeria Jimena;29781088;CAMARA;Ricardo Daniel;27144782;Sin observaciones
+II;B;30;30g;14;LENCINA;Maria Gabriela;23345829;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30g;15;AVELLANEDA;Sara Beatriz;22045912;MASON;Carlos Alberto;18219108;Sin observaciones
+II;B;30;30g;16;BRUNI;Luciana Daniela;28532554;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30g;17;MARTINEZ;Rosana Beatriz;16967335;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30g;18;CASTAÑOS;Maria Ines;25679558;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30g;19;TIRELLES;Edilma Juana;3130038;MORGUEN;Reynaldo Tomas;5204810;Sin observaciones
+II;B;30;30g;20;HILT;Liliana Beatriz;16911456;MORENO;Francisco Alberto;14445793;Falta Boleto
+II;B;30;30h;01;RIVERO;Mirta Liliana;23200103;FERRERO;Luis Carlos;13963240;Sin observaciones
+II;B;30;30h;03;MARTICORENA;Julieta Adriana Mariel;22716401;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30h;04;VERA;Ana Paula;29908004;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30h;05;PERALTA;Sandra Isabel;25679778;CEBALLOS;Mario Rafael;27144654;Sin observaciones
+II;B;30;30h;06;MARCONI;Maria Soledad;25041574;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30h;07;YOUNG;Paola Vanesa;24269726;ALLAN;Ismael Normando;17919813;Sin observaciones
+II;B;30;30h;08;LAFFUE;Maria Victoria;27902762;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30h;09;DE LA CANAL;Maria Gabriela;21664520;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30h;10;BEROY;Guillermina;30827727;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30h;11;PROCELLARIO;Sandra Paola;30827864;ARIAS;Marcos Ezequiel;31078249;Falta Boleto
+II;B;30;30h;12;PAVLETICH;Mariela;23572699;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30h;13;FERNANDEZ;Roxana Gabriela;25779092;GOMEZ;Gonzalo Dario;30116266;Falta Boleto
+II;B;30;30h;14;BRIZUELA;Lucia;4092503;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30h;15;VILLA;Romina Soledad;26318564;RODRIGUEZ;Jorge Manuel;26074408;Sin observaciones
+II;B;30;30h;16;MANSILLA;Debora Natalia;28532550;BARBERAN;Adolfo Martin;23251693;Falta Boleto
+II;B;30;30h;17;RONDON;Monica Graciela;23920774;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30h;18;LUDUAÑA;Rosana Nieves;21845079;PECOTCHE;Cristian Martin;22526083;Falta Boleto
+II;B;30;30h;19;JAIME;Maria Cristina;14517208;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30h;20;ESTANGA;Maria Eugenia;25855881;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30h;21;LOPEZ;Miriam Elizabeth;3419241;TOFFANI;Ricardo Jesus;22526014;Falta Boleto
+II;B;30;30h;22;TORRES;Cecilia Elizabeth;24546309;PAVONE;Oscar Horacio;17076949;Falta Boleto
+II;B;30;30m;01;PAEZ;Stella Maris;27605170;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30m;02;ORUETA;Luciana;29434653;ESTIVE;Jose Luis;28532560;Sin observaciones
+II;B;30;30m;03;SCATASSA;Maria Valeria;23698679;LOPEZ;Ramon Daniel;12984798;Sin observaciones
+II;B;30;30m;05;HAEDO;Mariana Raquel;29494992;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30m;06;LARROUDE;Maria Candela;27144666;NAPOLI;Juan Ignacio;27328186;Sin observaciones
+II;B;30;30m;07;PEREYRA;Sivia Teresa;14878764;REYNOSO;Rodolfo Roberto;12547378;Falta DNI de Pereyra
+II;B;30;30m;09;PEDERNERA;Patricia Elisabet;26318454;OVIEDO;Rene Eduardo;25901660;Sin observaciones
+II;B;30;30m;10;GUTIERREZ;Fernanda Ines;31351734;PARODI;Carlos Daniel;21845311;Falta Boleto
+II;B;30;30m;11;DEMARE;Alejandra Elizabeth;22716195;RODRIGUEZ;Martin Eduardo;23005462;Falta Boleto
+II;B;30;30m;12;VARELA;Silvia Renee;20035965;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30m;13;GROSSI;Lucrecia Noemi;18151955;PALACIOS;Carlos Agustin;14242302;Sin observaciones
+II;B;30;30m;14;LIZARRAGA;Maria de los Angeles;26624940;Mouse;Mickey;33333333;Faltan Boleto
+II;B;30;30m;15;QUIROGA;Diana Daniela;20491328;MEDINA;Alberto Omar;20437156;Sin observaciones
+II;B;30;30m;16;PARODI;Jessica Paula;26074471;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30m;17;VILLAVERDE;Graciela Mabel;16270366;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30m;18;DIAZ;Marcela Angelica;22840821;BERON;Abel Oscar;23610050;Falta Boleto
+II;B;30;30m;19;URIBARRI;Elba Maria;31078122;GANUZA;Carlos Alberto;26074202;Sin observaciones
+II;B;30;30m;20;QUINTEROS;Miguel Angel;17253216;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30m;21;VARELA;Federico Ignacio;35820916;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30m;22;GUANCIARROSA;Sandra;21845032;GARAT;Sergio Leonardo;21445817;Sin observaciones
+II;B;30;30t;01;MARTINEZ;Ana Maria;29031923;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30t;02;MAZZARIOLI;Maria Laura;28532607;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30t;03;SAUCEDO;Matilde;5943499;JUAREZ;Juan Carlos;4556471;Falta Boleto 
+II;B;30;30t;04;ELIZALDE;Miriam Liliana;17076891;Mouse;Mickey;33333333;Falta Boleto 
+II;B;30;30t;05;CASTILLO;Miriam Alejandra;21846631;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30t;06;CASTELFIDARDO;Debora Alicia;31351733;ANDRADE;Diego Omar;29827072;Falta Boleto 
+II;B;30;30t;07;BARRIOS;Jimena Soledad;30490558;CIALE;Cristian Juan Alberto;24455606;Sin observaciones
+II;B;30;30t;08;ROSALES;Carina Rosalia;21504087;VALLEJOS;Ricardo Enrique;20961105;Falta Boleto y cuil de vallejos
+II;B;30;30t;10;DOSPITAL;Marta Ines;12547045;Mouse;Mickey;33333333;Falta boleto
+II;B;30;30t;11;GANIM;Maria Ines;24546401;VEIRA;Juan Francisco;25612508;Falta boleto
+II;B;30;30t;12;MARTINEZ;Alicia Susana;16178672;Mouse;Mickey;33333333;Falta boleto
+II;B;30;30t;13;MARRUEDO;Walter Horacio;24269572;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30t;14;HORNOS ACOSTA;Vanesa Elisabeth;30827732;Mouse;Mickey;33333333;Falta boleto
+II;B;30;30t;15;ENRIQUEZ;Silvia Ines;20035944;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30t;16;ETCHETO;Maria Lucrecia;31689993;PICCARDO;Diego Martin;29494923;Falta boleto
+II;B;30;30t;17;URRUTY;Sandra Adela;21843178;YAFUL;Cesar Horacio;18121576;Sin observaciones
+II;B;30;30t;18;BICCHIERI;Cecilia Lorena;29498144;AKEL;Sahir Baruc;26884954;Falta boleto
+II;B;30;30t;19;MARTINEZ;Ana Maria;28530985;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30t;20;VELAZCO;Maria Elizabeth;18540095;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;01;VALLEJOS;Ana del Carmen;9980162;ALVAREZ;Victorio Saturnino;5205948;Sin observaciones
+II;B;30;30w;02;FERREIRA;Berta Yolanda;541827;PIETRANTUONO;Juan Antonio;5209293;Sin observaciones
+II;B;30;30w;03;VALLEJOS;Maria Estela;21845090;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;04;LOPEZ;Esperanza Raquel;541693;MANRIQUE;Uldemar Gerardo;5204205;Sin observaciones
+II;B;30;30w;05;REDRUELLO;Fatima Edith;31078173;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;06;MARTINEZ;Maria Gabriela;27882494;LAZARTE;Santiago Alfonso;30977669;Falta Boleto
+II;B;30;30w;07;ZOYA;Karina;26318466;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;08;BEROIS;Graciela Noemi;11700798;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30w;09;LANDA;Magali Mabel;31078134;FRANCESE;Cesar;30412572;Sin observaciones
+II;B;30;30w;10;GAUDIO;Sabrina Elizabet;31408998;AGUIRRE;Juan Carlos;26074468;Sin observaciones
+II;B;30;30w;11;BARRIOS GARCIA;Ana Paola;25679753;GONZALEZ;Luis Rodolfo;16178507;Falta Boleto
+II;B;30;30w;12;FERNANDEZ BEGUERIE;Martin;25300074;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;13;GARAY;Luis Emilio;10580154;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30w;14;CATTANI;Juana Josefa;13613716;BORDACHAR;Ruben Pedro;12914917;Sin observaciones
+II;B;30;30w;15;BORGE;Amelia del Carmen;25041645;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;16;BATISTA;Monica Liliana;17076939;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;17;CASTRO;Ana Lujan;26074333;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;18;GABOTTO;Nilda Evelia;10361472;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30w;19;ALFONSIN;Natalia;25679738;VACA;Silvio Gustavo;22526143;Sin observaciones
+II;B;30;30w;21;DE LA CANAL;Monica Lorena;25679586;GAILLARD;Juan Alberto;24546491;falta documentacion y boleto a fs 1506
+II;B;30;30x;01;DURAN;Gladys Beatriz;18595915;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30x;02;VERA;Maria Cristina;17643572;ROLDAN;Jose Eduardo;13613560;Sin observaciones
+II;B;30;30x;03;LANDA;Hilda Beatriz;10854144;NOYA;Hector Daniel;8559438;Falta Boleto
+II;B;30;30x;04;MENDOZA;Claudia Beatriz;17919807;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;05;RONDON;Karina Marcela;25041592;YAMUL;Miguel Angel;26767674;Falta Boleto
+II;B;30;30x;06;TOFFANI;Maria Alejandra;30116269;LABORDE;Alberto;29182243;Sin observaciones
+II;B;30;30x;07;GALVAN;Andrea Alejandra;28295739;REYNOSO;Horacio Maximiliano;27873889;Sin observaciones
+II;B;30;30x;08;BORDENAVE;Maria Laura;23005535;CANEPA;Raul Enrique;28149763;Falta Boleto 
+II;B;30;30x;09;SERRANO;Norma Edith;16184876;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;10;MANRIQUE;Paola Vanesa;26318475;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;11;GIRADO;Daiana Denise;33851384;JAVIER;Daniel Eduardo;28532924;Consignar nombre padres de Girado
+II;B;30;30x;13;RODRIGUEZ;Santa Clara;10264869;MILLARINI;Jose Luis;12547366;Sin observaciones
+II;B;30;30x;14;ORIOLO;Maria Vanesa;30827882;MAURI;Juan Manuel;27328160;Sin observaciones
+II;B;30;30x;15;DIAZ;Maria de los Angeles;28289122;CAMARA;Claudio Alejandro;23920720;Falta Boleto 
+II;B;30;30x;16;DORREGARAY;Nora Leonor;14417778;MENDEZ;Ulises Alberto;11557048;Falta Boleto 
+II;B;30;30x;17;OLARIAGA;Maria del Carmen;28289266;Mouse;Mickey;33333333;Falta Boleto 
+II;B;30;30x;18;TOCCI;Rosa Maria Florencia;32584619;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;19;TOCCI;Silvina Graciela;28532800;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;20;REYNOSO;Monica Patricia;25679631;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;21;LOREDO;Gabriela Alejandra;23754736;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30x;22;ORTIZ;Liliana Mabel;21446055;MENDIZABAL;Edgardo Ceferino;20036242;Sin observaciones
+II;B;30;30y;03;BARRIOS;Viviana Patricia;21445851;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;04;SOSA;Marta Lujan;12547272;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;06;DIAZ;Daiana Edith;29191188;BRANDONI;Osvaldo Gaston;29182320;Sin observaciones
+II;B;30;30y;07;GIFFI;Natalia Lorena;24294374;QUESADA;Crlos Roberto;27882452;Sin observaciones
+II;B;30;30y;08;ORELLANA;Natalia Cristina;24811759;PEREZ;Christian Miguel;22853604;Falta Boleto 
+II;B;30;30y;09;GALEANO;Marta Isabel;13934747;ZABALETA;Miguel Angel;12547370;Sin observaciones
+II;B;30;30y;10;GRAMONT;Patricia Veronica;30827878;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;11;ZAPATA  CRUBLLIER;Maria Soledad;29182240;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;12;LEDESMA;Daniela Macarena;27328470;CABRAL;Primo Gustavo;26842723;Sin observaciones
+II;B;30;30y;14;RAMPOLDI;Lucia;22526294;Mouse;Mickey;33333333;Falta Boleto 
+II;B;30;30y;15;ZARANTONELLO;Hilda Beatriz;10854170;Mouse;Mickey;33333333;Falta Boleto 
+II;B;30;30y;16;ABELENDA;Maria Alicia;13934808;Mouse;Mickey;33333333;Falta Boleto 
+II;B;30;30y;17;LARRAULA;Natalia Soledad;28532990;ANDERSON;Carlos Eduardo;22217543;Sin observaciones
+II;B;30;30y;18;HARTMANN;Silvia Beatriz;20961163;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;19;DUCLOUX;Lidia Mabel;10854076;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;20;VELAZCO;Stella Maris;24725674;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30y;21;HYMATOLINE;Metina;29755206;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;01;ROCHA;Ana Cristina;26074262;COUSO;Sergio Gustavo;18219244;Sin observaciones
+II;B;30;30z;02;BERTUCCI;Myriam Adriana;22840869;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;03;ROMERO;Graciela Mariel;27144703;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;04;HAEDO;Maria Celeste;29099768;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;05;CABANAS;Lorena Virginia;25664449;OFFICIALDEGUY;Carlos Anibal;23005726;Falta Boleto 
+II;B;30;30z;06;TIERI;Maria Alejandra;23005832;MARINA;Juan Manuel;23920741;Sin observaciones
+II;B;30;30z;07;VANNARAJ;Hatsdone;18833214;MAOSIBUNROUNG;Saly;18843400;Sin observaciones
+II;B;30;30z;08;URBAN;Mabel Noemi;29012648;CASCO;Julio;14517225;Falta Boleto 
+II;B;30;30z;09;PEREYRA;Marisol;27328318;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;10;ALMADA;Edgar Silvestre;28459478;Mouse;Mickey;33333333;Falta Boleto 
+II;B;30;30z;11;MONTES DE OCA;Noelia Noris;24914811;CAVALLI;Reynaldo Alberto;25041540;Sin observaciones
+II;B;30;30z;12;CASTRO;Monica Beatriz;27882685;UGARTEMENDIA;Luis Maria;23005679;Sin observaciones
+II;B;30;30z;14;PEREYRA;Cristina Soledad;27328252;BARRERA;Joaquin Pablo;27328246;Falta documento de BARRERA
+II;B;30;30z;15;RUDA;Gloria Beatriz;3866754;SOSA;Jorge Alberto;4296293;Falta Boleto
+II;B;30;30z;16;ANDRADE;Mateo Ignacio;27855952;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;17;CASCO;Monica Isabel;25041691;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;18;VARELA;Ana Paula;31351669;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;19;SURDO;Maria Evangelina;26842570;LENCINA;Nicolas Daniel;29031930;Sin observaciones
+II;B;30;30z;20;REDIN;Irma  Susana;14245171;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;21;FALOMIR;Maria Eugenia;26318449;SANTIAGO;Cristian Pablo;24725675;Falta Boleto 
+II;B;30;30z;22;MAZZARO;Ana Lorena;24546531;ALFONSIN;Lisandro;23005546;Sin observaciones
+II;B;30;30z;23;ESCOBAR;Patricia Valeria;27882645;BRUCETTA;Jose Luis;30490570;Sin observaciones
+II;B;30;30z;24;ROSAS;Miriam Elizabeth;18312211;LLAMPAYAS;Jorge Alberto;31598053;Sin observaciones
+II;B;30;30z;25;GALLEGOS;Marisol Noemi;22526175;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30z;26;URANGA;Valeria Liliana;29494889;ROMERO;Claudio Damian;27588472;Sin observaciones
+II;B;30;30af;01;BEROY;Micaela;31836781;DIAZ ETCHETO;Lucas Gaston;31836524;Sin observaciones
+II;B;30;30af;02;MOYA;Rocio Elizabeth;32827199;ETCHETO;Jorge Maximiliano;31351635;Sin observaciones
+II;B;30;30af;;MOYA;Clara Filomena;6403908;CORONEL;Jorge Luis;5211359;Consignar Parcela. Falta Boleto
+II;B;30;30af;05;GONZALIA;Mariana Elizabeth;29827063;CORDOBA;Juan Cruz;26624845;Sin observaciones
+II;B;30;30af;07;BARRAGAN DIAZ;Norma Beatriz;24546561;ARANDA;Diego Fernando;26318513;Sin observaciones
+II;B;30;30af;08;RUIZ DIAZ;Mercedes Viviana;27855965;FERREYRA;Marcelo Gustavo;25041619;Sin observaciones
+II;B;30;30af;09;LOPEZ;Gisela;30116218;CARRIGAL;Hernan Dario;31968360;Sin observaciones
+II;B;30;30af;0;DAUMA;Diego Andres;56429066;Mouse;Mickey;33333333;Consignar Parcela. Falta Boleto
+II;B;30;30af;11;GIMENEZ;Rosa Monica;18463528;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30af;12;STRAFACIO;Susana Libertad;10807107;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30af;13;GUZMAN;Aldo Idelmar;26074213;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30af;0;AUZOBERRIA;Elba Leonor;1752225;PERALTA;Ruben Dario;5206123;Falta Boleto
+II;B;30;30af;15;PAGES;Maria Guadalupe;26842671;MAULIN;Gabriel Eladio;27144726;Sin observaciones
+II;B;30;30af;16;BAIGORRIA;Andrea Soledad;31697978;Mouse;Mickey;33333333;Falta Boleto y  cuil
+II;B;30;30af;17;FLESCIA;Mercedes Aurora;5096952;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30af;18;ETCHEGOYEN;Maria Alejandra;16925886;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30af;19;CERIMELE;Guillermina;30139778;GALLI;Gustavo Javier;25679621;Falat Boleto
+II;B;30;30af;20;VONGUICHITH;Nouphet;92424219;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30af;21;AROCENA;Stella Maris;28532615;DOMINGO;Eduardo Fabian;28532976;Falta Boleto
+II;B;30;30af;22;ARGUELLO;Andrea Fabiana;23005475;DI PALMA;Carlos Sergio Dario;20233314;Sin observaciones
+II;B;30;30af;23;RIPA;Claudia Maria Jose;22803453;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30af;24;LOPEZ;Norma Raquel;12664279;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30af;25;GONZALEZ;Maria Andrea;22840801;VACA;Diego Emilio;18219208;Sin observaciones
+II;B;30;30af;26;AUGHY;Emilia Gabriela;30827765;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ag;01;GAILLARD;Emilce;31078058;LENCINA;Mario Alberto;25561816;Sin observaciones
+II;B;30;30ag;02;BRUCETTA;Jesica Cecilia;30827736;ORBE;Jorge Daniel;25300076;Sin observaciones
+II;B;30;30ag;03;ETCHEPARE;Juan Manuel;26842561;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ag;04;SAUCEDO;Viviana Noemi;25041524;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ag;05;ANDRADE SANCHEZ;Gabriela;23915560;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ag;06;ORTIZ;Sonia Miriam;13658626;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ag;07;LEZCANO;Carina Alejandra;24442461;CHOLFO;Eduardo Andres;29827007;Sin observaciones
+II;B;30;30ag;08;MACIEL;Elizabeth Lujan;21502040;ARANDA;Marcelo Abel;16270365;Sin observaciones
+II;B;30;30ag;09;ALDABE;Rosana Vanesa;31078170;CERQUETTI;Sebastian Cesar;29031877;Sin observaciones
+II;B;30;30ag;10;GIMENEZ;Pamela Veronica;29781043;CABRERA;Agustin Eduardo;31078020;Falta Boleto
+II;B;30;30ag;13;ZARRACINA;Carolina;26624860;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ag;14;ZABALETA;Maria Isabel;13934814;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ag;15;CHAPPA;Lucia Mabel;27268457;TOCCI;Fabian Alfredo;26496263;Falta Boleto
+II;B;30;30ag;16;RODRIGUEZ;Orlando Edelmar;8333529;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ag;17;BLANCO;Delia Beatriz;10854089;VELAZCO;Hugo Luis;5215551;Falta Boleto
+II;B;30;30ag;18;ORTIZ;Silvina Venesa;29494956;Mouse;Mickey;33333333;Falta Boleto. Documntación a fs 973 y 974
+II;B;30;30ag;19;SALINAS;Marilina Elizabeth;32881595;GUZMAN;Daniel Ricardo;30827832;Sin observaciones
+II;B;30;30ag;20;YANNIBELLI;Elena Beatriz;18543081;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ag;21;LACAMPAGNE;Maria Jose;22840732;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ag;22;DELLAGIOVANNA;Patricia Noemi;21543122;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ah;18;COBRAN;Malvina Soledad;29182494;GIL;Cesar Ariel;26842579;Falta Boleto
+II;B;30;30ah;20;AVENDAÑO;Claudia Esther;18442494;GULIMIS;Nestor  Eduardo;16925900;Sin observaciones
+II;B;30;30ah;13;GUTIERREZ;Lucia Leonides;31351886;TOCCI;Oscar Arnaldo;29182433;Sin observaciones
+II;B;30;30ah;01;GUTIERREZ;Sara;11376745;FARIAS;Oscar Anibal;8426832;Sin observaciones
+II;B;30;30ah;02;CORDOBA;Maria Cristina;18528638;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ah;03;GONZALEZ;Marcela Carolina;24269542;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ah;04;DEL VALLE;Maria Alejandra;26318406;BURGOS;Juan Carlos;30533570;Falta Boleto
+II;B;30;30ah;05;OCAMPO;Pamela Elisa;30490320;Mouse;Mickey;33333333;Falta Documentación
+II;B;30;30ah;07;BATISTA;Angela Veronica;30230155;CASTAÑEDA;Carlos Marcelo;25041627;Sin observaciones
+II;B;30;30ah;08;LOPEZ;Natalia Romina;32432544;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ah;09;SANCHEZ;Andrea Vanesa;31351661;FERRARI;Javier Andres;31690095;Sin observaciones
+II;B;30;30ah;10;FERREYRA;Mercedes;26074470;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ah;11;OCHOA;Monica Viviana;18121635;GIL;Juan Jose;17919921;Sin observaciones
+II;B;30;30ah;12;BERNAOLA;Sandra;23296126;ORBE;Federico Amaro;20367167;Sin observaciones
+II;B;30;30ah;14;BELMAR;Eloisa Magdalena;17188365;BIDEGAIN;Luis Agustin;10559826;Falta Boleto
+II;B;30;30ah;15;HEREDIA;Claudia Andrea;24546514;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ah;17;ARIAS;Maria de los Angeles;20961233;BLANCO;Ruben Oscar;20367287;Falta Boleto
+II;B;30;30am;20;PANETE;Roxana Mariel;25347663;RIVAS;Carlos Alberto;27328486;Sin observaciones
+II;B;30;30am;21;CAVIGLIA;Liliana Mabel;16178593;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;22;CERRILLO;Amelia del Carmen;13985374;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;01;GUALLANONE;Susana Emilce;11501720;GARBIZU;Hector Antonio;10335479;Falta Boleto
+II;B;30;30am;02;NOVOA Y GONZALEZ;Maria Luisa;10854086;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30am;04;BALUTT;Nadia Magali;34760692;BUÑIRIGO;Juan Manuel;28532929;Falta Boleto
+II;B;30;30am;05;ARMESTO;Romina Beatriz;27605183;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;06;ETCHEPARE;Maria Eva;31690038;VON SCHMELING;Rodrigo;92724656;Falta Boleto
+II;B;30;30am;07;REYNOSO;Mariana Ana Carla;29495133;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;08;LUCERO;Alicia Beatriz;30412532;DOBAL;Alejandro Esteban;27116533;Sin observaciones
+II;B;30;30am;09;MILLARINI;Monica Liliana;20961193;GALVAN;Armando Carlos;17076785;Sin observaciones
+II;B;30;30am;10;SCATASSA;Maria Lorena;25174974;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;11;GONZALEZ HERRERA;Lorena Vanesa;24269767;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;12;ARISTEGUI;Mabel Haydee;10096430;SOSA;Juan Pedro;8069556;Falta Boleto
+II;B;30;30am;14;SERVI;Maria Vanesa;30490340;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;;CASTRO;Sandra Elizabeth;24546379;DE LA CANAL;Santos Martin;29827259;Falta Boleto
+II;B;30;30am;16;CORREA CHICLANA;Maria Luz;29031889;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30am;17;BELL;Maria Andrea;21845052;PASSO;Gustavo Fabian;21845191;Sin observaciones
+II;B;30;30am;18;MENDEZ;Emiliana;31078146;ALDABE;Idelmar Elbio Matias;25300114;Sin observaciones
+II;B;30;30am;19;ERRAMUSPE;Maria Silvina;29191177;SANCHEZ;Lucio;26624944;Falta Boleto
+II;B;30;30as;23;SIERRA;Cecilia Veronica;29827141;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;24;TELLECHEA;Rosa Ethel;12914795;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30as;26;VIDELA;Lia Maria Beatriz;12914947;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30as;01;ORBE;Maria Ines;25041701;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;02;MACCHI;Virginia;30116320;GUANCIARROSA;Gonzalo;29494725;Falta Boleto
+II;B;30;30as;03;ALBARRACIN;Karina Vanesa;26842622;SUAREZ;Eduardo Rodolfo;18219134;Sin observaciones
+II;B;30;30as;04;GARCIA PERRONI;Jorge Alberto;25300112;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;05;VEGA;Sonia Elizabeth;22459594;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;07;CAVENAGHI;Maria Cecilia;29827088;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30as;08;LUNA;Graciela;17256910;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;0;FELIPE;Laura Karina;21845104;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30as;10;GEGENA;Monica Raquel;29827061;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;11;BIANCO;Marcela Noemi;20366917;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;13;MACIEL;Fatima Liliana;27882603;PIEDRA;Nestor Fabian;25679666;Sin observaciones
+II;B;30;30as;14;CASTAÑO;Hector Daniel;16464091;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;15;SALDIAS;Maria Jose;26624996;FERREYRA;Carlos Roberto;23920787;Falta Boleto
+II;B;30;30as;16;MERCADO;Andrea Soledad;31771226;ARNOL;Luis Alfredo;17579740;Falta Boleto
+II;B;30;30as;17;IGARATEGUI;Graciela Beatriz;18121692;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;18;CALDERON;Valeria;29031830;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;20;DIAZ;Maria Estela;26176817;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30as;21;DITLEVSEN;Patricia Monica;14394308;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30as;22;BARBERAN;Adriana Cecilia;22549779;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;19;QUESADA;Monica Graciela;24269614;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;20;MOYA;Natalia Edith;30490419;BERTUCCI;Claudio Alberto;26074378;Sin observaciones
+II;B;30;30at;21;IGARATEGUI;Ana Maria;29182360;ERRAMUSPE;Nazareno Esteban;31586099;Falta Boleto
+II;B;30;30at;22;GONZALEZ;Silvina Lorena;29494941;FERNANDEZ;Julio Dario;22318104;Falta Boleto
+II;B;30;30at;03;ALVAREZ;Claudia Veronica;25859562;GONZALEZ;Carlos Alberto;26318575;Falta Boleto
+II;B;30;30at;04;ORONA;Marcela Liliana;20366918;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;05;JOYADA;Maria de los Angeles;25041686;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;07;MACIEL;Maria Irma;4559170;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;08;CAVIEDES;Tamara;28532634;ARBIA;Marcelo;28445412;Falta Boleto
+II;B;30;30at;09;GONZALEZ;Veronica Alicia;25686961;ALMIRON;Cesar Francisco;29182395;Sin observaciones
+II;B;30;30at;10;ZAPATA MAZA;Flavia Mariela;24269656;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30at;11;GONZALIA;Elsa Esther;20367176;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30at;12;ESPINOSA;Alejandra Mabel;16624192;DEL BARBA;Ricardo;14245094;Sin observaciones
+II;B;30;30at;13;BANEGAS;Sandra Lilian;18219213;LEDESMA;Carlos Antonio;17567566;Falta Boleto
+II;B;30;30at;14;YALUL;Lorena Valeria;28289227;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;15;LAMARQUE;Maria Delia;24034071;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30at;16;CAÑETE;Maria Elena;13543429;ONTORIA;Juan Francisco;10854393;Sin observaciones
+II;B;30;30at;17;YANIBELLI;Irma del Carmen;20367281;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30at;18;BURGOS;Cecilia Vanesa;27882700;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;18;BAIZ;Andrea Soledad;28327159;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;19;LEDESMA;Adriana Emilce;18420051;BASTIT;Dario Adolfo;16237176;Sin observaciones
+II;B;30;30aw;17;MURIAS;Monica Liliana;24269611;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;02;FRANCO;Gloria Edith;14517212;MOYA;Roberto Alcides;14517235;Sin observaciones
+II;B;30;30aw;03;GUZMAN;Soledad;29152675;ETCHART;Jeremias Nicolas;26842557;Falta Boleto
+II;B;30;30aw;04;DIAZ;Olga Manuela;26624975;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;05;MARCELINO;Natalia Soledad;28532708;NAON;Ruben Walter;21099819;Sin observaciones
+II;B;30;30aw;06;MARTINEZ;Maria de los Angeles;25041556;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;08;OJEDA;Graciela Isabel;16874423;SERIO;Gustavo Alberto;20961201;Falta Boleto
+II;B;30;30aw;09;SEAL;Romina del Carmen;29494931;MENDEZ;Carlos Hernan;30237200;Sin observaciones
+II;B;30;30aw;10;VALDEZ;Ines Susana;14526985;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;12;GARCIA;Maria del Carmen;16560216;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;16;BUSTO;Sara Mercedes;13058860;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aw;17;MURIAS;Maria Cecilia;26842773;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;21;DOSPITAL;Lucrecia Noemi;29031825;SILVA;Dario Gaston;25679565;Falta Boleto
+II;B;30;30ax;01;FOURCADE;Claudia Elizabeth;24530600;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;02;GIAMPAOLO;Carina Fernanda;24269668;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ax;03;AGUIRRE;Carolina Lucia;29779216;CASINGHINO;Nestor Carlos;27328378;Falta Boleto
+II;B;30;30ax;04;MARENCO;Francisca;6361794;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;05;FONTANA;Maria del Carmen;4569109;CHIRICO;Federico;8069519;Sin observaciones
+II;B;30;30ax;06;IRULEGUI;Zulma Ines;30116281;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;07;MOYANO;Valeria Elena;26842502;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;08;GACHET;Maria Eugenia;27855997;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;09;VILLALBA;Veronica Analia;28669434;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;0;0;PALAVECINO;Marcela Evangelina;29827193;Mouse;Mickey;33333333;Definir manzana y parcela. Falta Boleto
+II;B;30;30ax;11;DE LA CANAL;Ana Beatriz;25679515;PORTERO;Gonzalo Gabriel;23474641;Falta Boleto
+II;B;30;30ax;13;BONA;Mariela Beatriz;23920504;GOMEZ;Sebastian Alejandro;26601533;Sin observaciones
+II;B;30;30ax;14;LALANNE;Maria Agustina;29182467;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;15;TALEP;Viviana Isabel;25798700;MACHADO;Celso;18484377;Falta Boleto
+II;B;30;30ax;16;CABRERA;Alejandra Edith;16178646;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;17;GALLUZZI;Angelina;29494893;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ax;18;PAGES;Natalia Cecilia;24269647;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ax;19;SOSA;Cecilia Vanesa;30490364;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;20;ESCULAPIO;Noelia Gabriela;26842705;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;21;FERNANDEZ;María Alejandra;21664467;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;01;ORTUETA;María de los Angeles;24546406;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;03;PELLAZZINI;Aldana;24546310;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;04;VAZQUEZ;Noelia Amalia;30116395;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;05;BURGOS;Mónica Liliana;31690060;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;07;ORBE;Amalia Primavera;26842595;SEGALINI;Jorge Sebastián;29182429;Sin observaciones
+II;B;30;30aa;08;LOREDO;Patricia Luján;21445852;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;09;OFFICIALDEGUY;Mónica Liliana;18217455;FERNANDEZ;Angel Rolando;16237196;Sin observaciones
+II;B;30;30aa;10;OMODEO VANONE;Noelia;29031860;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;11;CHACON;Romina Soledad;25679731;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30aa;13;ZARRACINA;Inés;23920673;OTONDO;Hugo Carlos;20035934;Sin observaciones
+II;B;30;30aa;15;SARALEGUI;Ana Laura;21567071;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30aa;14;CORVALAN;Lucía;14285392;SOLIS;Raúl Daniel;26149838;Sin observaciones
+II;B;30;30aa;17;SANTILLAN;Fatima Graciela;18310885;AVELLANEDA;Ricardo Librado;20259736;Falta Boleto
+II;B;30;30aa;18;GOMEZ;Elena Alicia;13934851;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;18;PALAVECINO;Mónica Mabel;14216707;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;19;MOLINARI;María Cristina;5619222;FUERTES;Jorge Horacio;6188994;Sin observaciones
+II;B;30;30ab;20;ALCUAZ;Luciana;25952952;KONGMANY;Poh;18840424;Sin observaciones
+II;B;30;30ab;01;CABELLO;Carolina Natalia;30490350;GONZALEZ;Ramiro Nazareno;29827092;Sin observaciones
+II;B;30;30ab;02;GARCIA;Claudia Mayra;27855889;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;04;BARRIOS;Andrea Alejandra;22526159;BRUCETTA;Gerardo Gastón;27882479;Sin observaciones
+II;B;30;30ab;07;MOYA;Julieta Isabel;27328315;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;08;BRAKI;Claudia Elizabeth;20961191;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ab;09;BARROSO;Elián Cruz;29827126;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;10;HAIM;Silvia Verónica;25978954;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;11;GARCIA;Carolina Cintia;27144652;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;0;CANGGIANELLI;Andrea Marta;18219271;SAROBE;Pedro José;20035961;Consignar parcela. Falta boleto
+II;B;30;30ab;13;VALLEJOS;Jorge Fabián;24546384;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ab;14;VARELA;Viviana;17919881;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;15;ORBE;Stella Maris;24269662;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;16;NAPOLI;Rodrigo Damián;27855954;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ab;17;GARCIA;Sandra Graciela;27328194;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ac;06;JAIME;María Cristina;27882499;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ac;20;GOMEZ;Claudia Andrea;22827076;ARIAS;Orlando Martín;21670176;Falta Boleto
+II;B;30;30ac;21;VERA;Margarita Inés;21845222;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ac;22;FERNANDEZ;Karina Rosana;24546576;DI NUCCI;Hernan Mauro;24377932;Sin observaciones
+II;B;30;30ac;01;CANALE;Claudia Mariel;24546550;BIESA;Jorge Fabián;20826338;Sin observaciones
+II;B;30;30ac;02;LOPEZ;Maricel Noelia;32127757;IRIGOYEN;Marcos Ariel;29031983;Falta Boleto
+II;B;30;30ac;03;LETTIERI;Sandra Marina;18217453;GALVAN;Horacio Alberto;13613798;Falta Boleto
+II;B;30;30ac;04;GOMEZ;Sandra Mabel;23005760;MOYANO;Jorge Ariel;26318498;Falta Boleto
+II;B;30;30ac;05;VILLALBA;María Celia;5292675;GARCIA;César;5586455;Sin observaciones
+II;B;30;30ac;07;ALVAREZ;Silvia Patricia;29827197;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ac;08;MORENO;Yamila Andrea;32279696;DIAZ;Cristian Javier;25679699;Sin observaciones
+II;B;30;30ac;0;YALUL;Yonathan Alexis;35407913;Mouse;Mickey;33333333;Consignar parcela. falta boleto
+II;B;30;30ac;10;RIVERO;Sara Noemí;5142687;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ac;11;URTEA;María Guadalupe;12141107;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ac;14;SUAREZ;Mariela Karina;22526222;ERRECART;Maximiliano Roberto;21845257;Sin observaciones
+II;B;30;30ac;15;PEÑALVA;Claudia Fabiana;21664401;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ac;16;MONZON;Cecilia Juana;29494854;LANDA;César Matías;28289286;Sin observaciones
+II;B;30;30ac;0;FERNANDEZ;María Alejandra;22526181;ALVAREZ;Javier Ernesto;24577166;Consignar parcela. falta boleto
+II;B;30;30ac;0;OLARIAGA;Maria Soledad;28532834;VEGAS;Juan Carlos;31078278;Consignar parcela. falta boleto
+II;B;30;30ac;19;QUIROGA;Nidia Haydee;22055498;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;01;KISLUKIK;Karina Andrea;23005690;MOYANO;Ramón Ignacio;18121582;Sin observaciones
+II;B;30;30ad;02;ROSALES;María Eugenia;26074278;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ad;03;ZABALA;María Victoria;22459529;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;04;DE LA CANAL;Karina Clarisa;25300147;SUAREZ;Oscar Alfredo;21845194;Falta Boleto
+II;B;30;30ad;05;VECCHIARELLI;Patricia Laura;18121661;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;06;SANTIAGO;Mabel Beatriz;16178574;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;0;BELOTTI;María de los Angeles;16925911;Mouse;Mickey;33333333;Consignar parcela. falta boleto
+II;B;30;30ad;09;CHARRAS;Luis Alberto;8595245;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ad;10;SILVA;Alejandra Luján;20367174;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;11;ACOSTA;Angel Andrés;27882662;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;13;FRIGERI;Elizabeth Lucia;32549384;MARCELINO;Miguel Alberto;28289232;Sin observaciones
+II;B;30;30ad;15;ALONSO;Cristina Gladys;20639398;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;16;PAGOUAPE;Natalia Andrea;26842594;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ad;17;GIMENEZ;Graciela Dominga;20504728;PALOTA;Esteban Ramón;18628582;Falat Boleto
+II;B;30;30ad;19;PEREYRA;Gabriela Beatriz;25300283;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ad;20;FRANCESE;María Auxiliadora;23920688;BARRAGAN;Cristian Ezequiel;26624850;Falta Boleto
+II;B;30;30ad;22;DE LA SERNA;María Gabriela;20961121;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;01;BERLOCQ;María Fernanda;23920564;NAQUED;Rolando Oscar;23005586;Sin observaciones
+II;B;30;30ae;02;VAZQUEZ;Valeria Verónica;28016994;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;03;LACHAISE;Gabriela Mabel;28289158;;;;Falta Boleto
+II;B;30;30ae;04;CEJAS;Hugo;10421315;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;06;IRIARTE;Sandra Margarita;21845415;BERNADOTTI;Carlos Victor;18121638;Sin observaciones
+II;B;30;30ae;07;MARTINEZ;Cintia Luciana Leonor;30116372;REIVAZ;Daniel Horacio;29472770;Sin observaciones
+II;B;30;30ae;08;BONA;Claudia Raquel;22840780;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;09;ZACARIAS;Verónica Gisela;30412553;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;10;KURZIJAN;Sofia Debora;29182235;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;11;DOSPITAL;Gladys Inés;28532586;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ae;12;IALUL;Fatima Gabriela;17919930;ZARANTONELLO;Alfredo;11501410;Sin observaciones
+II;B;30;30ae;13;BENVENUTO;María del Carmen;3949308;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;14;MAGGI;Anabella;26995282;PIAZZOLI;Leonidas;25679670;Sin observaciones
+II;B;30;30ae;15;INGA;Gabriela Alejandra;24150582;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;16;VEGAS;Isabel Inés;25679735;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;17;ANDRADE;Stella Maris;10854103;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;18;DAVILA;Andrea Mercedes;23920730;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ae;19;HUERAMAN;María Inés;21845298;APESTEGUIA;Marcelo Fabián;28532631;Sin observaciones
+II;B;30;30ae;21;CABALLERO;Liliana Zulema;12004962;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;23;ZULUAGA;Analía;27023210;SUAREZ;Cesar Fernando;26074289;Sin observaciones
+II;B;30;30ba;24;BASUALDO;Mirta Karina;14973511;BRUNO;Sergio Fabián;17076684;Sin observaciones
+II;B;30;30ba;25;BALLEJOS;María José;23336545;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;26;MANZZONI;María Soledad;27144566;SUAREZ;José;26318484;Sin observaciones
+II;B;30;30ba;01;MONZON;Nancy Mabel;21969409;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;02;XANCO;Andrea;22032215;ETCHEVARNE;Rodolfo Javier;22840777;Sin observaciones
+II;B;30;30ba;03;PECOTCHE;María Paula Concepción;24269646;DELLA VEDOVA;José Luís;20367235;Sin observaciones
+II;B;30;30ba;04;DIAZ;María Isabel;20035950;LALANNE;Horacio Gabriel;21845361;Sin observaciones
+II;B;30;30ba;06;FLORES;Valeria Isabel;27328294;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;07;ETCHENIQUE;Silvia Magdalena;16178531;ACEVEDO;Ricardo Enrique;10854441;Falta Boleto
+II;B;30;30ba;08;VELAZCO;Mónica Beatriz;28289105;Mouse;Mickey;33333333;Falat Boleto
+II;B;30;30ba;10;ZAPATA CRUBELLIER;María Candelaria;27328262;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;11;CHOLFO;Sandra María;24546333;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;12;GALLI;María de los Angeles;29494744;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ba;13;LACOUMETTE;Carlos Alberto;27882601;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;14;REY;Silvia Teresa;11398392;FERRARIO;Néstor Armando;5094838;Falta Boleto
+II;B;30;30ba;15;GONZALEZ;María Cecilia;26318365;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30ba;16;CIAFARDINI;Celica Analia;24546425;BIGOT;Roberto Carlos;28289168;Sin observaciones
+II;B;30;30ba;17;PINEDO LOPEZ;Judi Yaquelin;92884722;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;18;LUNA;Mercedes Esther;11120633;BORDENAVE;Renaldo Ariel;10325676;Falta Boleto
+II;B;30;30ba;19;PIBOULEAU;María Eugenia;29494919;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;20;VICENTE;Maricel Graciela;25679780;SULLINGS;Ramiro Sebastián;27328493;Falta Boleto
+II;B;30;30ba;21;GRAMONT;Rosa Noemí;23920797;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30ba;22;MAURI;Marina Soledad;26318600;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;20;RIBEIRO;Solange;27144504;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;21;MADEO;María Sofia;30827741;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;01;ROLDAN;Carlos Walter;16898251;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;02;BARREIRO;Silvana;14517065;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;03;IGARATEGUI;Elsa Beatriz;31689976;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;04;ROMANO;María Paula;23005958;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;05;BENVENUTO;Andrea Vanina;30827715;GIRADO;Eduardo Martín;21445846;Falta Boleto
+II;B;30;30bb;06;CALDENES;Susana Ethel;13888606;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;07;GANUZA;Mónica Elizabeth;25041588;ASCURRA;Marcos Roberto;26842711;Falta Boleto
+II;B;30;30bb;08;HEGUILOR;Mirta Haydeé;10580108;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;09;BETANZO;Debora del Rosario;27882554;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;10;CALDERON;Silvia Andrea;23005951;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;11;IGARATEGUI;Pamela Roxana;30421137;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;13;GONZALEZ;Ayelén Leonor;33769598;Mouse;Mickey;33333333;Falta Boleto
+II;B;30;30bb;14;MENDEZ;Analia;28729631;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;15;CAMARA;Natalia Beatriz;27855914;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;16;GIRADO;María;24546414;Mouse;Mickey;33333333;Sin observaciones
+II;B;30;30bb;17;FASCE;Tamara;29031960;Mouse;Mickey;33333333;Sin observaciones

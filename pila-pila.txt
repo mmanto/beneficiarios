@@ -1,0 +1,30 @@
+I;D;12;12ab;01;NANNI;Claudia Raquel;18658075;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;02;GRILL;Silvina Soledad;31708169;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;03;RODRIGUEZ GUIRADO;Mariano;31299069;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;4;TRUEBA;Manuel;33537190;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;05;RODRIGUEZ;María Paula;26107345;de BERECIBAR;Hector Luciano;25174947;Sin observaciones 
+I;D;12;12ab;06;SARACCA;Guillermina;30880151;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;07;LARROQUET;Valeria Soledad;31299142;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;08;HERRERA;Camila;25548713;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;09;MC ALLISTER;Jimena Brenda;26518996;ELISSONDO;Juan Manuel;28200540;Sin observaciones 
+I;D;12;12ab;10;ELISSONDO;Agustin;29754638;Mouse;Mickey;33333333;fta boleto
+I;D;12;12ab;11;FERNANDEZ DUFFY;Sofía;25965051;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;12;DI CÁNDILO;Lorena Palmira;28741640;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;13;PETERSEN;Laura Fernanda;22086540;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;14;BROSSY;Ana Julia;32425084;IRASTORZA;Mariano;30229489;Sin observaciones 
+I;D;12;12ab;15;LEDESMA;Carolina;31227517;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12ab;16;DEL CASTILLO MADEO;María Carolina;31227708;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;01a;FACAL;María Florencia;35774975;LEBRERO;Walter Ismael;26497618;Sin observaciones 
+I;D;12;12e;02a;DUALDE;Alejandro;28741645;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;03a;SARACCA;Juliana;31156164;Mouse;Mickey;33333333;fta boleto
+I;D;12;12e;04a;JARAMILLO;Paola Soledad;29375481;Mouse;Mickey;33333333;fta boleto
+I;D;12;12e;05;GALVAN;German Gabriel;35033490;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;06;LARRABIDE;Aixa;32191556;Mouse;Mickey;33333333;fta boleto
+I;D;12;12e;07;CUESTA;Natalia Belén;31994155;BROSSY;Juan Manuel;30001223;Sin observaciones 
+I;D;12;12e;08;GROH;María Lujan;27195627;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;09;CASTILLO;Mirna Carolina;29674634;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;10;SARACCA;Santiago Esteban;30229210;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;11;DE FABIO;Julieta;33917973;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;12;MANTEROLA;Florencia;31227341;Mouse;Mickey;33333333;Sin observaciones 
+I;D;12;12e;15;MANCINI;Gabriela Elizabeth;30317589;ONREITA;Gaston Alejandro;25768014;Sin observaciones
+I;D;12;12e;16;LESLIE;Cynthia;31695616;Mouse;Mickey;33333333;Sin observaciones

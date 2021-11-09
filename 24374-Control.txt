@@ -1,0 +1,993 @@
+00/00/0000;Regularizacion;Alte. Brown;III-H-88-13;Cabral;Antonio Nicolas;4640005;15687-21929;1;Camara 20-09-2016;2;2;2;2;1;9;
+12/03/2014;Regularizacion;Hurlingham;IV-B-84b-2;Santillan;Edith Vanesa;26783350;44522541;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+10/02/2014;Consolidacion;Vte. Lopez;IV-A-24-18a;Iba§ez;Irma Isabel;14182227;1157588557/ 47351452;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+12/02/2014;Consolidacion;Hurlingham;IV-G-73-10;Cordoni;              Felisa;3996900;4450-0326;1;;2;2;2;0;0;6;GUI•O DE VILLAMAYOR
+12-Feb;Consolidacion;Lomas de Zamora;VI-B-77-14;Rivarola ;Graciela Beatriz;26776668;1544934459;1;;2;2;2;0;0;6;FERNANDEZ ROUYET
+12/02/2014;Consolidacion;Ezeiza;V-B-445-27;Valdez;Leonarda;1547148;4232-0624 /  155119-2590;1;                                               ;2;2;2;0;0;6;
+12/02/2014;Consolidacion;La Plata;III-B-39i-32;Casadas;   Juan Jose;10433559;15-616-0835;1;;2;2;0;0;0;4;
+12/02/2014;Consolidacion;La Costa;VI-E-2L-9;Ferrando Mena;Marisa Mabel;92697627;02257-604266;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+10/02/2014;Consolidacion;Vte. Lopez;IV-E-61-20;Caruso;German Pablo;14864120;"01152900110 ;15-52264820 ; ";1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;ROJO
+00/00/2014;Consolidacion;La Plata;III-C-130j-14;Marguelich;Martin Ezequiel;5202174;15-400-6633 /   15-616-8584;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+21/04/2014;Consolidacion;Berazategui;VI-F-40-14;Rojas ;Adolfina;4553756;4223-1759 /1132861513;1;;2;2;2;0;0;6;MUDRAK
+01/04/2014;Consolidacion;Avellaneda;II-R-131-5;Martinez;     Maria Eva;6037684;42043645;1;;2;2;2;0;0;6;FONTAN
+15/05/2014;Consolidacion;General San Martin;III-R-39b-7;Chamarro;Modesta;4680462;42987936;1;;2;2;1;0;0;5;
+10/02/2014;Consolidacion;Florencio Varela;V-G-17-4;Ortiz;Gloria Isabelina;26021818;1164295056;1;( ENTREGADO );2;2;2;0;0;6;
+24/02/2014;consolidacion;Lanus;I-W-103-25a;Alvarez ;Aurora;5776671;42867474 /     4286-7474;1;;2;2;2;0;0;6;SCHNIRMAN
+10-Mar;Consolidacion;La Plata;VI-Z-38-8;Sosa;Jacinto Ramon;10286273;592-5373 /            414-0650;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+24/02/2014;Consolidacion;Quilmes;V-C-78-22;Alegre;Luciano Natividad;12087247;4256-0243 / 42560293;1;;2;2;2;0;0;6;
+24/02/2014;Consolidacion;Alte. Brown;III-P-87-19;Marquez;          Nora;10711599;42385450;1;;2;2;2;0;0;6;HEFLING
+26/03/2014;Consolidacion;Magdalena;I-B-130-3e;Eleuterio;Maria Alejandro;16624989;2221414465  /   02221452509;1;Terminado 2¯Piso (7-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+03/04/2014;Consolidacion;Berazategui;IV-F-91-14;Churruarin;Victoria;6044442;43950645/ 39696802;1;;2;2;2;0;0;6;MUDRAK
+05/05/2014;Consolidacion;La Plata;IX-C-20-20;Molinari;Hernan Ricardo;24674297;155919936;1;DERIVADO A JAVIER FEDYNA (2DO PISO)( vuelve el 1de diciembre el escribano fue y no fue ;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+08/07/2014;Consolidacion;La Plata;III-A-33e-7;Salvatierra;Orlando Fabian;23583742;484-4077;1;Terminado 2¯Piso (24-01-17);2;2;2;0;0;6;
+00/00/2014;Regularizacion;La Plata;IV-G-37-2;Carri ;Hector Adrian;16678364;471-7095 /               15-4957793;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+24/04/2014;Consolidacion;San Fernando;VII-F-22-9;Andrada Marquez;Jose Manuel;4269648;1145636886;1;;2;2;2;0;0;6;GARCIA
+24/04/2014;Regularizacion;La Plata;IX-H-301-23;Sosa ;Maria Silvina;23106362;15-435-0802;1;;2;2;1;0;0;5;
+00/00/2014;Regularizacion;La Plata;;Rios ;Susana Isabel;;;0;Falta: Nomenclatura;0;0;0;0;0;0;
+2014;Regularizacion;La Plata;IX-J-433-20; Lezica ;Ricardo Anival;20693333;15-559-1779;1;ARCHIVADO-FALTA TODA LA DOCUMENTACION;2;2;2;2;0;8;
+12/03/2014;Regularizacion;Alte. Brown;V-E-334-35;Barreyro;Rosana Beatriz;2224423542;011-1531391239;0;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+26/02/2014;Regularizacion;La Plata;IV-S-209-22;;Bernardina;4527215;;0;;2;2;0;0;0;4;
+00/00/2014;Regularizacion;La Plata;IX-G-246-09;Mendiburn ;Silvana ;14806811;15-476-0539;0;;2;2;1;0;0;5;
+20/12/2013;Regularizacion;La Plata;IX-B-47-22a;Suhette ;Norma Esther;10426832;486-6032 /          15-522-8618;1;;2;2;2;0;2;8;
+20/12/2013;Regularizacion;Ensenada;IV-B-10e-12;Diaz ;        Alberto;7636983;469-2139;1;;2;2;2;0;2;8;
+17/12/2013;Regularizacion;Florencio Varela;V-B-14-1;Dos Santos ;Blanca Nelva;92816594;011-44872623;1;2¯Piso (ALVARO);2;2;2;0;0;6;
+12/12/2013;Regularizacion;Quilmes;III-P-40b-1;Acu§a;Aurelia Del Valle;4948656;42008117;1;;2;2;2;0;0;6;
+00/00/2014;Regularizacion;La Plata;IX-H-281-1a;Bobet;Marcelo Pablo;18258406;15-617-9703;1;Tiene que hacer Plano ya se Hizo el Relevamiento 2¯Piso;2;2;2;0;0;6;
+26/03/2014;Regularizacion;Florencio Varela;I-B-102-28;Yba§ez;Maria Fernanda;24481103;221-537-7200;1;EL EXPEDIENTE LO TIENE MUDRAK - LA BENEFICIARIA YA FUE NOTIFICADA EL DIA 8.06.2016;2;2;2;1;0;7;MUDRAK
+00/00/2014;Regularizacion;La Plata;IX-H-325-12;Rodriguez;Dario Ruben;20037036;15-408-3290;1;;2;2;1;0;0;5;
+10/06/2013;Regularizacion;La Plata;IX-G-225-16;Castellano;Miguel Angel;12159174;221-454-0095;1;;2;2;0;0;0;4;
+14/02/2014;Regularizacion;Lomas de Zamora;X-A-181a-12;Luna ;Juan Carlos ;6996420;42833477 /42828598;1;CD enviada 07-04-17;2;2;1;0;0;5;
+17/12/2013;Regularizacion;Lanus;I-H-21-22a;Ayala;Horacio Hector;13832403;1531678812;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/00/2014;Regularizacion;La Plata;IX-F-108-22;Palmieri;Paula Andrea ;23072257;15-566-9821;1;;2;2;1;0;0;5;
+16/12/2013;Regularizacion;Lomas de Zamora;XIV-A-44-22;Vilte;Zulma Georgina;23337782;15-602-64563;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/00/2014;Regularizacion;La Plata;IX-H-323-20;Gallours;Leonardo Gaston;27511739;15-566-6289;1;;2;2;1;0;0;5;
+00/00/2014;Regularizacion;La Plata;IX-H-344-8,9,10;Orosco;Claudia Liliana;28452112;15-609-8666;1;;2;2;1;0;0;5;
+00/00/2014;Regularizacion;La Plata;IX-H-308-13,14;OÔHaire ;Collette Ann;94117492;221-498-9386;1;Informe Pedido 11-11-2016;2;2;1;0;0;5;
+12/11/2013;Regularizacion;Alte. Brown;III-E-146-24;Irustra;Nelida Noemi;10180099;;1;;2;2;2;0;2;8;
+00/00/2014;Regularizacion;General Rodriguez;V-M-372-21;Pacheco Torres;Jonas Fortunato;94067057;1164761873;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+29/01/2014;Regularizacion;Pte. Peron;VIII-S-242-14;Calderon ;Sandra Isabel;24683030;2224491933;1;Camara 11-01-17;2;2;2;2;1;9;
+17/01/2014;Regularizacion;Moreno;IV-P-19d-11a;Ramirez;Laura Fernanda;24305447;1164652886;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+14/01/2014;Regularizacion;La Plata;III-D-159t-3;Soleto ;Jorge Dario ;5262416;156066602;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+19/11/2014;Regularizacion;Jose C. Paz;III-P-73-13;Nu§ez ;Sandra Beatriz;22513470;320423833,1;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+11/03/2014;Regularizacion;Alte. Brown;I-D-184-22;Frias;Laura Adriana;16008592;1549361414 /42128679;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/00/2014;Regularizacion;La Plata;IX-B-19b-09;Ferrer;Jorge Daniel;34816998;4862167;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/01/2014;Regularizacion;La Plata;VI-T-20-23;Barth ;Maria Ester;25849905;"484-2584 ; 221-6045617";1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+27/01/2014;Regularizacion;La Plata;III-B-83-13;Cufre;Maria Cristina;26145403;478-0213;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+27/01/2014;Regularizacion;La Plata;I-F-461-32;Machado ;Alicia Viviana;33710275;   495-2273;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+23/03/2014;Consolidacion;La Plata;IX-N-57a-18y19;Flamenco;Isabel Del Valle;5789188;"453-0856 ; 421-3767 ; 15-642-5253";1;;2;2;1;0;0;5;
+24/01/2014;Regularizacion;La Plata;III-B-ch95-1a;Russo;Luisina Vanesa;28327130;15-6324332 /   427-2644;0;Falta: prueba 2007.;0;0;0;0;0;0;
+12/02/2014;Regularizacion;La Plata;III-C-119L-17;Uca§ani Soto;Patricia Giovanna;94143923;450-1984 / 15-5701688;0;Falta: prueba 2007;0;0;0;0;0;0;
+14/05/2014;Regularizacion;La Plata;III-F-269f-26;Dorigoni;Raul Benito ;5525516;15-569-7199;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/00/2014;Regularizacion;La Plata;IX-A-32a-28;Travella;Facundo Emanuel;28052529;4579874;1;;2;2;1;0;0;5;
+00/00/2014;Regularizacion;La Plata;VI-W-30-03;Russo ;Paula Mariana;26708635;15-420-4488;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+08/01/2014;Regularizacion;La Plata;II-K-126u-11;Sala     Franco;Irene;93032764;15-544-8261;1;Est† fisicamente en el 2do piso;2;2;2;0;0;6;
+14/05/2014;Regularizacion;La Plata;VIII-A-32-07;Villarrubia;Silvia Enriqueta;13619285;221-6259457 / 478-9525;1;Camara 17-10-2016;2;2;2;2;1;9;
+20/03/2014;Regularizacion;La Plata (abasto) ;VIII-A-26-12F;Duarte;Ernestina ;10666402;4-916668 /          15-573-1393;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;RODRIGUEZ MORCELLE
+20/03/2014;Regularizacion;La Plata (abasto) ;III-E-261-13b;Ali;Cristian Damian;26684578;15-573-1393;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+20/03/2014;Regularizacion;La Plata (abasto) ;;Gonzalez ;Alejandrina;5933715;491-3758;0;Falta: Nomenclatura;0;0;0;0;0;0;
+20/03/2014;Regularizacion; La Plata (abasto);VIII-A-25-05;Soto Lazarte;Graciela Herminia;18433816;491-3758 ;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+13/05/2014;Regularizacion;La Plata;I-A-4-21;Sayo;Juan Jose;16223505;15-418-0571 /          15-617-0668;1;Camara y Edicto 23-09-2016 (2¯Piso a Gaston 8-11-16);2;2;2;1;0;7;
+13/05/2014;Regularizacion;La Plata;II-H-133a-17;Obregon ;Marcelo Alejandro;31079949;221-596-7911;0;Falta: prueba 2005,2006,2007.;0;0;0;0;0;0;
+28/04/2014;Regularizacion;La Plata;IX-S-209-22;            Monje;Bernardina;4527215;486-0680 - 221-436-2774;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+17/09/2014;Consolidacion;Hurlingham;IV-A-10a-08;Basso;Felipa Etelvina;5427854;04-4665-8607;1;;2;2;2;0;0;6;ZANOTTO
+;Consolidacion;Florencio Varela;I-M-42-15;Silva;Clara;12535789;4287-2727 / 42556989;1;;0;2;2;0;0;4;
+;Consolidacion;La Matanza;IV-N-01-15;Martinez;Estanislada Orfilia;3949896;4459-0138;1;;0;0;0;0;0;0;SEGOVIA
+21/08/2014;Consolidacion;Lomas de Zamora;XIV-C-36-26;Maldonado;Honorata Miguelina;11005161;011-42737358 / 15-23074917;1;;2;2;2;0;0;6;VASQUEZ
+10/11/2014;Consolidacion;Ensenada;IV-D-141-18;Casti§eira ;Raquel Beatriz ;13570267;15-355-8725;1;;2;2;2;0;0;6;SOBRAL
+;Consolidacion;La Plata;IX-B-10a-29;Soer;Graciela Elizabet;13942030;486-0190;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+26/11/2014;Consolidacion;Ensenada;IV-K-11-06;Pineda;Nestos Vicente;5057764;490-3134;1;;2;2;2;0;0;6;SOBRAL
+14/02/2014;Regularizacion;Ramallo;I-A-28-04;Baez ;Miguel Antoni;27177442;(03407) 15445700;1;;0;0;0;0;0;0;
+07/02/2014;Regularizacion;La Plata ;VII-M-3-8B-3K-1;Pane ;Gerardo Ruben;17225472;221-656-7050;0;Falta: cambios de domicilio.;0;0;0;0;0;0;
+10/02/2014;Regularizacion;La Plata;III-B-58ee-02;Lus;Maria Lorena;24999186;15-607-7474/423-3335;1;Camara  28-09-2016;2;2;2;2;1;9;
+12/02/2014;Regularizacion;Avellaneda;II-U-36-19;           Flores;Maria Elena;11041157;420-67318;0;Falta: no coincide DNI con domicilio del titular.;0;0;0;0;0;0;
+07/02/2014;Regularizacion;Malvinas Argentinas;IV-T-12a-18;Aramayo;Nelida Zulema;6361610;02320554904 / 1540395177;1;;2;2;2;2;2;10;COSSO
+20/02/2014;Regularizacion;La Plata;IX-B-21d-16;Alarcon ;Silvia ;17082544;155641869 / 4602814;0;Falta: DNI;0;0;0;0;0;0;
+14/02/2014;Regularizacion;Merlo;II-R-182-22;Alvarado;Leonardo Javier;23590967;02204980447 / 1165497519;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+24/02/2014;Regularizacion; Berazategui;IV-M-103-3;Caba Mamani;Leonardo ;18.892.632.;42583028;1;Camara  30-09-2016;2;2;2;2;1;9;
+24/02/2014;Regularizacion;Saladillo;I-H-197-21-191;Gonzalez ;Beatriz Susana;5387500;0234515650261 /Cecilia Hija 156247875.;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+17/02/2014;Regularizacion;Florencio Varela;I-K-22-7;Miranda;Americo Telmo;14977369;42871042;1;Terminado 2¯Piso (1-12-16);2;2;2;2;2;10;MUDRAK
+20/02/2014;Regularizacion;Moron ;III-D-283-4;Ordo§ez Ralde;Jose Eduardo;92803830;1564560035;1;Terminado-2¯Piso;2;2;2;2;2;10;
+08/01/2014;Regularizacion;Alte. Brown;I-O-737-3;Ollo ;Roque Gustavo;34303319;1564115685/            42110018;1;Est† fisicamente en el 2do piso;2;2;1;0;0;5;
+31/01/2014;Regularizacion;Pte. Peron ;VIII-S-242-15;Acosta ;Silvia Graciela;24683291;2224477493;1;;0;0;0;0;0;0;
+31/07/2014;Regularizacion;Esteban Echeverria;II-F-14B-27;Quiroz;Juan Ramon;11376637;1557802549;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+21/03/2014;Regularizacion;Florencio Varela;V-U-122-8;Martinez ;Patricia Elizabeth;21549349;1130275242;0;Falta: DNI del grupo familiar y prueba 2013;0;0;0;0;0;0;
+18/03/2014;Regularizacion;La Plata;II-G-109d-33;DÔUva;Valeria Laura;25190300;15-353-3745;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+31/03/2014;Regularizacion;La Plata;IX-C-175-8;Gonzalez Parraguez;Yasna Isabel;92530736;15-534-9622;0;Falta: prueba 2005,2006 y 2008;0;0;0;0;0;0;
+30/07/2014;Regularizacion;Merlo;II-X-63-1;Sueldos;Maria Mercedes;11026080;0220-4992417;1;Informe NO matriculado;2;2;1;0;0;5;
+28/08/2014;consolidacion;La Plata;IX-N-114-28;Arias;Claudia Mirian;20236988;15-477-9024;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+25/11/2014;Consolidacion;Merlo;II-W-354-28;Diaz;Lucia Del Carmen;4545476;0220-480-3562;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+25/11/2014;consolidacion;La Plata;II-F-103b-7;Veizaga;Ricardo;93180912;479-3082 /          15-637-8586;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+20/10/2014;consolidacion;colon;I-A-46-03h;Bruno ;Lidia Lujan;6548209;0243715411296 /15461566;1;Ya escrituro con Talerico (inicio tamb en la escribania) 2147-C-21-1-8/16;2;2;2;0;0;6;ARCHIVADO
+00/00/2014;consolidacion;Necochea;I-B-172-12g;Aranda ;Nilda Leticia;10101100;2262524756;1;;2;2;2;0;0;6;MIGUELES
+00/00/2014;Consolidacion;Pte. Peron;VIII-C-8b-27;Gonzalez ;Susana Elizabeth;18666105;2224477291;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;LUDEVID
+15/12/2014;Consolidacion;Saladillo;I-B-50b-10;Mulatero;Myriam Beatriz;22671062;15-5642916 /4539755;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;1;0;0;5;1
+02/10/2014;Consolidacion;Berisso;VII-J-400-25;Apaza;Adolfo;7280848;15-5065179;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+21/05/2014;Regularizacion;Merlo;III-E-186-08;Bertalmio;Mirta Mabel;92777446;011-64631516;0;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+13/12/2014;Regularizacion;La Plata;III-B-80d-30;Moreno;Noemi Gisela;28235993;221-640-7667;0;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+08/01/2014;Regularizacion;Alte. Brown;III-F-227b-6;Lopez;Sara    Noemi;16358979;011-42362562;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+30/01/2014;Regularizacion;Ezeiza;IV-D-15-17;Mena;Gonzalo;27181066;114340500;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+08/10/2014;Regularizacion;Alte. Brown;III-O-157-01;Sarmiento;Petrona Ysolina;5182802;42990334 /42382770;0;Volver a publicar Edictos mal hecho;2;2;2;2;1;9;
+18/11/2013;Regularizacion;Pte. Peron;VIII-C-7n-13;Valor;Maria Rosario;11049868;011-1563581821;1;ARCHIVADO;2;2;1;0;0;5;
+07/11/2014;Consolidacion;Ensenada;IV-B-11-11m-10;Vera;Rodolfo Alberto;8346248;469-3140 /          15-562-3961;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOBRAL
+26/09/2014;Consolidacion;La Plata;III-D-179-179a-14;Cazon Burgos;Rolando;18666652;221-4793471;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+16/05/2014;Regularizacion;Ezeiza;IV-D-12-12;Alioli;Jesica Marciel;28919248;011-1531706865;1;Terminado-2¯Piso;2;2;2;2;2;10;FERRAIRONE
+07/07/2014;Regularizacion;Alte. Brown;II-A-254-1a;Minin;Ruben Antonio;5193216;1561209830 / 1138419733;1;Terminado 2¯Piso (1-12-16);2;2;2;2;2;10;
+02/09/2014;consolidacion;Merlo;II-T-379-06;Caballero;Maria Auxiliadora;6150359;02204991803 / 0111554884316;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+28/11/2014;Consolidacion;La Plata;IV-K-08-03;Gajardo Uolloa;Ramon;92057560;;1;;2;2;2;0;0;6;SOBRAL
+14/10/2014;Consolidacion;Alte. Brown;V-E-1-11;Barrera ;Osvaldo Walter;7738159;02224-421561;1;;2;2;2;0;0;6;HEFLING
+24/07/2014;Consolidacion;Moreno;III-P-08-09;Diaz;Mercedez Isabel;12631210;0237-4813472;1;;2;2;2;0;0;6;EZQUER
+29/12/2014;Consolidacion;San Fernando ;VII-L-19-22;Raggi;Roberto Anibal;4580267;4714-3261;1;;2;2;2;0;0;6;GARCIA
+28/08/2014;Consolidacion;San Miguel;II-L-2f-14;Di Paola ;Marcelo Gabriel;23701914;4455-4933 / 1520260904;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;COSSO
+14/10/2014;Consolidacion;Florencio Varela;I-R-03-13;Germana;Antonio Luis;5187671;4255-9434;1;;2;2;2;0;0;6;MUDRAK
+11/12/2014;Consolidacion;La Plata;III-B-97k-22a;Salaber ;Viviana Beatriz;17274732;11-5990-2199;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+16/09/2014;Consolidacion;La Plata;III-B-89f-38;Torres ;Alba Ofelia;17189081;478-0823 /         221-437-8350;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+27/10/2014;Consolidacion; Moreno;VI-C-30-4;Fernandez;Nestor Alejandro;20187472;15-511-48625;1;;2;2;2;0;0;6;EZQUER
+29/09/2014;Consolidacion;Lobos;I-A-1-2a;Cordoba;Maria Del Rosario;23588508;02227-424646;1;;2;2;2;0;0;6;RE
+10/09/2014;Consolidacion;Berazategui;IV-s-78a-19;Rodriguez Gallardo ;Lidia Juana;92431917;011-4223-1132;1;;2;2;2;0;0;6;MUDRAK
+22/12/2014;Consolidacion;La Plata;III-F-347b-17;Nicolino;Maria Del Carmen;16026202;496-3155;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+00/00/2014;Consolidacion;Florencio Varela;II-A-155-22;Di Lavao;Roberto Osvaldo;4530814;15-335-91750;1;YA FIRMO CON LOPEZ;2;2;1;0;0;5;
+15/05/2014;Consolidacion;La Plata;VI-A-04-03;Bodnichuk;Ana Maria Laura;14269388;15-579-9984;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+09/10/2014;Consolidacion;Alte. Brown;III-I-50-15b;Gonzalez ;Nilda   Estela;13460336;011-4268-2010;1;;2;2;2;0;0;6;HEFLING
+13/08/2014;Consolidacion;La Plata;III-F-270h-08;Maza Mercado;Bruno Gabriel;24246136;456-3890;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+11/11/2014;Consolidacion;Ensenada;V-A-06-22;Martinez ;Mirta Noemi;5385581;460-1983;1;;2;2;2;0;0;6;SOBRAL
+17/11/2014;Consolidacion;Lanus;I-L-122-26;Soto ;Silvia Patricia;13212027;4228-3108 /         4228-6189;1;;2;2;2;0;0;6;SCHNIRMAN
+12/11/2014;Consolidacion;Ensenada;IV-D-96-13;Taylor ;Ricardo Daniel;12427912;221-608-4325;1;;2;2;2;0;0;6;
+28/10/2014;Consolidacion;Berisso;VII-H-334-16;Nuccitelli;Osvaldo Romulo;5221879;0223-603-7299;1;;2;2;2;0;0;6;CIANCIO
+26/11/2014;Consolidacion;Pedro Luro;XIV-D-43-09;Mamani;Ruben Simon;24694348;29115-5753867;1;;2;2;2;0;0;6;SCOCCIA
+30/10/2014;Consolidacion;Chivilcoy;VII-A-04-15;Orellano;Marta   Elena;4200007;011-430-74959;1;;2;2;2;0;0;6;BASANTA
+29/09/2014;Consolidacion;Brandsen;I-G-109d-10;Romero;Graciela Beatriz;16571835;02223-15478012;1;;2;2;2;0;0;6;FERNANDEZ DE AYAN
+18/09/2014;Consolidacion;La Plata;III-D-207b-04;            Rojas ;Jesus;5271006;491-7334;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+29/09/2014;Consolidacion;Moron ;II-E-311-27;Estigarribia Britez;Martina;92170352;011-46921189;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOLARI DEL VALLE FERRARI
+11/12/2014;Consolidacion;Merlo ;II-W-373-22;Aragon ;Maria Carmen;16405980;0220-480-5821;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+18/09/2014;Consolidacion;La Plata;III-D-207b-03;Torres ;Agustina Elva;6847376;491-7334;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+29/10/2014;Consolidacion;La Plata;III-C-129j-03;Pareyra ;Ramon Del Valle;7262415;456-3003;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+12/01/2014;Consolidacion;La Plata;II-P-282-d-04;Centurion;Juan Ramon;13123096;450-2942 /          15-362-9823;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+11/12/2014;Consolidacion;Ensenada;IV-J-16-9a;Garcia;Gaston Pablo;23491574;"15-555-6165 ; 155666886";1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOBRAL Viviana
+30/10/2014;Consolidacion;La Plata;I-Q-1324-28;Orellano;Alicia Mabel;6714716;479-4830/    15436-8470;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+07/01/2015;Consolidacion;La Plata;III-B-81bb-21;Lopez;Sandra Beatriz;20057441;15-6258661 / 4704493;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+18/11/2014;Consolidacion;La Plata;VIII-A-26-3a;Polverigiani;Sergio Fabian;20679916;0221-4917209;1;Terminado 2¯Piso (15-12-2016);2;2;2;0;0;6;MARINELLI
+06/05/2014;Consolidacion;Florencio Varela;V-K-94-02;Cuenca ;yolanda Haydee;6512126;4223-4544/    4287-0216;1;;2;2;2;0;0;6;MUDRAK
+29/10/2015;Consolidacion;Hurlingham ;IV-B-58-28;Vega;Juan Carlos;12738045;4452-4263 /       15-53187755;1;;2;2;2;0;0;6;GUI•O DE VILLAMAYOR
+06/05/2014;Consolidacion;San Miguel;I-N-32-06;Novoa;Marina Mercedes;11623050;15-6560-9893;1;Ya Escrituro 2015/ Archivado;2;2;2;0;0;6;
+17/06/2014;Consolidacion;Brandsen;I-G-123a-20;Amar ;Andrea Fabiana;17884633;02223-1546-1330;1;;2;2;2;0;0;6;FERNANDEZ DE AYAN
+14/08/2014;Consolidacion;Hurlingham ;IV-E-333-11;           Almendra;Jose Maria;22872535;1557074834 / 11;1;;2;2;2;0;0;6;GUI•O DE VILLAMAYOR
+30/01/2015;Consolidacion;Tres de Febrero;VI-G-110-12;Davila;Mar°a Magdalena;1984876;1537646400;1;;2;2;2;0;0;6;CARDO
+27/01/2015;Consolidacion;Merlo;II-J-4M-15;Rejala;Delosanta;93103323;0220 4986889/ 03462433015;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+29/12/2014;Consolidacion;Ensenada;IV-S-15-12;Molero;Ismael Antonio;8352317;221 -5349952 /221-5054106;1;;2;2;2;0;0;6;SOBRAL
+30/10/2014;Consolidacion;La Plata;III-B-951-34;Sulla;Ramon Ricardo;12991021;4709007 / 4671924;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+01/10/2014;Consolidacion;Merlo;IV-P-7-12;Derico;Norma Susana;10233605;0220 4805681 /1533077424;1;Terminado 2¯Piso (6-12-16);2;2;2;0;0;6;
+03/06/2014;Consolidacion;Lanus;I - M-10-17;Gamarra;Palmira;14472068;4620338/ 1120318573;1;;2;2;2;0;0;6;DOPACIO
+01/08/2014;Consolidacion;La Plata;I-F-428-16;Berdou;Amary Lis Mabel;14562519;4833460;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+08/05/2015;Consolidacion;La Plata;III-B-40Y-8;Sotto;Cristian Alejandro;31859599;221 5975386;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+11/02/2015;Regularizacion;Alte. Brown;I-P-105-10;Vanegas;Marcela Andrea;26036856;01138717713 / 4645853 ;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+11/02/2015;Regularizacion;Alte. Brown;III-L-159-20;Villarreal;Edith Lorena;24801112;42773222 /           1565243794;1;1 Camara 1 Titular/CD enviada 07-04-17;2;2;2;2;2;10;
+10/06/2014;Regularizacion;Avellaneda;II-B-31-40;Altamirano;Estela;30348755;1132929689 /     42018207;1;camara  12-01-17;2;2;2;1;1;8;
+03/06/2014;Regularizacion;Malvinas Argentinas;IV-C-81C-30;Gonzalez;Aristobulo;92499045;011 - 44631435;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+03/06/2014;Regularizacion;La Plata;I-S-121-1A;Cattaneo;Daniel Alberto;24372322;15-6651230;0;Se llamo varias veces atiende el contestador, se dejo menj(falta documentacion);1;1;2;1;0;5;
+26/06/2014;Regularizacion;Florencio Varela;II-H-26-1;Mu§oz;Miguel Oscar;12625438;15-38716230;1; camar faltaba un titular 11-01-17;2;2;2;2;1;9;
+16/06/2014;Regularizacion;Chascomus;I-B-96-4;Borges;   Jorge Oscar;23920682;224 - 115572150;1;1 informe pedido otra vez el dia 29.07.2016;2;2;1;0;0;5;
+30/06/2014;Regularizacion;La Plata;I-P-1212-32;Giuliodori;Maria Cristina;5450020;4522699 /          154944248;1;Camara  28-09-2016;2;2;2;2;1;9;
+16/06/2014;Regularizacion;Alte. Brown;II-A-393-19;Ayala;Maria Esther;14502989;1131060432 / 42147091;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+24/06/2014;Regularizacion;La Plata;III-C-120AA-22;Ostrit;Maria Ines;16738330;4561739 / 156559951;1;Archivado x que inicio tramite de escrituracion en Escribania Gral de Gobierno.;2;2;2;2;2;10;
+30/06/2014;Regularizacion;La Plata;III-B-89K-38;Acosta;        Eduardo;5508630;4782021;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+13/06/2014;Regularizacion;Ezeiza;IV-Q-54-14;Guantay;Diana Raquel;32009257;2274407340;1;Camara  28-09-2016;2;2;2;2;1;9;
+08/05/2014;Regularizacion;La Plata;VI-B-148-18;Carrique;Susana Esmeralda;10793443;"156567649 ; 474-2421;155467114";1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+08/05/2014;Regularizacion;Avellaneda;I-R-50-14;Ribeiro Wiese;Clecir;93058078;54349966 / 1169733013;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+23/05/2014;Regularizacion;Berazategui;IV-P-28-34;Ojeda ;             Julian;32085019;011-42563411;1;Est† fisicamente en el 2do piso;2;2;1;0;2;7;
+09/05/2014;Regularizacion;Florencio Varela;IV-O-3-24;Sena;Ramona Felisa;12845503;11-61534140;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+15/05/2014;Regularizacion;La Plata;II-B-32D-7;Mendoza;Maria Elisabeth;26526306;4894223 /         156420697;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+16/05/2014;Regularizacion;La Plata;IX-N-9-33;Mansilla;Flavia del Carmen;26869034;4522632 /  15-5078109;1;;0;0;0;0;0;0;
+14/07/2014;Regularizacion;San Isidro;V-C-107-18;Manuppella;Graciela Julia;14439641;47669625 /        47669836    / 01151401315  ;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;IGLESIAS
+17/07/2014;Regularizacion;Alte. Brown;III-L-104-20;Ayala Zaracho;Silvia Elisa;92053636;42369149/         1133532562;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+28/07/2014;Regularizacion;La Plata;III-B-5-89H-5;Leguizamon ;Lidia Bibiana;28471804;221-6101229/      4780581;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+14/07/2014;Regularizacion;La Plata;III-B-54I-29;Luque;Maria del Carmen;6134991;4796208/ 155220880;1;SE DA DE BAJA EL EXPEDIENTE / lo tiene el 2DO.;2;2;2;0;2;8;
+17/07/2014;Regularizacion;La Plata;III-D-148-5-23;Cruz Merlos;Alejandrina;93995653;15-4341360;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+24/07/2014;Regularizacion;Merlo;II-J-4E-12;Torales Paredes;Antonio De Jesus;94857108;22204982033;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+18/07/2014;Regularizacion;La Plata;III-A-23-23Z-13;Mansilla ;Graciela Noemi;14472905;4711487;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+21/07/2014;Regularizacion;La Plata;III-E-248K-2A;Ojeda ;Gaston Emilio;23336431;4961346 / 156180884;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+10/07/2014;Regularizacion;La Plata;III-B-96-96M-15;Vega;Eva Beatriz;29419644;6581084;1;Camara 10-01-17;2;2;2;2;1;9;
+06/07/2014;Regularizacion;Lanus;II-J-106-15;Spata;Pablo Daniel;26488521;1544465509 / 42463616;1; Camara 29-12-2016;2;2;2;2;1;9;
+14/08/2014;Regularizacion;Merlo;III-R-102A-13;Mejia;Rodolfo Ismael;18045828;1531821768   /      46979205;1;Camara 14-10-2016;2;2;2;2;1;9;
+14/08/2014;Regularizacion;La Plata;IX-A-7-1;Silva;Juan Carlos;5038894;155562924/        221 6190048  / 155075478     ;1;Camara  17-11-16;2;2;2;2;1;9;
+15/08/2014;Regularizacion;La Plata;III-D-148A-5M-35 ;Vera Da Silva;Miriam Mabel;94153764;155419597;1;Camara 14-10-2016;2;2;2;2;1;9;
+14/08/2014;Regularizacion;La Matanza;IV-B-108D-21;Meza Maciel;Isidora;93599342;46905224  /        46904009;1;Se volvio a Pedir Inf.Dom NO MAT 20-03-17;2;2;1;0;0;5;
+11/08/2014;Regularizacion;Ituzaingo;IV-F-122-4;Segovia;Fernando Robustiano;17090871;44594968;1;Camara 11-01-17;2;2;2;2;1;9;
+05/08/2014;Regularizacion;La Plata;III-D-157C-23A;Tagle Chiesa;Carole;18704303;4700491 /              156026822;1;Camara 29-09-2016;2;2;2;2;1;9;
+07/08/2014;Regularizacion;Malvinas Argentinas;IV-C-187-6;Martinez ;German Luis;12453835;1120240578 / 1120311447            ;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+25/08/2014;Regularizacion;La Plata;III-C-109N-13;Aquino;Natalia Renee;25489184;4509968/              154183331;1;Camra y Edicto 31-01-17;2;2;2;1;1;8;
+25/09/2014;Regularizacion;Ensenada;IV-B-8-8D-23A;Moss;Christian Alberto;22404564;4601075;1;camara  12-01-17;2;2;2;2;1;9;
+00/09/2014;Regularizacion;Escobar;IX-W-133-6;Fernandez Paredes;Fanny Elizabeth;94477184;"3484472729 ; 1130346769";0;Se volvio a pedir Informe de Dominio 2-02-17;2;2;1;0;0;5;
+08/09/2014;Regularizacion;Merlo;I-T-86-15;Montero;Nilda Ester;10888293;0220 4856068/          1131412666;1;Se Volvio a Pedir Camara 9-01-17;2;2;2;2;1;9;
+26/09/2014;Regularizacion;Malvinas Argentinas;IV-Q-F2-24;Gimenez;Miguel Angel;24495556;02320-419256/     011394994003;1;Se vovlio a Publicar Edictos 03-01-17;2;2;2;1;1;8;
+15/09/2014;Regularizacion;Florencio Varela;II-B-3-20;Sosa;Carlos Ruben;22434261;1531990331;1;Camara y Edictos 30-01-17;2;2;2;1;1;8;
+10/09/2014;Regularizacion;La Plata;III-D-187-2A;Rey;Ruben Rolando;12076136;156470245/        4142661;1;Se volvio a pedir Camara 28-12-2016;2;2;2;2;1;9;
+26/09/2014;Regularizacion;Avellaneda;II-E-79-27;Torres ;Dominga Josefa;3719633;42050908/           1564021483;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;0;0;6;FONTAN
+00/09/2014;Regularizacion;La Plata;II-O-264F-17;Gomez;Patricia Daniela;21159652;2214562066/   2216541059       ;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+01/10/2014;Regularizacion;Alte. Brown;III-P-92-4;Moreyra;Raul Ismael;17191813;42296840/          1122867954;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+10/10/2014;Regularizacion;La Plata;III-D-185-5B;                Mora;Atanacio;18758879;4782093;1;Volver a pedir edictos y camara;2;2;2;1;1;8;
+20/10/2014;Regularizacion;Florencio Varela;II-P-30-2;Ortega Mendieta;Maria Beatriz;92233128;42744535/              1131994165;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;0;0;6;
+20/10/2014;Regularizacion;La Plata;III-B-37H-24;Carla ;Gabriela Rafaela;27494649;154356875/            4705300;1;Camara 20-09-2016;2;2;2;2;1;9;
+21-Oct;Regularizacion;Merlo;II-D-142-19;Martino;Viviana Beatriz;22380217;(011) 26898431;1;Camara y Edicto 30-01-17;2;2;2;1;1;8;
+22/10/2014;Regularizacion;La Plata;III-B-103M-27;Maraboli;Evelyn Lorena;41722788;155599340/ 154289657;1;Edicto y Camara 20-02-17;2;2;2;1;1;8;
+22/10/2014;Regularizacion;La Plata;III-B-95I-39;Mora;Adela Rebeca;30892405;4708302/           156055699;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;0;0;6;
+22/10/2014;Regularizacion;Quilmes;III-O-96-17;Rodriguez;Marta   ;4922192;42805502;1;Terminado-2¯Piso;2;2;2;2;2;10;
+24/10/2014;Regularizacion;La Plata;III-C-108-11;Alonso Bruno;Veronica Vanina;25235915;4508543/15-5946557;1;Terminado 2¯Piso (1-12-16);2;2;2;2;2;10;MARINELLI
+30/10/2015;Regularizacion;Alte. Brown;IV-E-343B-10;Scoppettuolo;Lidia Elvira;13186351;2224424845;1;Terminado 2¯Piso (27-10-2016);2;2;2;2;2;10;
+03/04/2014;Consolidacion;La Plata;III-B-99-99K-12;Aranda ;Juan Raul;5198664;4798176/               155547415;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+14/11/2014;Consolidacion;Lomas de Zamora;XIV-B-26-8;Villalba;Eulalia Catalina;92358066;011-42855997;1;;2;2;1;0;0;5;VASQUEZ
+14/11/2014;Regularizacion;Florencio Varela;V-C-69E-9;Barboza;Teofila;92554269;42215350/         0111542214575;1;Camara 14-10-2016;2;2;2;2;1;9;
+13/11/2014;Regularizacion;Alte. Brown;III-F-249-9;Rochi;Gustavo Alberto;21466237;42190509/            1140495681;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+18/11/2014;Regularizacion;Alte. Brown;III-K-4B-4;Montero;Maria Mercedes;18540924;1138699759;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+20/11/2014;Regularizacion;La Plata;IV-G-71-31;Sorge;Ricardo Ruben;5188282;4843658/            154090986;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+20/11/2014;Regularizacion;Alte. Brown;III-B-15-2;Flores ;Marcela Andrea;22466986;1555068399/           40404999;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+20/11/2014;Regularizacion;Alte. Brown;I-H-352-9;Romero Servian;Graciela;93709087;42196643;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+10/11/2014;Regularizacion;Alte. Brown;II-A-141-9;Nu§ez ;Argentina del Valle;5600023;20033688/              1151343479;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+21/11/2014;Regularizacion;La Plata;III-D-148I-5;Loayza Sevillano;Rosa Giovanna;18863461;156046062;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+26/11/2014;Regularizacion;Hurlingham;IV-D-16R-16;Torres ;Aleandro Humberto;16751468;152175712/ 15-543406400;1;Camara 29-09-2016;2;2;2;2;1;9;
+18/11/2014;Regularizacion;La Plata;III-C-5-128G;Hojemberg Arregui;Alejandra Viviana ;26039354;4560112 /             2216753395;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+28/11/2014;Regularizacion;Berazategui;IV-N-62-9;Molina;Paula Beatriz;26574322;1142584604;1;Camara 3-11-2016;2;2;2;2;1;9;
+28/11/2014;Regularizacion;Quilmes;V-H-2-301;Valdez;Elisa Gabriela;23888800;42507272;1;Camara 20-12-2016;2;2;2;2;1;9;
+06/10/2014;Regularizacion;Berazategui;IV-U-66-5;Rivero Malgarejo;Tomas;93044763;1159745810/            1124710698;1;Termiando 2¯Piso (22-03-17);2;2;2;2;2;10;
+09/10/2014;Regularizacion;La Plata;I-R-1389-6A-SUB2;Cid;Nelida Esther;5384883;4537854;1;;0;0;0;0;0;0;
+22/10/2014;Regularizacion;Alte. Brown;I-C-58-22;Olivera;Elizabet;22551151;20633480;1;Retirado por la Dir. Gral. De Tierras;2;2;0;0;0;4;
+24/10/2014;Regularizacion;Berazategui;V-Q-39-12;Romero ;Guillermo Vicente;34857414;1139388128;1;Terminado 2¯Piso (1-12-16);2;2;2;2;2;10;MUDRAK
+28/10/2014;Regularizacion;Alte. Brown;V-L-460-5;Bodeman;Juan Carlos;24963929;1554640937/            1567385969;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+26/06/2014;Regularizacion;La Plata;IX-C-133-14;Torales ;Angelica Teresa;27888977;2115466792;1;posible  inc H. / esta en el 2DO;2;2;2;0;2;8;
+00/06/2014;Regularizacion;Berazategui;V-J-80-4;Colman;Georgina Noemi;2349734;42757639/               4169939;1;;0;0;0;0;0;0;
+19/06/2014;Regularizacion;La Plata;III-D-159L-18;Zapata;Romina Soledad;30575248;155318104/                4917971;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/06/2014;Regularizacion;Berazategui;V-D-61-19;Mendez;Marta Noemi;21799347;42266448/            1159650408;1;Camara 03-01-17;2;2;2;2;1;9;
+30/06/2014;Regularizacion;La Plata;I-C-121-1A;Gonzalez;Nelida Esther;14845574;4229490/               2215385034;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+04/11/2014;Regularizacion;La Plata;III-C-127C-14;Orellano;Susana Beatriz;14250316;155733170/             4561432;1;Camara  28-09-2016;2;2;2;2;1;9;
+05/11/2014;Regularizacion;Merlo;III-R-207-30;Ruiz;Jacinto Benjamin;7202281;2204944027;1;Camara  27-09-2016;2;2;2;2;1;9;
+06-Nov;Regularizacion;Berazategui;V-M-99-9B;Aramayo;Felisa;10582542;011-43911044;1;Volver a pedir Informe vino 2 veces con observaciones/ tiene en la base un tramite de la ley con fiachini del97 va a ser una nota para pedir unificar la info o da rde baja /8/2 se mando a caratular vino observado el informe par apedir cedula catastal historica 2423-/ SE ARCHIVO PIDIO LA BAJA LA BENEFICIARIA FIRMO NOTA.;1;2;1;0;0;4;
+10/11/2014;Regularizacion;Berisso;VII-K-401-1 Y 22;Rivas Valverde;Elsa;18890010;2215621675;1;Terminado 2¯Piso (27-01-17);2;2;2;2;2;10;
+10/11/2014;Regularizacion;Berazategui;V-D-17-25;Rodriguez;Liliana Gabriela;92383441;1135784866;1;Camara 26-09-2016;2;2;2;2;1;9;
+11/11/2014;Regularizacion;La Plata;VI-Y-8-24;Catellanos Alzamora;Pierre Alberto;94143806;4718047/                154406665;1;;2;2;2;0;0;6;
+12/11/2014;Regularizacion;Berisso;VII-M-80-31;Ferreyra;Dario Raul;27268630;156373899/            4866218;1;Camara  21-11-16;2;2;2;2;1;9;
+12/11/2014;Regularizacion;Merlo;II-U-22-27;Acevedo;Ninfa Beatriz;5337637;1168839707;1;Camara 29-09-2016;2;2;2;2;1;9;
+12/11/2014;Regularizacion;Hurlingham;IV-E-190-13;Perugini;Nestor Eduardo;13020241;46624594/              44523297;1;Camara  29-09-2016;2;2;2;2;1;9;
+13/11/2014;Regularizacion;Merlo;II-K-24-26;Ayala Iglesias;Rosa Lilyan;18848358;0220-4992346/       1549376001;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+02/02/2015;Regularizacion;Alte. Brown;III-Q-9-20;Grieco;Silvio;21459708;1142773858;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+03/02/2015;Regularizacion;Alte. Brown;V-L-486-11;Diaz;Ariel Javier;23.472.66;2224425419/       1158656107;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+02/02/2015;Regularizacion;Alte. Brown;II-C-345-22;Ruiz ;Maria Teresa;23365383;011-42978158;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+02/02/2015;Regularizacion;Alte. Brown;III-P-54-4;Respond;Hernan Rodolfo;25433025;1536125203;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+02/02/2015;Regularizacion;Alte. Brown;I-H-420-12;Medina;Yanina Soledad;31967744;1126498248;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+02/02/2015;Regularizacion;La Plata;III-C-112-112P-23;Quevedo;Fernanda;27629433;2214561214/ 221409-4803;1;;2;2;2;0;0;6;
+03/12/2014;Regularizacion;Alte. Brown;V-J-89-11B;Urdirios;Nilda Noemi;3863312;42680730/                42336128;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+17/12/2014;Regularizacion;Alte. Brown;III-F-3-5;Farias;Juan Ramon;7737999;42387201/                 1166812210;1;Camara  26-09-2016;2;2;2;2;1;9;
+03/12/2014;Regularizacion;San Fernando;VII-L-84-24;Roman;Pablo Cesar;25913998;47146780/                1157209680;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;2;0;8;MANFREDI
+03/12/2014;Regularizacion;Esteban Echeverria;I-C-32Q-1;Philbert;Maria Alejandra;17789549;42969418/               1157209680;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;0;0;6;BILBAO ALBERTE
+17/12/2014;Regularizacion;La Plata;VII-M-9-3;Frias;Maria Victoria;27268190;4863123/              2215799206;1;Camara  20-12-2016;2;2;2;2;1;9;
+19/12/2014;Regularizacion;Alte. Brown;III-B-128-15;Rivas Ayala;Crispin;92231991;1568517681/           1530190786;1;sevolvio a pedir camara el 02/01/17;2;2;2;2;1;9;
+04/12/2014;Regularizacion;Alte. Brown;III-F-10-1;Carrizo;Nestor Gerardo;17551101;42999484/               42471872;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+12/12/2014;Regularizacion;Alte. Brown;III-O-187-18;Gonzalez;Claudelina Magdalena;20777886;42383197/               1558777549;1;Camara y Edicto 21-09-2016;2;2;2;1;1;8;
+17/12/2014;Regularizacion;Alte. Brown;III-B-191-3;Marquez;Mario Roberto;8255130;1138062166;1;Camara 14-10-2016;2;2;2;2;1;9;
+19/12/2014;Regularizacion;La Plata;IX-N-114-27;Avellaneda;Rosa Mabel;16502867;155893510;1;Camara 27-09-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+23/12/2014;Regularizacion;Alte. Brown;V-E-348-4;Tirante;Gladys Rosana;17260673;2224425099;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+02/12/2014;Regularizacion;Avellaneda;I-M-108-1;Gonzalez;Fortuoso;12303113;42276977/                 42174458;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+22/12/2014;Regularizacion;La Plata;III-B-95J-30;Mora;Noemi Gisela;18309475;155367394/             156110956;1;Camara;2;2;2;2;1;9;
+22/12/2014;Regularizacion;Alte. Brown;III-E-87-3;Caro;Olinda Azucena;51987147;42995524/              1151547069;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+22/12/2014;Regularizacion;Alte. Brown;I-P-21-13A;Meteiero;Carlos  Alberto;20249136;1555851295/               42112306;1;Terminado-2¯Piso;2;2;2;2;2;10;
+11/12/2014;Regularizacion;Alte. Brown;III-Q-89B-14;Palomero;Marcela Alejandra;23111751;(011)1532077528;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+14/05/2014;Consolidacion;Berisso;VII-C-541-6;Monge;Dora;4454936;458-0667;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;CIANCIO
+04/09/2014;Consolidacion;Merlo;III-Q-8-8A-13;Bernal;Patricia Beatriz;93552435;01155067152/            022049774493;1;Tiene exp.con Not.Rioja 2147-c-72-7-18/12 (Archivado);2;2;2;0;0;6;
+29/12/2014;Regularizacion;Berazategui;VI-D-91A-26;Montes de Oca;Gladys Beatriz;16044314;54347316/ 1566446373;1;Terminado 2¯Piso (30-03-17);2;2;2;2;2;10;
+04/12/2014;Regularizacion;La Matanza;V-G-206-4;Jurado;Ana Maria ;17127352;1135951195/       44325467;1;Camara 11-01-17;2;2;2;2;1;9;
+04/12/2014;Regularizacion;La Plata;II-H-135D-34;Rodriguez;Cintia Isabel;17569769;4703034/               2215478702;1;Camra 26-09-2016;2;2;2;2;1;9;
+03/12/2014;Regularizacion;Hurlingham;IV-B-258-18;Perez; Manuel Emilio;34432869;46629695;1;Camara  10-01-17;2;2;2;2;1;9;
+04/12/2014;Regularizacion;Berisso;VII-J-403-6;De la Cruz Romero;Angel Jose;93.911.932.;4276926/                            154342358;1;Camara 10-01-17;2;2;2;2;1;9;
+29/01/2015;Regularizacion;La Plata;IV-G-26-28;Romero;Delicia;14723660;0221154974305/                           221156300138;1;Camara  05-10-2016;2;2;2;2;1;9;
+27/01/2015;Regularizacion;Alte. Brown;V-L-492-12;Ortu§o Merida;Cesar;93044803;1133355130/     42740414;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+26/01/2015;Regularizacion;Alte. Brown;III-L-97A-17;Rosales;Carlos Augusto;21455745;42192292/               1163552235;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+23/01/2015;Regularizacion;Alte. Brown;III-H-82-15;Busse;Patricia;24064751;01142382838/             0111551806407;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+23/01/2015;Regularizacion;Alte. Brown;IV-A-22-11;Ramirez;Zunilda Beatriz;31594542;1142790990;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+23/01/2015;Regularizacion;Berazategui;IV-N-49-11;Aguirre;Marcelo Miguel;20617587;01142585431/       011563098135;1;Terminado 2¯Piso (27-10-2016);2;2;2;2;2;10;MUDRAK
+07/01/2015;Regularizacion;Alte. Brown;V-Q-131-19;Sosa;Raquel Rosana;18285170;2224425007;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+05/01/2015;Regularizacion;Berazategui;IV-S-6B-7;Rodriguez;Roxana Isabel;31298878;42234593/            01142588008;1;Informe de Dominio NO MAT 20-01-17;1;2;1;0;0;4;
+05/01/2015;Regularizacion;La Plata;II-O-264F-1A;Dibene;Jorge Enrique;13560705;2214510497/               ;1;Camara  18-10-2016;2;2;2;2;1;9;
+20/01/2015;Regularizacion;La Plata;IX-B-21-21D-5;Casas;Paola Vanesa;25350713;221153550053/                   022148601282;1;Camara  03-10-2016;2;2;2;1;1;8;
+20/01/2015;Regularizacion;La Plata;III-E-260-11;Salas;Nelida Del Carmen;26513181;153038349/15-538-1136;1;Camara  22-12-2016;2;2;2;2;1;9;
+20-Ene;Regularizacion;La Plata;II-D-10-32;Parisi;Enrique Salvador;11459449;221-156738833         ;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+22/01/2015;Regularizacion;Alte. Brown;III-H--254-13;Franco;Maria Alejandra;30625599;011-42681427;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+22/01/2015;Regularizacion;La Plata;IX-N-12-15;Caputi;Mirta Maria;4679003;0221-155737205;1;Camara 20-09-2016;2;2;2;2;1;9;
+22/01/2015;Regularizacion;Alte. Brown;III-A-139-3;Ciappa;Claudio Marcelo;26466614;011-42934888/        011-1557530835;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+14/01/2015;Regularizacion;Alte. Brown;III-A-155-3;Elizando;Maria Monica;14127062;1533748577;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+13/01/2015;Regularizacion;Alte. Brown;III-O-36-4;Nieva;Jose Antonio;8055828;42385622;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+18/01/2015;Regularizacion;Alte. Brown;V-E-343B-25;Tarnawski;Maria de los Angeles;18489836;0224 425194;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+19/01/2015;Regularizacion;Alte. Brown;II-A-177-16;Caliva;Luis Adalberto;21570374;011-42144484;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+13/01/2015;Regularizacion;Alte. Brown;III-M-97-22;Fernandez ;Alfonso;92436250;42193863;1;Terminado 2¯Piso (1-12-16);2;2;2;2;2;10;
+15/01/2015;Regularizacion;Merlo;III-C-1A-18;Ramirez;Raul Ruben;26266646;0220-4925042 /  (011) 15-389-75664;1;Camara  05-10-2016;2;2;1;2;1;8;
+16/01/2015;Regularizacion;Alte. Brown;I-O-738B-12;Rodriguez ;Maria Emiliana;17035455;1160071375;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+27/12/2013;Regularizacion;Ezeiza;IV-A-102-21;Barazal;Mirta Beatriz;5295457;42329399/                1540481312;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+00/04/2014;Regularizacion;La Plata;;Lamas;Nancy Deolinda;12408609;22115590609;1; Partida N¯296012 / fisicamente no esta el expediente;0;0;0;0;0;0;
+13/11/2014;Regularizacion;Alte. Brown;;Leiva;Laura Edith;21069966;1168952377;1;en archivo caja 4 ;0;0;0;0;0;0;
+28/03/2014;Regularizacion;La Plata;III-C-132D-21;Segovia;Eugenio;16652078;4742556/                     2216418177;1;Camara 29-09-2016;2;2;2;2;0;8;
+27/02/2014;Regularizacion;La Plata;I-A-9-3A-sp2;Llorens;Reinaldo Pedro;8345506;4831552;0;;0;0;0;0;0;0;
+03/02/2015;Regularizacion;Alte. Brown;I-M-600B-15;Callegary;Elsa Beatriz;6412618;1563557476/             42933248;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+00/03/2014;Regularizacion;Avellaneda;II-S-2-1D-SP7;Sarrias;Juan Ruben;13021720;011-65041033;1;Se caratulo, Lo tiene Noe (2¯ Piso)-2423-4776/16 se dictamino Agosto 383/16 falta la firma;2;2;2;2;0;8;
+31/03/2014;Regularizacion;Berisso;VII-J-400-1;Lustanau;Miriam Mabel;16596642;4223659/               221-5915257;1;Camara  23-09-2016/Hacer CD;2;2;2;2;1;9;
+28/03/2014;Regularizacion;Brandsen;VI-A-12-4;Contreras ;Daniel;93043273;0222315500592/           2215480442;0;Falta: prueba 2011 y 2012;0;0;0;0;0;0;
+13/08/2014;Regularizacion;La Plata;VIII-K-D-17;Acosta;Andrea Mabel;36820945;221-4309710;0;;0;0;0;0;0;0;
+22/08/2014;;La Plata;IX-B-188-6;Mu§oz;Eva Raquel;17666415;156389961;0;;0;0;0;0;0;0;
+01/08/2014;Regularizacion;Ezeiza;IV-L-123-2;Amurrio Salinas;Casimira;92976530;2274451816;0;Falta: prueba 2006 y 2007.;0;0;0;0;0;0;FERRAIRONE
+01/04/2014;Regularizacion;Alte. Brown;I-D-95-15;Sena;Florentino Oscar;4291138;42642153;0;Falta: prueba 2007,2012,2014.;0;0;0;0;0;0;
+01/04/2014;Regularizacion;Esteban Echeverria;VI-G-125-2;Garcia;Zulma Fidelina;16881370;42442600/              1567423153;0;Falta: prueba 2012 y 2015.;0;0;0;0;0;0;
+28/04/2014;Regularizacion;La Plata;PART: 250209;Aleman;Rufina del Valle;13942203;"4869498 ; 15-609-6964";1;;0;0;0;0;0;0;
+16/05/2014;Regularizacion;Alte. Brown;IV-A-12-9;Marquez;Leli Noemi;16092256;011-42792021/              011-1553878586;0;Falta: prueba 2006, 2007, 2008, 2011, 2012, 2013 y 2014.;0;0;0;0;0;0;
+08/05/2014;Regularizacion;La Plata;IX-C-52-39;Rodriguez;Graciela Beatriz;13408698;4531397;1;Camara  30-09-2016;2;2;2;2;1;9;
+28/04/2014;Regularizacion;La Plata;VI-CC-124-1,2,28;Arrieta ;Guillermo Alfredo;5321829;1126458495/          15-3166710;1;;2;2;1;0;0;5;
+12/11/2014;Regularizacion;Avellaneda;II-B-7-1B-13;Rolan;Miriam Magdalena;18650026;011-53540230/              011-1553398548;1;Camara 18-10-2016;2;2;2;2;1;9;
+04/12/2014;Consolidacion;Dolores;I-B-214-2B;Gomez;Miguel Roberto;5304119;02245-443635;1;Terminado-2¯Piso (08-09-16);2;2;2;0;0;6;MORCELLE
+;Consolidacion;Quilmes;II-P-27-20;Villar;Victoriano;;011-22490224  - 011-42260037;1;Terminado 2¯Piso (6-12-16);2;2;2;0;0;6;
+11/04/2014;Consolidacion;Hurlingham;IV-B-88-17;Rios ;Carlos Javier;28395335;1535542163/              46272052;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOLARI DEL VALLE
+01/08/2014;Consolidacion;Hurlingham;IV-D-15-15K-16;Arga§araz;Nilda Guillermina;1628143;011-46629935;1;Archivado ya tiene Exp de Conso;2;2;2;0;0;6;
+10/09/2014;Consolidacion;La Plata;III-A-4-4D-12;Navarro;Dorita ;1624570;15-5794713/                4846942;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+17/09/2014;Consolidacion;La Plata;III-D-161C-9;Rodriguez;Luis Rafael;6189294;4781060/ 461-2605;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+24/07/2014;Consolidacion;Mercedes;II-B-107-107A-14;Arceluz;Edith Ethel;13366189;02324-425359/                   15513915;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;GIANNINI
+18-Feb;Consolidacion;La Plata;II-O-256-256B-6;Orellana;Ana Maria;17486780;4565321/15-3184044;1;Terminado 2¯Piso (31-10-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+10/10/2014;Consolidacion;Hurlingham;IV-J-352A-10;Rodriguez Bernal;Farida Otilia;92167311;44503922/                 15-37582530;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOLARI DEL VALLE
+11/11/2014;Regularizacion;Alte. Brown;III-A-63-9;Marta;Alba Rosa;3997695;42145615;0;Falta: prueba 2005,2006,2007,2009.;0;0;0;0;0;0;
+03/11/2014;Regularizacion;La Plata;IX-S-98-18;Thibe;Olga Mabel;22851891;4862850/                 156198263;0;Falta: prueba 2008 y 2014;0;0;0;0;0;0;
+12/11/2014;Regularizacion;La Plata;II-M-224A-11B;Asiguien;Hector Oscar;11616987;155542869;1;Camara  14-10-2016;2;2;2;2;1;9;
+20/11/2014;Regularizacion;Alte. Brown;II-A-141-10;Rodriguez ;Sandra Carlina;22321678;1151343479;0;Entregado a Herrero Pons;0;0;0;0;0;0;
+19/12/2014;Regularizacion;Quilmes;V-H-98A-1;Gauna;Mariana Margarita;27755202;42780775/                      1162343342;1;Terminado-2¯Piso;2;2;2;2;2;10;ROSELLI
+22/12/2014;Regularizacion;Alte. Brown;III-D-167-9;Pignataro;Ana Olinda;22573884;4238-7174/                    1561040605;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+29/12/2014;Regularizacion;Magdalena;I-B-114-26;Fernandez;Hortencia;4572527;"2221453685 ; 15-5027583. Landa.";1;;0;0;0;0;0;0;
+23/12/2014;Regularizacion;Alte. Brown;III-K-66A-24;Vazquez;Dina Encarnacion;5892568;42998335/                1536365770;0;Entregado a Herrero Pons;0;0;0;0;0;0;
+17/12/2014;Regularizacion;Alte. Brown;III-D-102-8;Frias;Simeona;6065271;42389106/                        1563530966;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+00/12/2014;Regularizacion;San Fernando;II-A-31-21AA;Mu§oz;JosÇ;11046106;1147469560;0;Falta: prueba 2005,2006,2007;0;0;0;0;0;0;
+03/12/2014;Regularizacion;Alte. Brown;I-H-414-1;Peralta;Mariela Veronica;25024986;01142361972/                   1564442342;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+17/12/2014;Regularizacion;Alte. Brown;III-Q-76-1;Sanchez;Nicasia;5192611;011-42773064;0;Falta: prueba 2014.;0;0;0;0;0;0;
+23/09/2014;Regularizacion;Pinamar;IV-A-60-13;Garcia;Guillermina Elsa;27854611;02254494541/                     0226715521744;1;Camara  17-10-2016;2;2;2;2;1;9;
+04/09/2014;Regularizacion;La Plata;IX-S-20-8;Montero;Maria Fernanda;21945096;15-4940999;0;;0;0;0;0;0;0;
+24/09/2014;Regularizacion;La Plata;VII-M-70-21;Torres;Angela Antonia;10979385;"4500563/                15-4317876 ; 15-5456107";1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+03/06/2014;Regularizacion;La Plata;III-B-90M-7;Casco;Pedro Eugenio;14814242;221-6037365;0;Falta: prueba 2006,2007,2009 y2014. Las copias del 2012 y 2013 est†n cortadas         ( volver a pedir).;0;0;0;0;0;0;
+03/06/2014;Regularizacion;La Plata;III-B-90B-19;Rodriguez ;Norma Carina;18847643;15-6668131;1;Camara  22-12-2016;2;2;2;2;1;9;
+08/07/2014;Regularizacion;La Plata;VI-P-23-3B;Ledesma;Zolio Martire;4628078;4720703;0;figuran 3 direcciones diferentes.;0;0;0;0;0;0;
+24/07/2014;Regularizacion;Alte. Brown;III-F-310B-17;Flores;Carmen Noemi;11886482;1161239838/                1133443704;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+14/07/2014;Regularizacion;Ca§uelas;I-B-14-145-27;Roldan;Sandra Victoria ; ;222615517728/                   2214209193;0;;0;0;0;0;0;0;
+23/07/2014;Regularizacion;Alte. Brown;III-H-78-8;Rodriguez Sanabria;Teresa;92510839;15-49495016;0;Faltan: pruebas 2010,2011 y 2012.DNI de todos, cuil de la beneficiarias. ;0;0;0;0;0;0;
+27/10/2014;Regularizacion;Quilmes;V-A-8-11;Paiz;Teresa Liiana;14647921;1142781172;0;Falta: prueba 2009 y 2014.;0;0;0;0;0;0;
+09/10/2014;Regularizacion;La Plata;VI-P-07-2 Y 3;Bertoldi;Isabel Noemi;21544381;4720507/           155600334;0;Falta: prueba 2013;0;0;0;0;0;0;
+01/10/2014;Regularizacion;La Plata;II-P-271F-22;Zemborain;Laura Andrea;20864344;4563355/ 154005182   -  155548907          ;1;;2;2;2;0;0;6;
+30/10/2014;Regularizacion;La Plata;III-B-90F-21;Caso;Leonardo Fabian;32437893;5003174/               155715077;0;esta en caja 2 de archivo falta solo 2008;0;0;0;0;0;0;
+27/10/2014;Regularizacion;Alte. Brown;III-P-117-3;Rutke;Lucia Ines;20306105;1134732070/                20742041;0;Beneficiario Notuficado archivado lo inicia nuavamente en el municipio ;0;0;0;0;0;0;
+07/10/2014;Regularizacion;Alte. Brown;IV-A-162-23;Aliendro;Adela Monica;21468679;42790006/                 1161258474;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+03/10/2014;Regularizacion;La Plata;VI-L-48-06;Sosa;Liliana Angelica;17899407;15-6173003;0;Falta: prueba 2005 y 2010.;0;0;0;0;0;0;
+04/04/2014;Regularizacion;La Plata;IX-N-60-10;Moreno;Estela Matilde;1894682;15-6004489/            1548110507                              ;1;Est† fisicamente en el 2do piso;2;2;1;0;2;7;
+22/04/2014;Regularizacion;Merlo;II-R-10-11B;Mancuello Britos;Maria Leonci;93072141;47884243/                  1567529469;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+04/04/2014;Regularizacion;Alte. Brown;III-F-271B-6;Perez;Daniel Fernando;5834516;1560497007;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+03/04/2014;Regularizacion;La Plata;III-B-79H-16;Amado;Beatriz Maria;17290636;"4140757 ; 470-2034";1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+31/03/2014;Regularizacion;La Plata;II-P-290H-6;Gomez Huaman;Geovana Esther;94523564;4501585/                  221-559-4230;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+00/03/2014;Regularizacion;Alte. Brown;V-L-492-17 Y 18;Ayunta;Miguel Armando;29823752;0222-4425437;1;Camara 20-09-2016/CD enviada 07-04-17;2;2;2;1;1;8;
+26/03/2014;Regularizacion;La Plata;VII-M-161-15;Camacho Chalan;Luz Elena;93915108;4863300/             221-6519371;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+12/03/2014;Regularizacion;Florencio Varela;III-G-22-10;Cejas;Ruben Victor;30172057;1163847477/          1144926099;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;2;2;10;
+07/03/2014;Regularizacion;La Plata;III-B-5-4;Medina;Rosa Albina;12238233;4782285/            0221-5550328;1;Edicto 20-02-17;2;2;2;1;2;9;
+06/02/2014;Regularizacion;Avellaneda;II-G-100-1;Flores;Maria Antonia;6274831;42276268;1;Camara  17-10-2016;2;2;2;2;1;9;
+31/01/2014;Regularizacion;Pte. Peron;VIII-S-242-15;Acosta;Silvia Graciela;34683291;02224477493/            1161859396;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+24/02/2015;Regularizacion;Florencio Varela;II-K-27-28;Moreno;Filomena Margarita;6145210;42131730/                     42132741;1;Camara 29-12-2016;2;2;2;2;1;9;
+28/07/2015;Regularizacion;San Miguel;II-N-18-6;Vera Restan;Teresa Gloria;18898142;1151485355;1;Se solicito NO MAT y Copia de Asiento (ver como vuelve);2;2;1;0;0;5;
+13/02/2014;Regularizacion;La Plata;II-D-140-1-3C;Peralta;Maria Cristina;16470811;2216203992;0;Falta: prueba 2008,2009 y 2014.;2;2;1;0;0;5;
+08/05/2011;Regularizacion;Lanus;XIII-B-3-13;Migueles;Cristina Isabel;18730705;15-5063166;1;;0;0;0;0;0;0;
+06/05/2014;Regularizacion;Escobar;IX-V-0-1;Tato;Romina Alejandra;28585902;02320-552145 ;1;Derivado al IVBA 1-08-2016;0;0;0;0;0;0;
+05/03/2015;Regularizacion;La Plata;II-P-271C-40;Aladro;Moniza Azucena;17875335;450- 4864/                155665143;1;Camara 20-09-2016;2;2;2;2;1;9;
+20/03/2015;Regularizacion;La Plata;IX-S-171-11;Gonzalez Candia ;Bernardina;94584140;0221-4861426/            0221-156764980;1;Camara  05-10-2016;2;2;2;2;1;9;
+20/03/2015;Regularizacion;La Plata;III-F-269-269H-17;Francesconi;Enrique Omar;10686241;4500106/              15 4978237;1;Terminado-2¯Piso;2;2;2;2;2;10;MARINELLI
+29/12/2015;Regularizacion;Ensenada;IV-B-3C-4;Gomez ;Elsa Julia;18131120;4694430/                   154599609;1;Terminado 2¯Piso 02-02-17;2;2;2;2;2;10;
+20/02/2015;Regularizacion;Alte. Brown;III-J-17C-20;Mercante;Miguel Angel;11827025;42142186;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+25/02/2015;Regularizacion;Alte. Brown;III-G-284-9C;Altamirano;Andrea Elizabeth;21940405;42190513/                 1562829355;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+04/02/2015;Regularizacion;Alte. Brown;V-H-6C-12;Diaz;Rodolfo ;10615283;42330383;0;Entregado a Herrero Pons;0;0;0;0;0;0;
+20/02/2015;Regularizacion;Alte. Brown;III-F-279-5;Godoy;Marisa Beatriz;13874486;42363996/                    35303028;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+20/02/2015;Regularizacion;La Plata;VIII-A-27-05;Sayos;Paula Elizabet;37147060;4913888/                 153510601;1;Informe Pedido 8-11-2016 (NO Matriculado);2;2;2;1;1;8;
+23/02/2015;Regularizacion;La Plata;III-B-40-3;Gutierrez;Dora Esther;5889817;4142260/              155555902;1;Camara 11-01-17;2;2;2;2;1;9;
+12/02/2015;Regularizacion;Alte. Brown;I-D-145C-12;Cisneros;Fernando Daniel;31080712;42113530/               1556167698;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+12/02/2015;Regularizacion;Florencio Varela;I-E-95-12;Benitez;Juana;11001719;43552828;1;Camara  16-11-16/CD enviada 07-04-17;2;2;2;2;1;9;
+27/02/2015;Regularizacion;Alte. Brown;II-J-12E-20;Veron;Maximiliano Angel;35526704;011-32171184/       011-22828832                  ;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+03/03/2015;Regularizacion;Berazategui;IV-T-52-02;Paravia;Gladys Ethel;13982234;42234714/                  1536358351;1;Camra  10-01-17;2;2;2;2;1;9;
+13/03/2015;Regularizacion;Berazategui;IV-M-42-8;Reynoso;Paola;25598989;011-1540392101;1;esta en el mueble;2;2;2;2;0;8;
+08/01/2014;Regularizacion;La Plata;II-K-126U-11;Sala Franco;Irene;93032764;155448261;1;;0;0;2;0;2;4;
+02/12/2014;Regularizacion;Alte. Brown;III-E-120-25;Torrez Limache;Euladia Veneranda;92827480;42382080;1;Terminado 2¯Piso (27-01-17);2;2;2;2;1;9;
+13/03/2015;Regularizacion;La Plata;III-B-58F-17;Defeis;Lidia Edith;29994128;0221-4702324/            0221-155624763;1;Se volvio a Pedir Camara 02-01-17;2;2;2;2;1;9;
+20/02/2015;Regularizacion;La Plata;VII-M-104-5;Avila ;Claudia Carolina;26250405;4863894/             156693834;1;Camara 18-10-2016;2;2;2;2;1;9;
+12/02/2015;Regularizacion;La Plata;VI-T-121-23;Alegre;Adrian;32896671;2216691030;1;Camara  24-10-2016;2;2;2;2;1;9;
+17/03/2015;Regularizacion;Tigre;III-P-138-27;Silva;Analia Mercedes;28685817;47151379/             1130654785;1;Se fue a la Municipalidad de Tiegre;2;2;2;1;1;8;
+03/02/2015;Regularizacion;Alte. Brown;II-A-365-13;Navarro;Segundo Omar;10983695;011-20771290/          1564712054;1;Terminado 2¯ piso (3-3-2017);2;2;2;2;2;10;
+04/02/2015;Regularizacion;La Matanza;V-K-16B-19;Brizuela;Rodolfo Francisco;18316626;44673392/            1534121348;1;Terminado 2¯Piso 2-02-17;2;2;2;2;2;10;
+28/03/2014;Regularizacion;La Plata;III-C-132D-21;0;Eugenio;16652078;4742556/        2216418177;1;;0;0;0;0;0;0;
+16/03/2015;Regularizacion;Merlo;II-R-103-6;Herbas;Rafael Hugo;28593270;011-21803438;1;Terminado 2¯piso (3-2-2017);2;2;2;2;2;10;
+06/02/2015;Regularizacion;Florencio Varela;II-H-36-25;Zalazar;Domingo;17164245;01143553563/            3624661907;1;Camara y Edicto 24-02-17;2;2;2;1;1;8;
+12/02/2015;Regularizacion;Berazategui;IV-U-38-10;Woloszczuk;Nadia Romina;30281146;01142584137/            0111551614330;1;Camara  18-10-2016;2;2;2;2;1;9;
+20/03/2015;Regularizacion;Alte. Brown;V-A-146-20;Silva;Mirta Elizabeth;21468693;011-42395540/     1565665743;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+12/02/2015;Regularizacion;Alte. Brown;III-H-49-10;Casco;Fernando Ariel;20001537;42382644/                1530208064;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+13/02/2015;Regularizacion;Alte. Brown;V-A-82B-26;Suss;Amalia Lorena;23608959;42331142/           1569492385;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+04/02/2015;Regularizacion;Alte. Brown;I-D-116-25;Pereyra;Rosa Elena;20743942;42697813/             1551262203;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+12/02/2015;Regularizacion;Alte. Brown;I-H-375-30;Velazquez;Yamila Rosalia;31080755;1521587346/                1535819230;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+12/02/2015;Regularizacion;La Plata;III-G-CH.386-17;Ramirez;Yesica Romina;37803630;221412744/        2214546875;1;DERIVADO A GABRIELA G. (FINALIZADO);2;2;2;0;0;6;
+12/02/2015;Regularizacion;Alte. Brown;III-E-90-13;Tejeda;Liliana Beatriz;13969078;42384825;1;;2;2;2;1;0;7;
+18/02/2015;Regularizacion;Tigre;III-H-27A-8;De Lima;Irene Maria;22125153;03327417700/              1561810948;1;Camara 19-10-2016;2;2;2;2;1;9;
+04/03/2015;Regularizacion;Merlo;II-BB-18-34;Ramirez;Mario Alberto;27756475;02204981764/            1164080630;1;Se hizo exp.en registro por un doble dominio (Celeste);2;2;1;0;0;5;
+06/02/2015;Regularizacion;Bahia Blanca;IX-F-7-20;Borquez;Claudia Alejandra;20903711;4570716/             154045454;1;;0;0;0;0;0;0;
+06/02/2015;Regularizacion;Berazategui;IV-F-102-18;Bobadilla Quintana;Reina Isabel;92964206;43951244/                 43950946;1;Terminado-2¯Piso;2;2;2;2;2;10;
+06/02/2015;Regularizacion;Alte. Brown;III-F-358-16;Vazquez;Roque Jesus;8345305;42364016;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+00/00/2014;Regularizacion;San Miguel;II-M-2A-2;Castege;Silvia Lilian;14472994;44552245;1;;2;2;1;0;0;5;
+16/03/2014;Regularizacion;Berazategui;IV-R-100-24;Pereyra;Leonardo Arturo;18372820;4230790/              1560203507;1;;2;2;2;1;0;7;
+19/03/2014;Regularizacion;Jose C. Paz;;Castillo;Jesica Roxana;33873508;1161084278/         02320446093;0;faltan: todas las pruebas.;0;0;0;0;0;0;
+20/05/2014;Regularizacion;La Plata;III-E-131-131F-16;Esquivel Vera;Gaston Gabriel;25549595;4502076/                5411851;1;Camara  29-09-2016;2;2;2;2;1;9;
+10/10/2014;Regularizacion;La Plata;66-1j;Morligo;Maria del Socorro;11504106;4864196/                   4860677;1;;0;0;0;0;0;0;
+20/02/2015;Regularizacion;Alte. Brown;III-L-88-3;;;;;0;;0;0;0;0;0;0;
+21/07/2014;Regularizacion;La Plata;III-D-216C-4;Varela;Maria Rosa;16118036;156057743;1;;2;2;2;0;2;8;
+26/03/2014;Regularizacion;Florencio Varela;V-P-182-7;Rios;Gerardo Ariel;24215478;02229496854/                01131134671;0;Falta: duplicado facturas EDESUR y constancia de la municipalidad de la ex calle antartida actual 1156?;0;0;0;0;0;0;
+28/05/2014;Regularizacion;La Plata;VI-U-64-19;Rodriguez;Maria Esther;13942959;4715313/                 2216680832;1;Est† fisicamente en el 2do piso;2;2;2;2;2;10;
+25/03/2015;Regularizacion;La Plata;III-B-95-1F;Gomez;0;26036695;15-5029598/                  4309673;1;;0;0;0;0;0;0;
+00/03/2015;Regularizacion;Alte. Brown;;Perez;Hugo Hector;11916426;42383518;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+17/03/2015;Regularizacion;Alte. Brown;;Terrible;Alfredo Dionisio;12176761;42990226;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+13/03/2015;Regularizacion;La Plata;III-F-337K-4;Sosa;Silvana Lorena;26522008;4962723/                   4962622;1;Terminado 2¯Piso (27-01-17);2;2;2;2;2;10;
+16/01/2015;Regularizacion;La Plata;IV-B-4B-20;Solis;Cintia Griselda;80915065;156834960;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+11/03/2015;Regularizacion;Moreno;I-O-783-20;Moreno;Pedro Fabian;17014366;42111035/                1550202982;1;;0;0;0;0;0;0;
+11/03/2015;Regularizacion;La Plata;III-B-43E-14;Albo ;Marcelo;16532907;4701963/              156569043;1;Camara  17-11-16;2;2;2;2;1;9;
+25/02/2015;Regularizacion;Alte. Brown;V-E-324-30;Lombardi;Gerardo Ezequiel;32036214;1559586195/               1562865455;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+26/02/2015;Regularizacion;La Plata;III-B-CH.100-03;Navarro Carrera;Karina Elizabeth;94121957;4781198/               155702746;1;Camara 24-10-2016;2;2;2;2;1;9;
+27/02/2015;Regularizacion;La Plata;IX-B-QTA.47-47W-15A Y 15B;Juarez;Gladys Mabel;26145471;221156707583/      4861766;1;Camara  6-3-17;2;2;2;2;1;9;
+27/02/2015;Regularizacion;Moreno;III-A-29A-22C;Zalazar;Nidia Raquel;17397192;0111524968204/         0237113999460;1;;2;2;1;0;0;5;
+10/03/2015;Regularizacion;Alte. Brown;III-L-93B-7;Miranda Mora;Maria Angela;93055075;42192633/              1556584773;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+10/03/2015;Regularizacion;Alte. Brown;I-A-6C-1;Echeverria;Alicia Norma;5638247;4293-5545/                 1568151797;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+06/03/2015;Regularizacion;Alte. Brown;IV-E-312-5;Escudero;Matias Emanuel;30367079;2224422150;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+09/01/2015;Regularizacion;Alte. Brown;I-O-773-24;Perez Martinez;Miguel Angel;13289839;1554612572;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+20/02/2015;Regularizacion;Alte. Brown;V-Q-107-19;Ruiz;Andrea Susana;23614631;1122242612/             1140582122;1;Retirado por la Dir. Gral. De Tierras;2;2;0;0;0;4;
+15/12/2014;Regularizacion;Alte. Brown;III-G-339-14A;Velazquez;Ida Veronica;24024097;42193464/                  42361601;0;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+15/12/2014;Regularizacion;Alte. Brown;V-E-279-32;Bergara;Norma Cristina;16596160;42336340/                 1569978832;0;;2;2;1;0;0;5;
+18/12/2014;Regularizacion;Alte. Brown;I-O-771-7;Romero;Juan Carlos;10032520;0111565774114/         01142115147;0;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+09/12/2014;Regularizacion;Berazategui;IV-N-27-29;Ibarra;Ludmila Ayelen;38406481;01142588008/        01123482190;0;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+01/12/2014;Regularizacion;Merlo;II-W-23-14;Gomez;Carlos Delmiro;17148488;0220-4850089;1;Camara 29-09-2016;2;2;2;2;1;9;
+15/02/2014;Regularizacion;Avellaneda;II-C-21-15;Vitale;Daniel Alejandro;26023771;4222-7064/                1558679881;0;Informe pedido el dia 25/02/2016;2;2;1;0;0;5;
+15/12/2014;Regularizacion;La Matanza;V-L-133-11;Mamani tito ;Josefina;92099641;1120030577;0;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+22/12/2014;Regularizacion;Alte. Brown;V-B-112-26;Carabajal;Fabiana del Valle;27620135;50831505;0;Retirado por la Dir. Gral. De Tierras;2;2;------;0;0;4;
+28/02/2014;Regularizacion;Merlo;II-W-191-25;Pineda;Cintia Lorena;28469020;11-1564706735;0;;0;0;0;0;0;0;
+17/01/2014;Regularizacion;Moreno;IV-P-22-22B-7;Leguizamon;Ezequiel Omar;98923425;11-31141022;0;;0;0;0;0;0;0;
+19/06/2014;Regularizacion;La Plata;III-B-104B-18;Torres;Luis Santiago;29558657;155588657;1;Camara 28-09-2016;2;2;2;2;1;9;
+00/00/00;Regularizacion;La Plata;II-P-283-283A-8;Moreira;Silvina Gabriela;25190657;;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+08/01/2014;Regularizacion;Alte. Brown;III-L-77-9;Calderon;Jose Florencio;12229664;42366845/              1532484777;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+28/02/2014;Regularizacion;Florencio Varela;I-B-147-7;Lencina;Juan Guillermo;17445487;011-39703243;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+01/04/2014;Regularizacion;Alte. Brown;II-C-369-25;Rodriguez Calustro;Elvira;92582344;42380349;1;Se volvio a Publicar Edictos y Camara 28-12-2016/CD Enviada 07-04-17;2;2;2;1;1;8;
+00/08/2014;Regularizacion;Avellaneda;II-H-56-17;Canullan;Claudia Felisa;20954805;1138520644/                1142110222;1;Camara 20-09-2016;2;2;2;2;1;9;
+00/06/2014;Regularizacion;La Plata;IX-E-21-19;Maidana;Andres Mario;20483324;221-5643771;0;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+13/11/2014;Regularizacion;Merlo;II-M-89-4;Caserza;Emilio Jorge;10927545;0220-4890003;1;Camara  13-10-2016;2;2;2;2;1;9;
+22/09/2014;Regularizacion;La Plata;IX-A-19-18-;Cabrera;Alfredo Carlos;5060874;457-1229;1;Camara y Edicto ;2;2;2;1;1;8;
+07/02/2014;Regularizacion;San Bernardo;IV-W-71;Barbieri;Roberto Alcides;13770335;02257-15521777;1;esta en el mueble;2;2;2;0;0;6;
+24/05/2014;Regularizacion;La Plata;IX-H-344-13 Y 14;Estrade;Sebastian Martin;30575747;0221-4952498;1;;0;0;0;0;0;0;
+00/04/2014;Regularizacion;La Plata;IX-G-226-4;Burgardt;Eliana Marisol;28274067;0221-6150577;1;Est† fisicamente en el 2do piso;0;0;0;0;0;0;
+00/04/2015;Regularizacion;La Plata;IX-J-455- 23 Y 24;Martinez;Oscar Wilfredo;29695930;156247285;0;Esta fisicamente en el 2do Piso;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Vicente;Santa Beatriz;20276167;4916730;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Vintan Court;Eva Beatriz;17440164;;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Mora ;Atanacio;18758879;4782093;1;Camara 14-10-2016;2;2;2;2;1;9;
+19/12/2013;Regularizacion;La Plata;;Ferreira Villarreal;Catalina;94152340;4781840/                    01138788084;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Yapura;Julia Aydee;11072824;155526853;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Cerpa;Esteban;18311964;156033911/               154975550;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Dalla Fontana Azar;Yesika;94279271;4916423;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Borron Romero;Blas;93079214;15-54138330;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Ramirez ;Margarita Isabel;25326474;2215618744;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Sosa;Maria Esther;16733218;4782073/               156260188;1;;0;0;0;0;0;0;
+19/12/2013;Regularizacion;La Plata;;Heredia ;Luis Victor;13786709;156566794;1;;0;0;0;0;0;0;
+08/10/2014;Consolidacion;Florencio Varela;I-R-3-18;Fioroni;Maria Beatriz;10470538;011-42554065;1;;2;2;2;0;0;6;MUDRAK
+27/03/2015;Consolidacion;Alte. Brown;III-K-47A-15;Narvaez;Juana Amanda;4630330;011-1540516157 /  011-42421178;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+30/03/2015;Consolidacion;Alte. Brown;III-O-201-1;Serrano;Martin Miguel;28282087;42790835/             1566891251;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+30/03/2015;Regularizacion;Merlo;III-D-53B-11;Caceres Caballero;Antonina;92101723;(0220)49-22883;1;Terminado 2¯Piso (30-03-17);2;2;2;1;2;9;
+00/00/00;Regularizacion;Lanus;I-H-21-22;Dager;Hugo Fabian;17110833;1162238939;1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+30/03/2015;Regularizacion;Florencio Varela;II-K-18-15;Luque;Adelaida Ester;22281512;49781136/                       42135246;1;parcela para subdividir. / Camara 18-10-2016;2;2;2;2;1;9;
+30/03/2015;Regularizacion;Florencio Varela;II-K-18-15;Ruiz;Irma Soledad;27104849;42132741/          421311730;1;parcela para subdividir. / camara 18-10-2016;2;2;2;1;0;7;
+01/04/2015;Regularizacion;Alte. Brown;I-M-590-26-SP4;Acro;Agustina Victoria;38301500;1540658229/              1144107971;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+04/03/2015;Regularizacion;La Plata;III-S-157-157E-7;Silva;Alejandra Vanesa;24791106;4587408/         155312257;0;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+23/09/2015;Regularizacion;Alte. Brown;I-O-742-29;Graziano;Palmera Mar°a;2785315;42361730;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+23/02/2015;Regularizacion;Alte. Brown;III-O-210-25;Sanabria;Ana Ines;13108855;42792327;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+05/02/2015;Regularizacion;Alte. Brown;III-J-25-6;Tapia Jordan;Andres Mario;92967601;4293977/  42142368;1;Retirado por la Dir. Gral. De Tierras;2;2;---;0;0;4;
+26/03/2015;Regularizacion;Alte. Brown;I-P-151-18;Alba Mena;Rosmery Marlene;92693076;42565370/             1133386784;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+00/00/2015;Regularizacion;Moreno;IV-A-qta117-09;Garcia;Silvia Andrea;25186451;0237-4690855;1;Camara y Edicto 11-10-2016;2;2;2;1;1;8;
+08/04/2015;Regularizacion;La Costa;IV-L-4b-7a;Ledesma;Juan Carlos;5273452;0225715660185-155393010;1;Terminado-2¯Piso;2;2;2;2;2;10;
+07/04/2015;Regularizacion;Alte. Brown;I-D-238-10;Caceres Florentin;Gladys Ester;92681773;"011-30355499 ; 011-33937952";1;Entregado a Herrero Pons;0;0;0;0;0;0;
+07/04/2015;Regularizacion;La Plata;III-C-106i-19;Grondona;Maria Ines;1895753;"450-2110 ; 15-4540013";1;Camara y Edicto 6-3-17;2;2;2;1;1;8;
+22/04/2015;Regularizacion;San Miguel;II-N-54c-05;Cantero;Margarita Mabel;17718728;11646-81877;1;DERIVADO A NOELIA - INMUEBLE DEL ESTADO;2;2;2;0;0;6;
+20/04/2015;Regularizacion;Alte. Brown;III-O-12a-3a;Ali;Juan Alfredo;14970113;"4299-5365;4279-2792";1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+20/04/2015;Regularizacion;Ezeiza;V-C-80-13;Gonzalez;Americo;27002559;"4232-4663 ; 1133-571212";1;Se volvio a Pedir Camara 02-01-17;2;2;2;2;1;9;
+20/04/2015;Regularizacion;Alte. Brown;I-J-462-24;Fernandez;Yesica Adriana;34364957;011-1537719897;1;;0;0;0;0;0;0;
+17/04/2015;Regularizacion;Florencio Varela;V-U-148-11;Acosta ;Emma Ramona;11886247;"1131161282 ; 0237-4843409";1;Edicto y Camara 20-02-17;2;2;2;1;1;8;
+17/04/2015;Regularizacion;Moron ;II-J-219-19;Villalba;Juan Armando;7380018;"46923277 ; 15-443-98323";1;Terminado-2¯Piso;2;2;2;2;2;10;SOLARI DEL VALLE
+08/04/2015;Regularizacion;La Costa;IV-L-12a-11;Lencina;Hector Alberto;16123714;"0225715586769 ; 155393010";1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+22/04/2015;Consolidacion;Merlo;II-N-1k-22;Aveyro ;LiLiana Elena;12718918;"022-472242 ; 011-6098-60938";1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+07/04/2015;Consolidacion;La Plata;IX-A-19-18-;Fiol ;Rosa Angelica;5792613;"453-2439 ; 452-8259";1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+00/00/2015;Consolidacion;Merlo;III-L-165-03;Perez ;Agueda ;10892002;0220-4921153;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+21/04/2015;Consolidacion;Berazategui;J-16-1b;Andrighetto;Juan Carlos;7770265;4261-1323;1;;2;2;2;0;0;6;GARGANO
+22/04/2015;Consolidacion;La Plata;IX-B-31-31i-10;Techera;Olga Matilde;;;0;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+29/04/2015;Consolidacion;Merlo;II-HH-18-11;Alejandro Caihuara;Teodosia;92650731;2204982640;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+04/05/2015;Regularizacion;Alte. Brown;II-C-360-09;Troncoso;Onorinda;3549928;"42992477 ; 42998628";1;Entregado a Herrero Pons;0;0;0;0;0;0;
+04/05/2015;Regularizacion;Berisso;VII-N-129-19;Cadena;Daniel Alcides;17291028;"457-7246 ; 15-5772207";1;Camara y Edicto 31-01-17/CD enviada 10-03-17;2;2;2;1;0;7;
+04/05/2015;Regularizacion;La Plata;IX-C-61-15;Smith Suarez ;Felicita;94314956;"15-5473827; 452-0702";1;Camara 18-10-2016;2;2;2;2;1;9;
+29/04/2015;Regularizacion;La Plata;IX-N-117-02;Alvarez;Caterina Leonela;35499041;"451-1927; 2213549433";1;Camara  18-10-2016;2;2;2;2;1;9;
+05/05/2015;Regularizacion;Alte. Brown;II-C-226-14;Acu§a;Carlos Rafael;10230045;"42843550 ; 1531693418";1;Entregado a Herrero Pons;0;0;0;0;0;0;
+10/03/2016;Consolidacion;Ensenada;IV-K-8-14;Romero;Hermenegilda;4744023;4517138/ 156153273;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOBRAL
+09/04/2015;Regularizacion;Alte. Brown;III-D-105-15;Rocha Arispe;Juan Pablo;94000109;42991580-1137916451;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+08/04/2015;Consolidacion;La Plata;II-P-279-279b-62;Nieves;Olga Mabel;11291101;"450-3290 ; 15642-5909";1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+09/04/2015;Regularizacion;San Vicente;III-E-395-19a;Conti ;Ana Carolina;26470604;"02225491325 ; 0222415503178";1;Camara  04-10-2016;2;2;2;2;1;9;
+10/04/2015;Regularizacion;La Plata;;Apaza ;Bernabe Vicente;14347359;"15-409-2965 ; 487-7467";0;Pedir Nomenclatura Catastral;0;0;0;0;0;0;
+09/04/2015;Regularizacion;Alte. Brown;V-H-532-16;Sanabria  ;Olga Regina;14879543;15-68619523;1;Se volvio a pedir Camara 29-12-2016;2;2;2;2;1;9;
+13/04/2015;Consolidacion;Quilmes;III-J-72-25;Segovia;Clotilde Emilia;3593043;"4250-9945 ; 456-2322";1;;2;2;2;0;0;6;ROSELLI
+13/04/2015;Regularizacion;Alte. Brown;V-A-44-19;Robles;Ruben Daniel;16879302;42335203;1;Entregado a Herrero Pons;0;0;0;0;0;0;
+14/04/2015;Consolidacion;Esteban Echeverria;V-R-1-1c-170;Siruk;Juan Carlos;16707057;"4235-0325 ; 153915-7586";1;Terminado-2¯Piso (06-10-2016);2;2;2;0;0;6;BILBAO ALBERTE
+14/05/2015;Regularizacion;Alte. Brown;III-B-16-05;Casas;Oscar Alberto;11599970;"4211-4393;";1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+14/04/2015;Regularizacion;Alte. Brown;V-L-438-38;Rotela Benitez;Juan Pablo;95120151;"1134442703 ; 02224434529";1;Entregado a Herrero Pons;0;0;0;0;0;0;
+14/04/2015;Consolidacion;La Plata;VIII-A-19-9d;Correa ;Marta Noemia;13993373;491-6249 / 153583781;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+19/01/2015;Regularizacion;Hurlingham;IV-J-374-10;Cordoba ;Carmen Cristina;5600324;44504842 /1134876436;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+25/03/2015;Regularizacion;La Plata;III-B-95-1f;Gomez;Cecilia Elizabeth;26036695;15-5029598 / 430-9673;1;Terminado 2¯Piso (30-03-17);2;2;2;2;2;10;
+27/04/2015;Regularizacion;La Plata;III-B-fc2-ch76-uf15;Rende ;Ariel Eugenio ;23353519;"155451686 ; 155990148";1;Camara  03-10-2016;2;2;2;2;1;9;
+26/03/2015;Regularizacion;Hurlingham;IV-E-429-12;Gonzalez;Mirta Olga;6060564;15-5116-1325;1;Camara  17-11-16;1;2;2;2;1;8;
+24/04/2015;Regularizacion;Florencio Varela;I-C-200-23;Amarilla;Gladys;5310498;"(011)4287-7032 ; (011)1522160070";1;Camara  18-10-2016;2;2;2;2;1;9;
+06/05/2015;Regularizacion;Florencio Varela;II-A-105-14;Villalba;Mario Marcelo;7770200;"43552831 ; 1160343719";1; Camara 03-01-17;2;2;2;2;1;9;
+00/08/2015;Regularizacion;La Plata;IX-H-351-18 y 19;Barbat;Emiliano Gabriel ;25978076;"0221-155087520 ; 0221155525433";1;ARCHIVADO-Falta de Documentacion;0;0;0;0;0;0;
+30/04/2015;Consolidacion;Merlo ;I-R-107-1; Carabajal ;Ricardo;10953260;1541745608;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;Herrera
+04/05/2015;Regularizacion;La Plata;IX-S-07-04;Laudicci;Domingo Jose;12964292;011-3855-8513;1;Camara 03-01-17/CD enviada 07-04-17;2;2;2;2;1;9;
+12/05/2015;Consolidacion;La Plata;II-J-152-152c-24a;Piacentini;Sergio Daniel;24041691;"451-5208 ; 155760901";0;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+00/00/2015;Consolidacion;Hurlingham;IV-D-15-15k-1b;Galvan;Rodolfo Florentino;7039640;;1;;0;0;0;0;0;0;COSSO
+27/10/2015;Consolidacion;La Plata;III-A-12-12s-3;Campanella ;Manuel Agustin;5152259;15-564-9391;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+27/02/2015;Consolidacion;Ensenada;IV-K-26-10;Rivelli;Pablo Damian;24704688;"15-5439098 ; 15483-4387";1; ;2;2;2;0;0;6;
+09/03/2015;Consolidacion;Magdalena;VI-A-13-14;Aguilera;Concepcion Fortunata;3428489;"4860773 ; 2215979483";1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+09/03/2015;Consolidacion;Esteban Echeverria;VI-J-108-15;Sidenko;Nina;93951937;"1523170112 ;  01142816554";1;;2;2;2;0;0;6;BOLOGNA
+06/02/2015;Consolidacion;La Plata;III-D-168-168p-2;Olmedo ;Fermin Cancio;18332215;479-9117;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+19/02/2015;Consolidacion;Alte. Brown;III-B-53-14;Sotelo ;Roberto Manuel;14060068;"011-20537279 ; 011-1530650663";1;;2;2;2;0;0;6;HEFLING
+22/05/2015;Consolidacion;Berisso;V-B-11c-5;De Los Santos;Antonia Ramona;4285074;"450-4218 ; 15-555-1819";1;;2;2;2;0;0;6;FOGEL
+19/03/2015;Consolidacion;Escobar;IX-P-52a-27;Guzman;Mario Ester;92153791;348-444-7122;1;;2;2;2;0;0;6;MADORSKY ROWDO
+12/03/2015;Consolidacion;Lobos;I-B-143-1c;Rojo;Veronica Mariana;23783992;221-15-649-1554;1;;2;2;2;0;0;6;RE
+07/11/2016;Consolidacion;La Costa;IV-L-20b-8;Sanabria Aguirre ;Miguel Anotonio;92115601;11-2271-3636/011-42767251;1;Terminado 2¯Piso (25-11-16);2;2;1;0;0;5;
+17/03/2015;Consolidacion;La Plata;IX-C-162-19;Vargas ;Yolanda;18404664;"456-2322 ; 15-541-2022";1; ;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+17/03/2015;Consolidacion;Lomas De Zamora;XI-B-5-7;Frias;Mirta Del Valle;6524998;4202-4819;1;;2;2;2;0;0;6;FERNANDEZ ROUYET
+13/03/2015;Consolidacion;Moron ;II-J-192-16;Boronat;Beatriz Julia;5175316;"4697-4488 ; 1532380345";1;INFORME CON CORRECCIONES - VOLVER A PEDIR ;2;2;2;0;0;6;
+11/06/2015;Regularizacion;Merlo ;II-Z-61-22;Cabrera Acosta;Ricardo;1386651;"022044892601 ; 1139004768";1;Camara 20-09-2016;2;2;2;2;1;9;
+01/12/2014;Regularizacion;La Plata;IX-N-108-01-sub26;Murua;Gabriel Mariano;26683860;"457-9541 ; 15-545-2525";1;Est† fisicamente en el 2do piso;2;2;2;0;2;8;
+04/06/2015;Consolidacion;Merlo ;III-E-138-138b-7;Beron;Hector Oscar;22930765;0220-4924046;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+02/06/2015;Consolidacion;La Plata;II-P-282-282c-15;Merele ;Juan;8225574;456-3642;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+00/00/2015;Consolidacion;Merlo ;II-N-140-19;Flores;Lidia Raquel;11586202;"1160313569 ; 1554994022";1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+03/02/2015;Consolidacion;Quilmes;III-H-53-22;Chaya;Domingo Bautista;4395043;42001209;1;;2;2;2;0;0;6;ROSELLI
+08/06/2015;Consolidacion;La Matanza;V-O-108-05 ;Meccia;Rosa;93185683;"4625-1585 ; 1161-465545";1;;2;2;2;0;0;6;GLARIA
+22/06/2015;Consolidacion;La Plata;VIII-A-16-4a;De La Cuadra;Sergio Victor;18745103;"15-6459285 ; 15-560-8169";1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+28/05/2015;Consolidacion;La Plata;I-J-672-11;Meslius ;Elena Emilda;1753672;"425-5810 ; 15-562-2060";1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+10/06/2015;Consolidacion;Esteban Echeverria;I-C-27-27-16;Bergondi;Alberto Ismael;17020443;"4284-1201 ; 1531240306";1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;BILBAO ALBERTE
+14/05/2015;Consolidacion;Alte. Brown;III-E-37-27;Sobezuk;Wiera;93135302;(011)- 4299-4451;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+03/06/2015;Consolidacion;San Vicente;I-A-75-11b;Berraquero ;Daniel Alejandro;23754658;"15-61754261 ; 15-4196-2480";1;;2;2;2;0;0;6;FERNANDEZ DE AYAN
+21/05/2015;Consolidacion;Merlo;I-S-16-30;Gonzalez;Oscar    Dario;18195076;0220-4830998/011-1554785697;1;terminado 2 do 30/3/2017;2;2;2;0;0;6;
+01/06/2015;Consolidacion;Avellaneda;II-S-64-08;Ramirez;Mirta     Elena;6214053;"1138669237 ; 4207-7553";1;;2;2;2;0;0;6;FONTAN
+12/06/2015;Consolidacion;G.Madariaga;I-B-68a-10;Ceballos;Carlos Victor;16102146;"02267-15515341 ; 02267-551734";1;Reconstruccion-11-01-17/Terminado 2¯Piso 3-3-17;2;2;2;0;0;6;
+15/06/2015;Consolidacion;Punta Indio;III-B-107-19;Torres;Blanca Isabel;17808918;"221-592-8462;221-538-7831";1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+22/06/2015;Consolidacion;La Plata;II-L-207-207f-10;Do Santos ;Nelly;13,211,079;470-8914;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+15/06/2015;Regularizacion;Avellaneda;I-L-70-14;Kelly ;Susana Beatriz;11409440;"42273391;1559221696";1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+16/07/2015;Regularizacion;Florencio Varela;I-30-04;Derosa;Cerefino Ramon;23499603;"42552399 ; 1558808079";1;;0;0;0;0;0;0;
+16/07/2015;Regularizacion;La Plata;III-B-57e-11;Flores;Marta Aurelia;16859371;15-6158528;1;Camara 17-01-17;2;2;2;2;2;10;
+16/07/2015;Regularizacion;La Plata;III-B-58-58n-17;Velazquez;Ingrid Rosana E.;31301814;15-3531326;1;Se volvio a pedir Camara 28-12-2016;2;2;2;2;1;9;
+03/06/2015;Regularizacion;Hurlingham;IV-A-33-31;Campos;Maria Del Carmen;22678963;011-39661373;1;Camara 18-10-2016;2;2;2;2;1;9;
+03/06/2015;Regularizacion;La Plata;I-Q-3-1331-14;Montes;Marta Edith;5771782;"414-0354 ; 155979387";1;Terminado 2¯Piso (27-10-2016);2;2;2;2;2;10;MARINELLI
+03/06/2015;Regularizacion;Alte. Brown;III-O-10-24;Ruspi ;Juan Patricio;32152633;"1533742764 ; 42994808";1;Terminado-2¯Piso;2;2;2;2;2;10;
+17/06/2015;Regularizacion;La Plata;III-B-43-43c-01;Lopez ;Ricardo;4639154;"156235614 ; 470-0451";1;Camara y Edicto 01-02-17;2;2;2;1;1;8;
+15/06/2015;Regularizacion;La PLata;III-B-57-57k-6;Salvatierra;Ricardo;14681812;15-595-6247;1;Camara y Edicto 01-03-17;2;2;2;1;1;8;
+12/06/2015;Regularizacion;Merlo ;I-S-140-16a;Iacovino;Luis Alberto;14133838;"02204943841 ; 1557154537";1;2¯Piso-Se volvio a Publicar Edictos;2;2;2;1;2;9;
+10/06/2015;Regularizacion;Alte. Brown;I-H-381-13;Ricciuto;Juan;94753022;"42363815 ; 1169889476";1;Camara 04-10-2016;2;2;2;2;1;9;
+11/06/2015;Regularizacion;La Plata;I-N-1074-1e;Cordoba ;Nelida Haydee;12530232;"470-6996 ; 15-5010835";1;Camra  23-12-2016;2;2;2;2;1;9;
+15/06/2015;Regularizacion;La Plata;III-B-57-57-30;Silva ;Olga Mabel;16427482;"4141209 ;155590803";1;Terminado-2¯Piso;2;2;2;2;2;10;MARINELLI
+17/06/2015;Regularizacion;Balcarce;I-D-30-30c-2b;Oliva;Miguel Angel;8460439;15530251;1;ya lo habia iniciado en la escribania fueron notif.del dictamen se ARCHIVA.Tienen que hacer Plano o escriturar a nombre de todos.Conflicto familiar;2;2;0;0;0;4;
+17/06/2015;Regularizacion;La Plata;III-F-270-270k-13;Martinez ;Alicia Ivana;32485602;"15-4953800 ; 450-6052";1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+26/06/2015;Regularizacion;Ensenada;IV-B-11n-14;Garcia;Cecilia Soledad;28472054;"15-6052780 ; 4601517";1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+08/04/2015;Regularizacion;La Costa;IV-L-12b-24;Lencina;Carolina Del Valle;27476457;"1555173988 ; 1521615418";1;Camara 20-09-2016;2;2;2;2;1;9;
+17/04/2015;Regularizacion;Alte. Brown;I-P-46-09;Sotelo ;Ramon Alfredo;12947065;4211-2341;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+16/04/2015;Regularizacion;La Plata;III-B-90b-19;Romero ;Marcelina Elizabeth;25461424;2214812845;1;sevolvio a pedir camara el 28/12/16/CD enviada 07-04-17;2;2;2;2;1;9;
+19/01/2015;Regularizacion;Hurlingham;;;;;;0;;0;0;0;0;0;0;
+28/05/2015;Regularizacion;Lanus;I-M-51-23;Lopez ;Cecilia Roxana;29919302;011-2050-5352;1;Camara y Edicto 3-3-17;2;2;2;1;1;8;
+07/05/2015;Regularizacion;La Plata;VI-M-125-13;Escobedo;Norberto Ruben;20851098;"474-2299 ; 15-560-5960";1;Camara 10-01-17;2;2;2;2;1;9;
+07/05/2015;Regularizacion;Alte. Brown;III-E-138-22;Antunez;Carmen Beatriz;16760417;4299-7535;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+08/05/2015;Regularizacion;La Plata;IX-N-24b-20;Gomez ;Monica Beatriz;18691097;221-6416926;1;Separado en el Mueble por falta de documentacion-mueble(benef Not);2;2;2;2;0;8;
+11/05/2015;Regularizacion;Alte. Brown;I-P-73-21 ;Fernandez;Norma Alicia;21701067;"42111966 ; 1561070224";1;Retirado por la Dic. Gral. De Tierras- 2 con el expte. Elsa Elvira;2;2;1;0;0;5;
+30/03/201;;;;;;;;0;;0;0;0;0;0;0;
+22/06/2015;Regularizacion;La Plata;IX-P-10-26;Gomez;Rodolfo;8348676;"15-615-4384 ;479-5177";1;Camra 11-01-17;2;2;2;2;1;9;
+07/07/2015;Regularizacion;Alte. Brown;II-A-58-15;Pe§a ;Ricardo mario;10127257;011-4238-5796;1;Camara  24-10-2016;2;2;2;2;1;9;
+26/06/2015;Regularizacion;La PLata;IX-A-19-13;Bustamante;Lorenzo Daniel;25554273;"452-6043 ; 154191995";1;se mando a caratular con el expediente ;2;2;0;0;0;4;
+02/06/2015;Regularizacion;Alte. Brown;III-M-119-04;Ibarrola Leon;Mirtha Concepcion;18811016;"42195322 ; 1136102472";1;Camar y Edicto 6-3-17;2;2;2;1;1;8;
+02/06/2015;Regularizacion;Alte. Brown;III-M-119-04;Leon ;Concepcion ;92395647;"4236-2455 ; 1164379210";1;el expte esta 2 al expte de Ibarrola Leon/Camara y Edicto 6-3-17;2;2;2;1;1;8;
+03/08/2015;Regularizacion;La Plata;II-L-207-207e-05;Segura;Carlos Ceferino;18399239;"470-9816 ; 156146960";1;Camara 14-10-2016;2;2;2;2;1;9;
+04/08/2015;Regularizacion;La Plata;VIII-A-16-4c;De La Cuadra;Diana Stephanie;32870833;"471-6307 ; 155430139";1;Camara  03-10-2016;2;1;2;2;1;8;
+05/08/2015;Regularizacion;La Plata;III-B-90-90b-23;Luca;Miguel Antonio;20721373;15-559-3891;1;;0;0;0;0;0;0;
+30/07/2015;Regularizacion;La Plata;III-D-148-148g-29;Gutierrez Alvarez;Gloria Catalina;94046852;15-610-3799;1;Terminado 2¯(13-12-16);2;2;2;2;2;10;
+05/08/2015;Regularizacion;La Plata;III-B-50-50c-6d;Contreras ;Dolores;4732865;479-1866;1;Terminado 2¯piso ( 3-2-2017);2;2;2;2;2;10;
+05/08/2015;Regularizacion;Pte. Peron;VIII-S-180-14;Veleyzan;Rosa Margarita;13938719;"1151251136 ; 02224446505";1;Se cartula solicitando Cedula Historica 01-02-172423-6351/17;2;2;1;0;0;5;
+07/08/2015;Regularizacion;La Plata;III-B-86-86j-26;Arce Roman;Magdalena;94.210.050.;"478-2111 ; 153593155";1;Camra y Edicto 31-01-17;2;2;2;1;1;8;
+07/08/2015;Regularizacion;La Plata;XII-E-16-01;Busto;Blanca Margarita;13387049;"03484424840 ; 03481";1;Terminado-2¯Piso;2;2;2;2;2;10;MANFREDI
+06/08/2015;Regularizacion;La Plata;IV-G-29-38;Morales;Romina Silvana;24664735;4715987/ 15-5640125;1;Terminado-2¯Piso;2;2;2;2;2;10;
+12/08/2015;Regularizacion;Ituzaingo;IV-F-120-02;De la Fuente;Carlos Eduardo;14508257;44507919/ 15-59124893;1;Terminado 2¯Piso (30-03-17);2;2;2;2;2;10;
+12/08/2015;Regularizacion;La Plata;IX-S-171-17;Arga§araz ;Ramona de Jesus;5610944;4863847/ 4861244;1;;0;0;0;0;0;0;
+19/08/2015;Regularizacion;Moron;II-J-245-20;Cuello;Cristobal Lucio;10087022;1536044814/ 4951055;1;Terminado 2¯ Piso (22-03-17)  (NO A MOLINA);2;2;2;2;2;10;
+19/08/2015;Regularizacion;La Plata;VIII-A-41-11;Medina;Susana Nelida;9797704;4916140;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+19/05/2015;Regularizacion;Avellaneda;II-N-72-30;Iglesias;Alejandro Ivan;30778644;1126309081/ 011-42055777;1;;0;0;0;0;0;0;
+22/07/2015;Consolidacion;La Plata;IV-B-121-12;Montiel;Blanca Liria;7676262;4418174;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+10/07/2015;Consolidacion;G.Madariaga;I-A-90-3a;Pavon ;Maria Elena;1180820;02983-15401544;1;tiene que ir para Tres Arroyos;2;2;2;0;0;6;
+10/04/2015;Consolidacion;Arrecifes;I-A-83-14;Planisag;Silvia Raquel;21053134;(02478)15465793;1;;0;0;0;0;0;0;PEREYRA
+27/05/2015;Consolidacion;Merlo;II-M-5m-5-03;Sandoval;Daniel Roberto;14011292;02320-485211 / 576816;1;INFORME CON CORRECCIONES - VOLVER A PEDIR ;2;2;1;0;0;5;ACOSTA SCANDIZZO
+09/09/2015;Consolidacion;La Plata;VII-A-31-11;Giacchetta;Edgardo Agustin;12850010;4917204/156074554 / 155614554;1;DERIVADO A JAVIER FEDYNA (2DO PISO);1;1;2;0;0;4;
+09/09/2015;Consolidacion;La Plata;II-L-193-193D-24;Gomez;Reina Isabel;25077664;155059338/153542082;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+01/08/2015;Consolidacion;La Plata;III-B-83-83C-4;Cuomo;Vanina Giselle;23570294;221154633862/ 4235361;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+03/09/2015;Consolidacion;La Plata;III-G-405-405P-26;Rodriguez;Juan Edelmiro;0;4963683;1;( ENTREGADO );2;2;2;0;0;6;RODRIGUEZ MORCELLE
+03/08/2015;Consolidacion;Pergamino;IV-A-42-13;Arga§araz;Nora Georgina;4543197;2477604067;1;Terminado 2¯Piso (25-11-16);2;2;2;0;0;6;
+11/08/2015;Consolidacion;La Plata;II-P-271-271D-5;Burgos;Andrea Fabiana;18333681;4500728;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+04/08/2015;Consolidacion;La Plata;VI-Y-V-11;Ocampo;Manuela;4655445;4916873 / 15-6306244;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+16/07/2015;Consolidacion;La Plata;II-P-283-283D-29;Gonzalez;Lauro Raul;14463942;4500157/155671727;1;Terminado 2¯Piso (25-11-16);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+11/08/2015;Consolidacion;Moreno;VI-K-5-16;Aquino;Eduardo;92173336;(011)44077602/  (011)62538384;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;EZQUER
+09/09/2015;Regularizacion;Berisso;VII-M-80-02;Rodriguez;Viviana Edith;18363311;4972347/156204307;1;Terminado-2¯Piso;2;2;2;2;2;10;CIANCIO
+07/09/2015;Regularizacion;La Plata;IX-S-171-17;Lotito;Juan Carlos;33900977;4863847/156425006;1;esta en el mueble;2;2;2;1;0;7;
+08/09/2015;Regularizacion;La Plata;VII-M-10B-1G;Chapuis;Sandra Patricia;25476196;4860127/155341220;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+04/09/2015;Regularizacion;La Plata;VI-K-52C-5;Morelli;Julio Fernando;20206153;4741801/155695161;1;Carta Documento 12-09-16;2;2;2;2;2;10;
+31/08/2015;Regularizacion;La Plata;III-B-58BB-8;Itati Silver;Irma;4495632;4705392;1;;2;2;2;0;0;6;
+01/09/2015;Regularizacion;La Plata;I-L-874-25;Villegas;Erika Alejandra;33334761;156690703/  154955526;1;Camara  05-10-2016;2;2;2;2;1;9;
+03/09/2015;Regularizacion;Berisso;VII-M-61-15; Rothlisberger;Silvana;31940789;4864146;1;esta 2 con el expte. De Gomez,Romina Gisele / Se vovlio a publicar Edictos y Camara 03-01-17;2;2;2;1;1;8;
+28/08/2015;Regularizacion;La Plata;II-N-241-241 A-11C;Rodriguez;Juan Alberto;5511427;4504526/155348118;1;Terminado 2¯piso (3-2-2017);2;2;2;2;2;10;
+28/08/2015;Regularizacion;Berisso;VII-N-1-31;Cuevas;Dominga Isabel;5909935;4070363/153453456;1;2¯Piso (Noe 31-03-17 / Pcia.Bs.As);2;2;2;0;0;6;
+31/08/2015;Regularizacion;Pilar;XI-G-3-68-18;Toto;Maria Lujan;18044861;02320408661/  (011)61968410;1;Edictos 31-01-17/Hacer CD;2;2;2;1;0;7;
+28/08/2015;Regularizacion;Esteban Echeverria;VI-J-92-8;Flores;Alberto Abraham;23240587;42813541;0;Camara 14-10-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+26/08/2015;Regularizacion;Quilmes;VIII-K-5-15;Redondo;Maria Cristina;5118743;02214181741/4793646;1;Camara 18-10-2016;2;2;2;2;1;9;
+03/09/2015;Regularizacion;Berisso;VII-M-61-15;Gomez;Romina Gisele;31960589;156131086;1;Terminado 2¯Piso (30-03-17);2;2;2;2;2;10;
+24/08/2015;Regularizacion;La Plata;III-E-260-260D-34;Sanchez;Walter Pablo Cesar;23806769;2216103122/  4917070;1;Camra y Edicto 31-01-17;2;2;2;1;1;8;
+20/08/2015;Regularizacion;Lomas de Zamora;;Rivas;Karina Judit;21738382;1557932415/  48270193;0;Faltan datos catastrales;0;0;0;0;0;0;
+17/03/2016;Regularizacion;La Plata;II-A-19-19A-15A;Escaig;Pedro Mario;11737064;4209964/ 4678728;1;Edicto 20-02-17;2;1;2;1;2;8;
+28/07/2015;Regularizacion;Berisso;VII-M-61-15;Suarez;Eulogio Emilio;12182224;155448686;1;Terminado 2¯Piso (1-12-16);2;2;2;2;2;10;CIANCIO
+05/08/2015;Regularizacion;La Plata;III-B-90-90B-23;Luna;Miguel Antonio;20721373;15593891;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+28/09/2015;Consolidacion;La Plata;VII-M-163-06;Lucero ;Carmen Fautina;10351831;486-0406;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+10/09/2015;Consolidacion;La Plata;III-D-168-168v-10;Moyano;Ruben Jorge;14796994;"496-3229 ; 15-592-6593";1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+00/10/2015;Consolidacion;La Matanza;IV-G-88-24;Ferreyra ;Maria Cristina;6372458;"4457-3034 ; 1535-932872";1;( ENTREGADO );2;2;2;0;0;6;SEGOVIA
+00/10/2015;Consolidacion;La Plata;III-A-11-11t-24;Gomez De La Vega;Rodolfo Anibal;17345932;"4712420 ; 156399097";1;DERIVADO A JAVIER FEDYNA (2DO PISO);1;1;2;0;0;4;
+06/10/2015;Consolidacion;La Plata;II-P-282-282d-23;Salas;Dionisio Bernardino;8577378;15-418-7894;1;Terminado-2¯Piso (06-10-2016;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+25/09/2015;Regularizacion;Berazategui;IV-J-88-19;Mansilla;Diego Alejandro;26273818;"4256-5282 ; 15-604-79551";1;;1;1;0;0;0;2;
+28/09/2015;Regularizacion;Castelli;I-A-46-099;Gongora;Eduardo Alberto;21445773;"2234426836 ; 02245529448";1;;0;0;0;0;0;0;
+22/09/2015;Regularizacion;La Plata;III-a-9-9g-03;Herrera ;Jose Antonio;14905923;221-408-9463;1;Camara 18-10-2016;2;2;2;2;1;9;
+23/09/2015;Regularizacion;La Plata;III-B-43-43c-12;Nisii;Maria Isabel;24899705;221-641-7321;1;Camara 14-10-2016;2;2;2;2;1;9;
+18/09/2015;Regularizacion;La Plata;III-E-260-10;Cardozo;Yenhy Dalila;30447102;"496-3117 ; 15-502-4492";1;Camra  20-12-2016;2;2;2;2;1;9;
+23/09/2015;Regularizacion;La Plata;III-B-43-43c-13;Fernandez;Lidia;93087874;479-6199;1;Camar y Edicto 31-01-17;2;1;2;1;1;7;
+23/09/2015;Regularizacion;La Plata;II-L-204h-01c;Vegas ;Gustavo Matias;31664647;"470-0668 ; 15-595-9357";1;Camara  03-10-2016;2;2;2;2;1;9;
+21/09/2015;Regularizacion;La Plata;IX-A-61-10b;Morales;Maria Laura;30139541;"155341740 ; 153594842";1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+11/09/2015;Regularizacion;La Plata;III-E-261-261c-01;Ponce;Ramon Ricardo;18333417;"491-6020 ; 15-557-9609";1;Camara  13-10-2016;2;2;2;2;1;9;
+25/09/2015;Regularizacion;Florencio Varela;V-D-107-22;Ferreyra ;Jorge Antonio;14648080;1138663533;1;;1;1;0;0;0;2;
+28/09/2015;Regularizacion;Lomas de Zamora;XII-B-127-36;Origuela;Walter Lucio;16534363;42868871;1;Para pedir Edictos y camara;2;2;2;0;0;6;
+19/05/2015;Regularizacion;Alte. Brown;III-L-161-1;Merida Torrico;Gumercindo;92099306;42772515;1;Terminado-2¯Piso;2;2;2;2;2;10;
+13/05/2015;Regularizacion;La Plata;III-B-44-3;Licursi;Gustavo Adolfo;16153865;4703349;1;Terminado 2¯Piso (27-01-17);2;2;2;2;2;10;
+26/05/2015;Regularizacion;Berazategui;IV-P-20-7B;Armellini;Claudia Maria;21879760;42235843-0111565787420;1;Camra y Edicto 01-03-17;2;2;2;1;1;8;
+26/05/2015;Regularizacion;La Plata;III-D-148D-29;Sandoval Urquizu;Ignacio;92989094;4782629- 156610902;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+30/07/2015;Regularizacion;Tigre;II-E-104-104B-28;Garcia;Felix;14919312;(011)20027982;1;1 Carta Documento Enviada 16-08-2016 y 1 Camara del Otro Titular se volvio a pedir 28-12-2016;2;2;2;2;2;10;
+27/07/2015;Regularizacion;Alte. Brown;I-O-7733B-12;Arguello;Justina;14847129;1142112888;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+01/03/2015;Regularizacion;La Plata;III-C-106M-1;Vieira;Estela Maris;4177586;4565403;1;Camara 16-11-2016;2;2;2;2;1;9;
+04/06/2015;Regularizacion;Alte. Brown;IV-E-1-5;Juarez;Carlos Horacio;8463699;02224-426-843;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+15/07/2015;Regularizacion;La Plata;II-A-20-20 A-13;Romualdo;Pascual;16827023;"154189987 ; 5882098";1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+02/10/2015;Regularizacion;La Plata;II-P-271 F- 271 A- 9;Delgado Arias;Ana Maria;93787439;4562102;1;;2;2;2;1;1;8;
+30/10/2010;Consolidacion;Lomas de Zamora;V-C-94-7;Scher;Teresa;3610220;42831323;1;( ENTREGADO );2;2;2;0;0;6;FERNANDEZ ROUYET
+30/10/2015;Consolidacion;Merlo;I-S-15-1;Jerez;Raul Armando;8400266;2204831526;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+29/10/2010;Consolidacion;Moron ;II-E-238-6;Cavalli;Alejandro;11352430;46925544;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+29/10/2015;Regularizacion;General San Martin;III-V-11-22;Acosta;Roman Justo;16607792;1568616215;1;;2;2;2;0;0;6;
+29/10/2015;Consolidacion;Saladillo;I-G-172H-26;Renzi;Mirta Susana;12583808;2345668394;1;Informe de dominio Matriculado ( ENTREGADO );2;2;2;0;0;6;
+27/10/2015;Consolidacion;Merlo;I-R-151-9;Oscanio;Graciela Alejandra;17654182;(011)38543026;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+26/10/2015;Regularizacion;La Plata;II-O-248B-12;Torres;Thomas;40714272;456-3667;1;Terminado 2¯ piso (3-3-2017);2;2;2;2;2;10;
+26/10/2015;Regularizacion;Ensenada;IV-B-2D-6;Caime;Alicia Claudia;14269307;4602207;1;Camara 20-12-2016;2;2;2;2;1;9;
+27/10/2015;Regularizacion;Pte. Peron;VIII-O-18-3;Fernandez;Eduardo Daniel;13117839;(011)32439524;1;Se volvio a Pedir Camara 02-01-17;2;2;2;2;1;9;
+21/10/2015;Regularizacion;Berisso;VII-N-99-12;Da§eluk;Adrian Jose;30575640;4575201;1;Terminado 2¯Piso (30-03-17);2;2;2;2;2;10;
+21/10/2015;Consolidacion;Alte. Brown;V-G-396A-24;Sanchez;Natalia;23413859;154545808 / 1556437217;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+19/10/2015;Regularizacion;Florencio Varela;II-N-35-13;Santillan;Patricia Noemi;20467459;(011)1532390495;1;Terminado-2¯Piso;2;2;2;2;2;10;MUDRAK
+15/10/2015;Regularizacion;La Plata;IV-H-125-2;Berducci;Paola Andrea;22404943;4715626;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+14/10/2015;Regularizacion;La Plata;III-A-7-7W-16;Pagano;Sergio Leandro;;4507750 / 156560633;1;informe NO matriculado;2;2;1;0;0;5;
+04/11/2015;Regularizacion;La Plata;III-C-130-5-18;Del Carril;Gladys Mabel;24256364;154564047;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+01/06/2015;Regularizacion;La Plata;III-B-62-62B-12;Douthat;Mirta Mabel;17290867;155032985;1; CD enviada 17-01-17;2;2;2;2;0;8;
+23/04/2015;Regularizacion;Alte. Brown;III-O-84-2;Bierweth;Cesar Alberto ;30135523;1555155421;1;Retirado por la Dir. Gral. De Tierras;2;2;0;0;0;4;
+24/11/2015;Consolidacion;Moron ;III-A-60-60B-10;Loza;Sergio Ruben;22552790;(0237)4681047;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;EZQUER
+25/11/2015;Consolidacion;La Plata;III-A-29-29G-9A;Acevedo;Alicia Magdalena;3928734;(02257)429853;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+30/07/2015;Regularizacion;La Plata;;Mosconi;Cristina de los Angeles;18587753;452-2370;0;Derivado a Alvaro-Jose 19-01-17;0;0;0;0;0;0;
+26/11/2015;Consolidacion;La Plata;III-C-106-106R-15;Perez;Anibal Andres;5204869;154980233/ 4503098/ 156172173;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+21/10/2015;Regularizacion;La Plata;III-B-67F-7;Vera;Oscar;8350189;156044101;1;Camra y Edicto 3-3-17;2;2;2;1;1;8;
+23/04/2015;Regularizacion;Alte. Brown;II-C-388-20;Olivera Guzman;Braian Ariel;35802980;(011)64495817;1;Retirado por la Dir. Gral. De Tierras;2;2;0;0;0;4;
+23/04/2015;Regularizacion;Alte. Brown;I-J-472-18-SUB. 3;Britez Zarate;Getulio;93716934;(011)42364503;1;Camara  05-10-2016;2;2;2;1;1;8;
+12/11/2015;Regularizacion;Florencio Varela;V-L-47-18;Lovato;Maria Isabel;30824851;(011)1559757237;1;Terminados 2¯piso ( 3/2/2017);2;2;2;2;2;10;FERNANDEZ DE AYAN
+04/11/2015;Regularizacion;La Plata;IX-B-10-10C-3;Goya;Yesica Susana;33192804;4863765/ 156135808;1;Edicto 20-02-17;2;2;2;1;2;9;
+11/11/2015;Regularizacion;La Plata;VI-J-5B-22;Ojeda;Luis Alberto;14932820;471-2675;1;Camara y Edicto 30-01-17;2;2;2;1;1;8;
+03/11/2015;Consolidacion;La Plata;III-C-112-112K-17;Mamani;Maria Elena;14243353;4562054 / 156022955;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+01/12/2015;Consolidacion;Florencio Varela;I-A-109-8;Ramos Estay;Jaqueline Margarita;92651987;42875609 / (011) 23256013;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;MUDRAK
+01/12/2015;Consolidacion;La Plata;II-L-205F-25;Aguirre Bonilla;Bismark;18757943;155753692/ 4794066;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+18/11/2015;Consolidacion;Merlo;III-Q-8B-23;Avila;Juan Saul;6748217;(0220)4948050;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;ACOSTA SCANDIZO
+10/12/2015;Regularizacion;Lanus;I-E-0-23;Montenegro;Christian Walter;26418897;(011)43010816 / (011)33615762;1;Derivado al 2¯ ( PROVINCIA BS AS);2;2;2;0;0;6;
+;Regularizacion;La Plata;II-B-30-30B-27;Rigo;Pedro Santiago;16760571;155565048 / 4278186;1;;0;0;0;0;0;0;
+12/11/2015;Regularizacion;Gral. Rodriguez;V-U-127-17;Salvaneschi;Vanesa Cecilia;23100875;(011)54343421 / (011)58841608;1;;0;0;0;0;0;0;
+08/07/2015;Regularizacion;Alte. Brown;IV-E-403-15;Gonzalez;Miguel Alejandro;31225272;(02224)423613;1;Retirado por la Dic. Gral. De Tierras;0;0;0;0;0;0;
+13/07/2015;Regularizacion;Pilar;VIII-F-91-15A;Rios;Ramona Olimpia;12947840;(011)65346044;1;Camara  13-10-2016;2;2;2;2;1;9;
+10/07/2015;Regularizacion;Lomas de Zamora;XI-A-35BIS-1A;Storino;Humberto Antonio;7719353;(011)42764406 / (011)33460899;1;Camra y Edicto 21-02-17;2;2;2;1;1;8;
+16/07/2015;Regularizacion;La Plata;III-B-53-53M-8;Olmos;Maria Virginia;26746057;155427668;1;Camara y Edicto 6-3-17;2;2;2;1;1;8;
+21/07/2015;Regularizacion;La Plata;III-I-352A-8B;Cumillanca Diaz;Rosa Amelia;18741612;4564765 / 155677911;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+02/07/2015;Regularizacion;La Plata;VI-M-118-6;Vecchio;Miguel Ariel;27791884;156233604 / 4742478;1;CD  enviada 7-04-17;2;2;2;2;1;9;
+29/07/2015;Regularizacion;Quilmes;II-N-5-23;Frias;Claudia Ester;5710301;(011)42522081;1;Camara  08-10-2016;2;2;2;2;1;9;
+21/07/2015;Consolidacion;Ensenada;IV-O-7-29;Morzilli;Marisol;29227531;155926755;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOBRAL
+02/07/2015;Regularizacion;La Plata;II-K-162R-162-12;Liforena;Hector Enrique;5167729;4717227;1;Camara 14-10-2016;2;2;2;2;1;9;
+01/07/2015;Regularizacion;Berazategui;V-D-45-27;Jorge Anaba;Joaquin;92016039;42269663 / 1564615659;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+13/07/2015;Regularizacion;La Plata;III-C-132-132L-2;Martino;Maria Lujan;29371938;4503369/  155600171;1;Camara  24-10-2016;2;2;2;2;1;9;
+20/05/2015;Regularizacion;San Vicente;II-A-140-15;Pauman;Jorge Alberto;27356110;(011)30845782;1;Edictos 3-3-17/Se volvio a pedir informe x llegar incompleto 3-3-17/CD enviada 10-3-17;2;2;1;1;0;6;
+20/05/2015;Consolidacion;Moreno;III-A-33-6C;Gonzalez;Silvia Graciela;13962848;(011) 1557744582;1;( ENTREGADO );2;2;2;0;0;6;EZQUER
+20/05/2015;Regularizacion;La Plata;IX-S-208-17;Gomez ;Claudia Marcela;28868344;4863797 / 155630909;0;Falta dni del beneficiario e hijos/Camra y Edictos 1-02-17;2;2;2;1;1;8;
+21/05/2015;Regularizacion;Florencio Varela;I-A-161-15;Rojas;Liliana Beatriz;18681189;(011)39712195 / (011) 1555425155;1;Camara  16-11-2016;2;2;2;2;1;9;
+19/05/2015;Regularizacion;La Plata;III-B-5-11;Alegre;Yolanda;16647058;154005567 / 4780124;1;Camara 14-10-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+16/07/2015;Regularizacion;Berisso;VII-K-525-7;Limailla Arellano;Grimaldo;11812363;4277994 / 153165167;1;Camar  18-10-2016;2;2;2;2;1;9;
+02/07/2015;Regularizacion;La Plata;VI-M-88-22;Seijas;Silvia Irene;21640798;15-3623688/474-2191;1;Camara 18-10-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+30/06/2015;Consolidacion;Merlo;I-K-19C-25;Cabral;Alcira Ofelia;2900554;2966622841;1;( ENTREGADO );2;2;2;0;0;6;ACOSTA SCANDIZZO
+15/07/2015;Regularizacion;La Plata;II-E-62-62A-21;Cedola;Agustin;28671376;4215448/154187739;1;Camara  03-10-2016;2;2;2;2;1;9;
+02/12/2015;Regularizacion;La Plata;IX-A-24-24D-10;Rodriguez;Joaquin;38706602;452-6342/ 156425080;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+26/11/2015;Regularizacion;Moreno;VI-B-45-45M-1;Zarate;Silvia Daniela;30348326;(011)22253524;1;Camara  17-10-2016;2;2;2;2;1;9;
+29/07/2015;Regularizacion;La Plata;II-K-6-181;Correa;Diana Ines;22523433;4791232;1;Camar y Edicto 10-01-17;2;2;2;1;1;8;
+04/12/2015;Consolidacion;La Plata;II-G-112-112B-33;Sanchez;Sergio Hernan;25570381;4096182;1;Camara 10-01-17;2;2;2;0;0;6;
+30/09/2015;Regularizacion;La Plata;IX-A-3-186-6;Ramos;Alicia Mabel;16099907;451-0451 / 155724959 / 482-1924;1;Terminado 2¯Piso (9-01-2017);2;2;2;2;2;10;
+06/10/2015;Regularizacion;La Plata;II-K-180B-15;Gonzalez;Ruben Omar;17290922;15497-0539/ 155664320;1;Camara 25-10-2016;2;2;2;2;1;9;
+02/10/2015;Regularizacion;La Plata;IX-N-12-18B;Carballo;Caterina Solange;38453918;457-9672 / 155675361;1;Camra y Edicto 31-01-17;2;2;2;1;1;8;
+13/10/2015;Regularizacion;La Plata;VIII-E-14-07;Centeno;Maria Alejandra;33538328;156376594;1;El expediente esta formado por varias personas (4)/ Camara 23-09-2016;2;2;2;2;0;8;
+10/11/2015;Consolidacion;Quilmes;I-P-51-7;Schunk;Victor Manuel;23766801;1544710619/ 42578616;1;( ENTREGADO );2;2;2;0;0;6;ZITO FONTAN
+14/09/2015;Regularizacion;La Plata;IV-G-57-4A;San Roman;Juan;8346320;4714029;1;Terminado 2¯piso (3-2-2017);2;2;2;2;2;10;
+10/06/2015;Consolidacion;La Plata;II-L-206-206a-18;Mardaras;Ruben Dario;11961239;15-572-9588;1;Informe de dominio Matriculado ( ENTREGADO );2;2;2;0;0;6;
+16/12/2015;Consolidacion;La Plata;III-B-71-71j-28;Fernandez ;Juan David;14285231;;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+18/05/2015;Consolidacion;Berisso;VII-K-523-30;Grande;Edith Susana;6268647;"15-505-1566 ; 422-9580";1;Informe de dominio Matriculado ( ENTREGADO );2;2;2;0;0;6;
+02/07/2015;Consolidacion;La Plata;VI-G-370-15;Volosin;Patricia Viviana;28274461;"15-575-3869 ; 487-0559";1;Terminado 2¯Piso (25-11-16);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+24/06/2015;Consolidacion;La Plata;III-F-269-269n-15;Benitez;Norma Beatriz;12291348;"221-676-1581 ; 479-6091";1;( ENTREGADO );2;2;2;0;0;6;RODRIGUEZ MORCELLE
+30/06/2015;Consolidacion;La Plata;II-C-46-46c-17;Nadder ;Maria Cristina;10951927;453-3233;1;Informe de dominio Matriculado ( ENTREGADO );2;2;2;0;0;6;
+05/01/2016;Regularizacion;Avellaneda;I-P-54-22;Pacheco;Gonzalo Javier;29561011;"42038759 ; 1121811164";1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+07/01/2015;Consolidacion;La Plata;IX-C-28-15;Paez;Herminia Beatriz;4583186;"451-0521 ; 15-504-6235";1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+18/01/2016;Consolidacion;Berisso;VII-M-22-23;Sandes;Yamila Mariel;35170707;155622368;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;CIANCIO
+28/01/2016;Regularizacion;Alte. Brown;I-J-453-11B;Sandoval ;Gloria Catalina;18464409;42110966;1;Informe Pedido 14-11-2016 (NO MAT);2;2;1;0;0;5;
+01/02/2016;Regularizacion;La Plata;IX-A-142-26;Gallego;Karina Gabriela;25476136;"453-0905 ; 15-463-4689";1;Camara 22-12-2016;2;2;2;2;1;9;
+02/02/2015;Regularizacion;La Plata;I-Q-3-38;Riquelme;Luis Alberto;12291535;221-508-2609;1;Camara 16-11-16;2;2;2;2;1;9;
+02/02/2016;Regularizacion;Lomas de Zamora;IV-G-138-5A;Carrizo;Pablo Manuel;29679177;(011)42607732;1;Condominio compuesto por 5 personas/Camara 23-09-16;2;2;2;2;1;9;
+03/02/2016;Regularizacion;La Plata;IX-C-22-17;Lopez;Omar Gabriel;14770186;452-2112;1;Terminado 2¯Piso (30-03-17);2;2;2;2;2;10;
+24/02/2016;Consolidacion;San Fernando;VII-M-10-5;Mendoza;Osmar Hugo;14271702;;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MANFREDI
+25/02/2016;Consolidacion;La Plata;III-B-91R-1;Montes de Oca;Raul Dario;27829506;4793233/ 155455540/15-5068494 mama graciela;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+25/02/2016;Consolidacion;Magdalena;I-G-8-8P-2D;Gutierrez;Mirta Liliana;11078109;2223505651;1;( ENTREGADO );2;2;2;0;0;6;RODRIGUEZ MORCELLE
+19/02/2015;Regularizacion;Avellaneda;II-U-70-19;Tapia;Fernando Arturo;13856037;(011)54314508/15566146229;1;informe pedido nuevamnete 8-11-16;2;2;1;0;0;5;
+30/04/2015;Regularizacion;Alte. Brown;III-L-87-13;Cornu Bengoa;Maria del Rosario;92319694;42916100-1536003236;1;Retirado por la Dir. Gral. De Tierras;2;2;1;0;0;5;
+25/02/2016;Consolidacion;Florencio Varela;I-A-112-9;Bavasso;Maria Rosa;11285353;42554939-1531280606;1;( ENTREGADO );2;2;2;0;0;6;MUDRAK
+23/02/2016;Regularizacion;La Plata;III-F-269-269G-40;Mander;Mirian Carinna;23583911;4502690-156541192;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+22/02/2016;Consolidacion;La Plata;IV-F-76-24;Sensano;Margarita;3718406;156211078-156223524;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MORCELLE
+16/12/2015;Regularizacion;La Plata;III-A-6-6G-5;Pagano;Claudia Elizabeth;28409629;471-1944/155642660;1;Camara y Edicto 6-03-17;2;2;2;1;1;8;
+08/02/2016;Regularizacion;La Plata;III-D-142-30;Vargas;Fanny Mariela;34564157;4780642;1;Edicto 20-02-17;2;2;2;1;1;8;
+04/03/2016;Consolidacion;Moron;II-J-211-35;Alarcon;Tito Antoni;16755364;46920415;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+09/03/2016;Consolidacion;Hurlingham;IV-E-9S-2;Andino;Santiago;93386930;46626156/1532050309;1;Terminado 2¯Piso (2-11-16);1;1;2;0;0;4;SOLARI DEL VALLE
+03/06/2015;Regularizacion;Alte. Brown;II-A-395-14;Aliaga Soliz;Monica Juana;92890787;"42140779 ; 1162961514";1;Retirado por la Dir. Gral. De Tierras;2;2;0;0;0;4;
+11/11/2014;Regularizacion;La Plata;VI-Y-8-24;Castellanos Alzamora;Pierre Alberto;94143806;4718047/154406665;1;Camara 20-09-2016;2;2;2;2;1;9;
+29/02/2016;Consolidacion;Ezeiza;V-A-125-10;Barral;Raul Alberto;13660205;(011)1553402313/42323045;1;;2;2;2;0;0;6;RINGUELET
+04/02/2016;Consolidacion;Merlo;III-R-44A-5;Soto;Carlos Edel;13866071;02204950749/1566530240;1;;2;2;2;0;0;6;ACOSTA SCANDIZZO
+15/05/2015;Consolidacion;Gral. San Martin;III-R-39B;Chamorro;Modesta;4680462;011-42987936;1;No puede consolidar tiene nula la regularizacion;2;2;2;0;0;6;BERNARDO
+04/02/2016;Consolidacion;Pte. Peron;VIII-O-91-2;Benitez;Abel Adan;10406698;02224479914/0222415484340;1;( ENTREGADO );2;2;2;0;0;6;LUDEVID
+14/04/2016;Consolidacion;Florencio Varela;I-F-60-9;Gomez;Alicia;12473676;(011)45288688;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MUDRAK
+13/04/2016;Consolidacion;La Plata;IX-C-5-4;Colipan;Delia;10044478;154768796 / 4576654;1;Terminado 2¯Piso (1-11-2016) 16/02 el escribano devolvio el expte;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+12/04/2016;Consolidacion;Berazategui;V-J-84-15;Nu§ez;Amado;7529847;4660513;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MUDRAK
+11/04/2016;Regularizacion;La Matanza;VI-S-51-10;Aguilar;Aldo Omar;12108673;(011)39496433 / (011) 67122755;1;Camara  11-10-2016/CD envida 07-04-17;2;2;2;2;1;9;
+07/04/2016;Regularizacion;San Miguel;II-L-10E-9;Castillo;Ramona Ester;10471080;44550047 / 1535499480;1;se derivo al Dpto Tecnico;1;1;0;0;0;2;
+05/04/2016;Regularizacion;Fcio. Varela;V-C-98-12;Sebastian;Maria Rosa;24008285;42216785 / 1536542754;1;Camara  22-09-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+05/04/2016;Consolidacion;Hurlingham;IV-J-310-12C;Russi;Roberto Luis;4735188;44500528;1;;2;2;2;0;0;6;SOLARI DEL VALLE
+05/04/2016;Consolidacion;Fcio. Varela;V-C-111-6;Moreno;Elena Mabel;18576984;(011) 1536807632/ 42210903;1;DERIVADO A JAVIER FEDYNA (2DO PISO);1;1;2;0;0;4;MUDRAK
+05/04/2016;Regularizacion;La Plata;VI-O-145A- 5;Lencina;Olga Isabel;18255502;4713968/ 156034922;1;Camara  22-09-2016-Falta 1 Titular/CD enviada 07-04-17;2;2;2;2;1;9;
+31/03/2016;Regularizacion;Pte. Peron;VIII-C-31-3B;Lorenzo Saavedra;Maria del Carmen;92554516;02224470717/ (011)3877848;1;Camara y Edicto 24-02-17;2;2;2;0;0;6;
+31/03/2016;Regularizacion;La Plata;III-D-144D-13;Riso;Salvador;24899799;4830246 / (011)61964880;1;Camara  22-09-2016;2;2;2;2;1;9;
+28/03/2016;Consolidacion;Pilar;IX-M-60-13 Y 14;Morano;Dora Magdalena;10549214;0230-4373211/ 0348154352987;1;Terminado 2¯Piso (6-12-16);2;2;2;0;0;6;
+28/03/2016;Regularizacion;Avellaneda;II-S-59A-41;Espinosa;Raul Nicolas;14199111;42204582/ 1157122442;1;Se Derivo a Noe 2¯Piso (Provincia);2;2;2;0;0;6;
+14/04/2016;Regularizacion;La Plata;III-B-CH100-100D-7;Arrunategui Leon;Angel David;94251279;156211924;1;Camara 22-12-2016;2;2;2;2;1;9;
+19/04/2016;Regularizacion;Hurlingham;IV-P-75-25;Becares;Olga Beatriz;5676484;(011)44508309/ (011) 1553866899;1;Camra 23-12-2016;2;2;2;2;1;9;
+29/09/2015;Regularizacion;Berazategui;IV-F-69-7;Leiva;Delia Susana;11103985;43950408 / (011)69476408;1;Camara  03-10-2016;2;1;2;2;1;8;
+20/03/2015;Consolidacion;Hurlingham;IV-P-59-9;Rodriguez;Beatriz Leonor;17351601;1553471560;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOLARI DEL VALLE
+29/04/2015;Consolidacion;Hurlingham;IV-E-4-4EE-17;Armua;Graciela Victoria;18028692;(011)46655881/ 1558024693;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOLARI DEL VALLE
+17/03/2016;Regularizacion;Ensenada;V-A-34-33;Madeo Gomez;Graciela Elizabeth;26192182;155942987;1;Camara  11-10-2016;2;2;2;2;1;9;
+;Regularizacion;La Plata;IX-G-252-18;Cruz Montenegro;Maria Betsabe;18905280;156181784;1;ARCHIVADO-Por Falta de Documentacion.Hay solo desde el 2011;2;1;0;0;0;3;
+23/09/2015;Regularizacion;La Plata;III-B-43-43C-12;Nissi;Maria Isabel;24899705;156417321;1;esta en el mueble;2;1;2;1;0;6;
+18/03/2016;Regularizacion;La Plata;IX-N-117-25;Linares;Maria del Carmen;13571952;153513273;1;Camara 23-12-2016;2;2;2;2;1;9;
+21/07/2015;Regularizacion;La Plata;III-B-95-95I-35;Sosa ;Francisca Graciela;;1554201343;1;Camara 18-10-2016;2;2;2;2;1;9;
+21/03/2016;Consolidacion;La Plata;IX-N-180-11 Y 12;Ibarra;Lilian Tatiana Daniela;26464802;4524422 - 156036512;1;terminado 2do 30/3/2017;2;2;2;0;0;6;
+ ;;;;;;;;0;;0;0;0;0;0;0;
+29/04/2016;Consolidacion;ESCOBAR;IX-S-68-18;Gramajo;Ramon Rosa;6997342;3484468269;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MANFREDI
+18/04/2016;Regularizacion;La Plata;IX-B-34-34 A-17;Basualdo;Angel Ignacio;7791375;4869370- 155641162;1;CD en enviada 7-04-17;2;2;2;2;2;10;
+24/04/2016;Regularizacion;La Plata;IX-B-6-18C-2;Sanabria;Jose Antonio;20257504;155415761;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+22/04/2016;Regularizacion;La Plata;II-K-162- 162W- 24;Tolaba;Ariel Elias;27481954;155914656;1;Terminado 2¯Piso (27-01-17);2;2;2;2;2;10;
+25/04/2016;Regularizacion;Pte. Peron;VIII-L-27-6;Fernandez;Ruben Dario;22941281;0224473669/01139663285;1;Se caratula solicitando Cedula Historica 01-02-17 2423-6351/17;2;2;1;0;0;5;
+25/04/2016;Regularizacion;La Plata;VII-M-9-9F-4;Duarte;Petrona;9799367;4862293;1;Camara 22-09-2016;2;2;2;2;1;9;
+03/05/2016;Consolidacion;Alte. Brown;III-G-363P-6;Coronel;Margarita;5460172;42192960;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;CASTRO
+----;Regularizacion;Ezeiza;V-C-94-6;Veliz Astorga;Ana Maria;92184712;(011)43980820;1;Camara 19-10-2016;2;2;2;2;1;9;
+12/05/2016;Regularizacion;Gral. Viamonte;I-D-100-1;Gutierrez;Nelida Haydee;1783627;2364-572914;1;Camara  11-10-2016;2;2;2;2;1;9;
+17/05/2016;Regularizacion;La Plata;III-A-4-4A-16;Guichon;Cintia;27677261;155346825;1;Camara 22-09-2016/CD enviada 7-04-17;2;2;2;2;1;9;
+17/05/2016;Regularizacion;La Plata;VI-Q-12B-10;Marquez;Eliana Jaqueline;38437398;1556689466;1;;0;0;0;0;0;0;
+17/05/2016;Regularizacion;La Plata;VII-M-187-8;Rojas;Jorge Walter;21969350;486-3588 / 1556439821;1;Camara  22-09-2016;2;2;2;2;1;9;
+12/05/2016;Consolidacion;La Plata;IX-N-192-19;Eustor;Irma Esmeri;4257905;4535511 / 2215581847;1;DERIVADO A JAVIER FEDYNA (2DO PISO)( hay un tramite con molla 74/12) nose puede cargarde nuevo fue a molla;2;2;2;0;0;6;
+13/05/2016;Regularizacion;Fcio. Varela;V-D-25-18;Huerta Olortegui;Carlos Antonio;94854339;1550492910;1;Camara 22-09-2016/CD enviada 7-04-17;2;2;2;2;1;9;
+06/05/2016;Regularizacion;La Plata;VI-T-67-16;Palavecino;Claudia Vanesa;27235262;4597193/ 4713646;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+05/05/2016;Consolidacion;La Plata;II-P-272-272C-8;Fernandez;Elba Rosa;16153315;4560966/156166997;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+05/05/2016;Consolidacion;La Plata;VI-P-38-20;Obregon;Daniel;11237033;155256931;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+13/05/2016;Consolidacion;Merlo;I-A-2-30G;AgÅero;Juan;5466399;2204850162;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;Herrera
+03/06/2016;Consolidacion;La Plata;IX-N-142B-13;Astorga;Sara;5074628;221-15-4198981 / 221-15-6191181;1;Terminado 2¯Piso (1-11-2016)- 16/2/17 el escribano devolvio el expte;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+03/06/2016;Regularizacion;Jose C. Paz;III-S-51-2;Chavez;Rosa Primitiva;28013686;1164640431;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+06/06/2016;Regularizacion;La Plata;III-B-575-4;Sambrana;Dolores;3998331;;0;;0;0;0;0;0;0;
+07/06/2016;Regularizacion;La Plata;VI-J-5A-31;Castillo;Maria Rosa;12692228;484-7965/ 15-614-2847;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+30/06/2014;Regularizacion;La Plata;I-P-1212-32;Guiliodori;Maria Cristina;5450020;452-2699/ 15-494-4248;1;fecha real de pedido de informe de dominio 7.06.2016;2;2;1;0;0;5;
+;;;;;;;;0;;0;0;0;0;0;0;
+19/01/2015;Regularizacion;Lomas de Zamora;XI-C-79-6;Servin Alvarez;Dionicia;19010913;15-675-32892 / 15-443-31457;1;Camara 24-10-2016;2;2;2;2;1;9;
+07/01/2015;Regularizacion;Gral. Viamonte;I-B-107-6;Montiel;Claudia Patricia;24390637;2364572914;1;Camara  04-10-2016;2;2;2;2;1;9;
+21/01/2015;Regularizacion;La Plata;II-G-122-122A-30;AgÅero;Jorge Nestor;20014595;479-1628/ 15-563-3976;1;Camara  03-10-2016;2;2;2;2;1;9;
+30/04/2015;Regularizacion;Ensenada;IV-C-49-3;Moreno;Maria Cristina;12030489;460-2214/ 15-609-9891;1;Camara 19-10-2016;2;2;2;2;1;9;
+12/05/2015;Consolidacion;Hurlingham;IV-G-1-8;Montenegro;Rosa Amelia;12052199;(011)32895767 / (011)44819887;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOLARI DEL VALLE
+13/06/2016;Consolidacion;La Plata;VI-M-132-12;Chamorro;Sandra Beatriz;23481251;2215255123/ 22156472188;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+26/08/2015;Regularizacion;Merlo;II-M-331-11;Claro;Maria Rosa;14902307;02204993628/ 1569405712;1;;2;2;1;0;0;5;
+20/11/2015;Regularizacion;La Plata;II-B-30-30B-27;Arce;Liliana;13040661;15-556-5048/ 427-7186;1;Camara  19-10-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+30/04/2015;Regularizacion;Moreno;VI-P-117-9;Garcia;Silvia Andrea;25186451;0237-4690855;1;Camara 11-10-2016;2;2;2;2;1;9;
+08/06/2015;Regularizacion;La Plata;IV-F-127-25;Cufre;Maria Julieta;27023320;472-1624/ 470-6836;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+00/00/2014;Regularizacion;Alte. Brown;;Vergara;Norma Cristina;;;1;Retirado por la Dir. Gral. De Tierras;0;0;0;0;0;0;
+27/07/2015;Regularizacion;La Matanza;IV-D-110-6;Segovia;Madelen E.;25912449;(011)4457-2217;0;Camara  03-10-2016;2;2;2;2;1;9;
+17/02/2015;Consolidacion;Ensenada;IV-C-27-20;Fiorino;Celsa Esther;3793871;469-0924 / 154371206;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOBRAL
+17/06/2015;Regularizacion;La Plata;IX-F-125-22;Sainato;Cesar Andres;28570883;15-616-7318;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+01/06/2016;Consolidacion;Tigre;III-K-13D-14;Baez Rolon;Agueda;93232826;(011)4736-4485 / (011)1568-538063;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MANFREDI
+20/05/2016;Regularizacion ;La Plata;III-B-43-43K-4;Arriondo;Karina Pamela;34205372;15-560-6186/ 470-2707;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+17/05/2016;Regularizacion;La Plata;VI-Q-12B-10;Valverde Rivas;Rocio;19021220;487-0557/ 15-654-0918;1;Terminado 2¯ Piso (22-03-17);2;2;2;2;2;10;
+20/05/2016;Consolidacion;Avellaneda;I-L-60-20;Saucedo Dominguez;Simeona;92786606;(011)427-4017/ (011)15-5667-1600;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;FONTAN
+19/05/2016;Regularizacion;La Costa;IV-Q-505-14;Maidana Villamayor;Walter Jesus;94667057;15485044/ (0224)15-615-439065;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+19/05/2016;Regularizacion;La Plata;III-C-126-126B-16;Chilaca Posta;Ruben;94045419;456-4525/ 15-640-0005;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+30/05/2016;Consolidacion;La Plata;VI-A-60-12;Di Paulo;Beatriz Mabel;17993145;473-1337;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+28/06/2016;Regualrizacion;La Plata;III-E-247-5;Coppari;Lilian Ethel;20070165;496-2845;1;Camara 11-10-2016/CD enviada 23-03-17;2;2;2;2;1;9;
+14/10/2015;Regularizacion;La Plata;III-A-7-7W-16;Duarte;Olma Sofia;2898109;450-7750/ 15-6263200;1;Camara  19-10-2016;2;2;2;2;1;9;
+01/07/2016;Consolidacion;Ensenada;IV-J-11-5;Castro;Olga Alejandra;4254423;458-3236 / 15-400-9845;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SOBRAL
+23/05/2016;Consolidacion;Escobar;IX-P-99-5;Barrios;Miguel Ramon;12546054;03484-625687/ 03484-362236;1;Ya escrituro con escribano Manfredi (volvio a iniciar en la esc)2147-C-118-2-2/16;2;2;2;0;0;6;ARCHIVADO
+20/11/2013;Regularizacion;La Plata;IX-B-QTA. 47-47M;Pibouleau;Miriam Susana;16759817;155586211;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+06/06/2016;Regularizacion;La Plata;III-B-57S-4;Sambrana;Dolores;3998331;479-0360;1;Camara 11-10-2016/CD enviada 23-03-17;2;2;2;2;1;9;
+21/06/2016;Regularizacion;Alte. Brown;IV-B-266-2;Barzabal;Victor Raul;16462493;(011) 32822747;1;Camara  13-10-2016;2;2;2;2;1;9;
+24/07/2014;Regularizacion;Esteban Echeverria;I-C-33K-17;Taborda;Vicente Roberto;8235522;43675561;1;Cmara y Edicto 28-09-2016;2;2;2;0;0;6;
+benitez;Regularizacion;Almirante Brown;V-A-97-17;Cruz;Ana Maria;92460443;(011)42332691/ (011)153-9299002;1;Camara 24-10-2016;2;2;2;2;1;9;
+20/07/2016;Consolidacion;Zarate;I-A-23-5;Marabelli;Javier Omar;20020028;(03487)426-948;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;CAVALAN
+19/07/2016;Consolidacion;Merlo;I-G-390-4C;Guachalla;Roque Alejo;13416661;(011) 24150163;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;ACOSTA SCANDIZZO
+29/03/2015;Regularizacion;Ensenada;IV-D-33F-4;Rosendo;Yanina Laura;28521926;460-1512/ 221440-0231/ 469-0572;1;Camara 11-10-2016;2;2;2;2;1;9;
+14/02/2014;Regularizacion;Ramallo;I-A-28-04;Baez ;Miguel Antoni;27177442;(03407) 15445700;1;esta 2  a un 2423-2213/15;0;0;0;0;0;0;
+20/11/2015;Consolidacion;La Plata;IX-B-21B-3;Ortiz;Jorge Martin;17569895;486-6027;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+19/07/2016;Regularizacion;Moreno;VI-B-14-14A-11;Valenzuela;Ramona Delia;30810574;(011)2164-1895;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+06/07/2016;Consolidacion;Lanus;II-H-38-9;Carrizo;Rodolfo;7194005;(011) 42890686;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;SCHNIRMAN
+;;;;;;;;0;;0;0;0;0;0;0;
+08/08/2016;Consolidacion;Hurlingham;IV-P-75-13;Guzman;Emilia Delia;8987959;(011) 4459-7518 / (011)4450-5241 casa (011)15-33147450;1;2147-c-135-3-356/16 Solari del Valle (Archivado);2;2;2;0;0;6;SOLARI DEL VALLE
+08/08/2016;Regularizacion;La Plata;IX-C-56-2;Carhuachin calderon;Margarita Aurea;94023307;457-1852 / 15-601-0880;1;Camara  22-09-2016;2;2;2;2;1;9;
+10/08/2016;Consolidacion;Hurlingham;IV-E-439B-3;Mereles Gonzalez;Buenaventura;92141209;(011)4452-1964/(15)67021546;1;Terminado 2¯Piso (06-10-2016);2;2;2;0;0;6;SOLARI DEL VALLE
+12/08/2016;Regularizacion;La Plata;IX-B-13-13C-22;Jimenez ;Domingo Albino;11239074;15-5638151/489-2151;1;Camara y Edicto 22-09-2016;2;2;2;1;1;8;
+16/08/2016;Consolidacion;Quilmes;I-E-15-14;Montoya;Maria Alejandra;21617305;(011)4257-9916;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;MITICA
+17/08/2016;Regularizacion;Fcio.Varela;IV-B-78-1;Gonzalez;Hugo Max;5320282;(011)4278-9629/(011)15-36602326;1;Mariana 2 Piso (Seg.Testimonio);2;2;2;0;0;6;
+18/08/2016;Regualrizacion;Fcio.Varela;II-K-19-10;Romero Britez;Mercedes Lorenza;92875026;(011) 15-64337659/(011)42134466;1;;2;2;0;0;0;4;
+19/08/2016;Consolidacion;Gral.Arenales;I-A-5-15 Y 16;Garcia;Alan Fabian;33073916;(011)15-25636373;1;DERIVADO A JAVIER FEDYNA (2DO PISO);2;2;2;0;0;6;
+22/08/2016;Regularizacion;La Plata;III-B-CH43-43P-15;Lorenzo;Araceli Noemi;4820363;428-8798;1;Terminado 2¯Piso (22-03-17);2;2;2;2;1;9;
+22/08/2016;Regularizacion;Ate.Brown;III-H-78-8;Rodriguez Sanabria;Teresa;92510839;(011)42383656/(011)15-679-41462;1;Camara y Edicto 22-09-2016;2;2;0;0;0;4;
+23/08/2016;Consolidacion;Berazategui;IV-M-125A-24;Rosales;Pedro Hector;6767894;(0221)15-5340953/1554836649 (HIJOS)/35313432;1;;2;2;2;0;0;6;MUDRAK
+24/08/2016;Consolidacion;Tigre;III-K-Qta41-16;Navarro;Juan Carlos;10749652;(011)15-40703629;1;;2;2;2;0;0;6;IGLESIAS
+23/08/2016;Regularizacion;Hurlingham;IV-E-193-22;Oviedo;Olga Emilia;16103591;(011)15-44185710;1;Camara y Edicto 23-01-17;2;2;2;1;0;7;
+23/08/2016;Regularizacion;Hurlingham;IV-B-198-2;Goddard;Nancy Ester;14565860;(011)4665-8903/(011)(15)359-66617;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+25/08/2016;Regularizacion;La Plata;III-C-112-112E-31;Villalba;Patricia Deolinda;4251414;450-1754/15-6185465/450-1105/15-613-1550;1;Terminado 2¯Piso (13-12-16);2;2;2;2;2;10;
+25/08/2016;Consolidacion;La Plata;II-A-Qta7-7D-17;Eberle;Graciela Noemi;18212287;0221-4360541;1;;2;2;2;0;0;6;RODRIGUEZ MORCELLE
+30/08/216;Regularizacion;Presidente Peron;VIII-S-223-15;Lederhos;Luis Andres;16465974;(011)(15)1566398365/0224-474730;1;Camara 09-01-17;2;2;2;2;1;9;
+29/08/2016;Regularizacion;Quilmes;II-C-Qta12-1;Benitez;Norma Cristina;16889217;(011)4226-6004;1;Informe Pedido 15-09-16 (NO Matriculado);1;2;1;0;0;4;
+29/08/2016;Regularizacion;La Matanza;V-F-65-25;Vazquez Guillen;Amalio;93900010;(011)15-580-60514/(011)4334-9529;1;Camara y Edicto 2301-17;2;2;2;1;1;8;
+31/08/2016;Consolidacion;Presidente Peron;VII-O-111-5;Martinez;Elerminda;16516703;(02224)476904;1;Terminado 2¯Piso (06-10-2016);2;2;2;0;0;6;LUDEVID
+01/09/2016;Regularizacion;La Plata;III-B-Ch71-71b-20;Turuguet;Norma Beatriz;13553661;478-1393/15-5464848;1;Camara  13-10-2016;2;2;2;2;1;9;
+02/09/2016;Consolidacion;La Plata;IX-C-74-17;Rodriguez;Carlos Alberto;8577463;450-1471;1;Terminado 2¯Piso (06-10-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+05/09/2016;Consolidacion;La Plata;II-H-Qta128-128d-6;Rios Ferrufino;Richar;94017413;414-1451/15-4181050;1;Terminado 2¯Piso (15-12-2016);2;2;2;0;0;6;MARINELLI
+06/09/2016;Regularizacion;Fcio.Varela;V-M-14-5;Tulian;Jorge Omar;10415500;(011)15-60983508;1;Camara 13-10-2016;2;2;2;2;1;9;
+05/09/2016;Consolidacion;Brandsen;II-B-47-5y6;Izetta;Irma Susana;11808384;(02223)15-508520;1;Archivado ya lo inicio con Morcelle;2;2;2;0;0;6;
+06/09/2016;Regularizacion;La Plata;IX-A-24D-35;Beltran Puita;Ambrocio;92244463;15-6146586;1;2¯Piso/surge en el asiento Pcia de BsAs;2;2;2;0;0;6;
+08/09/2016;Consolidacion;La Plata;IV-F-62A-6;Lopez;Mariano;8230997;(0221)472-0531/15-5995403(Noemi);1;Terminado 2¯Piso (06-10-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+14/09/2016;Regularizacion;Fcio.Varela;V-C-73-24;Patelli;Lucia del Carmen;16493019;(011)15-32566039;1;Camara  17-10-2016;2;2;2;2;1;9;
+09/09/2016;Consolidacion;Hurlingham;IV-P-219-11;Borre;Geronima;5205741;(011)4662-7972;1;Terminado 2¯Piso (06-10-2016);2;2;2;0;0;6;SOLARI DEL VALLE
+12/09/2016;Regularizacion;Gral.Pueyrredon;VI-A-25Y-7;Magiar;Juan Manuel;26637205;(0223)15-5968506/(0223)15-5476358;1;Camara  14-10-2016;2;2;2;2;1;9;
+09/09/2016;Regularizacion;Tigre;II-P-160-8A;Leguizamon;Carlos Inocencio;8259487;(011)15-69302565;1;Camara 17-10-2016;2;2;2;2;1;9;
+15/09/2016;Consolidacion;Dolores;II-B-153P-18;Milano;Sebastian;21782690;(02245)15-505134/(02245)440494/(02245)446417;1;Terminado 2¯Piso (06-10-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+;Regularizacion;La Plata;VIII-A-57-28;Pardini;Leandro Sebastian;29084275;(15)542-5544;1;Terminado 2¯Piso (09-01-2017);2;2;2;2;2;10;
+15/09/2016;Regularizacion;Ituzaingo;V-D-344-22-2;Ibarra;Alberto Damian;26537588;(011)20500775/15-65995491;1;Informe Pedido 11-11-2016;2;2;1;0;0;5;
+16/09/2016;Regularizacion;Lanus;I-E-26-17Y18;Raciti;Maria Fabiana;21111771;(011)537-95095;1;Informe No Mat con Observaciones;2;2;1;0;0;5;
+21/09/2016;consolidacion ;La Plata;III-D-167-167n-16;Cantero;Maria Rosa;10,579,316;4140162;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+21/09/2016;consolidacion ;La Plata;III-D-167-167r-4b;Velazquez ;Luz Isabel ;6285021;155712241/4140162;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+23/09/2016;consolidacion;La Plata;III-B-41-41d-11a;Escalera ;Rosa Esther;2435076;4836335/156098863;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+27/09/2016;consolidacion;Berisso;VII-A-14d-15;Gonzalez;Amalia Gladis;17730414;4620950/1556444129;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;CIANCIO
+04/10/2016;consolidacion;Lanus;II-E-90-10;Fayt ;Monica Patricia;14253016;1557648057;1;Terminado 2¯Piso (1-11-2016);2;2;2;0;0;6;
+28/09/2016;Regularizacion ;Lanus;I-L-158-15;Gaitan ;Sergio Rufino;13217799;011-60193268;1;Derivado a Noe (Provincia de Cordoba)(2423-6289/17);2;2;2;0;0;6;
+21/09/2016;Regularizacion;La Plata;IX-S-89-9;Anzai;Andrea Sumiko;26644467;155429827/4865128;1;Camara 20-12-2016;2;2;2;2;1;9;
+20/09/2016;Regularizacion;La Plata;III-E-254-254p-18;Luna;Luis Eugenio;5208144;4917179/156249929;1;Camara  21-11-16;2;2;2;2;1;9;
+ ;Regularizacion;La Plata;III-D-204c-8;Ortega Cardozo;Victor Raul;93352450;156274482;1;Camara 20-12-2016;2;2;2;2;1;9;
+02/08/2016;Regularizacion;Moreno;III-R-44-20;Martinez;Ramona Apolonia;4417579;011-1562554139;1;Pedi Asiento Registral 7/4/2017;2;2;1;0;0;5;
+03/11/2016;Consolidacion;Brandsen;I-B-91-2;Garcia;Ernesto Jorge;11226766;15-672395;1;Terminado 2¯ (19-12-2016);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+11/10/2016;Regularizacion;La Plata;II-M-Qta230-230b-1c;Bello;Andrea Silvana;17875743;450-1444/15-5913886;1;Camara 22-12-2016;2;2;2;2;1;9;
+14/10/2016;Regularizacion;Fcio.Varela;I-G-35-6;Sebastian;Cecilia;27919849;011-15-59100161/011-15-32048222;1;Camara 21-12-2016;2;2;2;2;1;9;
+19/10/2016;Regularizacion;La Matanza;VIII-H-65-1;Sandoval;Jose Bernardo;7371263;011-581-4030/011-44627196;1;Camara y Edicto 01-02-17;2;2;2;1;1;8;
+19/10/2016;Regularizacion;Avellaneda;I-F-124-10;Arzamendia;Julia Haide;14070014;011-15-32494655/011-20839739;1;Camar y Edicto 24-02-17;2;2;2;1;1;8;
+24/10/2016;Regularizacion;La Plata;II-P-Qta 270-270D-22;Salda§a;Gaston Francisco ;29705895;450-1045/15-6799188;1;Camara 20-12-2016;2;2;2;2;1;9;
+25/10/2016;Regularizacion;Fcio.Varela;II-A-132-11;Blanco;Natalia Elisabet;34728840;011-15-23198555;1;Camara  19-12-2016;2;2;2;2;1;9;
+04/11/2016;Regularizacion;La Plata;;Aguirre;Gloria Mabel;11867327;479-5644/15-4985388;1;Camara 21-12-2016/CD enviada 07-04-17;2;2;2;2;1;9;
+07/11/2016;Regularizacion;Lanus;I-A-124-14A;Hernandez;Alejandro Mario;92448992;011-15-6562173;1;Camara y Edicto 24-02-17;2;2;2;1;1;8;
+09/11/2016;Regularizacion;Quilmes;v-A-64-7;Dominguez;Nicolas;7.863.426.;011-1565149243;1;Camara /CD adjuntada;2;2;1;0;0;5;
+09/11/2016;Consolidacion;La Plata;II-A-9-9g-22;Lopez;Graciela Noemi;10686142;15-5880442;1;Terminado 2¯Piso (15-12-2016);2;2;2;0;0;6;MARINELLI
+25/10/2016;Consolidacion;Fcio.Varela;V-L-54-3;Palacios;Juan Amado;14482088;011-1561862269/02229-454651;1;Terminado 2¯Piso (25-11-16);2;2;1;0;0;5;MUDRAK
+25/10/2016;Consolidacion ;Monte;I-c-67-1kkk;Garzon;Delia Lujan;6209855;02226-474525/02271-15410033;1;No se puede consolidar tiene que esperar hasta el 2023 por que se incribio en el 2013 (Archivado);2;2;2;0;0;6;
+25/10/2016;Consolidacion;La Plata;VI-A-27-8;Fernandez ;Mercedes  ;1445636;4731648-155453045;1;Terminado 2¯Piso (25-11-16);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+09/11/2016;Consolidacion;Brandsen;I-J-1-1n-5a;Badano;Reinaldo;1181463;02223-15410656/443883;1;Ya escrituro ARCHIVADO;2;2;1;0;0;5;
+09/11/2016;Consolidacion;Brandsen;I-A-51-6g;Castro ;Felix Sigifredo;47927335;;1;Terminado 2¯Piso (25-11-16);2;2;1;0;0;5;RODRIGUEZ MORCELLE
+09/11/2016;Regularizacion;La Plata;IV-F-51B-24;Francovich;Susana Haydee;13789550;15-573-2107;1;Terminado 2¯Piso (22-03-17);2;2;2;2;2;10;
+11/11/2016;Regularizacion;La Plata;VII-M-QTA10-10B-1H;Ferreyra;Ana Maria;5572664;458-9388;1;Informe Pedido 14-11-16;2;2;1;0;0;5;
+11/11/2016;Consolidacion;La Plata;II-C-QTA42-42B-25;Palacios;Miriam Patricia;13424878;451-9513/15-6550128;1;Ya consolido con el escribano Aquino;2;2;0;0;0;4;
+14/11/2016;Regularizacion;La Plata;IX-C-135-22;Santucho;Maria Fernanda;27201218;450-2019/15-651-0154;1;Camra  23-12-2016;2;2;2;2;1;9;
+17/11/2016;Regularizacion;La Plata;III-B-89-89d-18;Peralta;Dora Susana;13789416;4782266/155211483;1;1 informe 17/11/16;1;2;1;0;0;4;
+21/05/2015;Consolidacion;La Plata;II-J-151-151B-12G;Palomeque;Maria Rita;10981244;15-6801431/4141483(hija Noelia);1;Terminado 2¯Piso (25-11-16);2;2;2;0;0;6;RODRIGUEZ MORCELLE
+14/12/2016;Consolidacion;Brandsen;I-J-CH1-1N-5A;Ahumada;Mirta;21654711;02223-15-410656/443883;1;Informe Peido 14-12-16;2;2;1;0;0;5;
+14/12/2016;Consolidacion;La Plata;II-A-Qta13-13A-40;Nievas;Dionisio Oscar;4647392;15-5881317;1;Terminado 2¯Piso (26-01-17);2;2;2;0;0;6;
+14/12/2016;Consolidacion;La Plata;III-C-Ch119-119K-20;Martinez;Marta Ester;10815330;456-846;1;Terminado 2¯Piso (26-01-17);2;2;2;0;0;6;
+14/12/2016;Consolidacion;La Plata;III-B-Ch90-90N-14;Rodriguez;Roberta Catalina;4966947;410-7887;1;Terminado 2¯Piso (26-01-17);2;2;2;0;0;6;
+14/12/2016;Consolidacion;Necochea;I-F-185D-19;Ruiz;Gabriela Claudia;17215727;2262-557111;1;terminado 2do piso 14/02/17;2;2;2;0;0;6;MIGUELES
+10/11/2016;Regularizacion;Quilmes;VIII-H-36-19;Gonzalez;Monica Nicolaza;24846851;4271-3541/15-58362178;1;Derivado a Noelia para Dictaminar NO se puede Reg Acta s/ Acta;0;0;0;0;0;0;
+06/12/2016;Consolidacion;Hurlingham;IV-J-I-2V-37;Bermudez;Maria Antonia Isabel;5449583;011-4450-6165;1;Terminado 2¯Piso (26-01-17);2;2;2;0;0;6;SOLARI DEL VALLE
+07/12/2016;Consolidacion;Fcio.Varela;V-F-3-29;Lopez;Francisca;92409906;011-15-36247533;1;terminado 2do piso 14/02/17;2;2;2;0;0;6;MUDRAK
+15/12/2016;Regularizacion;La Plata;II-H-Qta134-134B-25;Godoy Villarroel;Juan;92145070;4704966/4141068;1;Camara y Edictos 6-3-17;2;2;2;1;1;8;
+15/11/2016;Regularizacion;San Miguel;II-G-59-22;Gullermaz;Patricia Angelica;21677934;011-44655357/15-68131080;1;Informe Pedido 15-12-16;2;2;1;0;0;5;
+10/11/2016;Regularizacion;Avellaneda;I-S-55-22;Martinez;Miguel Antonio;16792202;011-615-95229;1;Informe Pedido 15-12-16;1;2;1;0;0;4;
+21/11/2016;Regularizacion;La Plata;III-C-114-114c-13;Guttman;Marta Elena ;4774195;4564202;1;Camra y Edicto 31-01-17;2;2;2;1;1;8;
+23/11/2016;Regularizacion;La Plata;II-P-277-227b-18;Velazquez ;Martin Pedro;25350726;507945;1;Camra y Edicto 1-03-17;2;2;2;1;1;8;
+22/11/2016;Regularizacion;Malvinas Argentinas;IvV-Q-7b-16;Orellana ;Cecilia Gisella;32982130;02320-483031/011-1530254730;1;;2;2;2;0;0;6;
+29/11/2016;Regularizacion;La Plata;II-a-13c-10a;bances santamaria ;Cecilia;94146504;155882307/156346212;1;Camara y Edicto 01-02-17;2;2;2;1;1;8;
+14/12/2016;Regularizacion;Fcio.Varela;II-U-71-22;Ugarte ;Sara Elizabeth;28604090;011-1554243786;1;Camara y Edicto 01-03-17;2;2;2;1;1;8;
+01/12/2016;Regulazacion;La Costa ;Iv-W-182-1A-12;Perez ;Alberto Salvador ;18997202;02257-15-526318/461-236;1;Camara y Edicto 6-3-17;2;2;2;1;1;8;
+14/12/2016;Regularizacion;Fcio.Varela;V-C-3-20;Mi§o;Graciela Elvira;11732717;011-42210203;1;CD enviada 07-04-17;2;2;2;0;0;6;
+16/12/2016;Regulazacion;Escobar;IX-C-262-23;Blanco;Sergio Martin;30679306;011-1534804924;1;Se volvio a Pedir Informe x Correcciones 01-02-17 NO MAT;1;2;0;0;0;3;
+15/11/2016;Regularizacion;San Miguel;II-G-59-22;Guillermaz;Patricia Angelica;21677934;011-44655357;1;Se caratula solicitando Cedula Historica 01-02-17 2423-6348/17;1;2;0;0;0;3;
+22/12/2016;Consolidacion;La Plata;IV-G-26-19;Lucero;Manuel Alberto;11579482;471-5299/15-597-0031;1;terminado 2do 30/3/2017;2;2;2;0;0;6;
+22/12/2016;Consolidacion;La Plata;IV-G-65-13;Robles;Eva Rosario;6297927;471-5089/15-6746077;1;Terminado 2¯Piso (26-01-17);2;2;2;0;0;6;
+20/12/2016;Regularizacion;Ezeiza;V-C-316-21;Gonzalez;Leticia Veronica;23767053;011-15-664-83085;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+20/12/2016;Regularizacion;Berazategui;VI-F-134-11;Menacapelli;Adriana Alejandra;31614986;011-4215-3126;1;Edictos 31-01-17/Hacer CD;2;2;2;1;0;7;
+23/12/2016;Regularizacion;La Plata;VI-2-16-10;Atencio;Pedro Claudio;25554341;484-4996/15-599-2393;1;Camara y Edicto 31-01-17;2;2;2;1;1;8;
+27/12/2016;Regularizacion;San bernardo;;Suarez ;Justo Ismael ;12925439;02257-15406630;0;Es condicional faltna 1 boleta de cada a§o y un impuesto en 15 dias se vaa entregar la documentacion;0;0;0;0;0;0;
+28/12/2016;Consolidacion;San Miguel;II-K-8d-5;Machado ;Nelida Yolanda;10358682;011-15-41772728/02320-463757(her);1;Terminado 2¯Piso (9-02-17);1;2;2;0;0;5;COSSO
+28/12/2016;Consolidacion;Hurlingham;IV-P-202-22;Olmos;Roberto Omar;17694966;011-1564540554;1;Terminado 2¯Piso 3-03-17;2;2;2;0;0;6;
+28/12/2016;Consolidacion;berazategui;IV-M-60-31;Fernandez ;Maria Clara;16462763;011-49519505/1530529630/32202323;1;terminado al 2do14/02/17;0;0;0;0;0;0;PIERROT
+28/11/2016;Regularizacion;La Matanza;V-H-33-33d-15;Villarreal;Eusebia Alcia;24384019;011-1561579547;1;1 informe 28/12/2016;1;2;1;0;0;4;
+27/12/2016;Regularizacion;San Bernardo;IX-C-188-3C;Suarez ;Justo Ismael ;12925439;02257-15-406630;1;;2;2;2;0;0;6;
+10/01/2017;Consolidacion;Hurlingham;IV-I-333-2;Medina ;Jose Luis;22962836;4452-2627;1;Derivado al 2¯Piso (digitalizar) 20-01-17;0;0;0;0;0;0;SOLARI DEL VALLE
+13/01/2017;Consolidacion;Fcio.Varela;II-C-117-10;Ramirez;Nelida Soledad;3984100;011-4355-0062;1;Derivado al 2¯Piso (digitalizar) 20-01-17;0;0;0;0;0;0;MUDRAK
+12/01/2017;Regularizacion;Vicente Lopez;IV-H-32-26;Cazon;Maria Exaltacion;10580548;4709-6437;1;;2;2;2;0;0;6;
+17/01/2017;Consolidacion;Berazategui;V-M-98-27;Galeano;Francisco Ramon;14603497;011-15-569-90837;1;Derivado al 2¯Piso (digitalizar) 20-01-17;0;0;0;0;0;0;MUDRAK
+29/12/2016;Consolidacion;La Plata;IX-C-38-9F;Arguello;Carlos Omar;17569152;15-352-7529/452-5369;1;Derivado 2¯Piso (digitalizar) 19-01-17;0;0;0;0;0;0;RODRIGUEZ MORCELLE
+16/01/2017;Consolidacion;Lanus;II-M-25-1A;Palavicino;Adrian Marcelo;12046657;011-42883568;1;Derivado 2¯Piso (digitalizar);0;0;0;0;0;0;
+18/01/2017;Regularizacion;La Plata;IV-H-103-10A;Olivera;Elsa;12735880;0221-3626479;1;;2;2;2;0;0;6;
+04/11/2015;Consolidacion;Hurlingham;IV-D-111-8;Diaz;Luis;7418024;011-44524954;1;terminado 2do 30/3/2017;2;2;2;0;0;6;
+23/01/2017;Consolidacion;La Plata;VII-M-107-5;Pereyra;Juan Jose;4644202;486-2777;1;Derivado 2¯Piso (digitalizar) 24-01-17;0;0;0;0;0;0;RODRIGUEZ MORCELLE
+24/01/2017;Regularizacion;La Plata;IX-A-Qta2-2E-9;Mendez Guevara;Pedro Leonardo;18830199;417-7036;1;;2;2;2;0;0;6;
+26/01/2017;Regularizacion;San Miguel;II-M-2a-2;Castege;Silvia Lilian ;14472994;011-44552245;0;falta adjuntar impuesto;2;2;0;0;0;4;
+26/01/2017;Regularizacion;Escobar;IX-w-133-6;Fernandez Paredes;Fanny Elizabeth;94477184;3484472729;1;x Pedir Edictos y camara;2;2;2;0;0;6;
+27/01/2017;Consolidacion;La Plata;III-C-107-107d-22;Navarro;Lucia Monica;5792981;4502002;1;terminado 2do 30/3/2017;2;2;2;0;0;6;
+27/01/2017;Regularizacion;Berazategui;IV-O-39-3f;Chaves ;Nancy Liliana;26382591;011-1521866732/42265676;1;informe de dominio NO MAT ;2;2;1;0;0;5;
+07/02/2017;Consolidacion;La Plata;VI-Z-49-21;Barrera;Angela  Nelida;13025304;0221-155688109;1;Derivado al 2do piso ;0;0;0;0;0;0;RODRIGUEZ MORCELLE
+07/02/2017;Consolidacion ;Hurlingham;IV-E-344-11a;Pendula;Jose Luis ;12106929;011-1536995602;1;Derivado al 2do piso ;0;0;0;0;0;0;GLARIA
+08/02/2017;Consolidacion;Brandsen;I-B-73-14;Rosa ;Noemi rosa;11226793;02223-15469897/444395;1;Terminado 2¯piso (8/2/2017);0;0;0;0;0;0;RODRIGUEZ MORCELLE
+09/02/2017;consolidacion;la plata;IX-S-83-16;rodriguez aranda;TEODOCIO;93731128;115411958-4867961;1;terminado al 2do 09/02/2017;0;0;0;0;0;0;RODRIGUEZ MORCELLE
+13/02/2017;regularizacion;la plata;IX-S-184-20;lemo;gonzalo daniel;37559774;4863970;1;;2;2;2;0;0;6;
+09/02/2017;regularizacion;malvinas argentinas;IV-L-23-14;antunez;carlos octavio;26640542;1122881054;1;;0;0;0;0;0;0;
+09/02/2017;regularizacion;la plata;II-O-253-253D-29;navarro;myrian etel;20012070;156883078;1;;0;0;0;0;0;0;
+13/02/2017;regularizacion;la plata;IX-B-30-30C-25;russo;rogelio armando;27154057;4862042-153162748;1;;2;2;2;0;0;6;
+15/02/2017;Regularizacion;Lanus ;I-L-144-8-3;Retamozo ;Sirila ;4190691;011-42181039;1;informe de dominio 15/2/17;1;2;1;0;0;4;
+15/02/2017;Consolidacion ;Ensenada;IV-S-41-14;Lopez ;Elvia;4511017;4661438;1;Terminado en el 2do 15-2-17;0;0;0;0;0;0;SOBRAL
+16/02/2017;Regularizacion;La Plata;III-B-89-89f-2;Maldonado;Paula Romina;34492505;4782648/156104566;1;;2;2;2;0;0;6;
+17/02/2016;consolidacion;La Plata;VII-M-122-6;gauna;Maria del Jesus;10477840;4860170;1;terminado al 2do 17/02/2017;0;0;0;0;0;0;RODRIGUEZ MORCELLE
+20/02/2017;Consolidacion;La Plata;III-B-CH58-MZ58N-6;Defeis;Graciela Susana;11318312;479-0190;1;Para Digitalizar 23-02-17;0;0;0;0;0;0;
+23/02/2017;Consolidacion;Lomas de Zamora;IV-G-286-19C;Lima Torrez;Felix ;93373502;011-42464158 (hija);1;Para Digitalizar 24-02-17;0;0;0;0;0;0;CORTES
+24/02/2017;regularizacion;la plata;VI-O-140A-19;Paez;Miguel Angel;13434420;156412159;1;informe pedido 03-03-17/Se volvio a pedir 17-3-17;1;2;1;0;0;4;
+03/03/2017;regularizacion;la plata;2-L-207 O-207 A;NU•EZ;KARINA SONIA;24827875;5431861;1;;1;2;0;0;0;3;
+06/03/2017;Consolidacion;Fcio.Varela;V-K-89-10Y11;Amarilla;Olga Carmen;14589089;011-15-31910408;1;Para Digitalizar 6-3-17;0;0;0;0;0;0;
+08/03/2017;Regularizacion;La Plata;;Ramos;Roberto Florentino;8200686;647-0063;1;Informe Pedido 8-03-2017;1;2;1;0;0;4;
+15/03/2017;Regularizacion;La Plata;IV-76;Barraza;Omar Rene;17486595;480-0291;0;Falta servicio del 2017/Informe Pedido 17-03-17;1;2;1;0;0;4;
+16/03/2017;Regularizacion;Pte.Peron;VII-S-20-9;Gallo;Nancy Emilce;20066376;011-15-59201557;1;1 asiento registral 10/4/2017;2;2;1;0;0;5;
+28/03/2017;consolidacion;Almirante Brown;V-M-64-29;RIERA;JULIO OSCAR;8,489,929;42333495;1;2¯Piso Para Digitalizar 30-03-17;0;0;0;0;0;0;
+27/03/2017;CONSOLIDACION;LA COSTA;IX-B-136-4A;AGUIRRE;RODOLFO OSCAR;12213260;(EMAIL);1;2¯Piso Para Digitalizar 30-03-17;0;0;0;0;0;0;
+27/03/2017;CONSOLIDACION;HURLINGHAM;IV-G-57-5;TALAVERA;PEDRO ANTONIO;11690094;4450-0464;1;2¯Piso Para Digitalizar 30-03-17;0;0;0;0;0;0;
+28/03/2017;REGULARIZACION;FCIO VARELA ;2-A-76-3;VILLARREAL;VICENTA ISABEL;1153242282;1153242282;1;;0;0;0;0;0;0;
+28/03/2017;REGULARIZACION;Merlo;3-L-165-17;SABEEDRA;VIOLETA;16405192;0220-4921657;1;;0;0;0;0;0;0;
+29/03/2017;consolidacion;berazategui;V-N-118-6;Godoy ;nelida esther;11069445;208 N¯178;1;2¯Piso Para Digitalizar 30-03-17;0;0;0;0;0;0;
+31/03/2017;Regularizacion;Ensenada;IV-D-137-9;Gonzalez;Cecilia Lujan;27815350;4602848/154406619;1;1 informe 5/4/2017;1;2;1;0;0;4;
+04/04/2017;Regularizacion;La Plata;II-H-133-133a-31;Herrera;Jorge Orlando ;25650470;155678949;1;espärando informe 5/4/2017;1;2;1;0;0;4;
+04/04/2017;Regularizacion;La Plata;IX-B-55-11;Ramogonzalez;Emily Fressia;18843327;4868077;1;1 informe 5/4/2017;1;2;1;0;0;4;
+03/04/2017;Consolidacion;La Plata;IV-H-153-1f;Rodriguez ;Mirian Gladys;16532818;4713019/15475084;1;Derivado al 2do piso ;0;0;0;0;0;0;
+10/04/2017;Regularizacion;Avellaneda;I-E-121-26;Sosa Safrazian;Nestor Anibal;16,553,187;1545634545;1;;1;2;0;0;0;3;
+10/04/2017;Regularizacion;Avellaneda;II-J-90 c-3;Marquez Gallo ;Nancy Teresa;92109769;1567815613;1;;1;2;0;0;0;3;
+20/03/2017;Regularizacion;La Plata;III-B-78b-26;Leiva;Justa Teresa;12947220;4790349;1;pedi informe dominio 7/4/2017;1;2;1;0;0;4;
+28/03/2017;Regularizacion;Merlo;III-L-165-17;Sabeedra;Violeta;16405192;0220-4921657(Vecina);1;informe dominio 7/4/2017;1;2;1;0;0;4;
+23/03/2017;Regularizacion;La Plata;II-P-277-277e-10;Gomez ;Silvia  Haydee;18195516;4565380;1;informe dominio 7/4/2017;1;2;1;0;0;4;
+29/03/2017;Regularizacion;Quilmes;III-M-31-31;Lopez;Esther;4288182;011-50652510;1;informe dominio 7/4/2017;1;2;1;0;0;4;
+22/02/2017;Regularizacion;La Plata;II-L-207-207a-1;Nu§ez;karina  ;24827875;155431861;1;informe no matricula 7/4/2017;2;2;1;0;0;5;
+20/03/2017;Regularizacion;Berisso;V-C-35-16a;Pacheco;Jose Raul;7694037;;1;;1;2;0;0;0;3;

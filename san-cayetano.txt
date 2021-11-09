@@ -1,0 +1,44 @@
+I;B;28;28a;01;Olano;Daniel Alfredo;18468670;Bustamante;Liliana Beatriz;21931444
+I;B;28;28a;02;Lafargue;Jorge Osvaldo;13651197;Oro;Nancy Lidia;14792116
+I;B;28;28a;03;Schnarr;Roberto Antonio;8460176;Gimenez;Marta Haydee;4715709
+I;B;28;28a;04;Azpeitia;Ismael;5359439;Lopez;Maria Mabel;1888293
+I;B;28;28a;05;Monge;Ricardo Anibal;21448830;Leguizamon;Patricia;17086448
+I;B;28;28a;06;Collini;Ruben Dario;18085057;Carrizo;Veronica Esther;23890592
+I;B;28;28a;07;Martinez;Juan Paulo;18085033;Coria;Veronica Andrea;23890586
+I;B;28;28a;08;Montenegro;Julio Herberto;5372663;Zubillaga;Delia Graciela;6181270
+I;B;28;28a;09;Miguens;Ruben Omar;17086481;Andersen;Norma Judith;23265511
+I;B;28;28a;10;Wallas;Adolfo Eduardo;8371495;Orgambide;Isabel Esther;13415761
+I;B;28;28a;11;Cruz;Anibal Eduardo;5363950;Isaias;Rosa Haydee;711550
+I;B;28;28a;12;Nigoul;Miguel Angel;10405987;Di Lorenzo;Ida Isabel;17003628
+I;B;28;28a;13;Gomez;Sonia Patricia;24432272;Mouse;Mickey;33333333
+I;B;28;28a;14;Vandone;Ido Arnaldo;5380265;Lauria;Liliana Mabel;12155455
+I;B;28;28a;15;Di Marco;Nicolas Alberto;5393682;Ranalli;Elsa Margarita;11364311
+I;B;28;28a;16;Garcia;Andres Nestor;5366755;Cardoso;Delia Noemi;4715609
+I;B;28;28a;17;Smoulenar;Jose Luis;20043804;Zapata;Esther Itati;22011630
+I;B;28;28a;18;Fhur;Jose Luis;17590893;Avile;Cristina Beatriz;20484948
+I;B;28;28a;19;Arabarco;Carlos Angel;21505171;Nogueira;Ana Gabriela;22155661
+I;B;28;28a;20;Vera Vera;Juan Bautista;92611720;Del Hoyo;Ivone Irene;13023787
+I;B;28;28a;21;Ynda;Anibal Gabriel;22313069;Rodriguez;Liliana Silvina;22779542
+I;B;28;28a;22;Sotelo;Juan Carlos;18250532;Lopez;Maria Andrea;18250514
+I;B;28;28a;23;Bustamante;Mario Ventura;18487640;Rosviar;Natalia Andrea;23447526
+I;B;28;28a;24;Canales;Lorena Maria;25589757;Mouse;Mickey;33333333
+I;B;28;28a;25;Lopez;Claudia Andrea;23890517;Mouse;Mickey;33333333
+I;B;28;28a;26;Pizarro;Gustavo Daniel;21830126;Platz;Maria Marcela;23214067
+I;B;28;28a;27;Gomez de Saravia;Sergio Ruben;25085978;Sanchez;Carolina Esther;25808244
+I;B;28;28a;28;Carrizo;Carlos Daniel;21505163;Barbas;Maria Delia;17838385
+I;B;28;28a;29;Orofino;Jose Luis;16716381;Justel;Carmen Susana;16716387
+I;B;28;28a;30;Lopez;Estela Liliana;20043814;Mouse;Mickey;33333333
+I;B;28;28a;31;La Torre;Pablo Alejandro;21505118;Aburto;Eva Ruth;23801539
+I;B;28;28c;01;Alvarez;Ramon Americo;10603174;Fernandez;Estela Lucia;17798077
+I;B;28;28c;02;Correa;Mario Rodolfo;5391443;Avila;Norma Susana;10652977
+I;B;28;28c;03;Di Marco;Hugo Nicolas;4432272;Mouse;Mickey;33333333
+I;B;28;28c;06;Coppens;Paula Andrea;22478995;Barreto;Fernando Alberto;20484989
+I;B;28;28c;07;Martin;Laura Noemi;28013757;Armua;Cantalicio;22361936
+I;B;28;28c;08;Lastra;Rosana Elizabeth;23437098;Ogallar;Luis Gustavo;24428288
+I;B;28;28c;09;Cerutti;Maria Eugenia;24745728;Rodriguez;Pablo Gabriel;20484806
+I;B;28;28c;10;Gonzalez;Veronica Natalia;26519781;Avila;Leonardo Maximiliano;25589730
+I;B;28;28c;24;Custiriano;Alicia Viviana;25604289;Ibarra;Miguel Angel;21505053
+I;B;28;28c;25;Kressi;Ana Mercedes;17051129;Zunzunegui;Gustavo Javier;13023698
+I;B;28;28c;26;Ledesma;Luciana Elizabeth;27625443;Smoulenar;Cesar Adrian;27625301
+I;B;28;28c;27;Parente;Maria Beatriz;21505085;Hansen;Pedro Gustavo;22138570
+I;B;28;28c;28;Olano;Sara Noemi;21913179;Perez;Jose Antonio;24618622
