@@ -72,8 +72,10 @@ if($cant != 1) { echo "<h2>usuario o contrase&ntilde;a incorrectas</h2><p><a hre
 
 }else{
 $row = mysql_fetch_array($query);
+#echo $row['idUsuario'];
 $_SESSION["user_id"] = $row['idUsuario'];
-header ("Location: menu.php");
+#header ("Location: menu.php");
+include 'menu.php';
 }
 }
 }

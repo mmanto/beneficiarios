@@ -1,4 +1,4 @@
-<?
+<?php
 include("conec.php");
 
 $sql = mysql_query("SELECT * FROM dbo_settings WHERE idSetting = 4");
@@ -20,7 +20,7 @@ include("cabecera.php");
     </td>
   </tr>
 </table>
-<? include("pie.php"); 
+<?php include("pie.php"); 
 
 //// Fin pagina mantenimiento ///////////////
 
@@ -30,7 +30,7 @@ include("cabecera.php");
 if (!isset($_POST["cmdLogin"])) {
  
 ?>
-<form action="menu.php" method="POST"> 
+<form action="login2.php" method="POST"> 
 
 <table width="600" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -73,20 +73,20 @@ if (!isset($_POST["cmdLogin"])) {
   </tr>
 </table>
 </form>
-<?       
+<?php       
 include "pie.php";
 
  }else{
-//session_start();
+session_start();
 
 if (!$_POST["Usuario"] || !$_POST["Password"]) {
 
 echo "<h2>Debe completar los datos de acceso</h2><p><a href=\"login2.php\">Volver</a>"; 
 
 }else{
-session_start();
-include("conec.php");
 
+include("conec.php");
+session_start();
 $username = $_POST["Usuario"];
 
 $password = $_POST["Password"];
@@ -100,6 +100,8 @@ if($cant != 1) { echo "<h2>usuario o contrase&ntilde;a incorrectas</h2><p><a hre
 }else{
 $row = mysql_fetch_array($query);
 $_SESSION["user_id"] = $row['idUsuario'];
-header ("Location: menu.php");
+
+#header ("Location: menu.php");
+include 'menu.php';
 }}}}
 ?>

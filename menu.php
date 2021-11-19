@@ -1,12 +1,15 @@
-<? session_start();
+<?php 
+
+session_start();
+
 
 if (!isset($_SESSION["user_id"])) {
-
+    
     header("Location: login.php");
     
 } else{
 
-include("cabecera.php");
+#include("cabecera.php");
 include ("conec.php");
 include ("funciones.php");
 
@@ -101,4 +104,6 @@ $RHActivo = mysql_fetch_array($res3);
   </tr>
 </table>
 <? include("pie.php"); ?>
+ 
 <? } ?>
+ 
